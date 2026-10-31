@@ -1,0 +1,7338 @@
+[
+  {
+    "id": "cap_1_1",
+    "type": "cap",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_1/cap_1_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "77d4433cbbedd4ca407e2d69608ad2b4a90fac2551b712bd2f4d3476ba1fd449"
+  },
+  {
+    "id": "cap_1_2",
+    "type": "cap",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_1/cap_1_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f3dc8ef6c3ff3269abd1e51764585624bb843f192fa0c1cb6c9dfc4aa7486065"
+  },
+  {
+    "id": "cap_1_3",
+    "type": "cap",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_1/cap_1_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d282f52ef1042714855d67146f8eb9c0135d275b6c02c835b7462811267c90d9"
+  },
+  {
+    "id": "cap_1_4",
+    "type": "cap",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_1/cap_1_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8477cf382bb70b765b17faf06323c8c0dddc7e080f6293d49fbf5851cf62d609"
+  },
+  {
+    "id": "cap_1_5",
+    "type": "cap",
+    "model_number": 1,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_1/cap_1_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "30c1a817727f50acce8693ba8e97290295f0ad259bad3c21fc2e7aac585b19cf"
+  },
+  {
+    "id": "cap_1_6",
+    "type": "cap",
+    "model_number": 1,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_1/cap_1_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7bdd0bcf2e8e9803a8dfb401ffb1305e0c87709030be64d08ca77de1f0eccea7"
+  },
+  {
+    "id": "cap_2_1",
+    "type": "cap",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_2/cap_2_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6cb463209815736c06e669f300b5b7dda30b51fe509fb0032b503ecd4add2d99"
+  },
+  {
+    "id": "cap_2_2",
+    "type": "cap",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_2/cap_2_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6727d351c58171afeb0dcb4ba63190b5651521ab07885ab9dc4dafd9c218acad"
+  },
+  {
+    "id": "cap_2_3",
+    "type": "cap",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_2/cap_2_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b90fd563dd30473cfc81c4521d2e49180ef1eb74f137119cd442d90888a9db85"
+  },
+  {
+    "id": "cap_2_4",
+    "type": "cap",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_2/cap_2_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fc54b5955c57fe9131deed9118e3eb1ce035f13ac927efb9cab80b7659d0551c"
+  },
+  {
+    "id": "cap_2_5",
+    "type": "cap",
+    "model_number": 2,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_2/cap_2_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b4d582f56cc5f43a7412dfcad8c388a8ce143b262d4fab68c03fbe7ee75f2452"
+  },
+  {
+    "id": "cap_2_6",
+    "type": "cap",
+    "model_number": 2,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_2/cap_2_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3b73a9cfe4bce5f28d55b988c286e2b0649ee837bb6ed4545a292b756e6b95aa"
+  },
+  {
+    "id": "cap_3_1",
+    "type": "cap",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_3/cap_3_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "31ae949966afe9b88c2c8b84537af621561b76c6ca9c1b388c031b32b4e2fa9e"
+  },
+  {
+    "id": "cap_3_2",
+    "type": "cap",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_3/cap_3_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5cb6131c355d7e298ef95d593e70cca7570c4dad7c25c13d9f9b0262054e9079"
+  },
+  {
+    "id": "cap_3_3",
+    "type": "cap",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_3/cap_3_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0097426991bd46d53cfe4d045c9d0b3d479bd0fb6f959486a566b0e4877ff425"
+  },
+  {
+    "id": "cap_3_4",
+    "type": "cap",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_3/cap_3_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ea3515fb32a538d9d7a2d3501daeee461ced742e46ee501996bbd7deed1c2df9"
+  },
+  {
+    "id": "cap_3_5",
+    "type": "cap",
+    "model_number": 3,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_3/cap_3_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0b5fc9b3366238e11d852e152afd7f95d5a9888328314a9f91f1f0f7357e0e74"
+  },
+  {
+    "id": "cap_3_6",
+    "type": "cap",
+    "model_number": 3,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_3/cap_3_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "058d4be030995a277aee4f91bba0f536003f393d2981c110add453ad4115fda0"
+  },
+  {
+    "id": "cap_4_1",
+    "type": "cap",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_4/cap_4_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "93ca5e23fc91442509bbddb0fa2db67d6f5cf91b1a188cd8386df3f615447132"
+  },
+  {
+    "id": "cap_4_2",
+    "type": "cap",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_4/cap_4_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f90625cc5fd888711fd69d6f988b62c53aae93ba513b1fbe3f4797be0847dbad"
+  },
+  {
+    "id": "cap_4_3",
+    "type": "cap",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_4/cap_4_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "26877ee0449c516b8ff8f4ede084f56b4270e2c692222510b6f555ed8bdc6f11"
+  },
+  {
+    "id": "cap_4_4",
+    "type": "cap",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_4/cap_4_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "36a0613a1ce14e578aabc6491d6fdb7e27e0e13dcd7f2958079ea8d98fa5badf"
+  },
+  {
+    "id": "cap_4_5",
+    "type": "cap",
+    "model_number": 4,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_4/cap_4_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "741fb7d762eda0ab529dba6ad30697aca6bb7dea7c26d9f98075377b5264ff8a"
+  },
+  {
+    "id": "cap_4_6",
+    "type": "cap",
+    "model_number": 4,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_4/cap_4_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "57860266c9ecc602a7c931d11561c72138352487794a449f2a9d795e2917eca0"
+  },
+  {
+    "id": "cap_5_1",
+    "type": "cap",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_5/cap_5_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "052cde550ab93313a395b91b9607f1f8352637a86200da59c3917645ada9d01b"
+  },
+  {
+    "id": "cap_5_2",
+    "type": "cap",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_5/cap_5_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b7a74d09da1bf0b08629296753296369064e9a7c21a6d04582599d9bfccd8e61"
+  },
+  {
+    "id": "cap_5_3",
+    "type": "cap",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_5/cap_5_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2ffa9d657d7f1351a4be16076ea0cbc6fefc147dc9f76dc200b920fc3a004c4a"
+  },
+  {
+    "id": "cap_5_4",
+    "type": "cap",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_5/cap_5_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "33ce04f64e1aa05c163a58467f6721e9ea0214a8e26a59b4f76dece4af8e6ca4"
+  },
+  {
+    "id": "cap_5_5",
+    "type": "cap",
+    "model_number": 5,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_5/cap_5_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "768e2f03635006fdd797896d8722944b0ff377c5862193bd305067e9dff986da"
+  },
+  {
+    "id": "cap_5_6",
+    "type": "cap",
+    "model_number": 5,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_5/cap_5_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7423cec865c6f655afa353715cd334cb518b07b5df07d29788b488da102124e1"
+  },
+  {
+    "id": "cap_6_1",
+    "type": "cap",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_6/cap_6_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9d8386e83ac34f105cef7b691083aad471d6c07060ea2ea1803a6e873d76e0f2"
+  },
+  {
+    "id": "cap_6_2",
+    "type": "cap",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_6/cap_6_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d53fac488ffb75f86f2fc63a919298487e9ebb48b6540f521ab8cf603e833351"
+  },
+  {
+    "id": "cap_6_3",
+    "type": "cap",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_6/cap_6_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6fef01ef961258b2bdbe8d2e2e1ae84f4c958874237c0b9aca949aebe10cd805"
+  },
+  {
+    "id": "cap_6_4",
+    "type": "cap",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_6/cap_6_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "41af3059fb5e475a8097119616660e899ea48a7429863b73d27c4e8c59012a10"
+  },
+  {
+    "id": "cap_6_5",
+    "type": "cap",
+    "model_number": 6,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_6/cap_6_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5e1283720968150841002349597413dc5d0427e91875e637829bc4daee05d516"
+  },
+  {
+    "id": "cap_6_6",
+    "type": "cap",
+    "model_number": 6,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_6/cap_6_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f57adf34b8fc5785b58f27b140df4d2ddada5e47c5f80fb3f6b18ee781f30515"
+  },
+  {
+    "id": "cap_7_1",
+    "type": "cap",
+    "model_number": 7,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_7/cap_7_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "13bf7368742e86ca17cb4d3bd10d198117a419d20036afef774a811c5a348eaa"
+  },
+  {
+    "id": "cap_7_2",
+    "type": "cap",
+    "model_number": 7,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_7/cap_7_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c4f01cf0c34dfb5a196b7f1e1d56b583987c8283d10f467e650ceef4e87ff4e5"
+  },
+  {
+    "id": "cap_7_3",
+    "type": "cap",
+    "model_number": 7,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_7/cap_7_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "cac00ca38c41616c7f64df7aac633b446e7f9cff230c96fedbe580ceffc17a99"
+  },
+  {
+    "id": "cap_7_4",
+    "type": "cap",
+    "model_number": 7,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_7/cap_7_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "66be8f7c12f9b6108c3fce2a39c877a61df9305254c8c66598af449c8c58b7b0"
+  },
+  {
+    "id": "cap_7_5",
+    "type": "cap",
+    "model_number": 7,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_7/cap_7_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "19540a77d669d7fe6cbcad5eb890846913f3891074dee8fa32e69d9785394144"
+  },
+  {
+    "id": "cap_7_6",
+    "type": "cap",
+    "model_number": 7,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_7/cap_7_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "380155793bf86ad6cf2317457cfc6712eb3643a646510a52a70c8431349bcfaf"
+  },
+  {
+    "id": "cap_8_1",
+    "type": "cap",
+    "model_number": 8,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_8/cap_8_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3887c198b2931b0e34dd8aab2614f23202f7c9c7f35e774f8f4aa26aa0f70fb0"
+  },
+  {
+    "id": "cap_8_2",
+    "type": "cap",
+    "model_number": 8,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_8/cap_8_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f8ff136bdfe3d803227369467fc296cb5fee6fc8cae3000dd960bd66d79aab90"
+  },
+  {
+    "id": "cap_8_3",
+    "type": "cap",
+    "model_number": 8,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_8/cap_8_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "69d24d05a2cec8d6d6067f0ad88aaa9eb59b8e1412a914be3b32884547ffc42b"
+  },
+  {
+    "id": "cap_8_4",
+    "type": "cap",
+    "model_number": 8,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_8/cap_8_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fa8c9e63070cecdfaf4bae5f183ae7df37723a81c81fcbf104e53d578dc080dd"
+  },
+  {
+    "id": "cap_8_5",
+    "type": "cap",
+    "model_number": 8,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_8/cap_8_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c120dc87bbeeed91711b732b94b40c34700e027460694d09095729bb0d02ad26"
+  },
+  {
+    "id": "cap_8_6",
+    "type": "cap",
+    "model_number": 8,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_8/cap_8_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "413e85286793d7d0624e40b118f27dfe001137f791f252d47d6dc696db1fba88"
+  },
+  {
+    "id": "cap_9_1",
+    "type": "cap",
+    "model_number": 9,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_9/cap_9_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "809ad15b99a8c4bfefb7c293263d79d13f83be8c5c172c509aa647d1b850258d"
+  },
+  {
+    "id": "cap_9_2",
+    "type": "cap",
+    "model_number": 9,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_9/cap_9_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "89bd8a433d38970166e3639102847ca4ec26718e3c01e4bf86fb9aed2dbcddaf"
+  },
+  {
+    "id": "cap_9_3",
+    "type": "cap",
+    "model_number": 9,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_9/cap_9_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "68c388cf10800b07c955b02dcd29e3b372408331597a4e9e8984c1209137245e"
+  },
+  {
+    "id": "cap_9_4",
+    "type": "cap",
+    "model_number": 9,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/cap_9/cap_9_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "298c4695487b3d6bd96f322abfc0d0d41c4548ebe9fbb3bb2d3f70de2df9f41f"
+  },
+  {
+    "id": "cap_9_5",
+    "type": "cap",
+    "model_number": 9,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_9/cap_9_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "badb5f6840030c2352a319cc42f82f38c97cd849ebef5e1969bc00eae2fd0d4a"
+  },
+  {
+    "id": "cap_9_6",
+    "type": "cap",
+    "model_number": 9,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/cap_9/cap_9_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d82f133abef0dbcf4a431f93de2fdd68ee9934b0f9d31da0fb77f5c694aa279d"
+  },
+  {
+    "id": "cap_10_1",
+    "type": "cap",
+    "model_number": 10,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_10/cap_10_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9d445da4be8591221178d199806855ee1a537c0722caff49f7ef6b3efafc743f"
+  },
+  {
+    "id": "cap_10_2",
+    "type": "cap",
+    "model_number": 10,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_10/cap_10_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8a2039b2427abbdb4c4e67731b61bf20d16df8d4f99ca6dbbaf4f1ae0daad1a4"
+  },
+  {
+    "id": "cap_10_3",
+    "type": "cap",
+    "model_number": 10,
+    "color_number": 3,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_10/cap_10_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8935d4f085b356a7c10c7c538236343ad4923e5804e9fd005ead0f4ef828ed1b"
+  },
+  {
+    "id": "cap_10_4",
+    "type": "cap",
+    "model_number": 10,
+    "color_number": 4,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_10/cap_10_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "58996afbad627718239d34f261d7baf3854e2b5d332fa68b749b87f77d799cec"
+  },
+  {
+    "id": "helmet_2_1",
+    "type": "helmet",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_2/helmet_2_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b880ed4cfd49be6220b0b9d08b4f6dfd683034c981eba36b84218f0e34673721"
+  },
+  {
+    "id": "helmet_2_2",
+    "type": "helmet",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_2/helmet_2_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d755febdc029e94704bbc1c97d079c01217855203573baf29a5f5264ae7c7fa2"
+  },
+  {
+    "id": "helmet_2_3",
+    "type": "helmet",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_2/helmet_2_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "54619d147209a2a756621e96c04e64b123841eb66cdf249e1f4b8e26ca2e0db4"
+  },
+  {
+    "id": "helmet_2_4",
+    "type": "helmet",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_2/helmet_2_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "21fed6d1eaddd66999aea3f324c3bb1aa7e373d62a2c13b92fe181d1f7d3c622"
+  },
+  {
+    "id": "helmet_2_5",
+    "type": "helmet",
+    "model_number": 2,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_2/helmet_2_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "946ac7cf14df8d082248946e9d519ebc0228710d4925e827efa9dce950b211e4"
+  },
+  {
+    "id": "helmet_2_6",
+    "type": "helmet",
+    "model_number": 2,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_2/helmet_2_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9a5f9dc0535ce79ee7fd48df45e02e316d176485038808426fbeddcea0ed27d3"
+  },
+  {
+    "id": "helmet_2_7",
+    "type": "helmet",
+    "model_number": 2,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_2/helmet_2_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7024224b1e68e12f0098a31f4f63d9e52d7c9280212686f584676e71858cbbf4"
+  },
+  {
+    "id": "helmet_3_1",
+    "type": "helmet",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_3/helmet_3_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d120250bbc74a5ef2963a5e6f4f19f64e0992d857de1220491fed90a3aa69b2d"
+  },
+  {
+    "id": "helmet_3_2",
+    "type": "helmet",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_3/helmet_3_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0245002afdb89ff64b8e9b4a76d72bc4ef876fd6f708234b6a88bc0740a6b057"
+  },
+  {
+    "id": "helmet_3_3",
+    "type": "helmet",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_3/helmet_3_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b7daf68be1bb403a3a851000b292bf771a4119c109e81bc01870c082a5aa75c1"
+  },
+  {
+    "id": "helmet_3_4",
+    "type": "helmet",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_3/helmet_3_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "109ccbef9841086d06a9815d1a0809d32a10231ec70f236b5fc00af07d97e911"
+  },
+  {
+    "id": "helmet_3_5",
+    "type": "helmet",
+    "model_number": 3,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_3/helmet_3_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ed1ca7ba50a0bbfff4f320e11bea4838ecdf25c4fe67eda29528d2155b602428"
+  },
+  {
+    "id": "helmet_3_6",
+    "type": "helmet",
+    "model_number": 3,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_3/helmet_3_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "005c7cae7dea2a278bf0316f617a825dc3488c6a5a4e9d64298f28f913c8cc16"
+  },
+  {
+    "id": "helmet_3_7",
+    "type": "helmet",
+    "model_number": 3,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_3/helmet_3_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7cb50fd2dfd3bf5087d0d01977bd3be0d090cb5a8cc08e4fff4879eb02c63be4"
+  },
+  {
+    "id": "helmet_4_1",
+    "type": "helmet",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_4/helmet_4_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b7306eb90a9c52ecf7a3969827dab5f51c87b8123da8bf91e1fdd04e7ef1de27"
+  },
+  {
+    "id": "helmet_4_2",
+    "type": "helmet",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_4/helmet_4_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3daa453477eb060181ffcc5f19c87b29bd782b09332fe2305df8c2119b9d2cb1"
+  },
+  {
+    "id": "helmet_4_3",
+    "type": "helmet",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_4/helmet_4_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8bfc18e11ea55e972486d4be14d50e486e932ae17c1e5deb669c839d097c8674"
+  },
+  {
+    "id": "helmet_4_4",
+    "type": "helmet",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_4/helmet_4_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "38dd3d2a116272c4e8352d452d6d6fa3f6485ef05dfe950eb918cffd3254a0e6"
+  },
+  {
+    "id": "helmet_4_5",
+    "type": "helmet",
+    "model_number": 4,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_4/helmet_4_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "962dfe7cac84812b001826e840c7bee13adb03c749c6ee160f7fb9242dd20115"
+  },
+  {
+    "id": "helmet_4_6",
+    "type": "helmet",
+    "model_number": 4,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_4/helmet_4_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7abbfa3cdd73784e61fa4a7bdc5c5e038aee04e60ac1e889bffb105f1c3be996"
+  },
+  {
+    "id": "helmet_4_7",
+    "type": "helmet",
+    "model_number": 4,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_4/helmet_4_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "221079f7b2f609e6c7ca6599cbff1cbaa0f3e87d47b7695479a2d01aa8ad5a90"
+  },
+  {
+    "id": "helmet_5_1",
+    "type": "helmet",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_5/helmet_5_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9cf23306b09e6e01b960d67226e865766392b597c45271fadebfbc72fa0ad499"
+  },
+  {
+    "id": "helmet_5_2",
+    "type": "helmet",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_5/helmet_5_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7ec1eafe5b9281682066b7071111f7cd7cab7a933e7369fbb629cac83ccf0774"
+  },
+  {
+    "id": "helmet_5_3",
+    "type": "helmet",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_5/helmet_5_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b86ea6956f68bb1cd9b01bc91642c427a09663812dc1cd777adb9feb1963f0e8"
+  },
+  {
+    "id": "helmet_5_4",
+    "type": "helmet",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_5/helmet_5_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "db462e88da76769c736953c68ea76decc0fac253aa512d1956cfcae31374c290"
+  },
+  {
+    "id": "helmet_5_5",
+    "type": "helmet",
+    "model_number": 5,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_5/helmet_5_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0c6f88ea799c01240272b2864b1878f80515eb3bffa2b43f4e2cf9382d9e50da"
+  },
+  {
+    "id": "helmet_5_6",
+    "type": "helmet",
+    "model_number": 5,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_5/helmet_5_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "51608e5c0745db1f26360cb4f044bff74d79ddc442d3a0f79de16efa2e114f7e"
+  },
+  {
+    "id": "helmet_5_7",
+    "type": "helmet",
+    "model_number": 5,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_5/helmet_5_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7b3f9a707ca102787dbe51dba2c470464245d41cb2be8552a2cfeaedc300d6a7"
+  },
+  {
+    "id": "helmet_6_1",
+    "type": "helmet",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_6/helmet_6_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b101f624a41a76ff8c5d689cae9901d565a80c020da75d4742a55cadba44df03"
+  },
+  {
+    "id": "helmet_6_2",
+    "type": "helmet",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_6/helmet_6_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "840bfe4e923803230a77d1c67a93ec495b172dcb224a0242d9dbd252a7f5c028"
+  },
+  {
+    "id": "helmet_6_3",
+    "type": "helmet",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_6/helmet_6_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a1ff5cbfae74becc9dbe22b4de5365d13f017ceb8dba282e2e26d1a90aa843bf"
+  },
+  {
+    "id": "helmet_6_4",
+    "type": "helmet",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_6/helmet_6_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "107dcbd863c725bab504f554382d9cb9cff27e72efab922c0a95d62487d65fbf"
+  },
+  {
+    "id": "helmet_6_5",
+    "type": "helmet",
+    "model_number": 6,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_6/helmet_6_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5a53a2ee8338027f911ef440e0b347cb27173e1465003576b45ccdb39b00731d"
+  },
+  {
+    "id": "helmet_6_6",
+    "type": "helmet",
+    "model_number": 6,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_6/helmet_6_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7b30dd373b1527362628f438e6ddad6b3b8c5c2f27b529bffe82ab66c4c86b20"
+  },
+  {
+    "id": "helmet_6_7",
+    "type": "helmet",
+    "model_number": 6,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_6/helmet_6_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "79414492701eb7da8340e1be6bf8363e373fbad54122b069d0335e35b76f6d14"
+  },
+  {
+    "id": "helmet_7_1",
+    "type": "helmet",
+    "model_number": 7,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_7/helmet_7_1.png",
+    "rear_file": "rear_assets/helmet_7/helmet_7_1.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f90db42eeead2f719e68d3ef23599eb8d7822c8f0d01280ba00b5273dcc7881d"
+  },
+  {
+    "id": "helmet_7_2",
+    "type": "helmet",
+    "model_number": 7,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_7/helmet_7_2.png",
+    "rear_file": "rear_assets/helmet_7/helmet_7_2.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9e91a4c25f3d7b073881f7ebf44d82b8093929e81f05d65378faa2c7916fdb4a"
+  },
+  {
+    "id": "helmet_7_3",
+    "type": "helmet",
+    "model_number": 7,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_7/helmet_7_3.png",
+    "rear_file": "rear_assets/helmet_7/helmet_7_3.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "42ab74e2b1bf172c0c31c0154a9d17dbf0da90ccc734dea47c89c0359cacbe8a"
+  },
+  {
+    "id": "helmet_7_4",
+    "type": "helmet",
+    "model_number": 7,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_7/helmet_7_4.png",
+    "rear_file": "rear_assets/helmet_7/helmet_7_4.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b15b154e1f6d18e0331eb331407d10c222365e02ced26553fba9a8e8b952f0cb"
+  },
+  {
+    "id": "helmet_7_5",
+    "type": "helmet",
+    "model_number": 7,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_7/helmet_7_5.png",
+    "rear_file": "rear_assets/helmet_7/helmet_7_5.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9ac6e55f45de999aba0ee46995e26e696d0c937414b23a2ed5c20431bd5f06c5"
+  },
+  {
+    "id": "helmet_7_6",
+    "type": "helmet",
+    "model_number": 7,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_7/helmet_7_6.png",
+    "rear_file": "rear_assets/helmet_7/helmet_7_6.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3192d32280ba9ea570ebd1d8cef16a417161c0aaae6a9a3b4ad13e72e4525d6e"
+  },
+  {
+    "id": "helmet_7_7",
+    "type": "helmet",
+    "model_number": 7,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_7/helmet_7_7.png",
+    "rear_file": "rear_assets/helmet_7/helmet_7_7.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "05e06d554f0e8d61bedc8babfb0ca9349d7f601f82522bd61339dc82c3166064"
+  },
+  {
+    "id": "helmet_8_1",
+    "type": "helmet",
+    "model_number": 8,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_8/helmet_8_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "836df5802080cdc80dbb1f27f53046430f3a1d123c29c009e20b652c33670094"
+  },
+  {
+    "id": "helmet_8_2",
+    "type": "helmet",
+    "model_number": 8,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_8/helmet_8_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a63fce1b3540018a6a11e76fa86891e01836ed3938faf2584e38ba9a7b5e058e"
+  },
+  {
+    "id": "helmet_8_3",
+    "type": "helmet",
+    "model_number": 8,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_8/helmet_8_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b0efac22cc5159d3855e3fe1bfaf7258c480242350ace8be5262123a86114eb2"
+  },
+  {
+    "id": "helmet_8_4",
+    "type": "helmet",
+    "model_number": 8,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_8/helmet_8_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b192cc0a7ca88f04905339db985e067eabcc682790d33af8a3ad54bdda9b2176"
+  },
+  {
+    "id": "helmet_8_5",
+    "type": "helmet",
+    "model_number": 8,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_8/helmet_8_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "87a3a7493e23734cb649c144cb5730a9ffe693eb949a072647e490b946601e9a"
+  },
+  {
+    "id": "helmet_8_6",
+    "type": "helmet",
+    "model_number": 8,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_8/helmet_8_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "49b153cf568b9ce49f07cf8a65fbdbaf762f81b3f831ad83ed4166aa717299fc"
+  },
+  {
+    "id": "helmet_8_7",
+    "type": "helmet",
+    "model_number": 8,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_8/helmet_8_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "df5f378efcdac69b053f45b0147506fc2aaa4116e02c300f10a4ae9d7250e685"
+  },
+  {
+    "id": "helmet_9_1",
+    "type": "helmet",
+    "model_number": 9,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_9/helmet_9_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2f05d5f4ca752d0505666a86c6d83d760e19754de1195996a4e83a80f299ba0b"
+  },
+  {
+    "id": "helmet_9_2",
+    "type": "helmet",
+    "model_number": 9,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_9/helmet_9_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "39a1065f4a8a96be8522abb51fb3b311a3ca7c86518e6d277e6a75e8cbe0c9df"
+  },
+  {
+    "id": "helmet_9_3",
+    "type": "helmet",
+    "model_number": 9,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_9/helmet_9_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6b78dd36d5b224d6d188e0c4a73b3d42b12c8e365972af765780eff611ab24b0"
+  },
+  {
+    "id": "helmet_9_4",
+    "type": "helmet",
+    "model_number": 9,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_9/helmet_9_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b9a50aea50b93b9d2cbd84b2bbbcea96826f86a9e3fc8feec3df8467e9379941"
+  },
+  {
+    "id": "helmet_9_5",
+    "type": "helmet",
+    "model_number": 9,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_9/helmet_9_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0a9d9109fb0b7cb56b7c600208953fb512b00e4905f5d961fb75a184600a3db7"
+  },
+  {
+    "id": "helmet_9_6",
+    "type": "helmet",
+    "model_number": 9,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_9/helmet_9_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fa7775f1a06be847c0b2012580da05f43be23f87cd5c753aa3ece0d629e49d27"
+  },
+  {
+    "id": "helmet_9_7",
+    "type": "helmet",
+    "model_number": 9,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_9/helmet_9_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "445ee0678f754d1b870112e9b26e7b2b6e0cd2788b11cd8043621e36062ba76f"
+  },
+  {
+    "id": "helmet_10_1",
+    "type": "helmet",
+    "model_number": 10,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_10/helmet_10_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8a16a466c7ed0076633ff26247ff34ed4d2e835b6be665e0a7b630971635db98"
+  },
+  {
+    "id": "helmet_10_2",
+    "type": "helmet",
+    "model_number": 10,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_10/helmet_10_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2682317c0cb9c2bb1a91f241cfe98892f5b2d3afee94bc110201f7c8b8c5cfe4"
+  },
+  {
+    "id": "helmet_10_3",
+    "type": "helmet",
+    "model_number": 10,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_10/helmet_10_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5537c1aa44acd43efcf340d3e3e6afcb09c7af986612015b14ff6cd2d2517e32"
+  },
+  {
+    "id": "helmet_10_4",
+    "type": "helmet",
+    "model_number": 10,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_10/helmet_10_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "918f9b91614855b33549de6a43a11a24f96639f55fe6d57a1a10971d4f6a8f47"
+  },
+  {
+    "id": "helmet_10_5",
+    "type": "helmet",
+    "model_number": 10,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_10/helmet_10_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "29eda35c797194064d0bdeabc4c15acb5f29d450f41ed7cb678c60e4beb720f0"
+  },
+  {
+    "id": "helmet_10_6",
+    "type": "helmet",
+    "model_number": 10,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_10/helmet_10_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0114c4ad07bec6e01dc52daa611c38d3d5290449fc68614f7d9ecc9b1c50a533"
+  },
+  {
+    "id": "helmet_10_7",
+    "type": "helmet",
+    "model_number": 10,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_10/helmet_10_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3a19f6c7fe01f092e98551a2124865617929c0c778b806d552a574afcec64df1"
+  },
+  {
+    "id": "helmet_11_1",
+    "type": "helmet",
+    "model_number": 11,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_11/helmet_11_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1a9937456fea0604eab403aac93e5c3a603161b80988143d917e19d4ce83cb72"
+  },
+  {
+    "id": "helmet_11_2",
+    "type": "helmet",
+    "model_number": 11,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_11/helmet_11_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "cd1d87c8799f62e4ff05eda6c69e14eb4ef1e8708bc79685ebdd1f76083c3bf8"
+  },
+  {
+    "id": "helmet_11_3",
+    "type": "helmet",
+    "model_number": 11,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_11/helmet_11_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e8643c6f946b5b9cc6e644153e12c44344606d77dc8653d271c02ce2d719c223"
+  },
+  {
+    "id": "helmet_11_4",
+    "type": "helmet",
+    "model_number": 11,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_11/helmet_11_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6937c2f697030c67c2c2f110d7cd88913baa944b4c494463557cf1dd95a1390a"
+  },
+  {
+    "id": "helmet_11_5",
+    "type": "helmet",
+    "model_number": 11,
+    "color_number": 5,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_11/helmet_11_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4b289569cbc0332a179aaf2a5d77342c5eb6539b0ec084b5b42e7693a32c9072"
+  },
+  {
+    "id": "helmet_11_6",
+    "type": "helmet",
+    "model_number": 11,
+    "color_number": 6,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/helmet_11/helmet_11_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8ee27151ac49bfc4d2daa0a8abc89458ecde928bee97facc596ddf88665a0fb2"
+  },
+  {
+    "id": "helmet_11_7",
+    "type": "helmet",
+    "model_number": 11,
+    "color_number": 7,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/helmet_11/helmet_11_7.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a3d7cc802fc4e68581e409f3435e8d6af80f1132ac35acafa4f7229ba79af592"
+  },
+  {
+    "id": "helmet_12_1",
+    "type": "helmet",
+    "model_number": 12,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_12/helmet_12_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8dbaec1da90747d30e11026a99bbd058a1358be0bc366b69ef09fc017587f1a6"
+  },
+  {
+    "id": "helmet_12_2",
+    "type": "helmet",
+    "model_number": 12,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_12/helmet_12_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e7fa3eef832bf8b587b59cbd279d3fa375b6e24af0680c116d768405da25828e"
+  },
+  {
+    "id": "helmet_12_3",
+    "type": "helmet",
+    "model_number": 12,
+    "color_number": 3,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/helmet_12/helmet_12_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ae2f63295e78a6599bcfa5d51c2876abdd82679c8a93d2401d12c456e36b8a1d"
+  },
+  {
+    "id": "helmet_12_4",
+    "type": "helmet",
+    "model_number": 12,
+    "color_number": 4,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_12/helmet_12_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4109cc489141c43428ff736f1fbc63943c6b7fca4503e86f09f41000187392a8"
+  },
+  {
+    "id": "helmet_13_1",
+    "type": "helmet",
+    "model_number": 13,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_13/helmet_13_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ae9850344bfcb404a7730bb330c309b1a77bacd7900ceceaa8f575286535b640"
+  },
+  {
+    "id": "helmet_13_2",
+    "type": "helmet",
+    "model_number": 13,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_13/helmet_13_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9147cfd38521a05b8c47c344d1d898c7b4c130351560e1346af07781d536c7e3"
+  },
+  {
+    "id": "helmet_13_3",
+    "type": "helmet",
+    "model_number": 13,
+    "color_number": 3,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/helmet_13/helmet_13_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "77415281b1cc90f28a11c03f6859ebd2bdf06452a9584360005839f03f6f121f"
+  },
+  {
+    "id": "helmet_13_4",
+    "type": "helmet",
+    "model_number": 13,
+    "color_number": 4,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_13/helmet_13_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8261b326031d07ef0c5a4fa496fb3232e2d8d318c882109eb7a1a86e1f5d998c"
+  },
+  {
+    "id": "helmet_14_1",
+    "type": "helmet",
+    "model_number": 14,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_14/helmet_14_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ca2eeafd69333bcf255e73bd1e735aae7a57db6832fb428a4012450ed6f719cc"
+  },
+  {
+    "id": "helmet_14_2",
+    "type": "helmet",
+    "model_number": 14,
+    "color_number": 2,
+    "color": "orange",
+    "hex": "#D77B32",
+    "texture": null,
+    "file": "assets/helmet_14/helmet_14_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0cea194174581720715d4d1ca67f23228a3c61fffe3ac004f25950fab3cc4427"
+  },
+  {
+    "id": "helmet_14_3",
+    "type": "helmet",
+    "model_number": 14,
+    "color_number": 3,
+    "color": "yellow",
+    "hex": "#D8B548",
+    "texture": null,
+    "file": "assets/helmet_14/helmet_14_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "41f0bdc7fb27b8370b4ffe237910cdad98451eb6323a69d21084899ae2f9d09d"
+  },
+  {
+    "id": "helmet_14_4",
+    "type": "helmet",
+    "model_number": 14,
+    "color_number": 4,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_14/helmet_14_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e9f31631cde62f31a31b8d7fee7cffaa71319574cfd19c0b866e823669cfef0b"
+  },
+  {
+    "id": "helmet_15_1",
+    "type": "helmet",
+    "model_number": 15,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_15/helmet_15_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c91f8458d9e1c4cfa8aa2776fbf1b7953aff5688ec5f818a4fd5a3376664cf46"
+  },
+  {
+    "id": "helmet_15_2",
+    "type": "helmet",
+    "model_number": 15,
+    "color_number": 2,
+    "color": "orange",
+    "hex": "#D77B32",
+    "texture": null,
+    "file": "assets/helmet_15/helmet_15_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d41999050ba5d47798df4f76d251c270be4a31a13846d9153963dd74fbb4b153"
+  },
+  {
+    "id": "helmet_15_3",
+    "type": "helmet",
+    "model_number": 15,
+    "color_number": 3,
+    "color": "yellow",
+    "hex": "#D8B548",
+    "texture": null,
+    "file": "assets/helmet_15/helmet_15_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "01649ef681b4fd6f4a2d395af325b3799b38a65bac8b05f30cb368a7e776086e"
+  },
+  {
+    "id": "helmet_15_4",
+    "type": "helmet",
+    "model_number": 15,
+    "color_number": 4,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_15/helmet_15_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "077d3ead348364ba1a63e5ad8be4ee5c5b83adc8fbf2adbfaa08251eae908e69"
+  },
+  {
+    "id": "helmet_16_1",
+    "type": "helmet",
+    "model_number": 16,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_16/helmet_16_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8f55d72d6f0b97c6dc6afc1a4d4eade756fa8b409742b1a64bb740fe7d88ff44"
+  },
+  {
+    "id": "helmet_16_2",
+    "type": "helmet",
+    "model_number": 16,
+    "color_number": 2,
+    "color": "brown",
+    "hex": "#78553D",
+    "texture": null,
+    "file": "assets/helmet_16/helmet_16_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9c7a6a2799c97fffd68acbd3f6cbe39ceceb84d7ea68e14bb48d8c5610a53168"
+  },
+  {
+    "id": "helmet_16_3",
+    "type": "helmet",
+    "model_number": 16,
+    "color_number": 3,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_16/helmet_16_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a0e8d2a267a8253387c8a715e2f7d8ef7645d1d29e18367f96f9e7354c6ae0a0"
+  },
+  {
+    "id": "helmet_16_4",
+    "type": "helmet",
+    "model_number": 16,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_16/helmet_16_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a225685fb5b9372ba20f5197e56491f7decb595086d009ce85b85b366e7767bd"
+  },
+  {
+    "id": "helmet_17_1",
+    "type": "helmet",
+    "model_number": 17,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_17/helmet_17_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "388b8992db4d33ead75b875252c20aab66edac201ebffea46e211b2f81de19f3"
+  },
+  {
+    "id": "helmet_17_2",
+    "type": "helmet",
+    "model_number": 17,
+    "color_number": 2,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/helmet_17/helmet_17_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c76732142c7e1fe38aa85eafe309000b887ef9092abfe2b860f271622d57fb07"
+  },
+  {
+    "id": "helmet_17_3",
+    "type": "helmet",
+    "model_number": 17,
+    "color_number": 3,
+    "color": "orange",
+    "hex": "#D77B32",
+    "texture": null,
+    "file": "assets/helmet_17/helmet_17_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c8a6e2bba4bb4a2f3f075b6b78e13f839c56a76da9139d4aadd5e14a0f5f7a39"
+  },
+  {
+    "id": "helmet_17_4",
+    "type": "helmet",
+    "model_number": 17,
+    "color_number": 4,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/helmet_17/helmet_17_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8ecbfa3e2b52848d0cff4a6ed497b45f460072f7d9aa76f3452d76030fe91f94"
+  },
+  {
+    "id": "helmet_18_1",
+    "type": "helmet",
+    "model_number": 18,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_18/helmet_18_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3132162407786e80099b7d200b8c72212648138a1e00efb49a18051954c5a832"
+  },
+  {
+    "id": "helmet_18_2",
+    "type": "helmet",
+    "model_number": 18,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_18/helmet_18_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3a8828195b1e03b904ef61cd657082a39c290faeeb78b87c325c068dc701a1eb"
+  },
+  {
+    "id": "helmet_18_3",
+    "type": "helmet",
+    "model_number": 18,
+    "color_number": 3,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/helmet_18/helmet_18_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b516c04774f53ca72a402c560a035184cd8ff2d835b9e79ccf623f499287acde"
+  },
+  {
+    "id": "helmet_19_1",
+    "type": "helmet",
+    "model_number": 19,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_19/helmet_19_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "de0f9761a2ecc45ed026967c7ba70af39ae2ef89a105fbab6b9b2a62e6c41435"
+  },
+  {
+    "id": "helmet_19_2",
+    "type": "helmet",
+    "model_number": 19,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_19/helmet_19_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dbf986da3af348d1eefc990233eb9dd5753abfd627023f75b8ad17e06b352e09"
+  },
+  {
+    "id": "helmet_19_3",
+    "type": "helmet",
+    "model_number": 19,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/helmet_19/helmet_19_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "750ed3246ba7e4a87f321a669ce48f92a6f69c15924e19b5990650178c8d58a3"
+  },
+  {
+    "id": "helmet_19_4",
+    "type": "helmet",
+    "model_number": 19,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/helmet_19/helmet_19_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3009e8438ba1b045d8309486f00652465b2ad4804701c974ea22605f9c78079d"
+  },
+  {
+    "id": "helmet_19_5",
+    "type": "helmet",
+    "model_number": 19,
+    "color_number": 5,
+    "color": "urban",
+    "hex": null,
+    "texture": "camouflage/textures/urbana/urbana_02_fragment.png",
+    "file": "assets/helmet_19/helmet_19_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5bab1b2c30991ccf5bb65264dd9f0dea46c433548370972862efcc5008e1a75d"
+  },
+  {
+    "id": "helmet_20_1",
+    "type": "helmet",
+    "model_number": 20,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_20/helmet_20_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "78bb742b9a102b0c7508fb37caf13c93712dae3676c6a0bd3022568e078a4aa7"
+  },
+  {
+    "id": "helmet_20_2",
+    "type": "helmet",
+    "model_number": 20,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_20/helmet_20_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bc2cad2c6d54e5f2f439b3cdaab7e53a185820835863c57f16c46cf771aa7404"
+  },
+  {
+    "id": "helmet_20_3",
+    "type": "helmet",
+    "model_number": 20,
+    "color_number": 3,
+    "color": "red",
+    "hex": "#AB3A43",
+    "texture": null,
+    "file": "assets/helmet_20/helmet_20_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f4c85d54d1d2976282604f6d3b1336e91437d860199c518ab385e972c7e25abe"
+  },
+  {
+    "id": "helmet_20_4",
+    "type": "helmet",
+    "model_number": 20,
+    "color_number": 4,
+    "color": "blue",
+    "hex": "#396DA5",
+    "texture": null,
+    "file": "assets/helmet_20/helmet_20_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "33e171233b1123df7085addd1377ddc354b290e6f1dcd46f7639882d4ec2a384"
+  },
+  {
+    "id": "helmet_21_1",
+    "type": "helmet",
+    "model_number": 21,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/helmet_21/helmet_21_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9f339742c50490059e2e5d65813be7a2cb5cfaea06ea3b2f4d5d651cf8864547"
+  },
+  {
+    "id": "helmet_21_2",
+    "type": "helmet",
+    "model_number": 21,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/helmet_21/helmet_21_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a0c8cbe292e933cb9c1fbdb5e203650879a5968ad4a2fca94a5b2ef47d1ea1ed"
+  },
+  {
+    "id": "helmet_21_3",
+    "type": "helmet",
+    "model_number": 21,
+    "color_number": 3,
+    "color": "red",
+    "hex": "#AB3A43",
+    "texture": null,
+    "file": "assets/helmet_21/helmet_21_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dd8f40a3c94e21bbea392642c37e03a4f6ce247b5156ce3995cf67a7a06664cc"
+  },
+  {
+    "id": "helmet_21_4",
+    "type": "helmet",
+    "model_number": 21,
+    "color_number": 4,
+    "color": "gold",
+    "hex": "#B49A58",
+    "texture": null,
+    "file": "assets/helmet_21/helmet_21_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5d44027f11b07494b9ccdb60de04f159839cf46f6815e8a6997f63e5c40e4406"
+  },
+  {
+    "id": "beret_1_1",
+    "type": "beret",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/beret_1/beret_1_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f6a81a5c71bd67895edf4899088a8e9c3ca618d25b47e7b5034296b73f7ea891"
+  },
+  {
+    "id": "beret_1_2",
+    "type": "beret",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/beret_1/beret_1_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e45395cabcaba5e862b622899f0a93110f14c1ebbf5a97d346c4fcf4a56919b9"
+  },
+  {
+    "id": "beret_1_3",
+    "type": "beret",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/beret_1/beret_1_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "90f5cf365852832d7a3565e6161c853d56597c345bf8413223a071d0f78aee18"
+  },
+  {
+    "id": "beret_1_4",
+    "type": "beret",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "maroon",
+    "hex": "#8A354B",
+    "texture": null,
+    "file": "assets/beret_1/beret_1_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5877ddabc6c04a73efe307d66fe8b8092271ddef121a383fd52e276ce520313e"
+  },
+  {
+    "id": "beret_1_5",
+    "type": "beret",
+    "model_number": 1,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/beret_1/beret_1_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7dd012492f09187f6508f9a772e41971427eabff7735ab9c90c85122cf1f0901"
+  },
+  {
+    "id": "beret_2_1",
+    "type": "beret",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/beret_2/beret_2_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "08f45db0da91fecbf223a334a6fea7ed9a188a33d3c5774df9faac54d4bde04e"
+  },
+  {
+    "id": "beret_2_2",
+    "type": "beret",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/beret_2/beret_2_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "88909d40ad0e69813662a978fe46138517991f9d6a0b4d7989085ff61b44603b"
+  },
+  {
+    "id": "beret_2_3",
+    "type": "beret",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/beret_2/beret_2_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f6c4749e832a6a7c3d149abb0101741ba45ffe36a24da29a77b2fe106f80a648"
+  },
+  {
+    "id": "beret_2_4",
+    "type": "beret",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "maroon",
+    "hex": "#8A354B",
+    "texture": null,
+    "file": "assets/beret_2/beret_2_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1452c39055eb1d94b92f1e63e4ce415a584d74b362df8e67198fa7d8055d554e"
+  },
+  {
+    "id": "beret_2_5",
+    "type": "beret",
+    "model_number": 2,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/beret_2/beret_2_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ceeb3d69e33650957e665dc6efbf4ee00a743337d008bbda9ed96118987f0881"
+  },
+  {
+    "id": "beret_3_1",
+    "type": "beret",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/beret_3/beret_3_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7d7791cefe3fa2d76b65e034cd3a9be6f04917b5a52d36ac44e52bdfced6004d"
+  },
+  {
+    "id": "beret_3_2",
+    "type": "beret",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/beret_3/beret_3_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "21863497d97c3b852d956aab089a93d72e4089bc358b4af3a1f6ddb7e3cc0a2a"
+  },
+  {
+    "id": "beret_3_3",
+    "type": "beret",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/beret_3/beret_3_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "300910d669ff9c45a4d8543e150ffa1753f54430d060510ab7e8bef9eda2e75e"
+  },
+  {
+    "id": "beret_3_4",
+    "type": "beret",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "maroon",
+    "hex": "#8A354B",
+    "texture": null,
+    "file": "assets/beret_3/beret_3_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5c2376917b443f03546b0d53ca3be4a4e979518f66bd98100a258ab4f1d826ba"
+  },
+  {
+    "id": "beret_3_5",
+    "type": "beret",
+    "model_number": 3,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/beret_3/beret_3_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "68e5dcdabd7ced2a3aac7422ab9539b00f5119af6c611dbb2f0705ed944d83df"
+  },
+  {
+    "id": "beret_4_1",
+    "type": "beret",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/beret_4/beret_4_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "824d7475e797fa4a535c0b283692e8fdc102e02fa1be3896451e7fc9e87d7f31"
+  },
+  {
+    "id": "beret_4_2",
+    "type": "beret",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/beret_4/beret_4_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "77b4526ec8f755792b774c8c4b7fc0da03b96b8382075b1fe05e22a49522bf7e"
+  },
+  {
+    "id": "beret_4_3",
+    "type": "beret",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/beret_4/beret_4_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "eb3aaf482304e2d1855d3b32d621a8a135f62457aa9e83bb639feeaaa268c966"
+  },
+  {
+    "id": "beret_4_4",
+    "type": "beret",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "maroon",
+    "hex": "#8A354B",
+    "texture": null,
+    "file": "assets/beret_4/beret_4_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4ef0809dc0942e7f58e1668374f065ac96caa56d75433d2fb94dd811eac6c94c"
+  },
+  {
+    "id": "beret_4_5",
+    "type": "beret",
+    "model_number": 4,
+    "color_number": 5,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/beret_4/beret_4_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6c7083255a1bb590e7fce430c4455cdd68b82ddbf7a2d0afe8c12d6206ad4aa7"
+  },
+  {
+    "id": "hat_1_1",
+    "type": "hat",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hat_1/hat_1_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bdbb3de9585a6a844cba91ba65e47141b84c8fff3e5a450ff02387d73f680b71"
+  },
+  {
+    "id": "hat_1_2",
+    "type": "hat",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hat_1/hat_1_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "28c41e98db92492c1655fd897ba47fafb76ff2e01055ecd8dd0d52f3d024d4fc"
+  },
+  {
+    "id": "hat_1_3",
+    "type": "hat",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/hat_1/hat_1_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0bfd83e0b9b163333435f14458eeb07054f5469fc7f9a23222633696c48165b0"
+  },
+  {
+    "id": "hat_1_4",
+    "type": "hat",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/hat_1/hat_1_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ebfcc35cf1306367b46522341dd59d42a73a9b0bf53fef485186dc1c1ad69be6"
+  },
+  {
+    "id": "hat_1_5",
+    "type": "hat",
+    "model_number": 1,
+    "color_number": 5,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/hat_1/hat_1_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4ca380753b84381bf14f0349196bd8cb775d791893b2a8d5f3d1a480c84056a5"
+  },
+  {
+    "id": "hat_1_6",
+    "type": "hat",
+    "model_number": 1,
+    "color_number": 6,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/hat_1/hat_1_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b022fcece67b4fc93a3b81b93b88a5f486aa850d15f045545f0ab73f337ef672"
+  },
+  {
+    "id": "hat_2_1",
+    "type": "hat",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hat_2/hat_2_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9cbb15364b58b79f6cd77bb4a258ba6e39688d5352e50c1593e4607b4ed33bcb"
+  },
+  {
+    "id": "hat_2_2",
+    "type": "hat",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hat_2/hat_2_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b8e82414c6620515d22a130f538336900836213ac333d5f0541d88164d4b561e"
+  },
+  {
+    "id": "hat_2_3",
+    "type": "hat",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/hat_2/hat_2_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d449064a62d47c32946760c5e887006e1d1e0559f979ce9560c1450ccf2540ed"
+  },
+  {
+    "id": "hat_2_4",
+    "type": "hat",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/hat_2/hat_2_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "54c697b907b6708bf7b8a95ef99af23ea1759ed6ab71a51b486df94cd1a45a2c"
+  },
+  {
+    "id": "hat_2_5",
+    "type": "hat",
+    "model_number": 2,
+    "color_number": 5,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/hat_2/hat_2_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "024345c95031ba96bca0ba38664603702aea662886d1ccf6287520df7d801290"
+  },
+  {
+    "id": "hat_2_6",
+    "type": "hat",
+    "model_number": 2,
+    "color_number": 6,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/hat_2/hat_2_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e7004b84240f7d4cdf72493df97d5b5f4161b4d3f87280adb47743eaaa64e230"
+  },
+  {
+    "id": "hat_3_1",
+    "type": "hat",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hat_3/hat_3_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "240790f34cbfaf3045dcd4ed808a35ab4a220a288cd13f65b159ba071dfaa6a1"
+  },
+  {
+    "id": "hat_3_2",
+    "type": "hat",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hat_3/hat_3_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fb67c12551a0ecbe2f6b9092f0815099e8ff7e2fed71ee4b8770ddec50414e91"
+  },
+  {
+    "id": "hat_3_3",
+    "type": "hat",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/hat_3/hat_3_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "86438da5c0f346c090c5495dd2a0058e03ea9dbcbfa3774c4fee6b1fde7d6e61"
+  },
+  {
+    "id": "hat_3_4",
+    "type": "hat",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/hat_3/hat_3_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0a4575f9782693c627c4d264eb559e136440a3e095c70ca42b2a683dc858fa14"
+  },
+  {
+    "id": "hat_3_5",
+    "type": "hat",
+    "model_number": 3,
+    "color_number": 5,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/hat_3/hat_3_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "559b66aa487eecab857da6b002d73d04030566a0fe4668326fccc9537b5a8dc4"
+  },
+  {
+    "id": "hat_3_6",
+    "type": "hat",
+    "model_number": 3,
+    "color_number": 6,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/hat_3/hat_3_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9319b24d150e83c8f1901517c8a5e963c39152e9197787e3995d3a3ffefa5581"
+  },
+  {
+    "id": "hat_4_1",
+    "type": "hat",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hat_4/hat_4_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3363afbb715fed2c139c9ef95c558e0e779df788f0ced44c731799ba83fe36c3"
+  },
+  {
+    "id": "hat_4_2",
+    "type": "hat",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hat_4/hat_4_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b765465dab3286d631cc7dd0e86ad62144587fe88bb9508b503b102aeffcdcf0"
+  },
+  {
+    "id": "hat_4_3",
+    "type": "hat",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/hat_4/hat_4_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d1918341d1c8cfa63976a990ffab51f8f556a9e69513adbd49ff08a826614bd2"
+  },
+  {
+    "id": "hat_4_4",
+    "type": "hat",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/hat_4/hat_4_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "40d689e572507e1f8e00b16ac99ab0aff6fd6f55a268d3b153ec22fb658b0117"
+  },
+  {
+    "id": "hat_4_5",
+    "type": "hat",
+    "model_number": 4,
+    "color_number": 5,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/hat_4/hat_4_5.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "842c84ae65fc1a602632ecdea7ae3a63e84c55bc2709bb561535794abcfc70f3"
+  },
+  {
+    "id": "hat_4_6",
+    "type": "hat",
+    "model_number": 4,
+    "color_number": 6,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/hat_4/hat_4_6.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5ed45160edaae7663ba4064462ef65236b7704b3ce3f467b384d58ab7c92973a"
+  },
+  {
+    "id": "hat_5_1",
+    "type": "hat",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hat_5/hat_5_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b49b02b3f61fa19e4148c50bb9bf24b0b4cec3342c9f632269569598ea67d7a7"
+  },
+  {
+    "id": "hat_5_2",
+    "type": "hat",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hat_5/hat_5_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "afeff5dab2be15984f8f0efe062d1444af3894edc110de5f752b5c8ce2aa8920"
+  },
+  {
+    "id": "hat_5_3",
+    "type": "hat",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/hat_5/hat_5_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b8da3843e26ca8fcf8c9f04ed7c5d4df294285cdc147d47cfd6be4212024eb7f"
+  },
+  {
+    "id": "hat_5_4",
+    "type": "hat",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/hat_5/hat_5_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "67b20f3efc43f243378dc209613b3e22cd036b1992fd44553f1e0a73301cf479"
+  },
+  {
+    "id": "hat_6_1",
+    "type": "hat",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hat_6/hat_6_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d759f5e10e2845342766b717c269ac8daee71f373dc5c5f5f357608da1712882"
+  },
+  {
+    "id": "hat_6_2",
+    "type": "hat",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hat_6/hat_6_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "906cdb9fbc660a9d5557f01a56cca89a8076e501c90d748471dc7ad955608ce7"
+  },
+  {
+    "id": "hat_6_3",
+    "type": "hat",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "brown",
+    "hex": "#78553D",
+    "texture": null,
+    "file": "assets/hat_6/hat_6_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7366b6022e0b46284da69ce0ad4f27b07b2d17a75b0882be8d7b33f11cd26244"
+  },
+  {
+    "id": "hat_6_4",
+    "type": "hat",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/hat_6/hat_6_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d917da6e072888ee7fec3f255f98c9fbe2e9362c2049e78fb716bedd407901cc"
+  },
+  {
+    "id": "hood_1_1",
+    "type": "hood",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hood_1/hood_1_1.png",
+    "rear_file": "rear_assets/hood_1/hood_1_1.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ae2ba433bc7943c6b829c175a54a9d4e3f33558a1fbe6780fd9f79cd42543556"
+  },
+  {
+    "id": "hood_1_2",
+    "type": "hood",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hood_1/hood_1_2.png",
+    "rear_file": "rear_assets/hood_1/hood_1_2.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "89a87629f943f438305f1a23388efc8febe0eb606f007ac24622421f6578cfb9"
+  },
+  {
+    "id": "hood_1_3",
+    "type": "hood",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/hood_1/hood_1_3.png",
+    "rear_file": "rear_assets/hood_1/hood_1_3.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1855dda2c50873e12274689592e18945cbdb42c63495098faa6a8f088ab03af4"
+  },
+  {
+    "id": "hood_1_4",
+    "type": "hood",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/hood_1/hood_1_4.png",
+    "rear_file": "rear_assets/hood_1/hood_1_4.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6947a4bc9ceca0d8b229a538710cf6b19384426ef522a1634d9a4e7fa3e941cf"
+  },
+  {
+    "id": "hood_1_5",
+    "type": "hood",
+    "model_number": 1,
+    "color_number": 5,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/hood_1/hood_1_5.png",
+    "rear_file": "rear_assets/hood_1/hood_1_5.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0b6c7c479b28fb4de2d5c766e3c28d950593df514aecc4e2daf5e8db962c787f"
+  },
+  {
+    "id": "hood_2_1",
+    "type": "hood",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hood_2/hood_2_1.png",
+    "rear_file": "rear_assets/hood_2/hood_2_1.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a704375ac2557c2b0c81f309c0b0e12ad5b182de6204c3a40187e0c1f89a7ffc"
+  },
+  {
+    "id": "hood_2_2",
+    "type": "hood",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/hood_2/hood_2_2.png",
+    "rear_file": "rear_assets/hood_2/hood_2_2.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "295e7ba4cdf48ce58aa340a1f2f77fb4f6f8a900d1b71fba86499251eb549250"
+  },
+  {
+    "id": "hood_2_3",
+    "type": "hood",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hood_2/hood_2_3.png",
+    "rear_file": "rear_assets/hood_2/hood_2_3.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6598b50b5cbb6199c041a8b4d422d51b438fa15c95aee948fcb792931e5d38e5"
+  },
+  {
+    "id": "hood_2_4",
+    "type": "hood",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/hood_2/hood_2_4.png",
+    "rear_file": "rear_assets/hood_2/hood_2_4.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6c4e9c8103a1bb09b3665c3be9f9f214414de17e72f09364c957a8a8577bee32"
+  },
+  {
+    "id": "hood_3_1",
+    "type": "hood",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hood_3/hood_3_1.png",
+    "rear_file": "rear_assets/hood_3/hood_3_1.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8846819f6f1c4bccdcce0ebb2452729a5d1f57c530c8f3c044bb8f5f601f4d66"
+  },
+  {
+    "id": "hood_3_2",
+    "type": "hood",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/hood_3/hood_3_2.png",
+    "rear_file": "rear_assets/hood_3/hood_3_2.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "eb7b60a41bef7154d8a4ac539009be3b948abe10fdc47f75ce4f45bc0064372f"
+  },
+  {
+    "id": "hood_3_3",
+    "type": "hood",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "brown",
+    "hex": "#78553D",
+    "texture": null,
+    "file": "assets/hood_3/hood_3_3.png",
+    "rear_file": "rear_assets/hood_3/hood_3_3.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "af1adbf7191fe91fdba9eed530cdfe5aa2c7e66e3b9d4a9b6a650ebc8d15522d"
+  },
+  {
+    "id": "hood_3_4",
+    "type": "hood",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "desert",
+    "hex": null,
+    "texture": "camouflage/textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "file": "assets/hood_3/hood_3_4.png",
+    "rear_file": "rear_assets/hood_3/hood_3_4.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "26dc9f9f349521674cbfdaa273ec38a557ed84d0e1a82de84fa901e2ad03f5cc"
+  },
+  {
+    "id": "hood_4_1",
+    "type": "hood",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hood_4/hood_4_1.png",
+    "rear_file": "rear_assets/hood_4/hood_4_1.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "644bb812215bc1e2d2a141c4561a6b3980a5b8ed7ed480098ecd56c8689c370f"
+  },
+  {
+    "id": "hood_4_2",
+    "type": "hood",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/hood_4/hood_4_2.png",
+    "rear_file": "rear_assets/hood_4/hood_4_2.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "537607690ccdb42d87a7946b06db51e04e218875b0100968eae5923b78098064"
+  },
+  {
+    "id": "hood_4_3",
+    "type": "hood",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "green",
+    "hex": "#3A6244",
+    "texture": null,
+    "file": "assets/hood_4/hood_4_3.png",
+    "rear_file": "rear_assets/hood_4/hood_4_3.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "cf200be5cadf32ad8b25fd33410279816efe8fb46a3eced05ef6c271bac5efb3"
+  },
+  {
+    "id": "hood_4_4",
+    "type": "hood",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/hood_4/hood_4_4.png",
+    "rear_file": "rear_assets/hood_4/hood_4_4.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e3ee0556558e2f9f65df5e75ca423cf92d5e1b76fceed36563b3ab7f2a30c96a"
+  },
+  {
+    "id": "hood_5_1",
+    "type": "hood",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hood_5/hood_5_1.png",
+    "rear_file": "rear_assets/hood_5/hood_5_1.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9f54b4689cb1018c526f4d873f09d3c9664169011e1ab4cf83a657291ee82526"
+  },
+  {
+    "id": "hood_5_2",
+    "type": "hood",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hood_5/hood_5_2.png",
+    "rear_file": "rear_assets/hood_5/hood_5_2.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7ab3f96ee1f0ffc8d8cd86ae6998c202b1c0b65da7a0cc80818f35f571549ecc"
+  },
+  {
+    "id": "hood_5_3",
+    "type": "hood",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "brown",
+    "hex": "#78553D",
+    "texture": null,
+    "file": "assets/hood_5/hood_5_3.png",
+    "rear_file": "rear_assets/hood_5/hood_5_3.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1d44ded935165845e7723cc3918220f3ac70f596bd7cddc1014b67b338477080"
+  },
+  {
+    "id": "hood_5_4",
+    "type": "hood",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "woodland",
+    "hex": null,
+    "texture": "camouflage/textures/sumska/sumska_01_organic_woodland.png",
+    "file": "assets/hood_5/hood_5_4.png",
+    "rear_file": "rear_assets/hood_5/hood_5_4.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f3adcab63399ce12b63d10899988b48882fcde319d0ada77865af1dce236e827"
+  },
+  {
+    "id": "hood_6_1",
+    "type": "hood",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hood_6/hood_6_1.png",
+    "rear_file": "rear_assets/hood_6/hood_6_1.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fcd3e2342a9d91bd555099bc92e6f647084421ae96769fee5ff5c9b93620c1e0"
+  },
+  {
+    "id": "hood_6_2",
+    "type": "hood",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hood_6/hood_6_2.png",
+    "rear_file": "rear_assets/hood_6/hood_6_2.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d15d5680a389f7c55a1accb8c4ad88fc740f7362c8e79b31f78554fab4c7fcc1"
+  },
+  {
+    "id": "hood_6_3",
+    "type": "hood",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/hood_6/hood_6_3.png",
+    "rear_file": "rear_assets/hood_6/hood_6_3.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "eddb310877c7678b0f8061f06bd7868ce2b91ad25c0031f463bc5672c587a794"
+  },
+  {
+    "id": "hood_6_4",
+    "type": "hood",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "sand",
+    "hex": "#C6AB7C",
+    "texture": null,
+    "file": "assets/hood_6/hood_6_4.png",
+    "rear_file": "rear_assets/hood_6/hood_6_4.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7fe5e0a9cac4d80d0072732a83c4cc07f808ebe2e2d455ec15634d84aa8e3af9"
+  },
+  {
+    "id": "hood_6_5",
+    "type": "hood",
+    "model_number": 6,
+    "color_number": 5,
+    "color": "urban",
+    "hex": null,
+    "texture": "camouflage/textures/urbana/urbana_02_fragment.png",
+    "file": "assets/hood_6/hood_6_5.png",
+    "rear_file": "rear_assets/hood_6/hood_6_5.png",
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0b7c3e2faec6071edb9b7bcaa764eee602029770a01e4217a80dd1d614c6533d"
+  },
+  {
+    "id": "cap_11_1",
+    "type": "cap",
+    "model_number": 11,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_11/cap_11_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "76580c88c883908b2a1a088a7a2da15bec3f38cbb3bc1fb6f6453427ddba1471"
+  },
+  {
+    "id": "cap_11_2",
+    "type": "cap",
+    "model_number": 11,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_11/cap_11_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "be7070c1ea9d3a9685aaaa4141a7b4b148d60db81f172a996d5224a8bfab2d8e"
+  },
+  {
+    "id": "cap_11_3",
+    "type": "cap",
+    "model_number": 11,
+    "color_number": 3,
+    "color": "olive",
+    "hex": "#697447",
+    "texture": null,
+    "file": "assets/cap_11/cap_11_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fa81d90d30c5c8f95ec7426fbd24bb7a2ac7a8f2bfb9dd3606abe09e43e8bde0"
+  },
+  {
+    "id": "cap_11_4",
+    "type": "cap",
+    "model_number": 11,
+    "color_number": 4,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_11/cap_11_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5b3e9cdad6c991b6b160e2d00a20b0e885817b63d27c12fbe7e239a190113804"
+  },
+  {
+    "id": "cap_12_1",
+    "type": "cap",
+    "model_number": 12,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_12/cap_12_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a579d1e6f70e8bb60ee631f616d8de42aa13ef58914d8866741db9c575ada35a"
+  },
+  {
+    "id": "cap_12_2",
+    "type": "cap",
+    "model_number": 12,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/cap_12/cap_12_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "aa08e9ab86212812b6bf55b07626b1631a4006faa2797f032ec682d21bc08a62"
+  },
+  {
+    "id": "cap_12_3",
+    "type": "cap",
+    "model_number": 12,
+    "color_number": 3,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_12/cap_12_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0a57271c44981bbdc9382c4c6a9c72d2df697b6f90c8f84c8c33e5f87491ff84"
+  },
+  {
+    "id": "cap_12_4",
+    "type": "cap",
+    "model_number": 12,
+    "color_number": 4,
+    "color": "brown",
+    "hex": "#78553D",
+    "texture": null,
+    "file": "assets/cap_12/cap_12_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "46ead19c854b68ae20d904c6f2d94013955b8d06f9a6422605d6efcd731ed0d2"
+  },
+  {
+    "id": "hat_7_1",
+    "type": "hat",
+    "model_number": 7,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/hat_7/hat_7_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "eba254ccb5679949cdef99f87986dfe1ed40678af60c796dd3a2de5e3341e3b8"
+  },
+  {
+    "id": "hat_7_2",
+    "type": "hat",
+    "model_number": 7,
+    "color_number": 2,
+    "color": "black",
+    "hex": "#252B32",
+    "texture": null,
+    "file": "assets/hat_7/hat_7_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b06f7e7d4524e834ccd67fc577bd1edb55302032e0d7e0c54433407e88e04547"
+  },
+  {
+    "id": "hat_7_3",
+    "type": "hat",
+    "model_number": 7,
+    "color_number": 3,
+    "color": "brown",
+    "hex": "#78553D",
+    "texture": null,
+    "file": "assets/hat_7/hat_7_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b84e9a043d07b9bcb926919656fe14575d97689ea3c466644b225a2128e3bd29"
+  },
+  {
+    "id": "hat_7_4",
+    "type": "hat",
+    "model_number": 7,
+    "color_number": 4,
+    "color": "white",
+    "hex": "#D6DEDE",
+    "texture": null,
+    "file": "assets/hat_7/hat_7_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dbd508beba17d9ab544e312f9a04ed692516806a19e3765add8e379e14b8fe3e"
+  },
+  {
+    "id": "cap_13_1",
+    "type": "cap",
+    "model_number": 13,
+    "color_number": 1,
+    "color": "gray",
+    "hex": "#96999B",
+    "texture": null,
+    "file": "assets/cap_13/cap_13_1.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "89fe25504f25cc41a10237366cc96df706f31be08fc6d76c638bcc3bb19d3fc8"
+  },
+  {
+    "id": "cap_13_2",
+    "type": "cap",
+    "model_number": 13,
+    "color_number": 2,
+    "color": "orange",
+    "hex": "#D77B32",
+    "texture": null,
+    "file": "assets/cap_13/cap_13_2.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a68a9d0059b7284d5dbe44339fcdee210395d5d8f9f77e5ed9fa0b457acd5fd4"
+  },
+  {
+    "id": "cap_13_3",
+    "type": "cap",
+    "model_number": 13,
+    "color_number": 3,
+    "color": "navy",
+    "hex": "#2D4563",
+    "texture": null,
+    "file": "assets/cap_13/cap_13_3.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e394f3f5acf0ef96c832032fee08503f69c91ad8a56b8f5f3ca4bfb7d4761793"
+  },
+  {
+    "id": "cap_13_4",
+    "type": "cap",
+    "model_number": 13,
+    "color_number": 4,
+    "color": "yellow",
+    "hex": "#D8B548",
+    "texture": null,
+    "file": "assets/cap_13/cap_13_4.png",
+    "rear_file": null,
+    "layer_order": [
+      "background",
+      "rear_file",
+      "head",
+      "uniform",
+      "vest",
+      "file"
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5985085ef779cad1febdd7d723ae6444280a2e4a89a71ca79f8814bfe4f600a3"
+  }
+]

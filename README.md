@@ -2,6 +2,16 @@
 
 Komandiri PMC jedinica: originalni slojevi, sastavljeni primeri, koncepti opreme i kamuflažne teksture.
 
+## 50 novih kapa, slemova i kaciga
+
+**50 novih osnovnih modela, 262 varijante boja i kamuflaza.** Svi su prikazani na osnovnom komandiru. Za 6 kapuljaca i pustinjski slem prednji i zadnji delovi su razdvojeni: pozadina → zadnji deo → komandir → prednji deo. U manifestu su `file` i opcioni `rear_file`.
+
+- [Preuzmi 50 novih modela i sve boje — ZIP](ewarstate/downloads/ewarstate_50_novih_modela.zip)
+- [Pregled svih 50 modela na komandiru](ewarstate/headgear50/previews/all_50_models.jpg)
+- [Provera uklapanja svih modela po grupama](ewarstate/headgear50/qa)
+- [Boje i kamuflaze svakog modela](ewarstate/headgear50/previews)
+- [Uputstvo i redosled slojeva](ewarstate/headgear50/README.md)
+
 ## Šlemovi — 240 varijanti
 
 Jedan model, 216 kamuflaža i 24 obične boje. Transparentni PNG slojevi 1024 × 1024, poravnati na osnovnog komandira.

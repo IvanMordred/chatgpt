@@ -1,0 +1,1414 @@
+[
+  {
+    "id": "cap_1",
+    "type": "cap",
+    "model": 1,
+    "name": "Takticki kacket",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 1,
+    "split_layers": false,
+    "source_bbox": [
+      80,
+      20,
+      451,
+      312
+    ],
+    "registration": {
+      "width": 405,
+      "height": 270,
+      "x": 309,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_2",
+    "type": "cap",
+    "model": 2,
+    "name": "Patrolna kapa kratkog vizira",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 2,
+    "split_layers": false,
+    "source_bbox": [
+      575,
+      39,
+      959,
+      293
+    ],
+    "registration": {
+      "width": 405,
+      "height": 253,
+      "x": 309,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_3",
+    "type": "cap",
+    "model": 3,
+    "name": "Mrezasti kacket",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 3,
+    "split_layers": false,
+    "source_bbox": [
+      64,
+      315,
+      468,
+      601
+    ],
+    "registration": {
+      "width": 405,
+      "height": 268,
+      "x": 309,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_4",
+    "type": "cap",
+    "model": 4,
+    "name": "Ravna terenska kapa",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 4,
+    "split_layers": false,
+    "source_bbox": [
+      570,
+      323,
+      961,
+      586
+    ],
+    "registration": {
+      "width": 405,
+      "height": 258,
+      "x": 309,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_5",
+    "type": "cap",
+    "model": 5,
+    "name": "Komando kapa sa usima",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 5,
+    "split_layers": false,
+    "source_bbox": [
+      56,
+      618,
+      479,
+      901
+    ],
+    "registration": {
+      "width": 440,
+      "height": 293,
+      "x": 292,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_6",
+    "type": "cap",
+    "model": 6,
+    "name": "Kacket sa radiovezom",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 6,
+    "split_layers": false,
+    "source_bbox": [
+      550,
+      592,
+      985,
+      910
+    ],
+    "registration": {
+      "width": 490,
+      "height": 296,
+      "x": 267,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_7",
+    "type": "cap",
+    "model": 7,
+    "name": "Prosivena zimska kapa",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 7,
+    "split_layers": false,
+    "source_bbox": [
+      54,
+      902,
+      476,
+      1164
+    ],
+    "registration": {
+      "width": 440,
+      "height": 262,
+      "x": 292,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_8",
+    "type": "cap",
+    "model": 8,
+    "name": "Placenička osmopanelna kapa",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 8,
+    "split_layers": false,
+    "source_bbox": [
+      545,
+      928,
+      992,
+      1172
+    ],
+    "registration": {
+      "width": 450,
+      "height": 276,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_9",
+    "type": "cap",
+    "model": 9,
+    "name": "Oklopljeni kacket",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "navy",
+      "woodland"
+    ],
+    "source_cell": 9,
+    "split_layers": false,
+    "source_bbox": [
+      58,
+      1183,
+      475,
+      1487
+    ],
+    "registration": {
+      "width": 440,
+      "height": 268,
+      "x": 292,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_10",
+    "type": "cap",
+    "model": 10,
+    "name": "Oficirska kapa sa stitnikom",
+    "group": "caps",
+    "choices": [
+      "gray",
+      "black",
+      "navy",
+      "olive"
+    ],
+    "source_cell": 10,
+    "split_layers": false,
+    "source_bbox": [
+      538,
+      1182,
+      1003,
+      1485
+    ],
+    "registration": {
+      "width": 490,
+      "height": 260,
+      "x": 267,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_2",
+    "type": "helmet",
+    "model": 2,
+    "name": "Celicni pesadijski slem",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 1,
+    "split_layers": false,
+    "source_bbox": [
+      112,
+      45,
+      455,
+      299
+    ],
+    "registration": {
+      "width": 450,
+      "height": 343,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_3",
+    "type": "helmet",
+    "model": 3,
+    "name": "Duboki kevlar slem",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 2,
+    "split_layers": false,
+    "source_bbox": [
+      584,
+      41,
+      924,
+      322
+    ],
+    "registration": {
+      "width": 450,
+      "height": 412,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_4",
+    "type": "helmet",
+    "model": 4,
+    "name": "Modularni mid-cut slem",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 3,
+    "split_layers": false,
+    "source_bbox": [
+      102,
+      326,
+      465,
+      604
+    ],
+    "registration": {
+      "width": 450,
+      "height": 434,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_5",
+    "type": "helmet",
+    "model": 5,
+    "name": "Ventilisani bump slem",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 4,
+    "split_layers": false,
+    "source_bbox": [
+      583,
+      332,
+      917,
+      608
+    ],
+    "registration": {
+      "width": 450,
+      "height": 451,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_6",
+    "type": "helmet",
+    "model": 6,
+    "name": "Slem sa velikom ceonom plocom",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 5,
+    "split_layers": false,
+    "source_bbox": [
+      96,
+      614,
+      470,
+      913
+    ],
+    "registration": {
+      "width": 450,
+      "height": 513,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_7",
+    "type": "helmet",
+    "model": 7,
+    "name": "Pustinjski slem sa stitnikom vrata",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 6,
+    "split_layers": true,
+    "source_bbox": [
+      560,
+      611,
+      941,
+      915
+    ],
+    "registration": {
+      "width": 510,
+      "height": 472,
+      "x": 257,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_8",
+    "type": "helmet",
+    "model": 8,
+    "name": "Zimski slem sa usima",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 7,
+    "split_layers": false,
+    "source_bbox": [
+      98,
+      920,
+      466,
+      1208
+    ],
+    "registration": {
+      "width": 450,
+      "height": 415,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_9",
+    "type": "helmet",
+    "model": 9,
+    "name": "Slem sa lisnatom mrezom",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 8,
+    "split_layers": false,
+    "source_bbox": [
+      541,
+      909,
+      967,
+      1205
+    ],
+    "registration": {
+      "width": 510,
+      "height": 400,
+      "x": 257,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_10",
+    "type": "helmet",
+    "model": 10,
+    "name": "Padobranski slem",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 9,
+    "split_layers": false,
+    "source_bbox": [
+      99,
+      1214,
+      463,
+      1482
+    ],
+    "registration": {
+      "width": 450,
+      "height": 307,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_11",
+    "type": "helmet",
+    "model": 11,
+    "name": "Segmentirani PMC slem",
+    "group": "infantry",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "white",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 10,
+    "split_layers": false,
+    "source_bbox": [
+      567,
+      1202,
+      935,
+      1491
+    ],
+    "registration": {
+      "width": 450,
+      "height": 457,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_12",
+    "type": "helmet",
+    "model": 12,
+    "name": "Helikopterska kaciga",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "black",
+      "navy",
+      "white"
+    ],
+    "source_cell": 1,
+    "split_layers": false,
+    "source_bbox": [
+      151,
+      18,
+      481,
+      291
+    ],
+    "registration": {
+      "width": 480,
+      "height": 440,
+      "x": 272,
+      "y": 60
+    }
+  },
+  {
+    "id": "helmet_13",
+    "type": "helmet",
+    "model": 13,
+    "name": "Pilotska kaciga sa podignutim vizirom",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "black",
+      "navy",
+      "white"
+    ],
+    "source_cell": 2,
+    "split_layers": false,
+    "source_bbox": [
+      574,
+      14,
+      857,
+      295
+    ],
+    "registration": {
+      "width": 480,
+      "height": 519,
+      "x": 272,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_14",
+    "type": "helmet",
+    "model": 14,
+    "name": "Spasilacka kaciga sa lampom",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "orange",
+      "yellow",
+      "white"
+    ],
+    "source_cell": 3,
+    "split_layers": false,
+    "source_bbox": [
+      165,
+      305,
+      474,
+      589
+    ],
+    "registration": {
+      "width": 480,
+      "height": 517,
+      "x": 272,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_15",
+    "type": "helmet",
+    "model": 15,
+    "name": "Industrijska zastitna kaciga",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "orange",
+      "yellow",
+      "white"
+    ],
+    "source_cell": 4,
+    "split_layers": false,
+    "source_bbox": [
+      537,
+      312,
+      898,
+      588
+    ],
+    "registration": {
+      "width": 480,
+      "height": 437,
+      "x": 272,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_16",
+    "type": "helmet",
+    "model": 16,
+    "name": "Kozna avijaticarska kaciga",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "brown",
+      "black",
+      "sand"
+    ],
+    "source_cell": 5,
+    "split_layers": false,
+    "source_bbox": [
+      176,
+      605,
+      459,
+      881
+    ],
+    "registration": {
+      "width": 480,
+      "height": 586,
+      "x": 272,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_17",
+    "type": "helmet",
+    "model": 17,
+    "name": "Palubna komunikaciona kaciga",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "navy",
+      "orange",
+      "white"
+    ],
+    "source_cell": 6,
+    "split_layers": false,
+    "source_bbox": [
+      547,
+      602,
+      880,
+      871
+    ],
+    "registration": {
+      "width": 480,
+      "height": 501,
+      "x": 272,
+      "y": 70
+    }
+  },
+  {
+    "id": "helmet_18",
+    "type": "helmet",
+    "model": 18,
+    "name": "Interventna kaciga sa stitom",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "black",
+      "navy"
+    ],
+    "source_cell": 7,
+    "split_layers": false,
+    "source_bbox": [
+      162,
+      880,
+      474,
+      1180
+    ],
+    "registration": {
+      "width": 460,
+      "height": 585,
+      "x": 282,
+      "y": 65
+    }
+  },
+  {
+    "id": "helmet_19",
+    "type": "helmet",
+    "model": 19,
+    "name": "Zatvoreni breacher slem",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "urban"
+    ],
+    "source_cell": 8,
+    "split_layers": false,
+    "source_bbox": [
+      573,
+      884,
+      855,
+      1184
+    ],
+    "registration": {
+      "width": 460,
+      "height": 585,
+      "x": 282,
+      "y": 65
+    }
+  },
+  {
+    "id": "helmet_20",
+    "type": "helmet",
+    "model": 20,
+    "name": "Motociklisticka kaciga",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "black",
+      "red",
+      "blue"
+    ],
+    "source_cell": 9,
+    "split_layers": false,
+    "source_bbox": [
+      165,
+      1187,
+      463,
+      1515
+    ],
+    "registration": {
+      "width": 460,
+      "height": 585,
+      "x": 282,
+      "y": 65
+    }
+  },
+  {
+    "id": "helmet_21",
+    "type": "helmet",
+    "model": 21,
+    "name": "Egzoskeletna PMC kaciga",
+    "group": "specialist",
+    "choices": [
+      "gray",
+      "black",
+      "red",
+      "gold"
+    ],
+    "source_cell": 10,
+    "split_layers": false,
+    "source_bbox": [
+      560,
+      1190,
+      869,
+      1506
+    ],
+    "registration": {
+      "width": 460,
+      "height": 585,
+      "x": 282,
+      "y": 65
+    }
+  },
+  {
+    "id": "beret_1",
+    "type": "beret",
+    "model": 1,
+    "name": "Beretka Vuk",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "maroon",
+      "navy"
+    ],
+    "source_cell": 1,
+    "split_layers": false,
+    "source_bbox": [
+      48,
+      41,
+      476,
+      283
+    ],
+    "registration": {
+      "width": 450,
+      "height": 279,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "beret_2",
+    "type": "beret",
+    "model": 2,
+    "name": "Beretka Stit",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "maroon",
+      "navy"
+    ],
+    "source_cell": 2,
+    "split_layers": false,
+    "source_bbox": [
+      550,
+      47,
+      953,
+      280
+    ],
+    "registration": {
+      "width": 450,
+      "height": 276,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "beret_3",
+    "type": "beret",
+    "model": 3,
+    "name": "Oficirska beretka Pero",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "maroon",
+      "navy"
+    ],
+    "source_cell": 3,
+    "split_layers": false,
+    "source_bbox": [
+      60,
+      338,
+      446,
+      555
+    ],
+    "registration": {
+      "width": 450,
+      "height": 272,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "beret_4",
+    "type": "beret",
+    "model": 4,
+    "name": "Padobranska beretka Krila",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "maroon",
+      "navy"
+    ],
+    "source_cell": 4,
+    "split_layers": false,
+    "source_bbox": [
+      554,
+      330,
+      984,
+      551
+    ],
+    "registration": {
+      "width": 450,
+      "height": 269,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "hat_1",
+    "type": "hat",
+    "model": 1,
+    "name": "Boonie sesir",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 5,
+    "split_layers": false,
+    "source_bbox": [
+      29,
+      588,
+      526,
+      849
+    ],
+    "registration": {
+      "width": 700,
+      "height": 257,
+      "x": 162,
+      "y": 70
+    }
+  },
+  {
+    "id": "hat_2",
+    "type": "hat",
+    "model": 2,
+    "name": "Dzungla sesir",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 6,
+    "split_layers": false,
+    "source_bbox": [
+      551,
+      603,
+      993,
+      832
+    ],
+    "registration": {
+      "width": 700,
+      "height": 257,
+      "x": 162,
+      "y": 70
+    }
+  },
+  {
+    "id": "hat_3",
+    "type": "hat",
+    "model": 3,
+    "name": "Ekspedicijski sesir",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 7,
+    "split_layers": false,
+    "source_bbox": [
+      28,
+      878,
+      522,
+      1136
+    ],
+    "registration": {
+      "width": 700,
+      "height": 255,
+      "x": 162,
+      "y": 70
+    }
+  },
+  {
+    "id": "hat_4",
+    "type": "hat",
+    "model": 4,
+    "name": "Rendzerski sesir",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "woodland",
+      "desert"
+    ],
+    "source_cell": 8,
+    "split_layers": false,
+    "source_bbox": [
+      529,
+      860,
+      1002,
+      1120
+    ],
+    "registration": {
+      "width": 700,
+      "height": 255,
+      "x": 162,
+      "y": 70
+    }
+  },
+  {
+    "id": "hat_5",
+    "type": "hat",
+    "model": 5,
+    "name": "Pletena strazarska kapa",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "navy"
+    ],
+    "source_cell": 9,
+    "split_layers": false,
+    "source_bbox": [
+      80,
+      1163,
+      479,
+      1457
+    ],
+    "registration": {
+      "width": 408,
+      "height": 273,
+      "x": 308,
+      "y": 70
+    }
+  },
+  {
+    "id": "hat_6",
+    "type": "hat",
+    "model": 6,
+    "name": "Subara sa spustenim usima",
+    "group": "hats",
+    "choices": [
+      "gray",
+      "black",
+      "brown",
+      "white"
+    ],
+    "source_cell": 10,
+    "split_layers": false,
+    "source_bbox": [
+      556,
+      1137,
+      969,
+      1499
+    ],
+    "registration": {
+      "width": 500,
+      "height": 365,
+      "x": 262,
+      "y": 70
+    }
+  },
+  {
+    "id": "hood_1",
+    "type": "hood",
+    "model": 1,
+    "name": "Izvidjacka kisna kapuljaca",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "source_cell": 1,
+    "split_layers": true,
+    "source_bbox": [
+      131,
+      13,
+      424,
+      305
+    ],
+    "registration": {
+      "width": 720,
+      "height": 575,
+      "x": 152,
+      "y": 70
+    }
+  },
+  {
+    "id": "hood_2",
+    "type": "hood",
+    "model": 2,
+    "name": "Zimska krznena kapuljaca",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "white",
+      "black",
+      "navy"
+    ],
+    "source_cell": 2,
+    "split_layers": true,
+    "source_bbox": [
+      589,
+      13,
+      918,
+      308
+    ],
+    "registration": {
+      "width": 720,
+      "height": 510,
+      "x": 152,
+      "y": 70
+    }
+  },
+  {
+    "id": "hood_3",
+    "type": "hood",
+    "model": 3,
+    "name": "Pustinjska marama za glavu",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "sand",
+      "brown",
+      "desert"
+    ],
+    "source_cell": 3,
+    "split_layers": true,
+    "source_bbox": [
+      77,
+      316,
+      463,
+      641
+    ],
+    "registration": {
+      "width": 720,
+      "height": 760,
+      "x": 152,
+      "y": 70
+    }
+  },
+  {
+    "id": "hood_4",
+    "type": "hood",
+    "model": 4,
+    "name": "Lisnata ghillie kapuljaca",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "olive",
+      "green",
+      "woodland"
+    ],
+    "source_cell": 4,
+    "split_layers": true,
+    "source_bbox": [
+      558,
+      317,
+      945,
+      623
+    ],
+    "registration": {
+      "width": 720,
+      "height": 612,
+      "x": 152,
+      "y": 70
+    }
+  },
+  {
+    "id": "hood_5",
+    "type": "hood",
+    "model": 5,
+    "name": "Platnena placenicka kapuljaca",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "black",
+      "brown",
+      "woodland"
+    ],
+    "source_cell": 5,
+    "split_layers": true,
+    "source_bbox": [
+      101,
+      615,
+      452,
+      924
+    ],
+    "registration": {
+      "width": 720,
+      "height": 618,
+      "x": 152,
+      "y": 70
+    }
+  },
+  {
+    "id": "hood_6",
+    "type": "hood",
+    "model": 6,
+    "name": "Oklopljena kapuljaca",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "sand",
+      "urban"
+    ],
+    "source_cell": 6,
+    "split_layers": true,
+    "source_bbox": [
+      593,
+      612,
+      910,
+      924
+    ],
+    "registration": {
+      "width": 720,
+      "height": 624,
+      "x": 152,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_11",
+    "type": "cap",
+    "model": 11,
+    "name": "Pletena komando kapa sa vizirom",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "black",
+      "olive",
+      "navy"
+    ],
+    "source_cell": 7,
+    "split_layers": false,
+    "source_bbox": [
+      129,
+      922,
+      425,
+      1186
+    ],
+    "registration": {
+      "width": 420,
+      "height": 360,
+      "x": 302,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_12",
+    "type": "cap",
+    "model": 12,
+    "name": "Docker vunena kapa",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "black",
+      "navy",
+      "brown"
+    ],
+    "source_cell": 8,
+    "split_layers": false,
+    "source_bbox": [
+      583,
+      924,
+      916,
+      1185
+    ],
+    "registration": {
+      "width": 420,
+      "height": 360,
+      "x": 302,
+      "y": 70
+    }
+  },
+  {
+    "id": "hat_7",
+    "type": "hat",
+    "model": 7,
+    "name": "Avijaticarska subara sa vezanim usima",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "black",
+      "brown",
+      "white"
+    ],
+    "source_cell": 9,
+    "split_layers": false,
+    "source_bbox": [
+      94,
+      1185,
+      464,
+      1487
+    ],
+    "registration": {
+      "width": 450,
+      "height": 360,
+      "x": 287,
+      "y": 70
+    }
+  },
+  {
+    "id": "cap_13",
+    "type": "cap",
+    "model": 13,
+    "name": "Spasilacka kapa sa lampom",
+    "group": "hoods",
+    "choices": [
+      "gray",
+      "orange",
+      "navy",
+      "yellow"
+    ],
+    "source_cell": 10,
+    "split_layers": false,
+    "source_bbox": [
+      596,
+      1192,
+      913,
+      1488
+    ],
+    "registration": {
+      "width": 420,
+      "height": 360,
+      "x": 302,
+      "y": 70
+    }
+  }
+]
