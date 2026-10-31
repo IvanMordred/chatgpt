@@ -1,0 +1,68 @@
+{
+  "models": 171,
+  "variants": 918,
+  "unique_images": 918,
+  "canvas": [
+    1024,
+    1024
+  ],
+  "alpha_matches_registered_base": true,
+  "source_and_base_hashes_current": true,
+  "requested_folder_hierarchy": true,
+  "helmet_1": {
+    "camouflage": 216,
+    "solid": 24
+  },
+  "models_by_type": {
+    "helmet": 21,
+    "uniform": 30,
+    "vest": 30,
+    "mask": 6,
+    "scarf": 4,
+    "balaclava": 10,
+    "gasmask": 10,
+    "glasses": 2,
+    "eyepatch": 1,
+    "headset": 2,
+    "cigar": 1,
+    "cigarette": 1,
+    "rank": 3,
+    "facepaint": 5,
+    "scar": 5,
+    "background": 10,
+    "cap": 13,
+    "beret": 4,
+    "hat": 7,
+    "hood": 6
+  },
+  "variants_by_type": {
+    "helmet": 350,
+    "uniform": 146,
+    "vest": 120,
+    "mask": 24,
+    "scarf": 16,
+    "balaclava": 40,
+    "gasmask": 40,
+    "glasses": 2,
+    "eyepatch": 1,
+    "headset": 2,
+    "cigar": 1,
+    "cigarette": 1,
+    "rank": 3,
+    "facepaint": 5,
+    "scar": 5,
+    "background": 10,
+    "cap": 70,
+    "beret": 20,
+    "hat": 36,
+    "hood": 26
+  },
+  "visual_review": "Every base on supplied master; material sheets and 24 explicit cross-category examples. No claim of exhaustive combinatorial compatibility.",
+  "browser_check": {
+    "local_http_viewer": "passed",
+    "presets_loaded": 24,
+    "all_layer_images_1024": true,
+    "closed_helmet_rule": "passed",
+    "console_errors": 0
+  }
+}

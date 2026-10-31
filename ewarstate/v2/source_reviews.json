@@ -1,0 +1,297 @@
+{
+  "helmet_1": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "168c5ec4b74c1f7b49d87fe0e9b63164877eef27713d21d70415607087173b69"
+  },
+  "uniform_10": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "39ed3391759da60f6d00cbc1be48b93ad60699eab5d494be2b05aa0885d0fbbe"
+  },
+  "uniform_15": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "83976b1bf4818baf73ef320ca27f0d4a163e9b0101061a76d86d71a8b9138e32"
+  },
+  "vest_13": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "239599a3830eba9fc6b9c7bcce6b92328c83bd25d16b449a7fb34279d00c5cd7"
+  },
+  "vest_17": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "9e6af5920ff536365aefdeaa7c7a9c0ec0e4162fda89b4ab2f8edc8bbfddcdc1"
+  },
+  "vest_18": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "0cec5b29aa8532dfdf55f33640b49e53798a4d317075e828e45ac9324272cb2e"
+  },
+  "vest_19": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "b582b28d2a8e0916ea0b166d3e67ba59198ce54f9cd21f9db7b2cf142ea9a006"
+  },
+  "vest_21": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "876d4b849d21a286b74d02abb8bbba227aa32ee5af53faa8d637a0d77356fa5e"
+  },
+  "mask_2": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "13522f56cfd738d993ead4e70f417cbd1a3d517fbdc84fc908f92f989eafdf11"
+  },
+  "mask_4": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "072bb4ea16c510c3a0f5d7ea251eac19301af2dfd00de9120662bb9d32554e98"
+  },
+  "mask_5": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "11cc967df53b4d37bcc0e255e33fb29e1a363aca568bc917f2e89f9a4fd9f92f"
+  },
+  "scarf_2": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "eca4f26eb9609abe0fa01f6ac16a18c3470b0d522d80fbce94b3bf7b6f032486"
+  },
+  "cap_10": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "a2bee634ca3f3538ca09678f5fc92d84b564c60e91d071c645940f0859d9082b"
+  },
+  "helmet_2": {
+    "state": "no_person_confirmed",
+    "reason": "Edited equipment-only source visually inspected; all person pixels and chin straps removed.",
+    "source_sha256": "516cfa2746a7d6b59c684c69ded59851bfa589871a66127e49b194165b6f300b"
+  },
+  "helmet_3": {
+    "state": "no_person_confirmed",
+    "reason": "Edited equipment-only source visually inspected; all person pixels and chin straps removed.",
+    "source_sha256": "929bef8cec93aed4cf96924162641f00fd43bafbbfa80d061c1bb36736da5790"
+  },
+  "helmet_7": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "94d938e58bbaa28a148aafd7ea795671aeea3b302045aa01031170ea3c230806"
+  },
+  "helmet_10": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "cba8ebb215e14761af43d1d62cc0821044fb5a3324ae414bef772638d3804964"
+  },
+  "hood_5": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "215d25e96423e6bfe621cf2840bfbce70ed77fcaa4c67c08c674c200c0ece0a6"
+  },
+  "hat_7": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "1ad04946766f36be1fd93a1fd0410cc9a2e08ba0f150f3369e917a63a3b5bb22"
+  },
+  "vest_27": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "efafd64c2c464d5dc9d104ea156923b1970ba0b0b1d248627e804f1ee0a50ea5"
+  },
+  "vest_28": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "2cfc79a1f91471c3e41f2c622ab1691516016da35f0f18187cd03afbbcbce54f"
+  },
+  "gasmask_1": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "4ef52122b5016c3eac85d35655d24b5f19aeb8701718e87d0479f1592848f885"
+  },
+  "gasmask_2": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "20fb3f1367e63b6eedd56b0a35cce738b178324ad30e3d79fa537dbb88302fc3"
+  },
+  "gasmask_3": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "7d07d345fa7cb5d1288823b79b09b810258949cf41ae17ba22ee258701ab1ad4"
+  },
+  "gasmask_4": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "404b6384843b4e117bb99f661ee376ff9193cc558499a216cf596f5ae4c3aca7"
+  },
+  "gasmask_5": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "4baa4802f45b8a0d4ed721558441ce2651e773f29b76a9bf134c1cd7e054dcac"
+  },
+  "gasmask_6": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "e05c7845e0378e076add45f8281e98431f232058d761ebd4ef5f95868cdb85aa"
+  },
+  "gasmask_7": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "3b642482642b1912225baddfb90a759c0ab2047ebfa1db1c3c40ff8ec76c4e98"
+  },
+  "gasmask_8": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "9a9fb15aab22269f93e08b5ede45125a0a5491b4be1fa08f7d5062b5e448bfdc"
+  },
+  "gasmask_9": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "6dcfe3d8dca3349367722df9f99bf95337de7c3879a7430daa6ffabcd6fb1981"
+  },
+  "gasmask_10": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "710e85e922759d561c9191b0034e0f115d2b72ab409b0bc7474cfccf700391a6"
+  },
+  "glasses_1": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "cb7cd4e686779a16d5e17639d88e788e6f4e005251a703b34f0e83cc3ce30b3c"
+  },
+  "eyepatch_1": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "621fc49e3cb66b8de05f9e388dee032e61b3c54c1489f95ee8afa911b8f61e0e"
+  },
+  "helmet_9": {
+    "state": "no_person_confirmed",
+    "reason": "Edited equipment-only source visually inspected; all person pixels and chin straps removed.",
+    "source_sha256": "9dca40c398a8de92d4d76313acfe33de0f105515a92d3252cd448f25cf5fb3c7"
+  },
+  "helmet_11": {
+    "state": "no_person_confirmed",
+    "reason": "Edited equipment-only source visually inspected; all person pixels and chin straps removed.",
+    "source_sha256": "f3f878692be389186d4621c62be7f6c36c6e5b5ab267df137fe367cd9643bbcd"
+  },
+  "helmet_12": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "9a95ac9dbacfa13f33a3ccf725859c40ec29b509c8b63afcddac53ebf993d2f3"
+  },
+  "helmet_13": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "885a6bcb10b933b6b67f68632b30e4eacb5a621c4e76d2445045e7305c16b5d6"
+  },
+  "helmet_14": {
+    "state": "no_person_confirmed",
+    "reason": "Edited equipment-only source visually inspected; all person pixels and chin straps removed.",
+    "source_sha256": "12aacb9ff00661c3db2b6a1d4091021ff5a18a709d3c4b975c95116b630a6a78"
+  },
+  "helmet_16": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "350a56072a68fd458f1fad9fb5417572cf565fbd0a48e78ab05f9fef7c54ee41"
+  },
+  "helmet_19": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "ec1f07f7d78db22a3f4d993f36a714b41a64bbad728f04dc633b23ee69bca1f4"
+  },
+  "helmet_21": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "5574a9aaad2ac5a1188f87a8659a8b139709f72bf11dc96136814ed7e0059668"
+  },
+  "beret_1": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "5179396c20737d4c6c9b95413199da24d46847f19a155685f6cf6d36cdca98b1"
+  },
+  "beret_2": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "3b273b9f5f72618623e92dea1e14e2f2a464cd3ff5c60418e97d5c9bea15c15c"
+  },
+  "beret_3": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "76f9eed32679cb5ca93e61b1e616a3f65ffadad3e4ddffa5943be379b3caee7c"
+  },
+  "beret_4": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "aa057fe29a46950f51dab01277d43110e0bc3b8f4d99ccdcea532171d5eba42a"
+  },
+  "hat_1": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "756415a107b0cc33bfa39d1611502033708eaf5406f334f744384ec706edd2f3"
+  },
+  "hat_3": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "fc558de8a39017bb8622726f9efe05725a3e8580a2208669b6bd9118fb05de7a"
+  },
+  "hat_4": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "c2f42e6df1bf1b8497248153fd4d5a982d9b149845a06dfdde72b5e46cfec9bf"
+  },
+  "hat_6": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "5ba9540a9a817bed03bcd5a5c8f478cd8f4be312a93c5cbe68f91f61f9851628"
+  },
+  "hood_3": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "f1b4d4910e7e9700d5f7f6d339450104613de91f2ca863116d4de9711f601f19"
+  },
+  "hood_4": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "024a0a8ef1813d728dfc207faf8a5f326c7b696654e79fabe1e9edf40c47ed6f"
+  },
+  "cap_11": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "bb895b118ae81180513c2f7f7713374b3dc7e1463504b1a544904097f69ead63"
+  },
+  "cap_13": {
+    "state": "no_person_confirmed",
+    "reason": "Raw source visually reviewed: isolated equipment with warm material/hardware accents; no person or skin.",
+    "source_sha256": "9da0eec2b39a4f74118e4448f3bacb0bd3cf1fb7a2828772d57f0a1c19e4219f"
+  },
+  "helmet_4": {
+    "state": "no_person_confirmed",
+    "reason": "Edited equipment-only source visually inspected; all person pixels and chin straps removed.",
+    "source_sha256": "6473fde5d7928142f196c8d76bc208eb1387592f344a9b88a8dde66a677b6ccd"
+  },
+  "helmet_6": {
+    "state": "no_person_confirmed",
+    "reason": "Edited equipment-only source visually inspected; all person pixels and chin straps removed.",
+    "source_sha256": "b69379acedf670267a66c0858c47aa9b07675d70aa42a56f4b80996cb75fce3c"
+  },
+  "helmet_15": {
+    "state": "no_person_confirmed",
+    "reason": "Edited equipment-only source visually inspected; all person pixels and chin straps removed.",
+    "source_sha256": "6237dc05cb97e25ff68082456b4be4d35a5f23f5d01cacb0401e5491f8b0f153"
+  },
+  "hood_2": {
+    "state": "no_person_confirmed",
+    "reason": "Equipment-only revised source visually inspected; no person pixels.",
+    "source_sha256": "d1adab0b1a6b080f410de04eccd4953e706566c6e1131f9ba0a66c2b36cc5c04"
+  },
+  "cap_12": {
+    "state": "no_person_confirmed",
+    "reason": "Equipment-only revised source visually inspected; no person pixels.",
+    "source_sha256": "d6e63f0842f816eb09a9ff1cabaf7107162a65a331cf3efb3202b434aada821c"
+  },
+  "helmet_18": {
+    "state": "no_person_confirmed",
+    "reason": "Equipment-only revised source visually inspected; no person pixels.",
+    "source_sha256": "b515c8cfb2db7cfeab50c911e48e9cc794083c6819454d098fcbdfefd63a6677"
+  }
+}

@@ -1,0 +1,4431 @@
+{
+  "uniform_1": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "75fe29d95a078d4ed7de6e9dc87a6a1ac1704b113132a9a5c9f09c68108b810e",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      2
+    ],
+    "centerline_alpha_runs": [
+      [
+        803,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "765475d0b55563c0bbcb455fad46ba527a02247a98da092f85bc1f86b8cced2e"
+  },
+  "uniform_2": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "7df28362ce1adb03eae7abd35dd6836840de7d8064c3a8e689827af521958ee6",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      13
+    ],
+    "centerline_alpha_runs": [
+      [
+        730,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "9253cd3d5330431496fb1b78b9ff23fccee9e38dd197d0ceda6a352b8883c1fd"
+  },
+  "uniform_3": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "765e09b242c35722aa5bda75877bf8965d7bcc4e610b5fdbe51abf020ffd39d0",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      56
+    ],
+    "centerline_alpha_runs": [
+      [
+        838,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "bca509bee1f684818f3b5d87ce69a1a2b5f82420d3c3e08b69b2892ad950efc1"
+  },
+  "uniform_4": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "4c2ec12ece0a10cb1e2aca393ab9681d2c14d7e72271070ab3276ee9f1abd2d4",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      50
+    ],
+    "centerline_alpha_runs": [
+      [
+        805,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "9d2565becc3f594974310df0da3dffae2756939f24d539337ef264057457edfd"
+  },
+  "uniform_5": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "b94a5f41dffcd324b81a8842611f4e12b8b324d40c11a010658419981c3acfad",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      14
+    ],
+    "centerline_alpha_runs": [
+      [
+        802,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "bca84b55420b699de9dc3e5eab5b52f7a70ad36d92604fd1c638e7c0236c4a57"
+  },
+  "uniform_6": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "fb94078d504b8c14c18fadd347d448d5dc8e1d75773c8ecc520fbf17f1c824dd",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      14
+    ],
+    "centerline_alpha_runs": [
+      [
+        804,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "02c03f745dd19e5732493fbb0bddc1af83f5c20c208cf54bd471addacf914761"
+  },
+  "vest_1": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "8a668fd1dadf41f51649569efff1878cdf7c26ead52a3910cb93eec48cd01f06",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      71
+    ],
+    "centerline_alpha_runs": [
+      [
+        780,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "b6dfec0843c3a0ee6310fdbae019baabda5ac2b127bb883ccf3ac9474e48d906"
+  },
+  "uniform_7": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "c57b3ca504ed3c24f7650056f16fed60514852918bd68837f450eaa6b29afdc8",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      10
+    ],
+    "centerline_alpha_runs": [
+      [
+        737,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "432daa0bf5306ea529ef4862591f320865405b778367c73046e9528166989348"
+  },
+  "uniform_8": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "2b8cb27ac8ffcb911c0f7d8802ce20e91f427b0a8a2d74aab6c842e4426bc70d",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      76
+    ],
+    "centerline_alpha_runs": [
+      [
+        836,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "3687cb9fa940a9c893ec1866dab60ff0024638bd0086efa49f64e2e16de0bef4"
+  },
+  "uniform_9": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "bcfc6339ebbb421b01feaf254c92d8ce69085504ca1cb4ce3b5255c689711dc7",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      12
+    ],
+    "centerline_alpha_runs": [
+      [
+        762,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "8edaee5b552b6546485044416a4b85c2046a36c0c25c21e19f44f279f4056692"
+  },
+  "uniform_10": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "39ed3391759da60f6d00cbc1be48b93ad60699eab5d494be2b05aa0885d0fbbe",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      104
+    ],
+    "centerline_alpha_runs": [
+      [
+        819,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "209d2a3d4a103946010918aa2f96e406a75f8eb2e77573bc5027841883c99b95"
+  },
+  "vest_2": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "1faa5c31a6aeb34fcd6c9c7ca001a16d94df04e2d3a9f780273a5d6fd3f06e6c",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      148
+    ],
+    "centerline_alpha_runs": [
+      [
+        803,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "40a828b7752b471b5e2166d9d1da7d6fc5a7a7ebcbdbbd516177f6d5596b1bd0"
+  },
+  "vest_3": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "9ec3e6ff53e8b671b2b2f9fd9876b300529553f17c2043b879182a40be9ad572",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      132
+    ],
+    "centerline_alpha_runs": [
+      [
+        909,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "04fc6e185638f8e87908d1ee5a8c8ce97e475b2992ca04569df762f709c3f1b9"
+  },
+  "vest_4": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "998e42e04e535d0acb5fcb1df2d95e21db86bb6e44a45e250125ffa0fdc62325",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      112
+    ],
+    "centerline_alpha_runs": [
+      [
+        793,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "150d1c5706f3a2fcd3730dcffb6d216a748aa00ca1913d4860642dc8ba334990"
+  },
+  "vest_5": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "d189619cacc0dea01f120634029995e72ee036f5c170eec5903d52463a073bcd",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      101
+    ],
+    "centerline_alpha_runs": [
+      [
+        832,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "d33fb592417c0b062a7d3a709ece0722b1978e20efa928d616d1f74a99d9d197"
+  },
+  "uniform_11": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "4cba808473fe736560fd60f1d351f1fbc9ce3a77f77dec2eaedc90bab4ef20d4",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      115
+    ],
+    "centerline_alpha_runs": [
+      [
+        803,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "b3d15ddaf1185702f9869e5d82cdb045c035e52f1a4a18b1f1d2a28452380a2c"
+  },
+  "uniform_12": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "78c63cded076a038b16afa727ddfc4e5b6c3b5e770420bf79bff0c9932598ae3",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      112
+    ],
+    "centerline_alpha_runs": [
+      [
+        854,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "7409f5838dae319dcac887933a9daab8668208611658fe273d17c6f395213273"
+  },
+  "uniform_13": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "4d43906797b44b5af4f74280ba075ae488cca949d1eaa93ca71057e61aaa4eda",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      54
+    ],
+    "centerline_alpha_runs": [
+      [
+        765,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "269f0d98cf64abfcce216fea985e4cfbfcfbdf08936db0dee58dcb88a4ee50c6"
+  },
+  "helmet_1": {
+    "source_sha256": "168c5ec4b74c1f7b49d87fe0e9b63164877eef27713d21d70415607087173b69",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      163,
+      179,
+      1092,
+      780
+    ],
+    "scale": 0.5144694533762058,
+    "translation": [
+      272,
+      83
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 83,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "1bdbe8298392cd1d8e64992bdf0e9402e54176737b6b80ffb9b354d6740ce035"
+  },
+  "vest_6": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "ca892af7face863d54e81e73e569bdecb83ade20e8af91a5b2aa9000b899e832",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      90
+    ],
+    "centerline_alpha_runs": [
+      [
+        832,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "6f98fa983a76b32b42cb05acc11e8b5292dc94e9ece345af65b6b1b7ec477e28"
+  },
+  "vest_7": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "6198b399b35154270377e713e7793b028dab378639cdf3069a59f065356dc912",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      137
+    ],
+    "centerline_alpha_runs": [
+      [
+        814,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "c0c343d67cf9eed5188a5a939d853ccbb1f8713acc3af1b121d5e27614a308d3"
+  },
+  "vest_8": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "7ee64a26f02edf2d1af4d4257e96110aed260637420be38d516df8d036b34975",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      162
+    ],
+    "centerline_alpha_runs": [
+      [
+        798,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "402b78f58944865a761c2458ebb29fca8eea4a8a3d440b1007b58320a578e439"
+  },
+  "vest_9": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "b244aef05ec1da76473270a529f4ac115f9156b9d52ee98125eea8d0d5b70c57",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      168
+    ],
+    "centerline_alpha_runs": [
+      [
+        894,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "dcd324e7fa70b8635c84691ce4e4052e5522d5ebe47a4940982ac86b15a04d8d"
+  },
+  "vest_10": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "8bb9a73c9ae746b16268bb0f0efc204778b1a1bf024bb92e6326ddeb9baa1215",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      115
+    ],
+    "centerline_alpha_runs": [
+      [
+        806,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "779adba65f535b2d3b9a67b25148fe0d010239682448858c57d6d1a0e7f15f68"
+  },
+  "uniform_14": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "74c00c7aab4838dfc9b5faa1f7e5a78022b7e5d85302475efc9b7e1b0255c08a",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      116
+    ],
+    "centerline_alpha_runs": [
+      [
+        865,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "007ca84d21cd90a29e50ada5c8fac2a9428d74dbf8ad8ca55632b2efe6d57eb9"
+  },
+  "uniform_15": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "83976b1bf4818baf73ef320ca27f0d4a163e9b0101061a76d86d71a8b9138e32",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      77
+    ],
+    "centerline_alpha_runs": [
+      [
+        856,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "1d5b640839aa6856228ddb9cbb6ca5f05d8fb6555b91e4a01d154dbad629dac5"
+  },
+  "uniform_16": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "82d7bb0c366ce74a4500168a6e761c0dd06b88135f0cf5d271f7592aac256161",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      107
+    ],
+    "centerline_alpha_runs": [
+      [
+        818,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "2b16aa368a096f39e06197152771d02a8bc11ee357c0361901e48d10ff4d0e59"
+  },
+  "uniform_17": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "4ffe587b6dd473f372be0f93d278124636e61039253157d2e8c205c29ea5107c",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      9
+    ],
+    "centerline_alpha_runs": [
+      [
+        744,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "6f0fae567b4da50c249e15e0c871075ccfda49e5b74ad6fa69d8d181e5f5c533"
+  },
+  "uniform_18": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "2cfec1e135201d2d69212cb323f9e1c8f08d338aa1e0ab7cdd9dd7e2fc440319",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      55
+    ],
+    "centerline_alpha_runs": [
+      [
+        860,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "2db1a4adaa33c9bbee46b84503167c4d5734d9205f24ad7e21456aba822900ab"
+  },
+  "uniform_19": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "a3286a447dd7e71f29e836fe3f8b149e6fca6fe98b252dadc5997dae65b2b578",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      53
+    ],
+    "centerline_alpha_runs": [
+      [
+        836,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "cdcab1e195d5f2d7c52e79ad4ec0ab845fbe1b042a130bfe485d18744c18504c"
+  },
+  "uniform_20": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "1dd3403954be60ea6121777a6120889ec14bed4b4aa50aca0223f0be060b91a9",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      108
+    ],
+    "centerline_alpha_runs": [
+      [
+        828,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "b6cf69a62973cb4a38798b83f490f806c011c6e5c43addbe081da294cad984e4"
+  },
+  "vest_11": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "90e1c45e999ac992dd3704f7526abd83c2aca40f482610cee402ec2fc2ab86ba",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      153
+    ],
+    "centerline_alpha_runs": [
+      [
+        819,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "1e740e77c2d91287e51e5c3d65ace80e03453f1718ac84e46e9f31b0510ad946"
+  },
+  "vest_12": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "398a488ba6de7dde07cb5f7b8079c7a73bcd62c8869f2e3db60f7a5520b3d967",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      152
+    ],
+    "centerline_alpha_runs": [
+      [
+        840,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "f210b24ae8729a2ca2ae15f82f2f5fc76277eec6b7e3f52a2ebdd6bd230c179d"
+  },
+  "vest_13": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "239599a3830eba9fc6b9c7bcce6b92328c83bd25d16b449a7fb34279d00c5cd7",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      152
+    ],
+    "centerline_alpha_runs": [
+      [
+        851,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "9bd228b481c45e7338387a8ed961cc903601bb836ca744b3a6a7124daf4a591e"
+  },
+  "uniform_21": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "7f629bfe1e041a1027e6ec2a6dfc04b8934846cc7bae21d53c8e82e16216045a",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      46
+    ],
+    "centerline_alpha_runs": [
+      [
+        762,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "047bfbac108e081515a4b72e58acd652f0fa0bd9c8d9a3a0a5b521e0c62cdd14"
+  },
+  "uniform_22": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "5c06afa0fadfc82aeb0b89b958aff660d7d581711fc9f3df3d4250fe024b54ce",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      47
+    ],
+    "centerline_alpha_runs": [
+      [
+        750,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "e8216fe84d7557ed294216cf8c924a6d90785703c4a507a0727fa9280404a0d7"
+  },
+  "uniform_23": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "b4e7c7a75afc9788d7b9d211c7b39de2e38d1c9c444204ac675358db42ed486b",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      28
+    ],
+    "centerline_alpha_runs": [
+      [
+        827,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "b239f7c291b00669a66a495f24fe863fddb1175172702b3f6185f1965914df5e"
+  },
+  "uniform_24": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "34f3d61e4450be5c3b899c6a0cb86183ec53abae587252d40dce210bae250024",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      57
+    ],
+    "centerline_alpha_runs": [
+      [
+        828,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "36ee287c52d33738013ef60e822cc3b4a72f7d3e0947ba42d75dc678f916ab06"
+  },
+  "uniform_25": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "e34b05c82c40594c6b5d647f8e20827c426443fd4cbd26f70626af75cce0e210",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      48
+    ],
+    "centerline_alpha_runs": [
+      [
+        819,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "cf0875f31c4f8cdbd37223c271ce2860d9f3cd293711499672d1024831fd532e"
+  },
+  "uniform_26": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "c98c1430ad30f08b8b8d9fdcad16040c73ee763446e712ec822e07a5150a3183",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      -5
+    ],
+    "centerline_alpha_runs": [
+      [
+        788,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "7de51ddb8d47f3346118a02961405babd4b72fb6717f3119d1bec4df0a931744"
+  },
+  "uniform_27": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "02d965774f642581f5fb2d13911809f3d41d5e9e21ec4dffb37821a411cbd5a7",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      37
+    ],
+    "centerline_alpha_runs": [
+      [
+        829,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "5decdd2a26523087dc7cc3a3afbf5f1036804e2dcc6e23ff3853442e0dc118cc"
+  },
+  "uniform_28": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "3f79132710488333618d46519ecaf1a88bbb0394529b071f4dd3e612bf00872c",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      65
+    ],
+    "centerline_alpha_runs": [
+      [
+        824,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "6eaa0303fc2030c149fd0e39572bc81f839fca38d57ea3649355d19d0593be28"
+  },
+  "uniform_29": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "9f019b4cc95d3770d19991f6476ad6931a340250987e890a2b86b8e1057fc0d3",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      39
+    ],
+    "centerline_alpha_runs": [
+      [
+        812,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "8acaa5813dfd7f9f53af32c54f39b541c3e2880e8923cc9b346f8b4de6454d3b"
+  },
+  "uniform_30": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "a6274e8967bf3983e1f2ba31af74dd72ccb858d5a0a96b89fe43dc51785f4291",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      -9
+    ],
+    "centerline_alpha_runs": [
+      [
+        756,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "e956db8d05f9fce84d5a65f91441337edfff0337e2cb0787e88f4876e0b3586c"
+  },
+  "headset_1": {
+    "method": "rigid_components_uniform_scale",
+    "scale": 0.34,
+    "left_component_bbox": [
+      103,
+      460,
+      421,
+      944
+    ],
+    "left_component_top_left": [
+      265,
+      335
+    ],
+    "right_complete_boom_mapping": {
+      "scale": 0.34,
+      "translation": [
+        379,
+        185
+      ]
+    },
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "source_sha256": "1abcd88bda6a8e7406e47bfccc130aa664f80cb016a940464d5e0a43655569ee",
+    "base_sha256": "0550cb7998440798b9c519276fb82a0b9246dcb7f4949d74c09bacbceae37c1f"
+  },
+  "cap_1": {
+    "source_sha256": "bb6ac4310c8490082ef34862aaf932ba020b9c1dc738a842b4af57e8fea750d0",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      190,
+      218,
+      1064,
+      862
+    ],
+    "scale": 0.4783599088838269,
+    "translation": [
+      302,
+      64
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 420,
+      "top": 64,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "047bb822d0e64da251c4d287cf8e48b3deaf62df9adfa40d9c2b3354d6c0e3a8"
+  },
+  "cap_2": {
+    "source_sha256": "dd0724b7a2fb9ad2f11489c713b95b0747e50df62423047ea867e63a18616a00",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      177,
+      234,
+      1074,
+      825
+    ],
+    "scale": 0.46614872364039955,
+    "translation": [
+      302,
+      76
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 420,
+      "top": 76,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "d94e4d95cc084009e1402adfbadf9d38318caeab460f185b30546bed2e20d186"
+  },
+  "cap_3": {
+    "source_sha256": "dc8b33c43824dcb24a461e4c0cd0cd7944b2fc82694b9950eb139faeb67c1ebb",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      185,
+      145,
+      1070,
+      856
+    ],
+    "scale": 0.47244094488188976,
+    "translation": [
+      302,
+      52
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 420,
+      "top": 52,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "d88f45398f8fb0e5140b675bc1dc04fbd3c7984854c5ac8eaa47aa799fc95c45"
+  },
+  "cap_4": {
+    "source_sha256": "fc71d278c55ac3521ae392f88784ec2b47b073b4956b89c5cb66c56f58baf658",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      135,
+      230,
+      1119,
+      873
+    ],
+    "scale": 0.4251012145748988,
+    "translation": [
+      302,
+      82
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 420,
+      "top": 82,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "698a4e5be13781e680fd3580d7288b58aad5ec27bb89228595924b679fb0fc7a"
+  },
+  "cap_5": {
+    "source_sha256": "a0ab61884d42230c215a462b7b38e8a99cdba345632a5b8730f9fa1313bfef51",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      202,
+      224,
+      1053,
+      870
+    ],
+    "scale": 0.5497076023391813,
+    "translation": [
+      277,
+      92
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 470,
+      "top": 92,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "f74e33c4bec380b7fcc8fc404eafc00b5db5913be0919e84fbc81a223343f2f2"
+  },
+  "cap_6": {
+    "source_sha256": "8472726985b30713d7316dd097d3c0401f968f3bab36ce9c3701a24c0a39b78b",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      170,
+      152,
+      1084,
+      1060
+    ],
+    "scale": 0.45751633986928103,
+    "translation": [
+      302,
+      88
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 420,
+      "top": 88,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "97027074b6aea9723a2e3943e4a02f236f025ab905797063b97a0d0ff6f943b8"
+  },
+  "cap_7": {
+    "source_sha256": "ef952ab8386b35349c42b60ce57ccebbb639dbb6b972771b3dabed9039fc42ed",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      148,
+      138,
+      1106,
+      935
+    ],
+    "scale": 0.4885654885654886,
+    "translation": [
+      277,
+      83
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 470,
+      "top": 83,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "a2fc171a06dffcadd92c9dd12f50b58d3f612cb88c15d0d22cc218a1d8f8954e"
+  },
+  "cap_8": {
+    "source_sha256": "02961487fa49c1e3ee7651b3093d7df829dbd5eeb3a40f2ef552d98f089b18ff",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      71,
+      208,
+      1182,
+      766
+    ],
+    "scale": 0.4368351889232411,
+    "translation": [
+      268,
+      107
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 487,
+      "top": 107,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "215fdd36bdc556c4e3a0fc56ef7575c3a15de9b00a56b45a53215cda40f53313"
+  },
+  "cap_9": {
+    "source_sha256": "49bf4b01156dde7c3dbd3fd6e841bf022b4846c3d5c55ea0d8e9a1f13e2ede03",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      206,
+      174,
+      1048,
+      821
+    ],
+    "scale": 0.49645390070921985,
+    "translation": [
+      302,
+      116
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 420,
+      "top": 116,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 12,
+      "eyes_clear": true
+    },
+    "base_sha256": "0f9f394cb4e8f4f86a3c3e6a6472337a3f330082b4c1b4e53aa18376678f5fcc"
+  },
+  "helmet_5": {
+    "source_sha256": "5ba02b97666b7bd275a060c229630fd70230412bb4bbcebc79481d5eae05016e",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      185,
+      170,
+      1069,
+      747
+    ],
+    "scale": 0.5405405405405406,
+    "translation": [
+      272,
+      84
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 84,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "81c3d3ca84d6fab85a9c075416a1b155bdfd30ac04a958cc99dad67b7cdc032d"
+  },
+  "helmet_8": {
+    "source_sha256": "b1ebb2443d5684a23cdf79fea65b33d913f5f8c14d8548e035adab35f9151044",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      175,
+      151,
+      1079,
+      1032
+    ],
+    "scale": 0.5286343612334802,
+    "translation": [
+      272,
+      97
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 97,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "a1264e482fc735169b529bbadb87f3b1358e8c9d7f0caa2808441b1abdce9b44"
+  },
+  "hood_6": {
+    "source_sha256": "ef1715f9a1054502c2a59e76b02140598d87f51c74d0d3497934c282cc1d13bf",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      257,
+      90,
+      997,
+      1165
+    ],
+    "scale": 0.8064516129032258,
+    "translation": [
+      212,
+      83
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 600,
+      "top": 83,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "a4461f091d2119df70be98054f2ab5531da333a5fbe3017d26f3853321fe89ee"
+  },
+  "vest_14": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "aa54f22db5e2491be884f11d512faf03115b0edff5cbfe3097da91178040e8b9",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      173
+    ],
+    "centerline_alpha_runs": [
+      [
+        799,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "db5a71907c5843067a7b91b3dffda7db987bbe0b7ea455deb1dfc90703d28ce6"
+  },
+  "vest_15": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "a64cf7cba1c81dd51ea06761cc38046aca43cd3639bc93591e9e439916d345ae",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      139
+    ],
+    "centerline_alpha_runs": [
+      [
+        788,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "c505078a978454912b14c747f9a2faca526d4b1428c948b6757e059ac454e5bd"
+  },
+  "vest_16": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "58bac9ec82c0362ddd5c33701e3da65cdcadaf75d6e629ce7d7c5cde49ecc20a",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      211
+    ],
+    "centerline_alpha_runs": [
+      [
+        846,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "53b35dead8a5463b68eb62c89a45dac1671c52dd85b726e88d74a4e637f58483"
+  },
+  "vest_17": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "9e6af5920ff536365aefdeaa7c7a9c0ec0e4162fda89b4ab2f8edc8bbfddcdc1",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      155
+    ],
+    "centerline_alpha_runs": [
+      [
+        803,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "4e3149a6f19c8d184d62c5e9b2c569c1e2ad0aee031acae8dcf06dbb5c824402"
+  },
+  "vest_18": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "0cec5b29aa8532dfdf55f33640b49e53798a4d317075e828e45ac9324272cb2e",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      159
+    ],
+    "centerline_alpha_runs": [
+      [
+        836,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "9f1441d6858e5cfb2d1798fbc7c7d372ade3ac569d2804a1280bdad6c75f9444"
+  },
+  "vest_19": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "b582b28d2a8e0916ea0b166d3e67ba59198ce54f9cd21f9db7b2cf142ea9a006",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      153
+    ],
+    "centerline_alpha_runs": [
+      [
+        910,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "eef4db7c9eb4001e5a31f39db667d9d8e702254e8615f6ec9058080b0deb4245"
+  },
+  "vest_20": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "8dc232a4848d1cc3b91781a92964229a0232aa4b3e5a3a787aefe0e59d4fc5cb",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      101
+    ],
+    "centerline_alpha_runs": [
+      [
+        805,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "b27d144710881b1352a9806e4584461c3a3dd4c48b9ef4948091655c1a71fbff"
+  },
+  "vest_21": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "876d4b849d21a286b74d02abb8bbba227aa32ee5af53faa8d637a0d77356fa5e",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      88
+    ],
+    "centerline_alpha_runs": [
+      [
+        822,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "d09193793d51bfbd20b9b85610945ed3b2f54c362d1953d242c87e3c7af2ccc7"
+  },
+  "vest_22": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "3f364912f249a74f95a9bf47720d56fdb2a0e450fc94dbdf2956278c9144fe89",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      104
+    ],
+    "centerline_alpha_runs": [
+      [
+        810,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "0b2508dde1002ca5f69497f73b8eb23f566a6a589cc0854c84fad5ae6c40b49b"
+  },
+  "vest_23": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "47be9a6d6556d3c706b3e03a6f505a58a0670a7703c45e904e9031f0ba4f138c",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      107
+    ],
+    "centerline_alpha_runs": [
+      [
+        812,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "e491e5f9d51cd67319e7af4dd0a4d0ee21e50bbe30356e0bed4f409f1966553e"
+  },
+  "vest_24": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "cbf15ec97b578adf7278b5689052405d447c1033c781f268cbc550ba21bb1e70",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      153
+    ],
+    "centerline_alpha_runs": [
+      [
+        808,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "ff7e33f37233962708a5df08b4c8f6ec4d1a29ee40e97977c20e1a2278d0aa96"
+  },
+  "vest_25": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "f91b8245ca400a5648054b4bdc1647770c25f68d86cc914ec693a2fd8fc67e4f",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      139
+    ],
+    "centerline_alpha_runs": [
+      [
+        832,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "e140cf2d339d636d0b7d97576362a65caac3d28b6f64bd20a10cf41a3ef8946a"
+  },
+  "vest_26": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "d2c90c714fb2d5b20450c870c50ae2ba1430e12c191d834ea110be9215dbe5cd",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      153
+    ],
+    "centerline_alpha_runs": [
+      [
+        860,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "e9c14a7e2e83eefa2dfb42d4567ed108c16d967819fcf9fdd65267cde37fed08"
+  },
+  "vest_27": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "efafd64c2c464d5dc9d104ea156923b1970ba0b0b1d248627e804f1ee0a50ea5",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      155
+    ],
+    "centerline_alpha_runs": [
+      [
+        827,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "46dcb3d9637e788efeefe4bfb981dcc5f523a6b1f36f7129cdcfc9f8f2d8dc45"
+  },
+  "vest_28": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "2cfc79a1f91471c3e41f2c622ab1691516016da35f0f18187cd03afbbcbce54f",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      98
+    ],
+    "centerline_alpha_runs": [
+      [
+        817,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "a6651413343773ffcf95841695fb6fb9226ac82c4ec54e17cb02caddf9023e80"
+  },
+  "vest_29": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "a7b3016a56edb9a9d2dbffb750a1e06e1d2cb0ae92a94d81968405a0e33b832e",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      153
+    ],
+    "centerline_alpha_runs": [
+      [
+        825,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "cff56a4331f23fb4409fce0b19c10623a7aae5a56bb7e1705b48fff3a529793f"
+  },
+  "vest_30": {
+    "method": "uniform_whole_canvas_scale_then_translation",
+    "source_sha256": "1850a78fc6a631de2bff219961901c79e52336cf61532fa6dd9711590cadb92f",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "translation": [
+      0,
+      93
+    ],
+    "centerline_alpha_runs": [
+      [
+        817,
+        1000
+      ]
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "8a9fffcd35692061b4b57960f322416ab406a3f56012b53c7cca53c724a6226e"
+  },
+  "cap_10": {
+    "source_sha256": "a2bee634ca3f3538ca09678f5fc92d84b564c60e91d071c645940f0859d9082b",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      24,
+      127,
+      1230,
+      820
+    ],
+    "scale": 0.34710743801652894,
+    "translation": [
+      302,
+      74
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 420,
+      "top": 74,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "a74e1d8ce1cf59b9087bb322613a86cf950c1317d64d2f5c674cf3119a26682b"
+  },
+  "helmet_2": {
+    "source_sha256": "516cfa2746a7d6b59c684c69ded59851bfa589871a66127e49b194165b6f300b",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      116,
+      63,
+      1138,
+      754
+    ],
+    "scale": 0.4678362573099415,
+    "translation": [
+      272,
+      64
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 64,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "7377d7f5a3b199bde25825395308a6d157ceaf4e55496e8bd5a70eaf9095814c"
+  },
+  "helmet_3": {
+    "source_sha256": "929bef8cec93aed4cf96924162641f00fd43bafbbfa80d061c1bb36736da5790",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      102,
+      113,
+      1149,
+      826
+    ],
+    "scale": 0.45670789724072314,
+    "translation": [
+      272,
+      83
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 83,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "7999300712df73ca8fddb63692d07278641ceed9963a35b7e4d51110974995fe"
+  },
+  "helmet_4": {
+    "source_sha256": "6473fde5d7928142f196c8d76bc208eb1387592f344a9b88a8dde66a677b6ccd",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      101,
+      110,
+      1152,
+      750
+    ],
+    "scale": 0.4549763033175355,
+    "translation": [
+      272,
+      116
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 116,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "ae9b46f049aa138854c0a54e1a709bcfe2dd27dcae2777d53c70867df12aa36f"
+  },
+  "helmet_6": {
+    "source_sha256": "b69379acedf670267a66c0858c47aa9b07675d70aa42a56f4b80996cb75fce3c",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      140,
+      98,
+      1113,
+      834
+    ],
+    "scale": 0.49129989764585463,
+    "translation": [
+      272,
+      89
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 89,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "825e64639bd70f3825683b83a7da588dadbe9af83ebdce00464bbb7bf88125c0"
+  },
+  "helmet_7": {
+    "source_sha256": "94d938e58bbaa28a148aafd7ea795671aeea3b302045aa01031170ea3c230806",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      159,
+      160,
+      1095,
+      871
+    ],
+    "scale": 0.5106382978723404,
+    "translation": [
+      272,
+      92
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 92,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "67a50e5f494d5f25587f5fcb6bf15a7396e0569971cb644feabace928b3baedc"
+  },
+  "helmet_17": {
+    "source_sha256": "d8082f05d0366486bb2a1c65d69233c1d29a1887eb200f70dd4fed01e84f7ba3",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      98,
+      91,
+      1157,
+      1004
+    ],
+    "scale": 0.451552210724365,
+    "translation": [
+      272,
+      115
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 115,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 16,
+      "eyes_clear": true
+    },
+    "base_sha256": "588502df40636174b1aa00bd42dc0a85ce59e7dd6ab44e9121bf648ebfe6541a"
+  },
+  "helmet_20": {
+    "source_sha256": "43b246ae7443204bad5bb489e5f743cf95f1b8bae30fa9eda9fa72b2c6c1e2cd",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      190,
+      64,
+      1064,
+      1147
+    ],
+    "scale": 0.5466970387243736,
+    "translation": [
+      272,
+      61
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 61,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "edf2a9bcc431c36ca3774669f991dbc49731aa91091a74886d35f5f8f69ab322"
+  },
+  "hat_2": {
+    "source_sha256": "34bff4b0ec7f5261caa9c9e768929f33ee91a37c78fe65b812248b600ffcb2d7",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      51,
+      236,
+      1213,
+      821
+    ],
+    "scale": 0.548885077186964,
+    "translation": [
+      192,
+      28
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 640,
+      "top": 28,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "5256ef1c4cffbc54a4c860abe67ebf7b3a8f4a81f9001b135a761c91f515bd28"
+  },
+  "hat_5": {
+    "source_sha256": "9797378d34adea709c4d8611e9009397d0b0f3b31f550bca43d1c0f7ecab4b4d",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      154,
+      140,
+      1100,
+      944
+    ],
+    "scale": 0.4631578947368421,
+    "translation": [
+      292,
+      46
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 440,
+      "top": 46,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "c407ea7336effa500e2d4133546bb859dda17e4d6810a87a00cebea60a4aedab"
+  },
+  "hood_1": {
+    "source_sha256": "54311e9a47bf28951a059f51a531cd14127940ffc0c1e8a07ba911ee1c4e5b7c",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      205,
+      80,
+      1075,
+      1166
+    ],
+    "scale": 0.6864988558352403,
+    "translation": [
+      212,
+      39
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 600,
+      "top": 39,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "cd4b3dcd886956f2047b2d9cf084df5d8b073b686674c9916a8635a739d29f1e"
+  },
+  "hood_5": {
+    "source_sha256": "215d25e96423e6bfe621cf2840bfbce70ed77fcaa4c67c08c674c200c0ece0a6",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      160,
+      78,
+      1095,
+      1190
+    ],
+    "scale": 0.759543612567548,
+    "translation": [
+      155,
+      110
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 713,
+      "top": 110,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "67a8e5da7637a7b58204b618c659d77eda88ff3af93d161e28d0a492c9dc99cd"
+  },
+  "hat_7": {
+    "source_sha256": "1ad04946766f36be1fd93a1fd0410cc9a2e08ba0f150f3369e917a63a3b5bb22",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      76,
+      134,
+      1179,
+      834
+    ],
+    "scale": 0.45167118337850043,
+    "translation": [
+      262,
+      103
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 500,
+      "top": 103,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "2e62c47f4636fb13d7ead6b7063babdf308b0da9c8bc33f08361f716c5dd4086"
+  },
+  "mask_1": {
+    "source_sha256": "cfb83dd838daf762adf34bf2ae4b9396e5dc8e4896b5cdd7996f132d3071599d",
+    "scale": 0.3751233958538993,
+    "translation": [
+      322,
+      404
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      121,
+      285,
+      1134,
+      1054
+    ],
+    "source_feature": [
+      506.5,
+      68
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "c5ac4aec2c704ecbf7cb38e686db311c9fdfbdf0044cb9e6e5e34980a36de1a6"
+  },
+  "mask_2": {
+    "source_sha256": "13522f56cfd738d993ead4e70f417cbd1a3d517fbdc84fc908f92f989eafdf11",
+    "scale": 0.31122031122031124,
+    "translation": [
+      322,
+      416
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      18,
+      280,
+      1239,
+      1042
+    ],
+    "source_feature": [
+      610.5,
+      45
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "8f9ebf87bc09f152b9a788ab813ed3d84e8f1f8862e4ac15c576a59a3e4d76d3"
+  },
+  "mask_3": {
+    "source_sha256": "f2d9a5e737fa22780bb75d53315832760f00a5ee73ce8118dbdbe913f89a59e0",
+    "scale": 0.36739380022962115,
+    "translation": [
+      352,
+      429
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      192,
+      321,
+      1063,
+      1010
+    ],
+    "source_feature": [
+      435.5,
+      2
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "3737cc3401e045077656cce688e83243c3cb4ede614717cf4766a4fd77f19e2f"
+  },
+  "mask_4": {
+    "source_sha256": "79eafcacd39d4d00a6785a77a82991e530fe0c07a9a41b7550c129a8025e7985",
+    "scale": 0.3907815631262525,
+    "translation": [
+      317,
+      346
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      128,
+      416,
+      1126,
+      1130
+    ],
+    "source_feature": [
+      499.0,
+      216
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "d8208216e0d403652a9a39fc454cef08c901127f702f9b16ba80d1e91418bede"
+  },
+  "mask_5": {
+    "source_sha256": "dc9b2564cddd6dc46caeb607a2e0130239d7921ccd66c5b1a8ff21ddad6a16ac",
+    "scale": 0.4995004995004995,
+    "translation": [
+      262,
+      247
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      127,
+      284,
+      1128,
+      1082
+    ],
+    "source_feature": [
+      500.5,
+      225.5
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "b9db72596272350eb9fdcb2e1b3316996a45c5c8a489a41b418605e97d3a842a"
+  },
+  "mask_6": {
+    "source_sha256": "1198396a9c760aba0dfa014f50b8aa089c87de37f8e51b8f9ec727d16b28fe6f",
+    "scale": 0.3460837887067395,
+    "translation": [
+      322,
+      389
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      78,
+      288,
+      1176,
+      1084
+    ],
+    "source_feature": [
+      549.0,
+      119
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "b1064613d512256f546549f7ff43742c92290c63e84904de5413f6989d1835eb"
+  },
+  "scarf_1": {
+    "source_sha256": "142bf9a394462071eba6736084ce9a6a7b78e7a79a4fc0b2458a81b9e2d6c581",
+    "scale": 0.7246376811594203,
+    "translation": [
+      267,
+      102
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      289,
+      53,
+      979,
+      1210
+    ],
+    "source_feature": [
+      338.0,
+      356.5
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "c65c6ca96edd8de209477cdf39c33e7ccaafbd261d4b5ebc8c6fe632f8f1798d"
+  },
+  "scarf_2": {
+    "source_sha256": "eca4f26eb9609abe0fa01f6ac16a18c3470b0d522d80fbce94b3bf7b6f032486",
+    "scale": 0.4875406283856988,
+    "translation": [
+      287,
+      430
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      166,
+      234,
+      1089,
+      1115
+    ],
+    "source_feature": [
+      461.5,
+      0
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "e7e929892d94b2154bcfcef89bd444462d00585529d88f62dcc666f1953fe202"
+  },
+  "scarf_3": {
+    "source_sha256": "30c2a31e81e23b066b978aa35f458b1fb2acb72ecffae9bd475c2483888f20e2",
+    "scale": 0.45260461144321096,
+    "translation": [
+      247,
+      445
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      47,
+      273,
+      1218,
+      1104
+    ],
+    "source_feature": [
+      585.5,
+      0
+    ],
+    "target_feature": [
+      512,
+      445
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "5b9441e79fce2dc1f73301deeef1b2a50c2eee1009254558391aebf412f727b6"
+  },
+  "scarf_4": {
+    "source_sha256": "5c7da93a5a7e848595bb7241b42a0b28592359d3cb8ca54f749ee491ece2d664",
+    "scale": 0.5056179775280899,
+    "translation": [
+      287,
+      445
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      191,
+      291,
+      1081,
+      1165
+    ],
+    "source_feature": [
+      445.0,
+      0
+    ],
+    "target_feature": [
+      512,
+      445
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "5bbcccd28e6202b3b55fe0270df7686e1e08ba50f547ff72fa4258a89baccc30"
+  },
+  "balaclava_1": {
+    "source_sha256": "b05f543b0f3f248d5b068a899b7f2d93fd0e0c4875886a26bbba6a2be0e1903a",
+    "scale": 0.6089309878213802,
+    "translation": [
+      287,
+      79
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      257,
+      25,
+      996,
+      1234
+    ],
+    "source_feature": [
+      369.0,
+      461.75
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "92a22918046758daadd7cacfeda0297f71d056067661c58a845d427eeafb56fa"
+  },
+  "balaclava_2": {
+    "source_sha256": "cb21092a185b04b8d112bdcffc479159f3e4b0a5e9fc70b676816d1e0ba291dd",
+    "scale": 0.6267409470752089,
+    "translation": [
+      287,
+      84
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      268,
+      28,
+      986,
+      1232
+    ],
+    "source_feature": [
+      358.5,
+      440.0
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "39a189e48e71f5d41f788b7cbca04c97857ccd442bd8cbb2d2a8170b4e76525b"
+  },
+  "balaclava_3": {
+    "source_sha256": "974e6efed682451cff54f6684c09ea94bc6bba14819bbe55b20f9a4ab00f798d",
+    "scale": 0.6637168141592921,
+    "translation": [
+      287,
+      93
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      288,
+      67,
+      966,
+      1198
+    ],
+    "source_feature": [
+      339.25,
+      402.0
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "0967b603ce51b0aeb3de3139a96cf90e34bf9699fbb9f07d27ea2f53c0b92c42"
+  },
+  "balaclava_4": {
+    "source_sha256": "2c4ff599f2ad955f4558aa4780e10fb92b82bbabc8029325f4b0eb73d431449c",
+    "scale": 0.6382978723404256,
+    "translation": [
+      288,
+      66
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      275,
+      24,
+      980,
+      1219
+    ],
+    "source_feature": [
+      351.0,
+      460.5
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "9302bb02751f9babd9d5234e0209e1c318fa9b8bc896450469947aaf85a72157"
+  },
+  "balaclava_5": {
+    "source_sha256": "3b9ba2b0e13972789b12ebb9de68fca6a6628123f2d45b204db7f45a12349fdc",
+    "scale": 0.646551724137931,
+    "translation": [
+      288,
+      82
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      279,
+      35,
+      975,
+      1206
+    ],
+    "source_feature": [
+      347.0,
+      429.5
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "c3ba998bd5ecb768fd2d09fa93732ae5a11ff1355c1165c5a30d84bb47bc8bd3"
+  },
+  "balaclava_6": {
+    "source_sha256": "7f22c16878400658bf0ae810d0b0c8e11b9adc9a79fdb20c4cd4825b85b9b2ab",
+    "scale": 0.6578947368421053,
+    "translation": [
+      288,
+      54
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      285,
+      48,
+      969,
+      1210
+    ],
+    "source_feature": [
+      339.75,
+      464.75
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "11a6dfd3f88cce3bf6740965aac3ceaf2073c6daf45a5aa0a37266863bcbc8cf"
+  },
+  "balaclava_7": {
+    "source_sha256": "ec4af3b1616f0127797174a252cbff195d7082afc3fb3987ab8e5b6161aa6e62",
+    "scale": 0.6622516556291391,
+    "translation": [
+      261,
+      85
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      249,
+      49,
+      1004,
+      1222
+    ],
+    "source_feature": [
+      379.5,
+      415
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "c30eee8bd6168780f00fe98d52fb30335674874864b493ccb087a99c5d8aedb7"
+  },
+  "balaclava_8": {
+    "source_sha256": "0a73083f67148b12c15feef5bf5d6dc713fe26f25a0deef8689f199bd648bf1f",
+    "scale": 0.6410256410256411,
+    "translation": [
+      271,
+      69
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      251,
+      27,
+      1031,
+      1225
+    ],
+    "source_feature": [
+      376.0,
+      454.5
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "bb18175a28fc6ca96ba31bf9e76e8a5ccea9e299385ed43ccdc04877f5d0f6fb"
+  },
+  "balaclava_9": {
+    "source_sha256": "2efe8960d1fb2866fb686dd6c9f722b1795d8049769ab903a1d52dd27ec700d1",
+    "scale": 0.6540697674418605,
+    "translation": [
+      286,
+      68
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      283,
+      41,
+      971,
+      1215
+    ],
+    "source_feature": [
+      345.25,
+      446.5
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "2e8384f96eb52ec1174e3b2e21f4d557f3373833e18f083b2ebc7ed098325ba1"
+  },
+  "balaclava_10": {
+    "source_sha256": "b63b9df15f096fbf4a84cf2e97916baa093d60f6e9b5e267ce486d5a9d4d7980",
+    "scale": 0.6915629322268326,
+    "translation": [
+      263,
+      67
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      263,
+      68,
+      986,
+      1188
+    ],
+    "source_feature": [
+      360.5,
+      424.0
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "eye_points_clear": true,
+    "base_sha256": "23744cad1b66cc9bb628e8001a69777195092e3bdeb8a9bd2d1ef3962841de6e"
+  },
+  "gasmask_1": {
+    "source_sha256": "4ef52122b5016c3eac85d35655d24b5f19aeb8701718e87d0479f1592848f885",
+    "scale": 0.39162112932604737,
+    "translation": [
+      297,
+      407
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      78,
+      233,
+      1176,
+      1047
+    ],
+    "source_feature": [
+      549.0,
+      59
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "b9979a225d5f0e1c4b3c0963b2c05ba2c6eb57fd4297e6ca9f01a76fefcd9882"
+  },
+  "gasmask_2": {
+    "source_sha256": "1b5189b98723809c5b3569d0c0509548485ba4de3bc994d837bad03d00eda9b9",
+    "scale": 0.36043587594300086,
+    "translation": [
+      297,
+      429
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      31,
+      402,
+      1224,
+      1059
+    ],
+    "source_feature": [
+      596.5,
+      2
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "dffb80f3dee9831eca53d2e4b39d56b57248c76202d9ede87a150db35b21ba56"
+  },
+  "gasmask_3": {
+    "source_sha256": "7d07d345fa7cb5d1288823b79b09b810258949cf41ae17ba22ee258701ab1ad4",
+    "scale": 0.41306436119116235,
+    "translation": [
+      297,
+      380
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      107,
+      256,
+      1148,
+      1059
+    ],
+    "source_feature": [
+      520.5,
+      122
+    ],
+    "target_feature": [
+      512,
+      430
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "caf1657802cf4a5d42106bf613c29a3109411e9d37c535b1ccffc756529b7997"
+  },
+  "gasmask_4": {
+    "source_sha256": "404b6384843b4e117bb99f661ee376ff9193cc558499a216cf596f5ae4c3aca7",
+    "scale": 0.48,
+    "translation": [
+      272,
+      275
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      127,
+      234,
+      1127,
+      1022
+    ],
+    "source_feature": [
+      500.0,
+      176.5
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "b961c18e98f55ba3059e99406979c9c189429cc0ecf4bcf2dce88e21ec6dde22"
+  },
+  "gasmask_5": {
+    "source_sha256": "4baa4802f45b8a0d4ed721558441ce2651e773f29b76a9bf134c1cd7e054dcac",
+    "scale": 0.5210420841683366,
+    "translation": [
+      252,
+      146
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      129,
+      92,
+      1127,
+      1146
+    ],
+    "source_feature": [
+      499.0,
+      411.06
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "abff865ba35c2c94fdd8063738bfa4e8540ac726570e10b72d19aba49d0c1347"
+  },
+  "gasmask_6": {
+    "source_sha256": "e05c7845e0378e076add45f8281e98431f232058d761ebd4ef5f95868cdb85aa",
+    "scale": 0.5215646940822467,
+    "translation": [
+      252,
+      166
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      210,
+      81,
+      1207,
+      1176
+    ],
+    "source_feature": [
+      498.5,
+      372.3
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "21c9668000602e959c6e175e8667596db0f67a430ae36ea44daaf21b3ea6abdb"
+  },
+  "gasmask_7": {
+    "source_sha256": "3b642482642b1912225baddfb90a759c0ab2047ebfa1db1c3c40ff8ec76c4e98",
+    "scale": 0.49010367577756836,
+    "translation": [
+      252,
+      161
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      97,
+      48,
+      1158,
+      1146
+    ],
+    "source_feature": [
+      530.5,
+      406.26
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "90ed39d4430505db0975d8b79bc57dfbd41c8daf1fa518b734b16973694d3c30"
+  },
+  "gasmask_8": {
+    "source_sha256": "9a9fb15aab22269f93e08b5ede45125a0a5491b4be1fa08f7d5062b5e448bfdc",
+    "scale": 0.5621621621621622,
+    "translation": [
+      290,
+      109
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      230,
+      71,
+      1155,
+      1138
+    ],
+    "source_feature": [
+      395.5,
+      446.0
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "857db6fec711c844a895e5e907c0b718309991da79e485a741c3cfa8c1d55e47"
+  },
+  "gasmask_9": {
+    "source_sha256": "6dcfe3d8dca3349367722df9f99bf95337de7c3879a7430daa6ffabcd6fb1981",
+    "scale": 0.45694200351493847,
+    "translation": [
+      252,
+      156
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      58,
+      62,
+      1196,
+      1200
+    ],
+    "source_feature": [
+      569.0,
+      447.5
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "bf2cdf4134bba2f3cc0e19bee2aefb1733d6d774cb4a3c786516a2f3e4c8a0f2"
+  },
+  "gasmask_10": {
+    "source_sha256": "710e85e922759d561c9191b0034e0f115d2b72ab409b0bc7474cfccf700391a6",
+    "scale": 0.6212664277180406,
+    "translation": [
+      252,
+      133
+    ],
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      208,
+      100,
+      1045,
+      1114
+    ],
+    "source_feature": [
+      418.5,
+      365.03999999999996
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "447aeeec7104fc225f7b8fffbd583fb1ef03c66fc1b97af034a55b02056765e1"
+  },
+  "background_1": {
+    "source_sha256": "c09a52ec19d0bc3f2c01991910ff93a57470e98b77ccaf47a9cfe48bc4946e2c",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "e9a1c42475353ae4e64fb90913528784e9d253868a7d1c4db3ee8c966188cae2"
+  },
+  "background_2": {
+    "source_sha256": "f842eee7f8497fed7e6c36562d5ebbb2d213387d0b8ace76fbb594e971eb6ce2",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "6c9d8b1926cdf9b797f3e0f591289365ef3d12557d8641d6d0f1afcf56dbe4bd"
+  },
+  "background_3": {
+    "source_sha256": "cea8663108a2650340df30bea63b9b4dae98dc03f23fcd0431796a50d924b4ed",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "ae85a5e6bb9cc60a4c977281a6a8e9b3292fd0e408982b02e26aeb726b20960c"
+  },
+  "background_4": {
+    "source_sha256": "118dc5b36c921b64055b0d2c708e1043d76ce73dfee25f6d30f41ec8663a98eb",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "58fd857ea299161856601f4050ed1991f6748cf3467adb16191d7869a6dd667e"
+  },
+  "background_5": {
+    "source_sha256": "bf9201fc2b01e6d276b59a6deca39d0e91b8e78b240c6cc5fc9603f9fa18e632",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "5a9a5bdaf437054134a80e95e4c1986bb3b634d4b3155c376e4bb061e794822a"
+  },
+  "background_6": {
+    "source_sha256": "d6f2700371ff2696662b378b41f51d9fba3d3190f72f1df248258d78f64a8225",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "852257affda32fb36fa3540c0655c2ee975f7c3a5558c7d6bfb288900150ae46"
+  },
+  "background_7": {
+    "source_sha256": "641f9bcff448e412c339f7edbc1542649310ca5a9e83981f199933a8ef64b35b",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "baf851ab8b236364d9c93fae9074f45b9268b31955168a646e0805b804085b3e"
+  },
+  "background_8": {
+    "source_sha256": "023c43c3f378cb8c0561ff83e713b6f1f764d54e4f02c43c6049c0ecf0161e4a",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "88e5d90c7258f714bb2419fb84b96a24e02066b82cc04f18c156a2a7e0b23adf"
+  },
+  "background_9": {
+    "source_sha256": "d5d8e4f4766d8c245616141b5be430b4fb5843c0c57791f75a4159317a980b98",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "14fc928d06c71126f12fc9b2b06b6bdcb1334ec56b323d3598e5f5fdbcf0f46a"
+  },
+  "background_10": {
+    "source_sha256": "e4ca8f7c8b90485564051b2d59cdf369dd8eb504715f8b0049680b5373eef608",
+    "method": "uniform_square_background_scale",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "ee42f03c683476045505f63a0eb09aa959059f4846d0f01e21b06727d841a42d"
+  },
+  "glasses_1": {
+    "source_sha256": "cb7cd4e686779a16d5e17639d88e788e6f4e005251a703b34f0e83cc3ce30b3c",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      49,
+      418,
+      1205,
+      848
+    ],
+    "scale": 0.3027681660899654,
+    "source_feature": [
+      578.0,
+      227.9
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "translation": [
+      337,
+      291
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "a6e3ea27fcae25aee9b3a453dfa19faf49d340e3287d90341d808b9800a7a25f"
+  },
+  "glasses_2": {
+    "source_sha256": "5fbe0884574a9a62e4babbac8ea3d38d884e0abf1b51ab37456328018b92212b",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      25,
+      442,
+      1230,
+      826
+    ],
+    "scale": 0.2946058091286307,
+    "source_feature": [
+      602.5,
+      192.0
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "translation": [
+      334,
+      303
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "eac1711a29408803e022b08248e0847f8c962556bc88de351f1141f2ea8af092"
+  },
+  "eyepatch_1": {
+    "source_sha256": "621fc49e3cb66b8de05f9e388dee032e61b3c54c1489f95ee8afa911b8f61e0e",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      53,
+      268,
+      1170,
+      905
+    ],
+    "scale": 0.26857654431512984,
+    "source_feature": [
+      882.4300000000001,
+      458.64
+    ],
+    "target_feature": [
+      590,
+      360
+    ],
+    "translation": [
+      353,
+      237
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "61c14aede1eb7d35aa0f93ae3c83916f9bfc590bad7ab241a74d12c47dca4e9a"
+  },
+  "headset_2": {
+    "source_sha256": "61889568d3b8af230e854043e6e266bf144e010cefe7baa12b1133d14b710824",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      158,
+      287,
+      1120,
+      1008
+    ],
+    "scale": 0.31185031185031187,
+    "source_feature": [
+      750.36,
+      288.40000000000003
+    ],
+    "target_feature": [
+      730,
+      425
+    ],
+    "translation": [
+      496,
+      335
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "da6249bc4f30c0b6b9ce2fcacad30fa6cfc173ed868d2570025cbbcc700d766d"
+  },
+  "cigar_1": {
+    "source_sha256": "7a6d95909cdeaab10d851248f0fc8091ccb0161b799d15587b00bdca2191fc0e",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      67,
+      225,
+      1184,
+      1063
+    ],
+    "scale": 0.09847806624888093,
+    "source_feature": [
+      0,
+      0
+    ],
+    "target_feature": [
+      570,
+      525
+    ],
+    "translation": [
+      570,
+      525
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "d90df8c8e6cd17a07cedd50a8f3a778f1ad511e3a736949cfbcf9a15256c19c3"
+  },
+  "cigarette_1": {
+    "source_sha256": "5f8f12943b70dbfc737dfed1562453901fe96b2467d4a08a2be29b280fb9692c",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      212,
+      443,
+      1016,
+      882
+    ],
+    "scale": 0.12437810945273632,
+    "source_feature": [
+      0,
+      0
+    ],
+    "target_feature": [
+      570,
+      530
+    ],
+    "translation": [
+      570,
+      530
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "f95215385ebf0a3efb3dd51dd969d3a2d124607962f98a2b0d33bbe4c8c492ab"
+  },
+  "rank_1": {
+    "source_sha256": "e7ba11f65aaa92569d429461899616f86568f09a475d867c14a3e7339572c8ed",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      356,
+      258,
+      899,
+      996
+    ],
+    "scale": 0.14732965009208104,
+    "source_feature": [
+      271.5,
+      369.0
+    ],
+    "target_feature": [
+      770,
+      850
+    ],
+    "translation": [
+      730,
+      796
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "4c62d4c5ee5bc14304f91ab60d57f096c8d9de4d61a32a159d70f68c13e30e58"
+  },
+  "rank_2": {
+    "source_sha256": "bfd567d4fabc4df5d2207814d6e20bfd64820e65a4a50b59d9f24f5de766bea0",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      260,
+      368,
+      995,
+      881
+    ],
+    "scale": 0.08843537414965986,
+    "source_feature": [
+      367.5,
+      256.5
+    ],
+    "target_feature": [
+      770,
+      850
+    ],
+    "translation": [
+      738,
+      827
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "328b3d3efc87890a980b6a1e8c6ecfbd27ca99d1376475327dfdcb4802beb2da"
+  },
+  "rank_3": {
+    "source_sha256": "4d3407f623061730c7c34dee83985f2aacb708b3dd4a597037d5f34d52a8482c",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      193,
+      326,
+      1341,
+      687
+    ],
+    "scale": 0.09581881533101046,
+    "source_feature": [
+      574.0,
+      180.5
+    ],
+    "target_feature": [
+      770,
+      850
+    ],
+    "translation": [
+      715,
+      833
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "59e6ce2d9d301c2e5dd73ac4f699fb56f79f618104834b9752dec396395b2bae"
+  },
+  "facepaint_1": {
+    "source_sha256": "e73fc14bb83ee93076cf2345ab9aefb054c1f9b803cbc902d0ea0192460c4ff8",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      131,
+      521,
+      1155,
+      733
+    ],
+    "scale": 0.2783203125,
+    "source_feature": [
+      512.0,
+      0
+    ],
+    "target_feature": [
+      512,
+      405
+    ],
+    "translation": [
+      370,
+      405
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "1c3f4c248759fe7a0504b2e1c9271deb7fa49e62f8901cf7776b95428b88c5a5"
+  },
+  "facepaint_2": {
+    "source_sha256": "ec3bcd205985f7fa277e35ce5a3be28ad483b9d5a5f99909689fad3256e42ffe",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      117,
+      381,
+      1142,
+      971
+    ],
+    "scale": 0.28292682926829266,
+    "source_feature": [
+      512.5,
+      0
+    ],
+    "target_feature": [
+      512,
+      390
+    ],
+    "translation": [
+      367,
+      390
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "8eec8df076e920e60effb0933b90d748f0419ac7147771a9fa970164b0b28099"
+  },
+  "facepaint_3": {
+    "source_sha256": "dc57069904e2e67613faa71c94e5273317335aff44bef9f01c02e85dc9d30e19",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      72,
+      168,
+      1186,
+      1079
+    ],
+    "scale": 0.26032315978456017,
+    "source_feature": [
+      557.0,
+      0
+    ],
+    "target_feature": [
+      512,
+      375
+    ],
+    "translation": [
+      367,
+      375
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "f6c5236e49045d0ac8b03c40e16ea2642410e41cfaeffbdc2affcfec9854b9d0"
+  },
+  "facepaint_4": {
+    "source_sha256": "54c6a58f83773fdfa04aec719bca83ad185c550e7bc6ad3693ca85e8185492a5",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      482,
+      157,
+      906,
+      1169
+    ],
+    "scale": 0.07075471698113207,
+    "source_feature": [
+      212.0,
+      506.0
+    ],
+    "target_feature": [
+      405,
+      445
+    ],
+    "translation": [
+      390,
+      409
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "024d420cb8aa7162506225e995b13a17f2affe13e3c029878c1c24c8225c7294"
+  },
+  "facepaint_5": {
+    "source_sha256": "a56590d8e3f1ba280482fbdb7f003fbb7a3154d6a33a7578aea36ced32b51ff9",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      211,
+      82,
+      1042,
+      1188
+    ],
+    "scale": 0.3466666666666667,
+    "source_feature": [
+      414,
+      418
+    ],
+    "target_feature": [
+      512,
+      360
+    ],
+    "translation": [
+      368,
+      215
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "6f2d255b41cbcd97993e336c5c1d5f415c9ec67db359ac1a67c9de57a4771f3e"
+  },
+  "scar_1": {
+    "source_sha256": "b5a05b37894c579c3bd458cc2855c4495efd7cd18fbfd2448c7b8fcfa3742236",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      613,
+      429,
+      719,
+      805
+    ],
+    "scale": 0.18867924528301888,
+    "source_feature": [
+      53.0,
+      188.0
+    ],
+    "target_feature": [
+      610,
+      405
+    ],
+    "translation": [
+      600,
+      370
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "f254788d29e201e06b291821a8ee44776bebb4a70e1bab93e65652d873403887"
+  },
+  "scar_2": {
+    "source_sha256": "fd124f7323e561f00890c9387d0d4b234435304574aeedfcfc507bd0e5860da6",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      303,
+      471,
+      529,
+      743
+    ],
+    "scale": 0.21238938053097345,
+    "source_feature": [
+      113.0,
+      136.0
+    ],
+    "target_feature": [
+      620,
+      465
+    ],
+    "translation": [
+      596,
+      436
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "074afccde70a212449bb04293b3a08421f258f1b93eed2808d2226ef48773e78"
+  },
+  "scar_3": {
+    "source_sha256": "21cce9c6a2e6119539bd55b4727bdbf217e1e0e9bbeb4de84c8520d28df51c86",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      443,
+      380,
+      854,
+      935
+    ],
+    "scale": 0.10948905109489052,
+    "source_feature": [
+      205.5,
+      277.5
+    ],
+    "target_feature": [
+      410,
+      465
+    ],
+    "translation": [
+      388,
+      435
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "1a42fe22ef0719ff79476854b97d24eecd5b2f5dc390db22624b9f410c477ff3"
+  },
+  "scar_4": {
+    "source_sha256": "e9a2336b805b852ba2d271945bc9354a4d3755a35337ddf1ae85b6650a3201c0",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      627,
+      458,
+      719,
+      675
+    ],
+    "scale": 0.10869565217391304,
+    "source_feature": [
+      46.0,
+      108.5
+    ],
+    "target_feature": [
+      610,
+      330
+    ],
+    "translation": [
+      605,
+      318
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "96f1a1ef22da36febef5f44956d80726a16d3f11056ba403d1c553d3bc7e07da"
+  },
+  "scar_5": {
+    "source_sha256": "5cb32aad44d95ac2a2ddf7672f6e7e4da9665f8180fbc19971bd09fa70d50f17",
+    "method": "uniform_object_scale_then_anatomical_translation",
+    "source_bbox": [
+      492,
+      304,
+      906,
+      958
+    ],
+    "scale": 0.0966183574879227,
+    "source_feature": [
+      207.0,
+      327.0
+    ],
+    "target_feature": [
+      615,
+      510
+    ],
+    "translation": [
+      595,
+      478
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "base_sha256": "9879339e5c14293ae4957d122d9ae5d11aceb019a1fefb059d83c726bb0b6737"
+  },
+  "helmet_10": {
+    "source_sha256": "cba8ebb215e14761af43d1d62cc0821044fb5a3324ae414bef772638d3804964",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      103,
+      136,
+      1152,
+      865
+    ],
+    "scale": 0.45584045584045585,
+    "translation": [
+      272,
+      61
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 61,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "bcff8f4800defc558342f1d6a47fb0c9e7d1db2ab8153c28127c85fb0c90609f"
+  },
+  "helmet_12": {
+    "source_sha256": "9a95ac9dbacfa13f33a3ccf725859c40ec29b509c8b63afcddac53ebf993d2f3",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      123,
+      139,
+      1131,
+      927
+    ],
+    "scale": 0.536636306509387,
+    "translation": [
+      240,
+      116
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 543,
+      "top": 116,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 6,
+      "eyes_clear": true
+    },
+    "base_sha256": "645923bdb4ed2d02633e8c3497e63676daa2d4bb81a055c40c256c154cbf0de1"
+  },
+  "helmet_13": {
+    "source_sha256": "885a6bcb10b933b6b67f68632b30e4eacb5a621c4e76d2445045e7305c16b5d6",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      173,
+      96,
+      1081,
+      1012
+    ],
+    "scale": 0.5263157894736842,
+    "translation": [
+      272,
+      84
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 84,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "506c770696b51ba2f08d82e9c2320c40efd9c95752a8aac65071f36dabea02b7"
+  },
+  "helmet_16": {
+    "source_sha256": "350a56072a68fd458f1fad9fb5417572cf565fbd0a48e78ab05f9fef7c54ee41",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      204,
+      142,
+      1050,
+      997
+    ],
+    "scale": 0.5647058823529412,
+    "translation": [
+      272,
+      103
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 103,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "089a1bb749073670f67eac6802406f9e9445a2bda98673c6875f682935a635f5"
+  },
+  "helmet_18": {
+    "source_sha256": "b515c8cfb2db7cfeab50c911e48e9cc794083c6819454d098fcbdfefd63a6677",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      83,
+      68,
+      1172,
+      1121
+    ],
+    "scale": 0.5220211909979339,
+    "translation": [
+      226,
+      103
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 571,
+      "top": 103,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "d990ad571404064a09e98efd17f588a09ced8dc16b2b325dd442c8568e49694c"
+  },
+  "helmet_19": {
+    "source_sha256": "ec1f07f7d78db22a3f4d993f36a714b41a64bbad728f04dc633b23ee69bca1f4",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      167,
+      86,
+      1087,
+      1119
+    ],
+    "scale": 0.5324675324675324,
+    "translation": [
+      266,
+      103
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 492,
+      "top": 103,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "4e0c90dc27ee90d2b808649d819ce3f41fe753ffdd972bbfec23247973a6bd72"
+  },
+  "helmet_21": {
+    "source_sha256": "5574a9aaad2ac5a1188f87a8659a8b139709f72bf11dc96136814ed7e0059668",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      170,
+      109,
+      1085,
+      1093
+    ],
+    "scale": 0.5487486398258976,
+    "translation": [
+      260,
+      113
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 504,
+      "top": 113,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "45b5a7e3421f190fc6bb9d7ba403fee9a55bcfb8fedd2311cb9477b18037b837"
+  },
+  "beret_1": {
+    "source_sha256": "5179396c20737d4c6c9b95413199da24d46847f19a155685f6cf6d36cdca98b1",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      155,
+      198,
+      1149,
+      810
+    ],
+    "scale": 0.5198317220378254,
+    "translation": [
+      252,
+      96
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 519,
+      "top": 96,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "415924a1702c1f7c4d90558b0ca213a5e06cf7919050ad2ffe6e7b7ccae4d57f"
+  },
+  "beret_2": {
+    "source_sha256": "3b273b9f5f72618623e92dea1e14e2f2a464cd3ff5c60418e97d5c9bea15c15c",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      102,
+      218,
+      1157,
+      802
+    ],
+    "scale": 0.4549102927289896,
+    "translation": [
+      271,
+      97
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 482,
+      "top": 97,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 2,
+      "eyes_clear": true
+    },
+    "base_sha256": "f5892992a323e5d377ceaf32a755f83a58a26f0ad20587b770fdc702f2251dde"
+  },
+  "beret_3": {
+    "source_sha256": "76f9eed32679cb5ca93e61b1e616a3f65ffadad3e4ddffa5943be379b3caee7c",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      166,
+      101,
+      1228,
+      868
+    ],
+    "scale": 0.46322115384615375,
+    "translation": [
+      265,
+      41
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 494,
+      "top": 41,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 3,
+      "eyes_clear": true
+    },
+    "base_sha256": "e31f47cf42e5c06458c6e6ad9aeb2f82611329ebe84d6d0eed9af795f97a8de3"
+  },
+  "beret_4": {
+    "source_sha256": "aa057fe29a46950f51dab01277d43110e0bc3b8f4d99ccdcea532171d5eba42a",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      109,
+      244,
+      1145,
+      914
+    ],
+    "scale": 0.48667172475961523,
+    "translation": [
+      259,
+      96
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 506,
+      "top": 96,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 8,
+      "eyes_clear": true
+    },
+    "base_sha256": "5c4cb074aeb04338fce680ebc4fe40b6198307de20cc1036db919fd5402329a1"
+  },
+  "hat_1": {
+    "source_sha256": "756415a107b0cc33bfa39d1611502033708eaf5406f334f744384ec706edd2f3",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      43,
+      260,
+      1211,
+      855
+    ],
+    "scale": 0.5460750853242321,
+    "translation": [
+      192,
+      24
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 640,
+      "top": 24,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "3b1c91cb62ec4a5cc2439d5b5037180efce8b335664c972db478f9befeb9587a"
+  },
+  "hat_3": {
+    "source_sha256": "fc558de8a39017bb8622726f9efe05725a3e8580a2208669b6bd9118fb05de7a",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      15,
+      257,
+      1238,
+      817
+    ],
+    "scale": 0.5215973920130399,
+    "translation": [
+      192,
+      40
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 640,
+      "top": 40,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "e007b8e2e5190dfef19b9a49bb802fe047d2831e4e3ad396debf2e27588848ee"
+  },
+  "hat_4": {
+    "source_sha256": "c2f42e6df1bf1b8497248153fd4d5a982d9b149845a06dfdde72b5e46cfec9bf",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      28,
+      170,
+      1226,
+      782
+    ],
+    "scale": 0.5324459234608985,
+    "translation": [
+      192,
+      38
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 640,
+      "top": 38,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "23237abf4a83fe2928e79ae2071014d02da4b331d5e70d06303d87afe82d66bf"
+  },
+  "hat_6": {
+    "source_sha256": "5ba9540a9a817bed03bcd5a5c8f478cd8f4be312a93c5cbe68f91f61f9851628",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      126,
+      93,
+      1132,
+      1083
+    ],
+    "scale": 0.49504950495049505,
+    "translation": [
+      262,
+      98
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 500,
+      "top": 98,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "167d2f8b6f7f9245e6df0af62e6d0146ba71fc669ea055c31e4d07b779b9a0f4"
+  },
+  "hood_3": {
+    "source_sha256": "f1b4d4910e7e9700d5f7f6d339450104613de91f2ca863116d4de9711f601f19",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      145,
+      33,
+      1109,
+      1214
+    ],
+    "scale": 0.6198347107438017,
+    "translation": [
+      212,
+      105
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 600,
+      "top": 105,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "817d82676fe725bc910655b1243d209f876686d554c5ad42bd5068a384087b50"
+  },
+  "hood_4": {
+    "source_sha256": "024a0a8ef1813d728dfc207faf8a5f326c7b696654e79fabe1e9edf40c47ed6f",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      126,
+      21,
+      1129,
+      1210
+    ],
+    "scale": 0.5958291956305859,
+    "translation": [
+      212,
+      79
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 600,
+      "top": 79,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "7c6995287ed0fadb6d5901f69ec06d299f1252073d72b0f4e75b7246d42e6e86"
+  },
+  "cap_11": {
+    "source_sha256": "bb895b118ae81180513c2f7f7713374b3dc7e1463504b1a544904097f69ead63",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      163,
+      92,
+      1090,
+      792
+    ],
+    "scale": 0.5048335123523093,
+    "translation": [
+      277,
+      10
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 470,
+      "top": 10,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "2e41af6be9826fcb9076f7b8cbf550a996ba159dac49d5c09b0d10951478224d"
+  },
+  "cap_13": {
+    "source_sha256": "9da0eec2b39a4f74118e4448f3bacb0bd3cf1fb7a2828772d57f0a1c19e4219f",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      213,
+      208,
+      1048,
+      857
+    ],
+    "scale": 0.5005959475566151,
+    "translation": [
+      302,
+      82
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 420,
+      "top": 82,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "0a6a87659f3ca7a4ba7c494033fc6bca0c8eb599ba0e423bb64aac901158bfa3"
+  },
+  "helmet_9": {
+    "source_sha256": "9dca40c398a8de92d4d76313acfe33de0f105515a92d3252cd448f25cf5fb3c7",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      65,
+      70,
+      1208,
+      867
+    ],
+    "scale": 0.4184829991281604,
+    "translation": [
+      272,
+      95
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 95,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "eeab91c66637789cc1f2f74987907f726732a0c4711fd0a2faa36ba7013989a6"
+  },
+  "helmet_11": {
+    "source_sha256": "f3f878692be389186d4621c62be7f6c36c6e5b5ab267df137fe367cd9643bbcd",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      71,
+      58,
+      1184,
+      772
+    ],
+    "scale": 0.4297224709042077,
+    "translation": [
+      272,
+      99
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 99,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "1f18f6fec8e2b9b043727204abb72e001465e2441d3411a3132517ef9fc5ce1f"
+  },
+  "helmet_14": {
+    "source_sha256": "12aacb9ff00661c3db2b6a1d4091021ff5a18a709d3c4b975c95116b630a6a78",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      30,
+      84,
+      1224,
+      766
+    ],
+    "scale": 0.4006677796327212,
+    "translation": [
+      272,
+      102
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 102,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "3637a1fdcc9b411ff1dbde08f97349f54ee5cda6ea1b7cba7b516ddccf89ad44"
+  },
+  "helmet_15": {
+    "source_sha256": "6237dc05cb97e25ff68082456b4be4d35a5f23f5d01cacb0401e5491f8b0f153",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      78,
+      87,
+      1179,
+      770
+    ],
+    "scale": 0.4343891402714932,
+    "translation": [
+      272,
+      68
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 480,
+      "top": 68,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "917fc82fee30eab88e74510eeba981603e5cbd4117595a4183642ae13f57ebab"
+  },
+  "hood_2": {
+    "source_sha256": "d1adab0b1a6b080f410de04eccd4953e706566c6e1131f9ba0a66c2b36cc5c04",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      117,
+      83,
+      1146,
+      1112
+    ],
+    "scale": 0.8712487899322362,
+    "translation": [
+      62,
+      104
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 900,
+      "top": 104,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "288dd85893d098e82c9e0dbc2bb5144b9b366d8a582b471eae5ae5e8ae03cc57"
+  },
+  "cap_12": {
+    "source_sha256": "d6e63f0842f816eb09a9ff1cabaf7107162a65a331cf3efb3202b434aada821c",
+    "method": "uniform_object_scale_then_translation",
+    "source_bbox": [
+      235,
+      138,
+      1020,
+      662
+    ],
+    "scale": 0.5456273764258555,
+    "translation": [
+      297,
+      105
+    ],
+    "canvas": [
+      1024,
+      1024
+    ],
+    "review": "base_geometry_and_material_samples_visually_checked_on_master",
+    "checks": {
+      "width": 430,
+      "top": 105,
+      "missing_scalp_points": [],
+      "uncovered_scalp_pixels": 0,
+      "eyes_clear": true
+    },
+    "base_sha256": "3018386b31b2be1af248c901f3110aec756e0948c024514b1b97fbf960a2bb48"
+  }
+}

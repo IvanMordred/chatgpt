@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+rejected/
+qa/
+assets/
+previews/
