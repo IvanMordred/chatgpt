@@ -1,0 +1,3674 @@
+[
+  {
+    "id": "sumska-01-01",
+    "category": "sumska",
+    "palette": "Duboka suma",
+    "pattern": "pixel_digital",
+    "file": "textures/sumska/sumska_01_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#171F16",
+      "#34432B",
+      "#59633A",
+      "#81724B",
+      "#B2A47B"
+    ],
+    "sha256": "ab2e345f2465f04701862b3acbab8e803d1412886025c8c1e00c661611223af8"
+  },
+  {
+    "id": "sumska-01-02",
+    "category": "sumska",
+    "palette": "Duboka suma",
+    "pattern": "organic_woodland",
+    "file": "textures/sumska/sumska_01_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#171F16",
+      "#34432B",
+      "#59633A",
+      "#81724B",
+      "#B2A47B"
+    ],
+    "sha256": "ded0d7082f34bf6aa7c30c6a73a9ffcc0231265755038e0159ba7f8106987fd9"
+  },
+  {
+    "id": "sumska-01-03",
+    "category": "sumska",
+    "palette": "Duboka suma",
+    "pattern": "stripes_tiger",
+    "file": "textures/sumska/sumska_01_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#171F16",
+      "#34432B",
+      "#59633A",
+      "#81724B",
+      "#B2A47B"
+    ],
+    "sha256": "f98416f9ae4c407bc208ec564866ca99a4cdf50fd61e427a74852898dc7ee662"
+  },
+  {
+    "id": "sumska-01-04",
+    "category": "sumska",
+    "palette": "Duboka suma",
+    "pattern": "speckled_dot",
+    "file": "textures/sumska/sumska_01_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#171F16",
+      "#34432B",
+      "#59633A",
+      "#81724B",
+      "#B2A47B"
+    ],
+    "sha256": "18d24d64bb61f384ec1cbdf8828ddee5912037ec9be1632507be33dd5eca5831"
+  },
+  {
+    "id": "sumska-01-05",
+    "category": "sumska",
+    "palette": "Duboka suma",
+    "pattern": "hex",
+    "file": "textures/sumska/sumska_01_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#171F16",
+      "#34432B",
+      "#59633A",
+      "#81724B",
+      "#B2A47B"
+    ],
+    "sha256": "18899b98df9f285c1ef115421b990e34f84cb0e7660062c6ce2639346208b957"
+  },
+  {
+    "id": "sumska-01-06",
+    "category": "sumska",
+    "palette": "Duboka suma",
+    "pattern": "fragment",
+    "file": "textures/sumska/sumska_01_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#171F16",
+      "#34432B",
+      "#59633A",
+      "#81724B",
+      "#B2A47B"
+    ],
+    "sha256": "f34320b3e1a08d3631a667c332a06815e26b60e5619a7576837c2e071c89cdb0"
+  },
+  {
+    "id": "sumska-02-01",
+    "category": "sumska",
+    "palette": "Hrast",
+    "pattern": "pixel_digital",
+    "file": "textures/sumska/sumska_02_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#24251A",
+      "#454B2D",
+      "#6D7044",
+      "#928157",
+      "#C1AE7C"
+    ],
+    "sha256": "85eda76ad6f23668dea5f95078eb66b84d476a75aa028f6aa3fc3f8fabc2b291"
+  },
+  {
+    "id": "sumska-02-02",
+    "category": "sumska",
+    "palette": "Hrast",
+    "pattern": "organic_woodland",
+    "file": "textures/sumska/sumska_02_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#24251A",
+      "#454B2D",
+      "#6D7044",
+      "#928157",
+      "#C1AE7C"
+    ],
+    "sha256": "a3f12b893be6ab33dd3f12955fa008e7bce6718d7a568138062e0d886fc41f9b"
+  },
+  {
+    "id": "sumska-02-03",
+    "category": "sumska",
+    "palette": "Hrast",
+    "pattern": "stripes_tiger",
+    "file": "textures/sumska/sumska_02_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#24251A",
+      "#454B2D",
+      "#6D7044",
+      "#928157",
+      "#C1AE7C"
+    ],
+    "sha256": "e7a7b8dfc7795037647048a9d5978089f3c05128bdfc67d011e12872fed2ecf5"
+  },
+  {
+    "id": "sumska-02-04",
+    "category": "sumska",
+    "palette": "Hrast",
+    "pattern": "speckled_dot",
+    "file": "textures/sumska/sumska_02_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#24251A",
+      "#454B2D",
+      "#6D7044",
+      "#928157",
+      "#C1AE7C"
+    ],
+    "sha256": "2dba5a138e050060ed7881f38c537b9df61a8419f555352b84754bfd676bf181"
+  },
+  {
+    "id": "sumska-02-05",
+    "category": "sumska",
+    "palette": "Hrast",
+    "pattern": "hex",
+    "file": "textures/sumska/sumska_02_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#24251A",
+      "#454B2D",
+      "#6D7044",
+      "#928157",
+      "#C1AE7C"
+    ],
+    "sha256": "525c4884c5e015e2c02b24fcdd1288d17a6e7033f36935116bdf80eb04d60739"
+  },
+  {
+    "id": "sumska-02-06",
+    "category": "sumska",
+    "palette": "Hrast",
+    "pattern": "fragment",
+    "file": "textures/sumska/sumska_02_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#24251A",
+      "#454B2D",
+      "#6D7044",
+      "#928157",
+      "#C1AE7C"
+    ],
+    "sha256": "d2d52a8614b7b62ce0fe86cf8d9a043c229f48919df80f16b2dd160623cd346a"
+  },
+  {
+    "id": "sumska-03-01",
+    "category": "sumska",
+    "palette": "Bor",
+    "pattern": "pixel_digital",
+    "file": "textures/sumska/sumska_03_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#101F1C",
+      "#244135",
+      "#42624B",
+      "#728069",
+      "#A6AD8D"
+    ],
+    "sha256": "eb3a2289712784e36053eeb6e590b1ac14e2c42d0a77d308b420e49446d19fbb"
+  },
+  {
+    "id": "sumska-03-02",
+    "category": "sumska",
+    "palette": "Bor",
+    "pattern": "organic_woodland",
+    "file": "textures/sumska/sumska_03_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#101F1C",
+      "#244135",
+      "#42624B",
+      "#728069",
+      "#A6AD8D"
+    ],
+    "sha256": "d566dba66e271364467e554c2307c059e4d020e2efa167982a9db4fa3b688a1f"
+  },
+  {
+    "id": "sumska-03-03",
+    "category": "sumska",
+    "palette": "Bor",
+    "pattern": "stripes_tiger",
+    "file": "textures/sumska/sumska_03_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#101F1C",
+      "#244135",
+      "#42624B",
+      "#728069",
+      "#A6AD8D"
+    ],
+    "sha256": "82bc32a8f9ea9f73a6de238f34bfefefe7f376599739e06052df029e69522ed7"
+  },
+  {
+    "id": "sumska-03-04",
+    "category": "sumska",
+    "palette": "Bor",
+    "pattern": "speckled_dot",
+    "file": "textures/sumska/sumska_03_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#101F1C",
+      "#244135",
+      "#42624B",
+      "#728069",
+      "#A6AD8D"
+    ],
+    "sha256": "d7e3466b53ef50f8fdc5410121d8dbc0abaacd668a956da7c27f396da4c60d39"
+  },
+  {
+    "id": "sumska-03-05",
+    "category": "sumska",
+    "palette": "Bor",
+    "pattern": "hex",
+    "file": "textures/sumska/sumska_03_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#101F1C",
+      "#244135",
+      "#42624B",
+      "#728069",
+      "#A6AD8D"
+    ],
+    "sha256": "eadaa0d93eb202e4874afb14b1b3dee60be4723901b1f48628754f8348b3b13f"
+  },
+  {
+    "id": "sumska-03-06",
+    "category": "sumska",
+    "palette": "Bor",
+    "pattern": "fragment",
+    "file": "textures/sumska/sumska_03_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#101F1C",
+      "#244135",
+      "#42624B",
+      "#728069",
+      "#A6AD8D"
+    ],
+    "sha256": "6aeca3a50bf7c64e9691c2c230b914c10e757844432eecdf3704daefca698626"
+  },
+  {
+    "id": "sumska-04-01",
+    "category": "sumska",
+    "palette": "Jesen",
+    "pattern": "pixel_digital",
+    "file": "textures/sumska/sumska_04_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#2B211B",
+      "#50392A",
+      "#785035",
+      "#A87945",
+      "#C4A16C"
+    ],
+    "sha256": "cf240e6b2de5ed9c0fce7af0037c6e6fc8faea525c4fff467c089260bbf42ac8"
+  },
+  {
+    "id": "sumska-04-02",
+    "category": "sumska",
+    "palette": "Jesen",
+    "pattern": "organic_woodland",
+    "file": "textures/sumska/sumska_04_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#2B211B",
+      "#50392A",
+      "#785035",
+      "#A87945",
+      "#C4A16C"
+    ],
+    "sha256": "df863832c1e877f1b183a191458589f01b0a58a9dfd9af3dcafbddaeedc5625d"
+  },
+  {
+    "id": "sumska-04-03",
+    "category": "sumska",
+    "palette": "Jesen",
+    "pattern": "stripes_tiger",
+    "file": "textures/sumska/sumska_04_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#2B211B",
+      "#50392A",
+      "#785035",
+      "#A87945",
+      "#C4A16C"
+    ],
+    "sha256": "4186a793472b0af6fa2bb04a5fddcc09c07d673e52286b7b496b32ee47aca306"
+  },
+  {
+    "id": "sumska-04-04",
+    "category": "sumska",
+    "palette": "Jesen",
+    "pattern": "speckled_dot",
+    "file": "textures/sumska/sumska_04_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#2B211B",
+      "#50392A",
+      "#785035",
+      "#A87945",
+      "#C4A16C"
+    ],
+    "sha256": "dbf000edb4aff394c2cef6ec853b5ad8be1822daed322817c79fef17acd2a7de"
+  },
+  {
+    "id": "sumska-04-05",
+    "category": "sumska",
+    "palette": "Jesen",
+    "pattern": "hex",
+    "file": "textures/sumska/sumska_04_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#2B211B",
+      "#50392A",
+      "#785035",
+      "#A87945",
+      "#C4A16C"
+    ],
+    "sha256": "ec527ed8c74a0e2686f2de6ecbabf19031ad00567ff873fb876fff4bc7dfa95e"
+  },
+  {
+    "id": "sumska-04-06",
+    "category": "sumska",
+    "palette": "Jesen",
+    "pattern": "fragment",
+    "file": "textures/sumska/sumska_04_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#2B211B",
+      "#50392A",
+      "#785035",
+      "#A87945",
+      "#C4A16C"
+    ],
+    "sha256": "29533a2b79fabac72568513a3b680f960b164b45fcd65bf9623d19b540082e31"
+  },
+  {
+    "id": "sumska-05-01",
+    "category": "sumska",
+    "palette": "Mahovina",
+    "pattern": "pixel_digital",
+    "file": "textures/sumska/sumska_05_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1C251B",
+      "#3D5030",
+      "#657746",
+      "#909260",
+      "#BAB993"
+    ],
+    "sha256": "021d84d6663fbda0365b2c9311593efb5917e30ee1068b1436025bdd28cc5da4"
+  },
+  {
+    "id": "sumska-05-02",
+    "category": "sumska",
+    "palette": "Mahovina",
+    "pattern": "organic_woodland",
+    "file": "textures/sumska/sumska_05_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1C251B",
+      "#3D5030",
+      "#657746",
+      "#909260",
+      "#BAB993"
+    ],
+    "sha256": "60eb447fa3ba71306b5e3c01d3be43ed87475f2654c9d11fc83da81c0c9f6853"
+  },
+  {
+    "id": "sumska-05-03",
+    "category": "sumska",
+    "palette": "Mahovina",
+    "pattern": "stripes_tiger",
+    "file": "textures/sumska/sumska_05_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1C251B",
+      "#3D5030",
+      "#657746",
+      "#909260",
+      "#BAB993"
+    ],
+    "sha256": "df97738fab37ab052a7e9ec0ddedfa9f4336f788531d9c3707336ab8b765326e"
+  },
+  {
+    "id": "sumska-05-04",
+    "category": "sumska",
+    "palette": "Mahovina",
+    "pattern": "speckled_dot",
+    "file": "textures/sumska/sumska_05_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1C251B",
+      "#3D5030",
+      "#657746",
+      "#909260",
+      "#BAB993"
+    ],
+    "sha256": "5607d5134f8e41c4170da3959e11eb0dda6fe457b8253768a2c26870e542b739"
+  },
+  {
+    "id": "sumska-05-05",
+    "category": "sumska",
+    "palette": "Mahovina",
+    "pattern": "hex",
+    "file": "textures/sumska/sumska_05_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1C251B",
+      "#3D5030",
+      "#657746",
+      "#909260",
+      "#BAB993"
+    ],
+    "sha256": "027a107335d80df5344a618b40bf3cc11dde4613ead84d082cb126810daadc7e"
+  },
+  {
+    "id": "sumska-05-06",
+    "category": "sumska",
+    "palette": "Mahovina",
+    "pattern": "fragment",
+    "file": "textures/sumska/sumska_05_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1C251B",
+      "#3D5030",
+      "#657746",
+      "#909260",
+      "#BAB993"
+    ],
+    "sha256": "d741e14a8a19b80ba1c91a625120b81d0bc8a8eb25a3d1939c721b6b223e2f09"
+  },
+  {
+    "id": "sumska-06-01",
+    "category": "sumska",
+    "palette": "Sumrak",
+    "pattern": "pixel_digital",
+    "file": "textures/sumska/sumska_06_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172025",
+      "#303D3C",
+      "#4B5E51",
+      "#74806C",
+      "#A0A28B"
+    ],
+    "sha256": "e450fede69fd7e492867adc5e687e16968b18b0ccd9d5ee14168597a3a31faeb"
+  },
+  {
+    "id": "sumska-06-02",
+    "category": "sumska",
+    "palette": "Sumrak",
+    "pattern": "organic_woodland",
+    "file": "textures/sumska/sumska_06_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172025",
+      "#303D3C",
+      "#4B5E51",
+      "#74806C",
+      "#A0A28B"
+    ],
+    "sha256": "d18e647296fe4e8546f80499b94136f382e9eb637e016b6e0beaf54c0c5b1446"
+  },
+  {
+    "id": "sumska-06-03",
+    "category": "sumska",
+    "palette": "Sumrak",
+    "pattern": "stripes_tiger",
+    "file": "textures/sumska/sumska_06_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172025",
+      "#303D3C",
+      "#4B5E51",
+      "#74806C",
+      "#A0A28B"
+    ],
+    "sha256": "4358fd96d16f5c1629aae7f51e308a6d95f2cd238d06842b7de5baa2923e5d47"
+  },
+  {
+    "id": "sumska-06-04",
+    "category": "sumska",
+    "palette": "Sumrak",
+    "pattern": "speckled_dot",
+    "file": "textures/sumska/sumska_06_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172025",
+      "#303D3C",
+      "#4B5E51",
+      "#74806C",
+      "#A0A28B"
+    ],
+    "sha256": "2f68d962e378891e528e6bcffe084441644211f146f0fad2a725ec04d11ddbc6"
+  },
+  {
+    "id": "sumska-06-05",
+    "category": "sumska",
+    "palette": "Sumrak",
+    "pattern": "hex",
+    "file": "textures/sumska/sumska_06_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172025",
+      "#303D3C",
+      "#4B5E51",
+      "#74806C",
+      "#A0A28B"
+    ],
+    "sha256": "205e22635566a953d0c22a9ffb4ca45c8c2b9052ab729a8db88df7ebcacc3e79"
+  },
+  {
+    "id": "sumska-06-06",
+    "category": "sumska",
+    "palette": "Sumrak",
+    "pattern": "fragment",
+    "file": "textures/sumska/sumska_06_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172025",
+      "#303D3C",
+      "#4B5E51",
+      "#74806C",
+      "#A0A28B"
+    ],
+    "sha256": "cc56c11eaec5cdfafb55fb8ff06ca873a30fdbd97563e4bac146cf4333751668"
+  },
+  {
+    "id": "pustinjska-01-01",
+    "category": "pustinjska",
+    "palette": "Pesak",
+    "pattern": "pixel_digital",
+    "file": "textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#514436",
+      "#80694D",
+      "#AB8D62",
+      "#D0B27F",
+      "#EBD8AF"
+    ],
+    "sha256": "73531e28c16208616751b4bbd8e3c6edd02c0d10cc0fc463a08593268817a9e2"
+  },
+  {
+    "id": "pustinjska-01-02",
+    "category": "pustinjska",
+    "palette": "Pesak",
+    "pattern": "organic_woodland",
+    "file": "textures/pustinjska/pustinjska_01_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#514436",
+      "#80694D",
+      "#AB8D62",
+      "#D0B27F",
+      "#EBD8AF"
+    ],
+    "sha256": "95da60b82008534a128eec805756d51daa98660641d7d1b23c4f93cae0a20b3e"
+  },
+  {
+    "id": "pustinjska-01-03",
+    "category": "pustinjska",
+    "palette": "Pesak",
+    "pattern": "stripes_tiger",
+    "file": "textures/pustinjska/pustinjska_01_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#514436",
+      "#80694D",
+      "#AB8D62",
+      "#D0B27F",
+      "#EBD8AF"
+    ],
+    "sha256": "6e9ed307fce34eb706d7e67d8e977ec855b8be40c91e8534141d5b284a79b262"
+  },
+  {
+    "id": "pustinjska-01-04",
+    "category": "pustinjska",
+    "palette": "Pesak",
+    "pattern": "speckled_dot",
+    "file": "textures/pustinjska/pustinjska_01_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#514436",
+      "#80694D",
+      "#AB8D62",
+      "#D0B27F",
+      "#EBD8AF"
+    ],
+    "sha256": "db6189fa884518ea9553fbe5cf756db2f4a4525015c101ee85268fd3c31b37b3"
+  },
+  {
+    "id": "pustinjska-01-05",
+    "category": "pustinjska",
+    "palette": "Pesak",
+    "pattern": "hex",
+    "file": "textures/pustinjska/pustinjska_01_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#514436",
+      "#80694D",
+      "#AB8D62",
+      "#D0B27F",
+      "#EBD8AF"
+    ],
+    "sha256": "b78c3fda833eff806b7896898acf12e0fe75877c3a84e9c5df8a679d76749b63"
+  },
+  {
+    "id": "pustinjska-01-06",
+    "category": "pustinjska",
+    "palette": "Pesak",
+    "pattern": "fragment",
+    "file": "textures/pustinjska/pustinjska_01_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#514436",
+      "#80694D",
+      "#AB8D62",
+      "#D0B27F",
+      "#EBD8AF"
+    ],
+    "sha256": "d58de3c6261878e6366d47414de334985a57ab2c3f8d9f3b7b55ec6f5a5abf82"
+  },
+  {
+    "id": "pustinjska-02-01",
+    "category": "pustinjska",
+    "palette": "Dine",
+    "pattern": "pixel_digital",
+    "file": "textures/pustinjska/pustinjska_02_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#5B3928",
+      "#885A37",
+      "#B47C47",
+      "#D6A664",
+      "#F1D29A"
+    ],
+    "sha256": "55f46d4aa0b3141d95a371837081c26edcda0fe1a81a0e100b8f66cda6dc7f15"
+  },
+  {
+    "id": "pustinjska-02-02",
+    "category": "pustinjska",
+    "palette": "Dine",
+    "pattern": "organic_woodland",
+    "file": "textures/pustinjska/pustinjska_02_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#5B3928",
+      "#885A37",
+      "#B47C47",
+      "#D6A664",
+      "#F1D29A"
+    ],
+    "sha256": "faededf7213c7fb84cdd6f742df28a9b3fb13f3db71089434385e8709a22d883"
+  },
+  {
+    "id": "pustinjska-02-03",
+    "category": "pustinjska",
+    "palette": "Dine",
+    "pattern": "stripes_tiger",
+    "file": "textures/pustinjska/pustinjska_02_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#5B3928",
+      "#885A37",
+      "#B47C47",
+      "#D6A664",
+      "#F1D29A"
+    ],
+    "sha256": "b4b42fe24e218ee7d39bdfdfff719de9fe2807c88f6802c99eb81aa3c6482054"
+  },
+  {
+    "id": "pustinjska-02-04",
+    "category": "pustinjska",
+    "palette": "Dine",
+    "pattern": "speckled_dot",
+    "file": "textures/pustinjska/pustinjska_02_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#5B3928",
+      "#885A37",
+      "#B47C47",
+      "#D6A664",
+      "#F1D29A"
+    ],
+    "sha256": "94bacc4e0a77698ec6b0c2146e79856a398e1164ff59a43b8f0ecfdc7539b30d"
+  },
+  {
+    "id": "pustinjska-02-05",
+    "category": "pustinjska",
+    "palette": "Dine",
+    "pattern": "hex",
+    "file": "textures/pustinjska/pustinjska_02_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#5B3928",
+      "#885A37",
+      "#B47C47",
+      "#D6A664",
+      "#F1D29A"
+    ],
+    "sha256": "96bbc80c0debb823acb80c839ed6fce104d53e9c14af9601968f841abcd2f3cd"
+  },
+  {
+    "id": "pustinjska-02-06",
+    "category": "pustinjska",
+    "palette": "Dine",
+    "pattern": "fragment",
+    "file": "textures/pustinjska/pustinjska_02_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#5B3928",
+      "#885A37",
+      "#B47C47",
+      "#D6A664",
+      "#F1D29A"
+    ],
+    "sha256": "3b3731ab94d8abae78d60d713188ada3e53c35b64a23a3fce0fde2ffd700651c"
+  },
+  {
+    "id": "pustinjska-03-01",
+    "category": "pustinjska",
+    "palette": "Kamenjar",
+    "pattern": "pixel_digital",
+    "file": "textures/pustinjska/pustinjska_03_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#393A36",
+      "#64625A",
+      "#918776",
+      "#B6AB94",
+      "#DDD3BD"
+    ],
+    "sha256": "e9e41bf95b8b6bbb28de49df08c062ac7715c0213dbf2817809c52631dd267d7"
+  },
+  {
+    "id": "pustinjska-03-02",
+    "category": "pustinjska",
+    "palette": "Kamenjar",
+    "pattern": "organic_woodland",
+    "file": "textures/pustinjska/pustinjska_03_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#393A36",
+      "#64625A",
+      "#918776",
+      "#B6AB94",
+      "#DDD3BD"
+    ],
+    "sha256": "8a1e5c6e5f825f6b06fcc483264731f5cd7e57920f21853c2aad9234bfba9720"
+  },
+  {
+    "id": "pustinjska-03-03",
+    "category": "pustinjska",
+    "palette": "Kamenjar",
+    "pattern": "stripes_tiger",
+    "file": "textures/pustinjska/pustinjska_03_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#393A36",
+      "#64625A",
+      "#918776",
+      "#B6AB94",
+      "#DDD3BD"
+    ],
+    "sha256": "8c24b5e0bbdd975110d909448b829b8c167831183075b3d6d8e760e3c34b9704"
+  },
+  {
+    "id": "pustinjska-03-04",
+    "category": "pustinjska",
+    "palette": "Kamenjar",
+    "pattern": "speckled_dot",
+    "file": "textures/pustinjska/pustinjska_03_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#393A36",
+      "#64625A",
+      "#918776",
+      "#B6AB94",
+      "#DDD3BD"
+    ],
+    "sha256": "f309e74703bcdb1cb6ef3a51b4914f21d68f6824094dc1aa99846c853348b379"
+  },
+  {
+    "id": "pustinjska-03-05",
+    "category": "pustinjska",
+    "palette": "Kamenjar",
+    "pattern": "hex",
+    "file": "textures/pustinjska/pustinjska_03_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#393A36",
+      "#64625A",
+      "#918776",
+      "#B6AB94",
+      "#DDD3BD"
+    ],
+    "sha256": "b395cfd19f981783bf10b66633b600be455dc04348c6a3fe88405398a5b2cb17"
+  },
+  {
+    "id": "pustinjska-03-06",
+    "category": "pustinjska",
+    "palette": "Kamenjar",
+    "pattern": "fragment",
+    "file": "textures/pustinjska/pustinjska_03_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#393A36",
+      "#64625A",
+      "#918776",
+      "#B6AB94",
+      "#DDD3BD"
+    ],
+    "sha256": "28fcf9087bcc3d09904a47a5664b3987dfa454ff4e12b6e688df6c17d0aed419"
+  },
+  {
+    "id": "pustinjska-04-01",
+    "category": "pustinjska",
+    "palette": "Slana pustinja",
+    "pattern": "pixel_digital",
+    "file": "textures/pustinjska/pustinjska_04_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#605E55",
+      "#8B887B",
+      "#B7B29F",
+      "#D9D3BF",
+      "#F3EDD9"
+    ],
+    "sha256": "be6082a16a91d2de351c906204d9e593ef96aa285b7bf37363f7eeced461eb83"
+  },
+  {
+    "id": "pustinjska-04-02",
+    "category": "pustinjska",
+    "palette": "Slana pustinja",
+    "pattern": "organic_woodland",
+    "file": "textures/pustinjska/pustinjska_04_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#605E55",
+      "#8B887B",
+      "#B7B29F",
+      "#D9D3BF",
+      "#F3EDD9"
+    ],
+    "sha256": "4d340911fcf4075925b9bae5d3922392bf054c9475bf3cf838ab9f6bafe64be0"
+  },
+  {
+    "id": "pustinjska-04-03",
+    "category": "pustinjska",
+    "palette": "Slana pustinja",
+    "pattern": "stripes_tiger",
+    "file": "textures/pustinjska/pustinjska_04_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#605E55",
+      "#8B887B",
+      "#B7B29F",
+      "#D9D3BF",
+      "#F3EDD9"
+    ],
+    "sha256": "38e8feb9bb482d9ae4b7a1c6f96c5b2d5c3521485d214cc85f7a6f09e4252809"
+  },
+  {
+    "id": "pustinjska-04-04",
+    "category": "pustinjska",
+    "palette": "Slana pustinja",
+    "pattern": "speckled_dot",
+    "file": "textures/pustinjska/pustinjska_04_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#605E55",
+      "#8B887B",
+      "#B7B29F",
+      "#D9D3BF",
+      "#F3EDD9"
+    ],
+    "sha256": "7ef33ee6c6ea471f0c08e5586ed6f3d4cddd8d03ec71485a2bda667fb99dd510"
+  },
+  {
+    "id": "pustinjska-04-05",
+    "category": "pustinjska",
+    "palette": "Slana pustinja",
+    "pattern": "hex",
+    "file": "textures/pustinjska/pustinjska_04_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#605E55",
+      "#8B887B",
+      "#B7B29F",
+      "#D9D3BF",
+      "#F3EDD9"
+    ],
+    "sha256": "a0e458a68c7e6c7fc33f2b27d06cd7c002a312d01b93749d10836e0e77d73f87"
+  },
+  {
+    "id": "pustinjska-04-06",
+    "category": "pustinjska",
+    "palette": "Slana pustinja",
+    "pattern": "fragment",
+    "file": "textures/pustinjska/pustinjska_04_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#605E55",
+      "#8B887B",
+      "#B7B29F",
+      "#D9D3BF",
+      "#F3EDD9"
+    ],
+    "sha256": "aeef59b781351a1d629157171c42b27d3fedee032504f628dcb1ecbd396cc97c"
+  },
+  {
+    "id": "pustinjska-05-01",
+    "category": "pustinjska",
+    "palette": "Crveni kanjon",
+    "pattern": "pixel_digital",
+    "file": "textures/pustinjska/pustinjska_05_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#432C27",
+      "#754334",
+      "#A56244",
+      "#C58D62",
+      "#E1B68B"
+    ],
+    "sha256": "91bf092692cbed7b4f27fd460993f582728292ac003a7bc9362d936c274f9835"
+  },
+  {
+    "id": "pustinjska-05-02",
+    "category": "pustinjska",
+    "palette": "Crveni kanjon",
+    "pattern": "organic_woodland",
+    "file": "textures/pustinjska/pustinjska_05_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#432C27",
+      "#754334",
+      "#A56244",
+      "#C58D62",
+      "#E1B68B"
+    ],
+    "sha256": "9119aa219eef931f42d03e880eb0b2ef556282d1322977f3bb318bef9203299a"
+  },
+  {
+    "id": "pustinjska-05-03",
+    "category": "pustinjska",
+    "palette": "Crveni kanjon",
+    "pattern": "stripes_tiger",
+    "file": "textures/pustinjska/pustinjska_05_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#432C27",
+      "#754334",
+      "#A56244",
+      "#C58D62",
+      "#E1B68B"
+    ],
+    "sha256": "1a71e883d095d8d6d0055bca176e1d25162712057cca958ee5421a97535bbad7"
+  },
+  {
+    "id": "pustinjska-05-04",
+    "category": "pustinjska",
+    "palette": "Crveni kanjon",
+    "pattern": "speckled_dot",
+    "file": "textures/pustinjska/pustinjska_05_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#432C27",
+      "#754334",
+      "#A56244",
+      "#C58D62",
+      "#E1B68B"
+    ],
+    "sha256": "01dae25d1c59ee030c0e71660810061cd533d5b13a6fb368ae33efdd685e7ebe"
+  },
+  {
+    "id": "pustinjska-05-05",
+    "category": "pustinjska",
+    "palette": "Crveni kanjon",
+    "pattern": "hex",
+    "file": "textures/pustinjska/pustinjska_05_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#432C27",
+      "#754334",
+      "#A56244",
+      "#C58D62",
+      "#E1B68B"
+    ],
+    "sha256": "3863b6e5b614a2e4c93f8ef791333fc4e0c8bdf1efd774c004b6ba13f2060c7d"
+  },
+  {
+    "id": "pustinjska-05-06",
+    "category": "pustinjska",
+    "palette": "Crveni kanjon",
+    "pattern": "fragment",
+    "file": "textures/pustinjska/pustinjska_05_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#432C27",
+      "#754334",
+      "#A56244",
+      "#C58D62",
+      "#E1B68B"
+    ],
+    "sha256": "617d4ca21a08edacf8dd181ab2dd8082ee6af0433adbfaa54336b7568e372496"
+  },
+  {
+    "id": "pustinjska-06-01",
+    "category": "pustinjska",
+    "palette": "Nocna pustinja",
+    "pattern": "pixel_digital",
+    "file": "textures/pustinjska/pustinjska_06_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#262A2B",
+      "#474A44",
+      "#70705E",
+      "#9A9580",
+      "#C5BBA0"
+    ],
+    "sha256": "ced500427f98bf031a423f9631f0dcf684f828ac9610844a4791117a09d6ac1f"
+  },
+  {
+    "id": "pustinjska-06-02",
+    "category": "pustinjska",
+    "palette": "Nocna pustinja",
+    "pattern": "organic_woodland",
+    "file": "textures/pustinjska/pustinjska_06_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#262A2B",
+      "#474A44",
+      "#70705E",
+      "#9A9580",
+      "#C5BBA0"
+    ],
+    "sha256": "238df624492501b695d7052fbb0663e68a853d176089495f1bab7394c8295220"
+  },
+  {
+    "id": "pustinjska-06-03",
+    "category": "pustinjska",
+    "palette": "Nocna pustinja",
+    "pattern": "stripes_tiger",
+    "file": "textures/pustinjska/pustinjska_06_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#262A2B",
+      "#474A44",
+      "#70705E",
+      "#9A9580",
+      "#C5BBA0"
+    ],
+    "sha256": "071b51e82f9a75d1cdb1ec6e4aa0a3ed21e23deeb251e38b5858b61d52eba27a"
+  },
+  {
+    "id": "pustinjska-06-04",
+    "category": "pustinjska",
+    "palette": "Nocna pustinja",
+    "pattern": "speckled_dot",
+    "file": "textures/pustinjska/pustinjska_06_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#262A2B",
+      "#474A44",
+      "#70705E",
+      "#9A9580",
+      "#C5BBA0"
+    ],
+    "sha256": "822611e129143c9125a1738dd4e49a02d62f928719a30fc0ec98feb03250699c"
+  },
+  {
+    "id": "pustinjska-06-05",
+    "category": "pustinjska",
+    "palette": "Nocna pustinja",
+    "pattern": "hex",
+    "file": "textures/pustinjska/pustinjska_06_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#262A2B",
+      "#474A44",
+      "#70705E",
+      "#9A9580",
+      "#C5BBA0"
+    ],
+    "sha256": "901dd73bfebf2acf83fc22b4327c04cd32afd9a85a9599fb77b0d70fde53262f"
+  },
+  {
+    "id": "pustinjska-06-06",
+    "category": "pustinjska",
+    "palette": "Nocna pustinja",
+    "pattern": "fragment",
+    "file": "textures/pustinjska/pustinjska_06_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#262A2B",
+      "#474A44",
+      "#70705E",
+      "#9A9580",
+      "#C5BBA0"
+    ],
+    "sha256": "c9fa0fddaab56727b000b95915ecbbff0a56ee9d2598922e99866a0def034fa8"
+  },
+  {
+    "id": "urbana-01-01",
+    "category": "urbana",
+    "palette": "Beton",
+    "pattern": "pixel_digital",
+    "file": "textures/urbana/urbana_01_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#23272B",
+      "#464C50",
+      "#737B7D",
+      "#A4ABAA",
+      "#D4D8D4"
+    ],
+    "sha256": "084bab80be0561b01a17ca8609245ae64493a4079ffb56ff3089ebf9dd9c66d2"
+  },
+  {
+    "id": "urbana-01-02",
+    "category": "urbana",
+    "palette": "Beton",
+    "pattern": "organic_woodland",
+    "file": "textures/urbana/urbana_01_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#23272B",
+      "#464C50",
+      "#737B7D",
+      "#A4ABAA",
+      "#D4D8D4"
+    ],
+    "sha256": "6d961d8869c9c8afdfa2944828683061f49ded5b2f1fc243e151bcd38a41b590"
+  },
+  {
+    "id": "urbana-01-03",
+    "category": "urbana",
+    "palette": "Beton",
+    "pattern": "stripes_tiger",
+    "file": "textures/urbana/urbana_01_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#23272B",
+      "#464C50",
+      "#737B7D",
+      "#A4ABAA",
+      "#D4D8D4"
+    ],
+    "sha256": "9e84409dd97ee8d61e9e0966463e276edb4c53a34758ee274d93e9bbcdbf7a88"
+  },
+  {
+    "id": "urbana-01-04",
+    "category": "urbana",
+    "palette": "Beton",
+    "pattern": "speckled_dot",
+    "file": "textures/urbana/urbana_01_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#23272B",
+      "#464C50",
+      "#737B7D",
+      "#A4ABAA",
+      "#D4D8D4"
+    ],
+    "sha256": "fa5f96892a516c8f1f677bea2d6be50fa0f17bc94268e94a64b1ad9caf366bac"
+  },
+  {
+    "id": "urbana-01-05",
+    "category": "urbana",
+    "palette": "Beton",
+    "pattern": "hex",
+    "file": "textures/urbana/urbana_01_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#23272B",
+      "#464C50",
+      "#737B7D",
+      "#A4ABAA",
+      "#D4D8D4"
+    ],
+    "sha256": "d1c7861c79e00e116267d404fdf0772bc3c4fde3e8c9309b3b4dc9b70fe56b17"
+  },
+  {
+    "id": "urbana-01-06",
+    "category": "urbana",
+    "palette": "Beton",
+    "pattern": "fragment",
+    "file": "textures/urbana/urbana_01_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#23272B",
+      "#464C50",
+      "#737B7D",
+      "#A4ABAA",
+      "#D4D8D4"
+    ],
+    "sha256": "b716270683877bcb210eaf36c9cda5daf794f723c3c7d63698c64f1892731650"
+  },
+  {
+    "id": "urbana-02-01",
+    "category": "urbana",
+    "palette": "Asfalt",
+    "pattern": "pixel_digital",
+    "file": "textures/urbana/urbana_02_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#11151B",
+      "#29313A",
+      "#485460",
+      "#707D87",
+      "#A7B2BA"
+    ],
+    "sha256": "8748942893f5a0d2e697adb4b697e9b54ad2b6be875532ecc9251ec6a7333e16"
+  },
+  {
+    "id": "urbana-02-02",
+    "category": "urbana",
+    "palette": "Asfalt",
+    "pattern": "organic_woodland",
+    "file": "textures/urbana/urbana_02_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#11151B",
+      "#29313A",
+      "#485460",
+      "#707D87",
+      "#A7B2BA"
+    ],
+    "sha256": "d899267806b08fb6d6ea4abf0d3f8bf87536526b8be358b123c3be88e625bcd7"
+  },
+  {
+    "id": "urbana-02-03",
+    "category": "urbana",
+    "palette": "Asfalt",
+    "pattern": "stripes_tiger",
+    "file": "textures/urbana/urbana_02_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#11151B",
+      "#29313A",
+      "#485460",
+      "#707D87",
+      "#A7B2BA"
+    ],
+    "sha256": "131506ae2f5912dc8638dbdf07f031ff1d79e35428061a465dcfc17c5605ff3e"
+  },
+  {
+    "id": "urbana-02-04",
+    "category": "urbana",
+    "palette": "Asfalt",
+    "pattern": "speckled_dot",
+    "file": "textures/urbana/urbana_02_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#11151B",
+      "#29313A",
+      "#485460",
+      "#707D87",
+      "#A7B2BA"
+    ],
+    "sha256": "a151e808c08d82722d171c76660caafd9b15fec9d8ef3f697f92a8dffd8983b2"
+  },
+  {
+    "id": "urbana-02-05",
+    "category": "urbana",
+    "palette": "Asfalt",
+    "pattern": "hex",
+    "file": "textures/urbana/urbana_02_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#11151B",
+      "#29313A",
+      "#485460",
+      "#707D87",
+      "#A7B2BA"
+    ],
+    "sha256": "deb600817784e0e885527ed893b7542235de09abff67219abf30a06195dbc43d"
+  },
+  {
+    "id": "urbana-02-06",
+    "category": "urbana",
+    "palette": "Asfalt",
+    "pattern": "fragment",
+    "file": "textures/urbana/urbana_02_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#11151B",
+      "#29313A",
+      "#485460",
+      "#707D87",
+      "#A7B2BA"
+    ],
+    "sha256": "ebf7970200f6c88a56f790bb6d2571976850248f94f99727b2efe4bc8321a783"
+  },
+  {
+    "id": "urbana-03-01",
+    "category": "urbana",
+    "palette": "Rusevine",
+    "pattern": "pixel_digital",
+    "file": "textures/urbana/urbana_03_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#292825",
+      "#514C46",
+      "#7B7267",
+      "#A79B8A",
+      "#D4C7B2"
+    ],
+    "sha256": "0beb8881ec017ed9f33dbff95235d9bb0a63c7dac47868838b9e15ebf7b8131f"
+  },
+  {
+    "id": "urbana-03-02",
+    "category": "urbana",
+    "palette": "Rusevine",
+    "pattern": "organic_woodland",
+    "file": "textures/urbana/urbana_03_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#292825",
+      "#514C46",
+      "#7B7267",
+      "#A79B8A",
+      "#D4C7B2"
+    ],
+    "sha256": "5487720ec75adcb3e6e5f3f524cb473e8fc94a565e9280472faa6f93afac1b86"
+  },
+  {
+    "id": "urbana-03-03",
+    "category": "urbana",
+    "palette": "Rusevine",
+    "pattern": "stripes_tiger",
+    "file": "textures/urbana/urbana_03_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#292825",
+      "#514C46",
+      "#7B7267",
+      "#A79B8A",
+      "#D4C7B2"
+    ],
+    "sha256": "6f9a79d3fa12673333fc7d79039356777b2f318170c11895b10264e08ee8d6dd"
+  },
+  {
+    "id": "urbana-03-04",
+    "category": "urbana",
+    "palette": "Rusevine",
+    "pattern": "speckled_dot",
+    "file": "textures/urbana/urbana_03_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#292825",
+      "#514C46",
+      "#7B7267",
+      "#A79B8A",
+      "#D4C7B2"
+    ],
+    "sha256": "cba1b8e554a05a47aa1bf8fc5c386b584fc7648974e25c7c2f224f8ed99b8349"
+  },
+  {
+    "id": "urbana-03-05",
+    "category": "urbana",
+    "palette": "Rusevine",
+    "pattern": "hex",
+    "file": "textures/urbana/urbana_03_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#292825",
+      "#514C46",
+      "#7B7267",
+      "#A79B8A",
+      "#D4C7B2"
+    ],
+    "sha256": "319ced829314555e7813909b07d2184938b5f38fe844f23034232b216ab43415"
+  },
+  {
+    "id": "urbana-03-06",
+    "category": "urbana",
+    "palette": "Rusevine",
+    "pattern": "fragment",
+    "file": "textures/urbana/urbana_03_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#292825",
+      "#514C46",
+      "#7B7267",
+      "#A79B8A",
+      "#D4C7B2"
+    ],
+    "sha256": "67cdc752c5c544d9d48fbdf8140ddd346448423986cdabfe5b9cf0b13320bfe5"
+  },
+  {
+    "id": "urbana-04-01",
+    "category": "urbana",
+    "palette": "Industrija",
+    "pattern": "pixel_digital",
+    "file": "textures/urbana/urbana_04_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#212A2D",
+      "#3D5053",
+      "#627575",
+      "#91A09B",
+      "#C5CBC2"
+    ],
+    "sha256": "e4875c397d740a1c7cc70db01e9c1c4964800ae205b335c72161672dbc6d1b44"
+  },
+  {
+    "id": "urbana-04-02",
+    "category": "urbana",
+    "palette": "Industrija",
+    "pattern": "organic_woodland",
+    "file": "textures/urbana/urbana_04_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#212A2D",
+      "#3D5053",
+      "#627575",
+      "#91A09B",
+      "#C5CBC2"
+    ],
+    "sha256": "6be5e4d6b1620b9cfdbd948e9db7e4e618bfe3ba4d7c4125e347dbb56aeb602a"
+  },
+  {
+    "id": "urbana-04-03",
+    "category": "urbana",
+    "palette": "Industrija",
+    "pattern": "stripes_tiger",
+    "file": "textures/urbana/urbana_04_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#212A2D",
+      "#3D5053",
+      "#627575",
+      "#91A09B",
+      "#C5CBC2"
+    ],
+    "sha256": "e4f587cfc7530e930cedfbe3be3a5d8fbc15ef04822f10890f3904a145a33d7e"
+  },
+  {
+    "id": "urbana-04-04",
+    "category": "urbana",
+    "palette": "Industrija",
+    "pattern": "speckled_dot",
+    "file": "textures/urbana/urbana_04_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#212A2D",
+      "#3D5053",
+      "#627575",
+      "#91A09B",
+      "#C5CBC2"
+    ],
+    "sha256": "e1d61e0bd5ce3fecb91175acf9d6b0ad00cd8b07a7ffef658cf4a58fbaf16eac"
+  },
+  {
+    "id": "urbana-04-05",
+    "category": "urbana",
+    "palette": "Industrija",
+    "pattern": "hex",
+    "file": "textures/urbana/urbana_04_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#212A2D",
+      "#3D5053",
+      "#627575",
+      "#91A09B",
+      "#C5CBC2"
+    ],
+    "sha256": "522f1bef4a3d84d0394089f075866013d9414122f9fe02ba738a053e143a57f2"
+  },
+  {
+    "id": "urbana-04-06",
+    "category": "urbana",
+    "palette": "Industrija",
+    "pattern": "fragment",
+    "file": "textures/urbana/urbana_04_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#212A2D",
+      "#3D5053",
+      "#627575",
+      "#91A09B",
+      "#C5CBC2"
+    ],
+    "sha256": "7515b10de9257127157a1e78a451f61a071019398eab7d84ca3318ee924d1c1f"
+  },
+  {
+    "id": "urbana-05-01",
+    "category": "urbana",
+    "palette": "Prasina",
+    "pattern": "pixel_digital",
+    "file": "textures/urbana/urbana_05_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#302D30",
+      "#565157",
+      "#817B80",
+      "#B0A7AA",
+      "#DBD2D0"
+    ],
+    "sha256": "4586d5f05903cef7be5aeb6a0abe6352c4305bc81700ca33877aa41e8c3c0889"
+  },
+  {
+    "id": "urbana-05-02",
+    "category": "urbana",
+    "palette": "Prasina",
+    "pattern": "organic_woodland",
+    "file": "textures/urbana/urbana_05_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#302D30",
+      "#565157",
+      "#817B80",
+      "#B0A7AA",
+      "#DBD2D0"
+    ],
+    "sha256": "ae63aa90342d2890c71c97764ccd449a32c25b2c91946549efe03a0cf5d8f87d"
+  },
+  {
+    "id": "urbana-05-03",
+    "category": "urbana",
+    "palette": "Prasina",
+    "pattern": "stripes_tiger",
+    "file": "textures/urbana/urbana_05_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#302D30",
+      "#565157",
+      "#817B80",
+      "#B0A7AA",
+      "#DBD2D0"
+    ],
+    "sha256": "6d27a3d92bfb94ce82520ff963288034850b4ae54cd28e47ac6444243c02748d"
+  },
+  {
+    "id": "urbana-05-04",
+    "category": "urbana",
+    "palette": "Prasina",
+    "pattern": "speckled_dot",
+    "file": "textures/urbana/urbana_05_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#302D30",
+      "#565157",
+      "#817B80",
+      "#B0A7AA",
+      "#DBD2D0"
+    ],
+    "sha256": "f5bcb772a03c59350237fecc8414a99e3db483db3d47691de0caf39123a770b3"
+  },
+  {
+    "id": "urbana-05-05",
+    "category": "urbana",
+    "palette": "Prasina",
+    "pattern": "hex",
+    "file": "textures/urbana/urbana_05_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#302D30",
+      "#565157",
+      "#817B80",
+      "#B0A7AA",
+      "#DBD2D0"
+    ],
+    "sha256": "fa625f8a17b171700d14edc9432a93fd8ccb74b12891fe6510afef9c83a17664"
+  },
+  {
+    "id": "urbana-05-06",
+    "category": "urbana",
+    "palette": "Prasina",
+    "pattern": "fragment",
+    "file": "textures/urbana/urbana_05_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#302D30",
+      "#565157",
+      "#817B80",
+      "#B0A7AA",
+      "#DBD2D0"
+    ],
+    "sha256": "94ece36bf90b323378461ab6fe8f095385c175e792cb209cec64c491e55eac18"
+  },
+  {
+    "id": "urbana-06-01",
+    "category": "urbana",
+    "palette": "Nocni grad",
+    "pattern": "pixel_digital",
+    "file": "textures/urbana/urbana_06_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C1220",
+      "#202C40",
+      "#3C4D65",
+      "#66788F",
+      "#A6B5C7"
+    ],
+    "sha256": "1077c15610e3e7e32ef93cb371b75d62999e37c74972a5babad34e538caf5d4a"
+  },
+  {
+    "id": "urbana-06-02",
+    "category": "urbana",
+    "palette": "Nocni grad",
+    "pattern": "organic_woodland",
+    "file": "textures/urbana/urbana_06_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C1220",
+      "#202C40",
+      "#3C4D65",
+      "#66788F",
+      "#A6B5C7"
+    ],
+    "sha256": "559201943b8c21e761080107bb33fe8527c7a8106b5474928e6122d7226627bf"
+  },
+  {
+    "id": "urbana-06-03",
+    "category": "urbana",
+    "palette": "Nocni grad",
+    "pattern": "stripes_tiger",
+    "file": "textures/urbana/urbana_06_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C1220",
+      "#202C40",
+      "#3C4D65",
+      "#66788F",
+      "#A6B5C7"
+    ],
+    "sha256": "0d828ac81a63eb263e0eb73fb9e19b738a8f32e11d1f3dc7667b7e34585f387a"
+  },
+  {
+    "id": "urbana-06-04",
+    "category": "urbana",
+    "palette": "Nocni grad",
+    "pattern": "speckled_dot",
+    "file": "textures/urbana/urbana_06_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C1220",
+      "#202C40",
+      "#3C4D65",
+      "#66788F",
+      "#A6B5C7"
+    ],
+    "sha256": "343a832dd4b10dcf3a32bbf10f9fcc6540e471b1ea5bb7b1267f3aa1aa3790fa"
+  },
+  {
+    "id": "urbana-06-05",
+    "category": "urbana",
+    "palette": "Nocni grad",
+    "pattern": "hex",
+    "file": "textures/urbana/urbana_06_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C1220",
+      "#202C40",
+      "#3C4D65",
+      "#66788F",
+      "#A6B5C7"
+    ],
+    "sha256": "24ce48d9d76279aff6d79c117834546ccfa54092d0a0ae9b5e524672ea5376e6"
+  },
+  {
+    "id": "urbana-06-06",
+    "category": "urbana",
+    "palette": "Nocni grad",
+    "pattern": "fragment",
+    "file": "textures/urbana/urbana_06_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C1220",
+      "#202C40",
+      "#3C4D65",
+      "#66788F",
+      "#A6B5C7"
+    ],
+    "sha256": "67f0a33ca09268cda953c6374ca871705e20f6b96d94db5979dbc55d228eca61"
+  },
+  {
+    "id": "tropska-01-01",
+    "category": "tropska",
+    "palette": "Dzungla",
+    "pattern": "pixel_digital",
+    "file": "textures/tropska/tropska_01_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102316",
+      "#24512A",
+      "#477638",
+      "#78A14B",
+      "#B9C77A"
+    ],
+    "sha256": "398dda4c242556c04a4cd933c794f18e769bcdce9ca3ad4c221f6c136b4046c9"
+  },
+  {
+    "id": "tropska-01-02",
+    "category": "tropska",
+    "palette": "Dzungla",
+    "pattern": "organic_woodland",
+    "file": "textures/tropska/tropska_01_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102316",
+      "#24512A",
+      "#477638",
+      "#78A14B",
+      "#B9C77A"
+    ],
+    "sha256": "8850c53c13ed95e4144de982cd7eec56899ebdf0a82355f06df910cbafb0bb19"
+  },
+  {
+    "id": "tropska-01-03",
+    "category": "tropska",
+    "palette": "Dzungla",
+    "pattern": "stripes_tiger",
+    "file": "textures/tropska/tropska_01_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102316",
+      "#24512A",
+      "#477638",
+      "#78A14B",
+      "#B9C77A"
+    ],
+    "sha256": "7a6372363b713d99ddea3f419065f91caf7f11052a40e7255c717a3fdda951e9"
+  },
+  {
+    "id": "tropska-01-04",
+    "category": "tropska",
+    "palette": "Dzungla",
+    "pattern": "speckled_dot",
+    "file": "textures/tropska/tropska_01_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102316",
+      "#24512A",
+      "#477638",
+      "#78A14B",
+      "#B9C77A"
+    ],
+    "sha256": "a5f2b4847448b07b43f2ce711cac4e082e792f0275b84dc3f391f01b997db82f"
+  },
+  {
+    "id": "tropska-01-05",
+    "category": "tropska",
+    "palette": "Dzungla",
+    "pattern": "hex",
+    "file": "textures/tropska/tropska_01_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102316",
+      "#24512A",
+      "#477638",
+      "#78A14B",
+      "#B9C77A"
+    ],
+    "sha256": "caeae60335b57e802734a07aff21568ea7018e26b29e67af8478a9985e3524b6"
+  },
+  {
+    "id": "tropska-01-06",
+    "category": "tropska",
+    "palette": "Dzungla",
+    "pattern": "fragment",
+    "file": "textures/tropska/tropska_01_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102316",
+      "#24512A",
+      "#477638",
+      "#78A14B",
+      "#B9C77A"
+    ],
+    "sha256": "da3e7d44842533cd51a437b5947f9a7e9c78f4b0c93708fd79d0ca33fe854d3a"
+  },
+  {
+    "id": "tropska-02-01",
+    "category": "tropska",
+    "palette": "Mangrove",
+    "pattern": "pixel_digital",
+    "file": "textures/tropska/tropska_02_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#152C29",
+      "#285046",
+      "#4E7861",
+      "#83A17B",
+      "#BBD0A0"
+    ],
+    "sha256": "0331f3b72fe3a6755d0531bc0fdc508383128b4071db3ac4739e6d634bb48232"
+  },
+  {
+    "id": "tropska-02-02",
+    "category": "tropska",
+    "palette": "Mangrove",
+    "pattern": "organic_woodland",
+    "file": "textures/tropska/tropska_02_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#152C29",
+      "#285046",
+      "#4E7861",
+      "#83A17B",
+      "#BBD0A0"
+    ],
+    "sha256": "b96cf6bccb3c34f778333c46b20875fbddb17fbd53813bcd40b6864cf614d890"
+  },
+  {
+    "id": "tropska-02-03",
+    "category": "tropska",
+    "palette": "Mangrove",
+    "pattern": "stripes_tiger",
+    "file": "textures/tropska/tropska_02_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#152C29",
+      "#285046",
+      "#4E7861",
+      "#83A17B",
+      "#BBD0A0"
+    ],
+    "sha256": "fdeaff4d0851020a61d88d720d0f4b8a553bcbdb873727dc820ebd28e90ae7f9"
+  },
+  {
+    "id": "tropska-02-04",
+    "category": "tropska",
+    "palette": "Mangrove",
+    "pattern": "speckled_dot",
+    "file": "textures/tropska/tropska_02_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#152C29",
+      "#285046",
+      "#4E7861",
+      "#83A17B",
+      "#BBD0A0"
+    ],
+    "sha256": "c07ea56d0524b34687dd425cf30855c69bd6642c3450451d2111917cc9e9dea6"
+  },
+  {
+    "id": "tropska-02-05",
+    "category": "tropska",
+    "palette": "Mangrove",
+    "pattern": "hex",
+    "file": "textures/tropska/tropska_02_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#152C29",
+      "#285046",
+      "#4E7861",
+      "#83A17B",
+      "#BBD0A0"
+    ],
+    "sha256": "2086b02a03f98df5f8557e550b9d9225aaecdc6cb89552149d327f73275ca410"
+  },
+  {
+    "id": "tropska-02-06",
+    "category": "tropska",
+    "palette": "Mangrove",
+    "pattern": "fragment",
+    "file": "textures/tropska/tropska_02_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#152C29",
+      "#285046",
+      "#4E7861",
+      "#83A17B",
+      "#BBD0A0"
+    ],
+    "sha256": "96dd1631e1996621c325740a79c0bed7a72653a8592f70f19f66264c8826bb50"
+  },
+  {
+    "id": "tropska-03-01",
+    "category": "tropska",
+    "palette": "Bambus",
+    "pattern": "pixel_digital",
+    "file": "textures/tropska/tropska_03_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#27341A",
+      "#4B6226",
+      "#7D8D3A",
+      "#ADB65F",
+      "#D9D798"
+    ],
+    "sha256": "fdfcb5d4cb0ad63fa0159c3738e84b20c64044dc2d68d58c5b72051ed4441345"
+  },
+  {
+    "id": "tropska-03-02",
+    "category": "tropska",
+    "palette": "Bambus",
+    "pattern": "organic_woodland",
+    "file": "textures/tropska/tropska_03_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#27341A",
+      "#4B6226",
+      "#7D8D3A",
+      "#ADB65F",
+      "#D9D798"
+    ],
+    "sha256": "8ea3e88b40e0d891d1fdb8a7315bfedec5a6c88b5aacf8c8fbba2f90a6b2f5b0"
+  },
+  {
+    "id": "tropska-03-03",
+    "category": "tropska",
+    "palette": "Bambus",
+    "pattern": "stripes_tiger",
+    "file": "textures/tropska/tropska_03_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#27341A",
+      "#4B6226",
+      "#7D8D3A",
+      "#ADB65F",
+      "#D9D798"
+    ],
+    "sha256": "70b25fc365320b413f2059fccaea0971bbb63ce6e1746dd637b5aaebd0b58171"
+  },
+  {
+    "id": "tropska-03-04",
+    "category": "tropska",
+    "palette": "Bambus",
+    "pattern": "speckled_dot",
+    "file": "textures/tropska/tropska_03_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#27341A",
+      "#4B6226",
+      "#7D8D3A",
+      "#ADB65F",
+      "#D9D798"
+    ],
+    "sha256": "cc16b75a26b43d8b7a324c8273eaf34cc742440f5fff2fccf43732b7f53437cd"
+  },
+  {
+    "id": "tropska-03-05",
+    "category": "tropska",
+    "palette": "Bambus",
+    "pattern": "hex",
+    "file": "textures/tropska/tropska_03_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#27341A",
+      "#4B6226",
+      "#7D8D3A",
+      "#ADB65F",
+      "#D9D798"
+    ],
+    "sha256": "b1d9312ef890fda38286493a26be0a1051f9d8b1859a63d99dbc05a7ffb7fe50"
+  },
+  {
+    "id": "tropska-03-06",
+    "category": "tropska",
+    "palette": "Bambus",
+    "pattern": "fragment",
+    "file": "textures/tropska/tropska_03_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#27341A",
+      "#4B6226",
+      "#7D8D3A",
+      "#ADB65F",
+      "#D9D798"
+    ],
+    "sha256": "8c5020f92975fb6ea02a5261112169b19207a0d7cb6cf1260ffeefb5a649841b"
+  },
+  {
+    "id": "tropska-04-01",
+    "category": "tropska",
+    "palette": "Vulkansko ostrvo",
+    "pattern": "pixel_digital",
+    "file": "textures/tropska/tropska_04_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2520",
+      "#354E35",
+      "#5B7744",
+      "#89965B",
+      "#B7B184"
+    ],
+    "sha256": "5aea24e881ef6512a37d5225d8e8b66bcdc3c14f9dba071c06f645cd9614db5d"
+  },
+  {
+    "id": "tropska-04-02",
+    "category": "tropska",
+    "palette": "Vulkansko ostrvo",
+    "pattern": "organic_woodland",
+    "file": "textures/tropska/tropska_04_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2520",
+      "#354E35",
+      "#5B7744",
+      "#89965B",
+      "#B7B184"
+    ],
+    "sha256": "e9a87efeac1b046e5548abfecbb1b262fae8161546c01955c8aecdaf3784d64b"
+  },
+  {
+    "id": "tropska-04-03",
+    "category": "tropska",
+    "palette": "Vulkansko ostrvo",
+    "pattern": "stripes_tiger",
+    "file": "textures/tropska/tropska_04_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2520",
+      "#354E35",
+      "#5B7744",
+      "#89965B",
+      "#B7B184"
+    ],
+    "sha256": "8c35f67c913507feb91c7ae1ff5607246dcdf012fdf1eee2cc6ef1929ae14844"
+  },
+  {
+    "id": "tropska-04-04",
+    "category": "tropska",
+    "palette": "Vulkansko ostrvo",
+    "pattern": "speckled_dot",
+    "file": "textures/tropska/tropska_04_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2520",
+      "#354E35",
+      "#5B7744",
+      "#89965B",
+      "#B7B184"
+    ],
+    "sha256": "ad5a1cf046adaf97b3031d20eae9b97bdee99c8183efea615e92f8d80b62e755"
+  },
+  {
+    "id": "tropska-04-05",
+    "category": "tropska",
+    "palette": "Vulkansko ostrvo",
+    "pattern": "hex",
+    "file": "textures/tropska/tropska_04_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2520",
+      "#354E35",
+      "#5B7744",
+      "#89965B",
+      "#B7B184"
+    ],
+    "sha256": "eeb95677f026aaee3c00fd76296b85c1165786d1cf672144f3de8a68317c27d6"
+  },
+  {
+    "id": "tropska-04-06",
+    "category": "tropska",
+    "palette": "Vulkansko ostrvo",
+    "pattern": "fragment",
+    "file": "textures/tropska/tropska_04_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2520",
+      "#354E35",
+      "#5B7744",
+      "#89965B",
+      "#B7B184"
+    ],
+    "sha256": "831cbd9dff80c564e426f095a1380875ba1dab83d6a9b0327d5fe6c95b3b56b6"
+  },
+  {
+    "id": "tropska-05-01",
+    "category": "tropska",
+    "palette": "Monsun",
+    "pattern": "pixel_digital",
+    "file": "textures/tropska/tropska_05_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102B30",
+      "#24505A",
+      "#477C7B",
+      "#79A79A",
+      "#B7C9AB"
+    ],
+    "sha256": "42e00a6586f7ca288e98acfc9a33c7e2175051bc6763a5d6019c1ab9b0528135"
+  },
+  {
+    "id": "tropska-05-02",
+    "category": "tropska",
+    "palette": "Monsun",
+    "pattern": "organic_woodland",
+    "file": "textures/tropska/tropska_05_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102B30",
+      "#24505A",
+      "#477C7B",
+      "#79A79A",
+      "#B7C9AB"
+    ],
+    "sha256": "25d1ef00771c38bb947ac511d42994de5136ae36297985ebae9e82a8f6b423cb"
+  },
+  {
+    "id": "tropska-05-03",
+    "category": "tropska",
+    "palette": "Monsun",
+    "pattern": "stripes_tiger",
+    "file": "textures/tropska/tropska_05_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102B30",
+      "#24505A",
+      "#477C7B",
+      "#79A79A",
+      "#B7C9AB"
+    ],
+    "sha256": "6199dc72be8c8970f8179c32f82f2582ac80f6787ffb61df58de90eeed935e4c"
+  },
+  {
+    "id": "tropska-05-04",
+    "category": "tropska",
+    "palette": "Monsun",
+    "pattern": "speckled_dot",
+    "file": "textures/tropska/tropska_05_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102B30",
+      "#24505A",
+      "#477C7B",
+      "#79A79A",
+      "#B7C9AB"
+    ],
+    "sha256": "a1e37d16adb2cc44b734391eaed5b6d7d5fe5f8f4d4f9a5b2378e2ed9fb2dc02"
+  },
+  {
+    "id": "tropska-05-05",
+    "category": "tropska",
+    "palette": "Monsun",
+    "pattern": "hex",
+    "file": "textures/tropska/tropska_05_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102B30",
+      "#24505A",
+      "#477C7B",
+      "#79A79A",
+      "#B7C9AB"
+    ],
+    "sha256": "ea05b5aeb465373ec6177bc3f9d96470e752f2543a47cc0eb6d64d1ffac56f07"
+  },
+  {
+    "id": "tropska-05-06",
+    "category": "tropska",
+    "palette": "Monsun",
+    "pattern": "fragment",
+    "file": "textures/tropska/tropska_05_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#102B30",
+      "#24505A",
+      "#477C7B",
+      "#79A79A",
+      "#B7C9AB"
+    ],
+    "sha256": "dd69a71a1d0da195a31c08ffd48a039d3f73bf36458aef0476c4afa194d72e49"
+  },
+  {
+    "id": "tropska-06-01",
+    "category": "tropska",
+    "palette": "Palma",
+    "pattern": "pixel_digital",
+    "file": "textures/tropska/tropska_06_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2F1C",
+      "#37602E",
+      "#618743",
+      "#9AAC60",
+      "#D4D191"
+    ],
+    "sha256": "7d304385e4aaac7b08a75ef9081b5f4b90848553ca8e7b994a1e7ee88e3b3c05"
+  },
+  {
+    "id": "tropska-06-02",
+    "category": "tropska",
+    "palette": "Palma",
+    "pattern": "organic_woodland",
+    "file": "textures/tropska/tropska_06_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2F1C",
+      "#37602E",
+      "#618743",
+      "#9AAC60",
+      "#D4D191"
+    ],
+    "sha256": "2813d455ffb3c8f3868b10bafca5805986ff1b23f691808508ae46c8858837c1"
+  },
+  {
+    "id": "tropska-06-03",
+    "category": "tropska",
+    "palette": "Palma",
+    "pattern": "stripes_tiger",
+    "file": "textures/tropska/tropska_06_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2F1C",
+      "#37602E",
+      "#618743",
+      "#9AAC60",
+      "#D4D191"
+    ],
+    "sha256": "5a3e784d4c08324dbbe8f6fdee11908d41bbb392ae6b80209c083cfce85817e9"
+  },
+  {
+    "id": "tropska-06-04",
+    "category": "tropska",
+    "palette": "Palma",
+    "pattern": "speckled_dot",
+    "file": "textures/tropska/tropska_06_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2F1C",
+      "#37602E",
+      "#618743",
+      "#9AAC60",
+      "#D4D191"
+    ],
+    "sha256": "da1b950386b1ba4710c779e1ec3cfe4aaa43e8dec733f5f2b11911f649c0a7ed"
+  },
+  {
+    "id": "tropska-06-05",
+    "category": "tropska",
+    "palette": "Palma",
+    "pattern": "hex",
+    "file": "textures/tropska/tropska_06_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2F1C",
+      "#37602E",
+      "#618743",
+      "#9AAC60",
+      "#D4D191"
+    ],
+    "sha256": "b9fcae18090affcdf84afb6362d81dfc9f5023bcd4711d300334c9d8ad5ef162"
+  },
+  {
+    "id": "tropska-06-06",
+    "category": "tropska",
+    "palette": "Palma",
+    "pattern": "fragment",
+    "file": "textures/tropska/tropska_06_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B2F1C",
+      "#37602E",
+      "#618743",
+      "#9AAC60",
+      "#D4D191"
+    ],
+    "sha256": "e8fe226287c224f4bad5d52bd6b8fc178160fbc29e7040db7fc06380e37b3783"
+  },
+  {
+    "id": "snezna-01-01",
+    "category": "snezna",
+    "palette": "Arktik",
+    "pattern": "pixel_digital",
+    "file": "textures/snezna/snezna_01_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#414F5C",
+      "#738593",
+      "#A2B4BE",
+      "#D0DDE2",
+      "#F4F8F8"
+    ],
+    "sha256": "2b214a1c0e4eb15eb7fb9ccaa7627725c287e55604eb53c3bec355877874ec34"
+  },
+  {
+    "id": "snezna-01-02",
+    "category": "snezna",
+    "palette": "Arktik",
+    "pattern": "organic_woodland",
+    "file": "textures/snezna/snezna_01_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#414F5C",
+      "#738593",
+      "#A2B4BE",
+      "#D0DDE2",
+      "#F4F8F8"
+    ],
+    "sha256": "f82d6e9ceb4887ced3c323180d808dabd30e1a395d16c5718b7ba7567d2ced20"
+  },
+  {
+    "id": "snezna-01-03",
+    "category": "snezna",
+    "palette": "Arktik",
+    "pattern": "stripes_tiger",
+    "file": "textures/snezna/snezna_01_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#414F5C",
+      "#738593",
+      "#A2B4BE",
+      "#D0DDE2",
+      "#F4F8F8"
+    ],
+    "sha256": "0bdca2171dd95b0e711a93d98fe68ced6728023c744314013d8d05492b6f0e51"
+  },
+  {
+    "id": "snezna-01-04",
+    "category": "snezna",
+    "palette": "Arktik",
+    "pattern": "speckled_dot",
+    "file": "textures/snezna/snezna_01_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#414F5C",
+      "#738593",
+      "#A2B4BE",
+      "#D0DDE2",
+      "#F4F8F8"
+    ],
+    "sha256": "ec3f2734017671b2d55f1cde209675cff64e3557d798d7f8b139741a36267a92"
+  },
+  {
+    "id": "snezna-01-05",
+    "category": "snezna",
+    "palette": "Arktik",
+    "pattern": "hex",
+    "file": "textures/snezna/snezna_01_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#414F5C",
+      "#738593",
+      "#A2B4BE",
+      "#D0DDE2",
+      "#F4F8F8"
+    ],
+    "sha256": "6db9083fafb8b4b05c339c7a6c532ec5781d7ca3b4bff94dbdd1c7362d1154f7"
+  },
+  {
+    "id": "snezna-01-06",
+    "category": "snezna",
+    "palette": "Arktik",
+    "pattern": "fragment",
+    "file": "textures/snezna/snezna_01_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#414F5C",
+      "#738593",
+      "#A2B4BE",
+      "#D0DDE2",
+      "#F4F8F8"
+    ],
+    "sha256": "70e6c5e6df5a50ae61524205684ac3e2af21d8459cb976be371dcca05c483631"
+  },
+  {
+    "id": "snezna-02-01",
+    "category": "snezna",
+    "palette": "Lednik",
+    "pattern": "pixel_digital",
+    "file": "textures/snezna/snezna_02_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#254458",
+      "#537D94",
+      "#8DAFC0",
+      "#C5DDE5",
+      "#F0FAFF"
+    ],
+    "sha256": "75f1ffd66de9a33a12d22fd0c916d9fa43a961ae7be45ead972933a6215fabc2"
+  },
+  {
+    "id": "snezna-02-02",
+    "category": "snezna",
+    "palette": "Lednik",
+    "pattern": "organic_woodland",
+    "file": "textures/snezna/snezna_02_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#254458",
+      "#537D94",
+      "#8DAFC0",
+      "#C5DDE5",
+      "#F0FAFF"
+    ],
+    "sha256": "7ddbf2d60eeb15967e076e41c8bb4beb1649d6558f49a4667b034873d7ee90ef"
+  },
+  {
+    "id": "snezna-02-03",
+    "category": "snezna",
+    "palette": "Lednik",
+    "pattern": "stripes_tiger",
+    "file": "textures/snezna/snezna_02_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#254458",
+      "#537D94",
+      "#8DAFC0",
+      "#C5DDE5",
+      "#F0FAFF"
+    ],
+    "sha256": "49088f3763210e6bea2307a84a8dc8ba7dace34928564629232c28ab745af3e8"
+  },
+  {
+    "id": "snezna-02-04",
+    "category": "snezna",
+    "palette": "Lednik",
+    "pattern": "speckled_dot",
+    "file": "textures/snezna/snezna_02_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#254458",
+      "#537D94",
+      "#8DAFC0",
+      "#C5DDE5",
+      "#F0FAFF"
+    ],
+    "sha256": "466279a9d8349ce33fb81a512499312dc7bcb1e755b0016c9a80ffbbacaad7de"
+  },
+  {
+    "id": "snezna-02-05",
+    "category": "snezna",
+    "palette": "Lednik",
+    "pattern": "hex",
+    "file": "textures/snezna/snezna_02_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#254458",
+      "#537D94",
+      "#8DAFC0",
+      "#C5DDE5",
+      "#F0FAFF"
+    ],
+    "sha256": "2ca917b4368a9e0dbb49af9bff16edde9545fc9bb1d288f87253e5e0a69ca245"
+  },
+  {
+    "id": "snezna-02-06",
+    "category": "snezna",
+    "palette": "Lednik",
+    "pattern": "fragment",
+    "file": "textures/snezna/snezna_02_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#254458",
+      "#537D94",
+      "#8DAFC0",
+      "#C5DDE5",
+      "#F0FAFF"
+    ],
+    "sha256": "0544484e605dcb8fbd2f3387e42fca87d16654ee84313215a5c4986ccdbcf4c0"
+  },
+  {
+    "id": "snezna-03-01",
+    "category": "snezna",
+    "palette": "Snezan bor",
+    "pattern": "pixel_digital",
+    "file": "textures/snezna/snezna_03_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#34433C",
+      "#66786A",
+      "#9CAD9A",
+      "#CCD6C8",
+      "#F4F5EA"
+    ],
+    "sha256": "66e42fa00989f42d420edaeda98efa663dc9696e066d0da2586a199e6ed341e9"
+  },
+  {
+    "id": "snezna-03-02",
+    "category": "snezna",
+    "palette": "Snezan bor",
+    "pattern": "organic_woodland",
+    "file": "textures/snezna/snezna_03_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#34433C",
+      "#66786A",
+      "#9CAD9A",
+      "#CCD6C8",
+      "#F4F5EA"
+    ],
+    "sha256": "c3190cbdccc83b4a5b346cc82e7e906b0e6db76f5aa502c621c67de902e1d454"
+  },
+  {
+    "id": "snezna-03-03",
+    "category": "snezna",
+    "palette": "Snezan bor",
+    "pattern": "stripes_tiger",
+    "file": "textures/snezna/snezna_03_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#34433C",
+      "#66786A",
+      "#9CAD9A",
+      "#CCD6C8",
+      "#F4F5EA"
+    ],
+    "sha256": "c3b00324cb95f62b3b1aeecb8f3e1b804d3f165532783d175c0e3b19a72a101d"
+  },
+  {
+    "id": "snezna-03-04",
+    "category": "snezna",
+    "palette": "Snezan bor",
+    "pattern": "speckled_dot",
+    "file": "textures/snezna/snezna_03_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#34433C",
+      "#66786A",
+      "#9CAD9A",
+      "#CCD6C8",
+      "#F4F5EA"
+    ],
+    "sha256": "b3aec1bec394af2c1f4fbb6b3414b27fe480b4aeda40e5518d5bfaaff03c4bf3"
+  },
+  {
+    "id": "snezna-03-05",
+    "category": "snezna",
+    "palette": "Snezan bor",
+    "pattern": "hex",
+    "file": "textures/snezna/snezna_03_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#34433C",
+      "#66786A",
+      "#9CAD9A",
+      "#CCD6C8",
+      "#F4F5EA"
+    ],
+    "sha256": "f772aa992f110bdcc5649f668396e42c108b48c3c0e8d684eb15f495d87ace47"
+  },
+  {
+    "id": "snezna-03-06",
+    "category": "snezna",
+    "palette": "Snezan bor",
+    "pattern": "fragment",
+    "file": "textures/snezna/snezna_03_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#34433C",
+      "#66786A",
+      "#9CAD9A",
+      "#CCD6C8",
+      "#F4F5EA"
+    ],
+    "sha256": "bb5faf0a191d1210fab7d483cb5522143bf45efc009a2a11075dc496c4904eae"
+  },
+  {
+    "id": "snezna-04-01",
+    "category": "snezna",
+    "palette": "Planinski kamen",
+    "pattern": "pixel_digital",
+    "file": "textures/snezna/snezna_04_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#43464D",
+      "#747982",
+      "#A6ADB3",
+      "#D4DADF",
+      "#F7F8FA"
+    ],
+    "sha256": "3ebc3220bb4150b4fa64c9251b7dd33348add16df6d1a6310d757954be94763b"
+  },
+  {
+    "id": "snezna-04-02",
+    "category": "snezna",
+    "palette": "Planinski kamen",
+    "pattern": "organic_woodland",
+    "file": "textures/snezna/snezna_04_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#43464D",
+      "#747982",
+      "#A6ADB3",
+      "#D4DADF",
+      "#F7F8FA"
+    ],
+    "sha256": "a01d4e19c9d3c6e53512be85de62bd7d31b9a71c080c1c9519212a42a3da7d5e"
+  },
+  {
+    "id": "snezna-04-03",
+    "category": "snezna",
+    "palette": "Planinski kamen",
+    "pattern": "stripes_tiger",
+    "file": "textures/snezna/snezna_04_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#43464D",
+      "#747982",
+      "#A6ADB3",
+      "#D4DADF",
+      "#F7F8FA"
+    ],
+    "sha256": "c9f8e4f96306761011eb6333ec09440a594e7bb185edda81d43f1f1748bcc740"
+  },
+  {
+    "id": "snezna-04-04",
+    "category": "snezna",
+    "palette": "Planinski kamen",
+    "pattern": "speckled_dot",
+    "file": "textures/snezna/snezna_04_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#43464D",
+      "#747982",
+      "#A6ADB3",
+      "#D4DADF",
+      "#F7F8FA"
+    ],
+    "sha256": "0c79ee5f1f819c713e4dc386faf47806d576f43fdff581571970d9cf3928304b"
+  },
+  {
+    "id": "snezna-04-05",
+    "category": "snezna",
+    "palette": "Planinski kamen",
+    "pattern": "hex",
+    "file": "textures/snezna/snezna_04_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#43464D",
+      "#747982",
+      "#A6ADB3",
+      "#D4DADF",
+      "#F7F8FA"
+    ],
+    "sha256": "bc356476b84afe1bd33c4568e06d3aa79b596c028173c3db5a123e6530a28028"
+  },
+  {
+    "id": "snezna-04-06",
+    "category": "snezna",
+    "palette": "Planinski kamen",
+    "pattern": "fragment",
+    "file": "textures/snezna/snezna_04_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#43464D",
+      "#747982",
+      "#A6ADB3",
+      "#D4DADF",
+      "#F7F8FA"
+    ],
+    "sha256": "947a1cc141af17391df02d7227960d5a3d7cebc49a91443171191e8711fc1519"
+  },
+  {
+    "id": "snezna-05-01",
+    "category": "snezna",
+    "palette": "Polarna noc",
+    "pattern": "pixel_digital",
+    "file": "textures/snezna/snezna_05_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#182840",
+      "#3D5673",
+      "#7A94AF",
+      "#B6CBDF",
+      "#E8F2FA"
+    ],
+    "sha256": "3929bf533988c9d4aa701839f4eb3ddc4b17659c2e6bf807d646336ff582a37c"
+  },
+  {
+    "id": "snezna-05-02",
+    "category": "snezna",
+    "palette": "Polarna noc",
+    "pattern": "organic_woodland",
+    "file": "textures/snezna/snezna_05_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#182840",
+      "#3D5673",
+      "#7A94AF",
+      "#B6CBDF",
+      "#E8F2FA"
+    ],
+    "sha256": "a0d1b125f6e6ce6eb342a7de23754a26af0dfa81a42483549e1e666988bfacb6"
+  },
+  {
+    "id": "snezna-05-03",
+    "category": "snezna",
+    "palette": "Polarna noc",
+    "pattern": "stripes_tiger",
+    "file": "textures/snezna/snezna_05_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#182840",
+      "#3D5673",
+      "#7A94AF",
+      "#B6CBDF",
+      "#E8F2FA"
+    ],
+    "sha256": "54f43190f7fdc393c14c30779b0064c518d65d2ae8717890f5172b2fe88ae9a5"
+  },
+  {
+    "id": "snezna-05-04",
+    "category": "snezna",
+    "palette": "Polarna noc",
+    "pattern": "speckled_dot",
+    "file": "textures/snezna/snezna_05_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#182840",
+      "#3D5673",
+      "#7A94AF",
+      "#B6CBDF",
+      "#E8F2FA"
+    ],
+    "sha256": "651619776fb75b23aa2a25b0cf16464fe320adca340ffd8bd06146315da442b7"
+  },
+  {
+    "id": "snezna-05-05",
+    "category": "snezna",
+    "palette": "Polarna noc",
+    "pattern": "hex",
+    "file": "textures/snezna/snezna_05_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#182840",
+      "#3D5673",
+      "#7A94AF",
+      "#B6CBDF",
+      "#E8F2FA"
+    ],
+    "sha256": "fc6aff91deef15e470ed23f30c2594fc58e8afb32673166eaafb607b43c30f70"
+  },
+  {
+    "id": "snezna-05-06",
+    "category": "snezna",
+    "palette": "Polarna noc",
+    "pattern": "fragment",
+    "file": "textures/snezna/snezna_05_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#182840",
+      "#3D5673",
+      "#7A94AF",
+      "#B6CBDF",
+      "#E8F2FA"
+    ],
+    "sha256": "1a642e9302a6a90e1832ff20b9fa967e680b9db8b9103c8e573c2fc858a505c7"
+  },
+  {
+    "id": "snezna-06-01",
+    "category": "snezna",
+    "palette": "Prljavi sneg",
+    "pattern": "pixel_digital",
+    "file": "textures/snezna/snezna_06_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#4A4940",
+      "#7C7A6B",
+      "#A9A898",
+      "#D5D1C2",
+      "#F4F0E4"
+    ],
+    "sha256": "49bf33ada38633b88d9d9561f5c55279c452e04f616ff59c76ed621f8e913279"
+  },
+  {
+    "id": "snezna-06-02",
+    "category": "snezna",
+    "palette": "Prljavi sneg",
+    "pattern": "organic_woodland",
+    "file": "textures/snezna/snezna_06_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#4A4940",
+      "#7C7A6B",
+      "#A9A898",
+      "#D5D1C2",
+      "#F4F0E4"
+    ],
+    "sha256": "356798ec211435544097e0d0375d0f392f9462bf341759004becd213016f764f"
+  },
+  {
+    "id": "snezna-06-03",
+    "category": "snezna",
+    "palette": "Prljavi sneg",
+    "pattern": "stripes_tiger",
+    "file": "textures/snezna/snezna_06_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#4A4940",
+      "#7C7A6B",
+      "#A9A898",
+      "#D5D1C2",
+      "#F4F0E4"
+    ],
+    "sha256": "e8314726aa24b1cf4f4766cd022d1953c9b18a9b3d85cca094b679ed6368d6f9"
+  },
+  {
+    "id": "snezna-06-04",
+    "category": "snezna",
+    "palette": "Prljavi sneg",
+    "pattern": "speckled_dot",
+    "file": "textures/snezna/snezna_06_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#4A4940",
+      "#7C7A6B",
+      "#A9A898",
+      "#D5D1C2",
+      "#F4F0E4"
+    ],
+    "sha256": "311e003fa829c65850db4da637db921fb1ea31e27b793eee9a70ffed08949ede"
+  },
+  {
+    "id": "snezna-06-05",
+    "category": "snezna",
+    "palette": "Prljavi sneg",
+    "pattern": "hex",
+    "file": "textures/snezna/snezna_06_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#4A4940",
+      "#7C7A6B",
+      "#A9A898",
+      "#D5D1C2",
+      "#F4F0E4"
+    ],
+    "sha256": "0fea2f1747a4b6ea0667b8873904dd169c815abc763c09d42972595186d5c35e"
+  },
+  {
+    "id": "snezna-06-06",
+    "category": "snezna",
+    "palette": "Prljavi sneg",
+    "pattern": "fragment",
+    "file": "textures/snezna/snezna_06_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#4A4940",
+      "#7C7A6B",
+      "#A9A898",
+      "#D5D1C2",
+      "#F4F0E4"
+    ],
+    "sha256": "32c37b3a848c55be49b941bb71f665a8c118a825502c77640c83cc5dbac7546a"
+  },
+  {
+    "id": "premium-01-01",
+    "category": "premium",
+    "palette": "Zlatni pepeo",
+    "pattern": "pixel_digital",
+    "file": "textures/premium/premium_01_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#18191B",
+      "#3D3B37",
+      "#746545",
+      "#B49A58",
+      "#E5CE8A"
+    ],
+    "sha256": "52e5dc8c1e97d7db9d590ca7a23d7e9e6d465d2cd9b38aa9e4e85aef2e213d07"
+  },
+  {
+    "id": "premium-01-02",
+    "category": "premium",
+    "palette": "Zlatni pepeo",
+    "pattern": "organic_woodland",
+    "file": "textures/premium/premium_01_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#18191B",
+      "#3D3B37",
+      "#746545",
+      "#B49A58",
+      "#E5CE8A"
+    ],
+    "sha256": "01ee91453c36bb438de1992419a6b0bba7e9e0cb31b4190a1aec9ab44a6274cd"
+  },
+  {
+    "id": "premium-01-03",
+    "category": "premium",
+    "palette": "Zlatni pepeo",
+    "pattern": "stripes_tiger",
+    "file": "textures/premium/premium_01_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#18191B",
+      "#3D3B37",
+      "#746545",
+      "#B49A58",
+      "#E5CE8A"
+    ],
+    "sha256": "450dbbf1d90c5b1ccb4e64e0c6bb8002d81cf0a05bef729ac295986c618b7d05"
+  },
+  {
+    "id": "premium-01-04",
+    "category": "premium",
+    "palette": "Zlatni pepeo",
+    "pattern": "speckled_dot",
+    "file": "textures/premium/premium_01_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#18191B",
+      "#3D3B37",
+      "#746545",
+      "#B49A58",
+      "#E5CE8A"
+    ],
+    "sha256": "80c03c1010d6261576858f877b969edd39529b00324756ce3caf8e82fc4e8492"
+  },
+  {
+    "id": "premium-01-05",
+    "category": "premium",
+    "palette": "Zlatni pepeo",
+    "pattern": "hex",
+    "file": "textures/premium/premium_01_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#18191B",
+      "#3D3B37",
+      "#746545",
+      "#B49A58",
+      "#E5CE8A"
+    ],
+    "sha256": "e02e88088325657b9c3c87dc35e1edcdcbb74cfbded1bb0aa284e41d6f9870c5"
+  },
+  {
+    "id": "premium-01-06",
+    "category": "premium",
+    "palette": "Zlatni pepeo",
+    "pattern": "fragment",
+    "file": "textures/premium/premium_01_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#18191B",
+      "#3D3B37",
+      "#746545",
+      "#B49A58",
+      "#E5CE8A"
+    ],
+    "sha256": "cc82939732b0281154fb741f659fa9455e65e5fc502683d8d4d96d9bd345f2bf"
+  },
+  {
+    "id": "premium-02-01",
+    "category": "premium",
+    "palette": "Krvavi mesec",
+    "pattern": "pixel_digital",
+    "file": "textures/premium/premium_02_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#170F18",
+      "#3A1724",
+      "#761F31",
+      "#B33A43",
+      "#E58B78"
+    ],
+    "sha256": "f72e0b83703e51db24eadc1e64c75e7c57b11e4576d9d54d36e3de9f2017c247"
+  },
+  {
+    "id": "premium-02-02",
+    "category": "premium",
+    "palette": "Krvavi mesec",
+    "pattern": "organic_woodland",
+    "file": "textures/premium/premium_02_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#170F18",
+      "#3A1724",
+      "#761F31",
+      "#B33A43",
+      "#E58B78"
+    ],
+    "sha256": "935d23092b75b9525b2cc51429fc13aa99bf9835f07fa035945ac447afe3246b"
+  },
+  {
+    "id": "premium-02-03",
+    "category": "premium",
+    "palette": "Krvavi mesec",
+    "pattern": "stripes_tiger",
+    "file": "textures/premium/premium_02_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#170F18",
+      "#3A1724",
+      "#761F31",
+      "#B33A43",
+      "#E58B78"
+    ],
+    "sha256": "c87f8fcf6d80141ee483f1f16029b702de61789b045f3dcbd76f58f18ea6c2fc"
+  },
+  {
+    "id": "premium-02-04",
+    "category": "premium",
+    "palette": "Krvavi mesec",
+    "pattern": "speckled_dot",
+    "file": "textures/premium/premium_02_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#170F18",
+      "#3A1724",
+      "#761F31",
+      "#B33A43",
+      "#E58B78"
+    ],
+    "sha256": "b37d5deced0556edb4386f53a5e52607edae5d3cc03a2aa5334c1b31d3ef3176"
+  },
+  {
+    "id": "premium-02-05",
+    "category": "premium",
+    "palette": "Krvavi mesec",
+    "pattern": "hex",
+    "file": "textures/premium/premium_02_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#170F18",
+      "#3A1724",
+      "#761F31",
+      "#B33A43",
+      "#E58B78"
+    ],
+    "sha256": "1d4053ad6544efc648a11c6036abbdbad8eeebc94f7924cb577135186bd7ed3d"
+  },
+  {
+    "id": "premium-02-06",
+    "category": "premium",
+    "palette": "Krvavi mesec",
+    "pattern": "fragment",
+    "file": "textures/premium/premium_02_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#170F18",
+      "#3A1724",
+      "#761F31",
+      "#B33A43",
+      "#E58B78"
+    ],
+    "sha256": "62da4ed0bb5e75e510a08bd62beb7fb1377a358b80993f8874ab3b21253b81e5"
+  },
+  {
+    "id": "premium-03-01",
+    "category": "premium",
+    "palette": "Kobalt",
+    "pattern": "pixel_digital",
+    "file": "textures/premium/premium_03_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C162B",
+      "#173764",
+      "#235F9C",
+      "#4E9DCD",
+      "#B2DEF0"
+    ],
+    "sha256": "bd5fa0cf87fd45a9b8a7e83998cfe015efd33032c83c6418cac98e7c3ffede19"
+  },
+  {
+    "id": "premium-03-02",
+    "category": "premium",
+    "palette": "Kobalt",
+    "pattern": "organic_woodland",
+    "file": "textures/premium/premium_03_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C162B",
+      "#173764",
+      "#235F9C",
+      "#4E9DCD",
+      "#B2DEF0"
+    ],
+    "sha256": "673a9210f17ea90e27a675e9cc462cba62912f3ac77cf9b68eb52b394221a9ee"
+  },
+  {
+    "id": "premium-03-03",
+    "category": "premium",
+    "palette": "Kobalt",
+    "pattern": "stripes_tiger",
+    "file": "textures/premium/premium_03_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C162B",
+      "#173764",
+      "#235F9C",
+      "#4E9DCD",
+      "#B2DEF0"
+    ],
+    "sha256": "cecce4b650bdffbe06717be64ef3f10ca9962da59da54efab95cea8480cfd20b"
+  },
+  {
+    "id": "premium-03-04",
+    "category": "premium",
+    "palette": "Kobalt",
+    "pattern": "speckled_dot",
+    "file": "textures/premium/premium_03_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C162B",
+      "#173764",
+      "#235F9C",
+      "#4E9DCD",
+      "#B2DEF0"
+    ],
+    "sha256": "7863b9e5b9706ac1828040c19196c7844aad6dbc015d65760529f8d201882545"
+  },
+  {
+    "id": "premium-03-05",
+    "category": "premium",
+    "palette": "Kobalt",
+    "pattern": "hex",
+    "file": "textures/premium/premium_03_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C162B",
+      "#173764",
+      "#235F9C",
+      "#4E9DCD",
+      "#B2DEF0"
+    ],
+    "sha256": "44995b6d7455145452f18953f72d1ddfea18255d723962dbced346f167cd2bd5"
+  },
+  {
+    "id": "premium-03-06",
+    "category": "premium",
+    "palette": "Kobalt",
+    "pattern": "fragment",
+    "file": "textures/premium/premium_03_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0C162B",
+      "#173764",
+      "#235F9C",
+      "#4E9DCD",
+      "#B2DEF0"
+    ],
+    "sha256": "a53a57e4d394039ec6cf48c7cbb72ecf42cf70cfec6749f23759cf02ef2e0a64"
+  },
+  {
+    "id": "premium-04-01",
+    "category": "premium",
+    "palette": "Ametist",
+    "pattern": "pixel_digital",
+    "file": "textures/premium/premium_04_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B122B",
+      "#3E2459",
+      "#704497",
+      "#A77BC2",
+      "#DCC7EE"
+    ],
+    "sha256": "749cd3fb386aaf5f82c565797f3a55db07859d7c7d62f7e2406e9234d0a7222e"
+  },
+  {
+    "id": "premium-04-02",
+    "category": "premium",
+    "palette": "Ametist",
+    "pattern": "organic_woodland",
+    "file": "textures/premium/premium_04_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B122B",
+      "#3E2459",
+      "#704497",
+      "#A77BC2",
+      "#DCC7EE"
+    ],
+    "sha256": "419e89103953b2394e1270cb51632bdf2be0a339029c7b9c449e0a5e25f42be0"
+  },
+  {
+    "id": "premium-04-03",
+    "category": "premium",
+    "palette": "Ametist",
+    "pattern": "stripes_tiger",
+    "file": "textures/premium/premium_04_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B122B",
+      "#3E2459",
+      "#704497",
+      "#A77BC2",
+      "#DCC7EE"
+    ],
+    "sha256": "92f404a5315de2261e2b69bf1b5057dffdca2a444bb463035b66f0d9f4d10e4f"
+  },
+  {
+    "id": "premium-04-04",
+    "category": "premium",
+    "palette": "Ametist",
+    "pattern": "speckled_dot",
+    "file": "textures/premium/premium_04_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B122B",
+      "#3E2459",
+      "#704497",
+      "#A77BC2",
+      "#DCC7EE"
+    ],
+    "sha256": "439f9feaa2ec546710fa245f379bbc026a9d2aed391db3a17449e686199c6c5a"
+  },
+  {
+    "id": "premium-04-05",
+    "category": "premium",
+    "palette": "Ametist",
+    "pattern": "hex",
+    "file": "textures/premium/premium_04_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B122B",
+      "#3E2459",
+      "#704497",
+      "#A77BC2",
+      "#DCC7EE"
+    ],
+    "sha256": "6989613499578cb8022f4c49b757eab6f9bed1646d98882ce9fedbfd8932c39c"
+  },
+  {
+    "id": "premium-04-06",
+    "category": "premium",
+    "palette": "Ametist",
+    "pattern": "fragment",
+    "file": "textures/premium/premium_04_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#1B122B",
+      "#3E2459",
+      "#704497",
+      "#A77BC2",
+      "#DCC7EE"
+    ],
+    "sha256": "1b536f191d0b1091260956d3335a683e5976eb7798210abc5230d0fe7d7fb197"
+  },
+  {
+    "id": "premium-05-01",
+    "category": "premium",
+    "palette": "Patina",
+    "pattern": "pixel_digital",
+    "file": "textures/premium/premium_05_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172C2A",
+      "#305F56",
+      "#599382",
+      "#9BAD85",
+      "#D3BF8D"
+    ],
+    "sha256": "a22e6eb920ac988b419295d234039e87d3a74edc61cb477482f16ce457f8d9d7"
+  },
+  {
+    "id": "premium-05-02",
+    "category": "premium",
+    "palette": "Patina",
+    "pattern": "organic_woodland",
+    "file": "textures/premium/premium_05_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172C2A",
+      "#305F56",
+      "#599382",
+      "#9BAD85",
+      "#D3BF8D"
+    ],
+    "sha256": "36c6e2014290cb8f0f7158b2b72eb5237b961236eb3aadb58fa4ba3b6633cc0f"
+  },
+  {
+    "id": "premium-05-03",
+    "category": "premium",
+    "palette": "Patina",
+    "pattern": "stripes_tiger",
+    "file": "textures/premium/premium_05_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172C2A",
+      "#305F56",
+      "#599382",
+      "#9BAD85",
+      "#D3BF8D"
+    ],
+    "sha256": "9cda8f61e1138136338b4a0d20bd4d86ded774d0e46535bf79bdc5494478cb2b"
+  },
+  {
+    "id": "premium-05-04",
+    "category": "premium",
+    "palette": "Patina",
+    "pattern": "speckled_dot",
+    "file": "textures/premium/premium_05_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172C2A",
+      "#305F56",
+      "#599382",
+      "#9BAD85",
+      "#D3BF8D"
+    ],
+    "sha256": "3982c9fac25fe4e2819d4617430572262f7f95beb3cdbd2da338dff5edecc25d"
+  },
+  {
+    "id": "premium-05-05",
+    "category": "premium",
+    "palette": "Patina",
+    "pattern": "hex",
+    "file": "textures/premium/premium_05_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172C2A",
+      "#305F56",
+      "#599382",
+      "#9BAD85",
+      "#D3BF8D"
+    ],
+    "sha256": "a212236576dbf48429340afea6c00c15280f5d58b299fc9d90f4c171d3100bb1"
+  },
+  {
+    "id": "premium-05-06",
+    "category": "premium",
+    "palette": "Patina",
+    "pattern": "fragment",
+    "file": "textures/premium/premium_05_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#172C2A",
+      "#305F56",
+      "#599382",
+      "#9BAD85",
+      "#D3BF8D"
+    ],
+    "sha256": "947da145029ec9007408070f57371e85993cecd86d32f6e421a44cbec4b5f6b6"
+  },
+  {
+    "id": "premium-06-01",
+    "category": "premium",
+    "palette": "Obsidijan",
+    "pattern": "pixel_digital",
+    "file": "textures/premium/premium_06_pixel_digital.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0D1015",
+      "#252B35",
+      "#4A5361",
+      "#87909D",
+      "#D2D8E1"
+    ],
+    "sha256": "55d15e1706310b764897173f4116306611f480ab8413fd58297eff83c7e90478"
+  },
+  {
+    "id": "premium-06-02",
+    "category": "premium",
+    "palette": "Obsidijan",
+    "pattern": "organic_woodland",
+    "file": "textures/premium/premium_06_organic_woodland.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0D1015",
+      "#252B35",
+      "#4A5361",
+      "#87909D",
+      "#D2D8E1"
+    ],
+    "sha256": "b8e387c6e8e379011c2d5870e85785f36aa0bcd1420123023de74de6f6f984b4"
+  },
+  {
+    "id": "premium-06-03",
+    "category": "premium",
+    "palette": "Obsidijan",
+    "pattern": "stripes_tiger",
+    "file": "textures/premium/premium_06_stripes_tiger.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0D1015",
+      "#252B35",
+      "#4A5361",
+      "#87909D",
+      "#D2D8E1"
+    ],
+    "sha256": "338f428e77d07df974ba78ea72ec087623da592696ab3af1de1e6ee4531e3c05"
+  },
+  {
+    "id": "premium-06-04",
+    "category": "premium",
+    "palette": "Obsidijan",
+    "pattern": "speckled_dot",
+    "file": "textures/premium/premium_06_speckled_dot.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0D1015",
+      "#252B35",
+      "#4A5361",
+      "#87909D",
+      "#D2D8E1"
+    ],
+    "sha256": "40abd27f887ede9882cf4c12b9331ddb9cb480e2585a146a94ca51111f830af2"
+  },
+  {
+    "id": "premium-06-05",
+    "category": "premium",
+    "palette": "Obsidijan",
+    "pattern": "hex",
+    "file": "textures/premium/premium_06_hex.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0D1015",
+      "#252B35",
+      "#4A5361",
+      "#87909D",
+      "#D2D8E1"
+    ],
+    "sha256": "95882e1abcf6b1bae5201a9cdef27886e462f755c4597cab09e43f17e1a000a4"
+  },
+  {
+    "id": "premium-06-06",
+    "category": "premium",
+    "palette": "Obsidijan",
+    "pattern": "fragment",
+    "file": "textures/premium/premium_06_fragment.png",
+    "width": 1024,
+    "height": 1024,
+    "colors": [
+      "#0D1015",
+      "#252B35",
+      "#4A5361",
+      "#87909D",
+      "#D2D8E1"
+    ],
+    "sha256": "20321ede661829321acee2896f3fdebc9aac6c9228695e63093e396227fb1d76"
+  }
+]

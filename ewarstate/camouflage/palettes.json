@@ -1,0 +1,434 @@
+[
+  {
+    "category": "sumska",
+    "palette_id": "01",
+    "name": "Duboka suma",
+    "colors": [
+      "#171F16",
+      "#34432B",
+      "#59633A",
+      "#81724B",
+      "#B2A47B"
+    ]
+  },
+  {
+    "category": "sumska",
+    "palette_id": "02",
+    "name": "Hrast",
+    "colors": [
+      "#24251A",
+      "#454B2D",
+      "#6D7044",
+      "#928157",
+      "#C1AE7C"
+    ]
+  },
+  {
+    "category": "sumska",
+    "palette_id": "03",
+    "name": "Bor",
+    "colors": [
+      "#101F1C",
+      "#244135",
+      "#42624B",
+      "#728069",
+      "#A6AD8D"
+    ]
+  },
+  {
+    "category": "sumska",
+    "palette_id": "04",
+    "name": "Jesen",
+    "colors": [
+      "#2B211B",
+      "#50392A",
+      "#785035",
+      "#A87945",
+      "#C4A16C"
+    ]
+  },
+  {
+    "category": "sumska",
+    "palette_id": "05",
+    "name": "Mahovina",
+    "colors": [
+      "#1C251B",
+      "#3D5030",
+      "#657746",
+      "#909260",
+      "#BAB993"
+    ]
+  },
+  {
+    "category": "sumska",
+    "palette_id": "06",
+    "name": "Sumrak",
+    "colors": [
+      "#172025",
+      "#303D3C",
+      "#4B5E51",
+      "#74806C",
+      "#A0A28B"
+    ]
+  },
+  {
+    "category": "pustinjska",
+    "palette_id": "01",
+    "name": "Pesak",
+    "colors": [
+      "#514436",
+      "#80694D",
+      "#AB8D62",
+      "#D0B27F",
+      "#EBD8AF"
+    ]
+  },
+  {
+    "category": "pustinjska",
+    "palette_id": "02",
+    "name": "Dine",
+    "colors": [
+      "#5B3928",
+      "#885A37",
+      "#B47C47",
+      "#D6A664",
+      "#F1D29A"
+    ]
+  },
+  {
+    "category": "pustinjska",
+    "palette_id": "03",
+    "name": "Kamenjar",
+    "colors": [
+      "#393A36",
+      "#64625A",
+      "#918776",
+      "#B6AB94",
+      "#DDD3BD"
+    ]
+  },
+  {
+    "category": "pustinjska",
+    "palette_id": "04",
+    "name": "Slana pustinja",
+    "colors": [
+      "#605E55",
+      "#8B887B",
+      "#B7B29F",
+      "#D9D3BF",
+      "#F3EDD9"
+    ]
+  },
+  {
+    "category": "pustinjska",
+    "palette_id": "05",
+    "name": "Crveni kanjon",
+    "colors": [
+      "#432C27",
+      "#754334",
+      "#A56244",
+      "#C58D62",
+      "#E1B68B"
+    ]
+  },
+  {
+    "category": "pustinjska",
+    "palette_id": "06",
+    "name": "Nocna pustinja",
+    "colors": [
+      "#262A2B",
+      "#474A44",
+      "#70705E",
+      "#9A9580",
+      "#C5BBA0"
+    ]
+  },
+  {
+    "category": "urbana",
+    "palette_id": "01",
+    "name": "Beton",
+    "colors": [
+      "#23272B",
+      "#464C50",
+      "#737B7D",
+      "#A4ABAA",
+      "#D4D8D4"
+    ]
+  },
+  {
+    "category": "urbana",
+    "palette_id": "02",
+    "name": "Asfalt",
+    "colors": [
+      "#11151B",
+      "#29313A",
+      "#485460",
+      "#707D87",
+      "#A7B2BA"
+    ]
+  },
+  {
+    "category": "urbana",
+    "palette_id": "03",
+    "name": "Rusevine",
+    "colors": [
+      "#292825",
+      "#514C46",
+      "#7B7267",
+      "#A79B8A",
+      "#D4C7B2"
+    ]
+  },
+  {
+    "category": "urbana",
+    "palette_id": "04",
+    "name": "Industrija",
+    "colors": [
+      "#212A2D",
+      "#3D5053",
+      "#627575",
+      "#91A09B",
+      "#C5CBC2"
+    ]
+  },
+  {
+    "category": "urbana",
+    "palette_id": "05",
+    "name": "Prasina",
+    "colors": [
+      "#302D30",
+      "#565157",
+      "#817B80",
+      "#B0A7AA",
+      "#DBD2D0"
+    ]
+  },
+  {
+    "category": "urbana",
+    "palette_id": "06",
+    "name": "Nocni grad",
+    "colors": [
+      "#0C1220",
+      "#202C40",
+      "#3C4D65",
+      "#66788F",
+      "#A6B5C7"
+    ]
+  },
+  {
+    "category": "tropska",
+    "palette_id": "01",
+    "name": "Dzungla",
+    "colors": [
+      "#102316",
+      "#24512A",
+      "#477638",
+      "#78A14B",
+      "#B9C77A"
+    ]
+  },
+  {
+    "category": "tropska",
+    "palette_id": "02",
+    "name": "Mangrove",
+    "colors": [
+      "#152C29",
+      "#285046",
+      "#4E7861",
+      "#83A17B",
+      "#BBD0A0"
+    ]
+  },
+  {
+    "category": "tropska",
+    "palette_id": "03",
+    "name": "Bambus",
+    "colors": [
+      "#27341A",
+      "#4B6226",
+      "#7D8D3A",
+      "#ADB65F",
+      "#D9D798"
+    ]
+  },
+  {
+    "category": "tropska",
+    "palette_id": "04",
+    "name": "Vulkansko ostrvo",
+    "colors": [
+      "#1B2520",
+      "#354E35",
+      "#5B7744",
+      "#89965B",
+      "#B7B184"
+    ]
+  },
+  {
+    "category": "tropska",
+    "palette_id": "05",
+    "name": "Monsun",
+    "colors": [
+      "#102B30",
+      "#24505A",
+      "#477C7B",
+      "#79A79A",
+      "#B7C9AB"
+    ]
+  },
+  {
+    "category": "tropska",
+    "palette_id": "06",
+    "name": "Palma",
+    "colors": [
+      "#1B2F1C",
+      "#37602E",
+      "#618743",
+      "#9AAC60",
+      "#D4D191"
+    ]
+  },
+  {
+    "category": "snezna",
+    "palette_id": "01",
+    "name": "Arktik",
+    "colors": [
+      "#414F5C",
+      "#738593",
+      "#A2B4BE",
+      "#D0DDE2",
+      "#F4F8F8"
+    ]
+  },
+  {
+    "category": "snezna",
+    "palette_id": "02",
+    "name": "Lednik",
+    "colors": [
+      "#254458",
+      "#537D94",
+      "#8DAFC0",
+      "#C5DDE5",
+      "#F0FAFF"
+    ]
+  },
+  {
+    "category": "snezna",
+    "palette_id": "03",
+    "name": "Snezan bor",
+    "colors": [
+      "#34433C",
+      "#66786A",
+      "#9CAD9A",
+      "#CCD6C8",
+      "#F4F5EA"
+    ]
+  },
+  {
+    "category": "snezna",
+    "palette_id": "04",
+    "name": "Planinski kamen",
+    "colors": [
+      "#43464D",
+      "#747982",
+      "#A6ADB3",
+      "#D4DADF",
+      "#F7F8FA"
+    ]
+  },
+  {
+    "category": "snezna",
+    "palette_id": "05",
+    "name": "Polarna noc",
+    "colors": [
+      "#182840",
+      "#3D5673",
+      "#7A94AF",
+      "#B6CBDF",
+      "#E8F2FA"
+    ]
+  },
+  {
+    "category": "snezna",
+    "palette_id": "06",
+    "name": "Prljavi sneg",
+    "colors": [
+      "#4A4940",
+      "#7C7A6B",
+      "#A9A898",
+      "#D5D1C2",
+      "#F4F0E4"
+    ]
+  },
+  {
+    "category": "premium",
+    "palette_id": "01",
+    "name": "Zlatni pepeo",
+    "colors": [
+      "#18191B",
+      "#3D3B37",
+      "#746545",
+      "#B49A58",
+      "#E5CE8A"
+    ]
+  },
+  {
+    "category": "premium",
+    "palette_id": "02",
+    "name": "Krvavi mesec",
+    "colors": [
+      "#170F18",
+      "#3A1724",
+      "#761F31",
+      "#B33A43",
+      "#E58B78"
+    ]
+  },
+  {
+    "category": "premium",
+    "palette_id": "03",
+    "name": "Kobalt",
+    "colors": [
+      "#0C162B",
+      "#173764",
+      "#235F9C",
+      "#4E9DCD",
+      "#B2DEF0"
+    ]
+  },
+  {
+    "category": "premium",
+    "palette_id": "04",
+    "name": "Ametist",
+    "colors": [
+      "#1B122B",
+      "#3E2459",
+      "#704497",
+      "#A77BC2",
+      "#DCC7EE"
+    ]
+  },
+  {
+    "category": "premium",
+    "palette_id": "05",
+    "name": "Patina",
+    "colors": [
+      "#172C2A",
+      "#305F56",
+      "#599382",
+      "#9BAD85",
+      "#D3BF8D"
+    ]
+  },
+  {
+    "category": "premium",
+    "palette_id": "06",
+    "name": "Obsidijan",
+    "colors": [
+      "#0D1015",
+      "#252B35",
+      "#4A5361",
+      "#87909D",
+      "#D2D8E1"
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "komandir": 1,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg01_olive_common.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/18_red_camo_tshirt.png",
+      "armor_extra_11_20/assets/11_basic_soft.png",
+      "facial_12/assets/beard_01_short.png",
+      "backgrounds_accessories_8/accessories/acc03_headset.png"
+    ]
+  },
+  {
+    "komandir": 2,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg02_bunker_common.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "ewarstate_master_proba (1)/02_uniforma.png",
+      "armor_extra_11_20/assets/12_vintage_flak.png",
+      "facial_12/assets/hair_01_crop.png",
+      "ewarstate_masks_30/assets/mask_26_black_hex.png",
+      "backgrounds_accessories_8/accessories/acc01_black_glasses.png"
+    ]
+  },
+  {
+    "komandir": 3,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg03_gold_premium.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/23_white_camo.png",
+      "armor_extra_11_20/assets/15_signal.png",
+      "facial_12/assets/hair_02_swept.png",
+      "facial_12/assets/moustache_02_handlebar.png",
+      "facial_12/assets/scar_01_cheek.png",
+      "backgrounds_accessories_8/accessories/acc02_gold_aviators.png"
+    ]
+  },
+  {
+    "komandir": 4,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg04_arctic_premium.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/19_blue_camo_tshirt.png",
+      "armor_extra_11_20/assets/14_rescue.png",
+      "facial_12/assets/hair_02_swept.png",
+      "facial_12/assets/beard_01_short.png"
+    ]
+  },
+  {
+    "komandir": 5,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg01_olive_common.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/22_orange_camo.png",
+      "armor_extra_11_20/assets/20_covert_premium.png",
+      "ewarstate_masks_30/assets/mask_06_snow.png",
+      "backgrounds_accessories_8/accessories/acc03_headset.png"
+    ]
+  },
+  {
+    "komandir": 6,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg02_bunker_common.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/16_olive_tshirt.png",
+      "armor_extra_11_20/assets/19_titan_premium.png",
+      "facial_12/assets/hair_01_crop.png",
+      "facial_12/assets/moustache_01_neat.png",
+      "facial_12/assets/scar_03_claw.png",
+      "backgrounds_accessories_8/accessories/acc01_black_glasses.png"
+    ]
+  },
+  {
+    "komandir": 7,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg03_gold_premium.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/20_sand_camo_tshirt.png",
+      "armor_extra_11_20/assets/13_light_rig.png",
+      "facial_12/assets/hair_03_mohawk.png",
+      "facial_12/assets/beard_03_goatee.png",
+      "backgrounds_accessories_8/accessories/acc02_gold_aviators.png"
+    ]
+  },
+  {
+    "komandir": 8,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg04_arctic_premium.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/17_black_tshirt.png",
+      "armor_extra_11_20/assets/16_digital.png",
+      "facial_12/assets/hair_01_crop.png",
+      "ewarstate_masks_30/assets/mask_16_titanium.png"
+    ]
+  },
+  {
+    "komandir": 9,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg01_olive_common.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/25_premium_gold_tee.png",
+      "armor_extra_11_20/assets/17_crimson_premium.png",
+      "facial_12/assets/moustache_03_silver.png",
+      "facial_12/assets/scar_01_cheek.png",
+      "backgrounds_accessories_8/accessories/acc03_headset.png"
+    ]
+  },
+  {
+    "komandir": 10,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg02_bunker_common.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/21_purple_camo.png",
+      "ewarstate_master_proba (1)/03_pancir.png",
+      "facial_12/assets/hair_03_mohawk.png",
+      "facial_12/assets/beard_01_short.png",
+      "backgrounds_accessories_8/accessories/acc01_black_glasses.png"
+    ]
+  },
+  {
+    "komandir": 11,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg03_gold_premium.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/24_green_tiger_tee.png",
+      "armor_extra_11_20/assets/18_ivory_premium.png",
+      "facial_12/assets/hair_03_mohawk.png",
+      "ewarstate_masks_30/assets/mask_23_blue_mesh.png",
+      "backgrounds_accessories_8/accessories/acc02_gold_aviators.png"
+    ]
+  },
+  {
+    "komandir": 12,
+    "layers": [
+      "backgrounds_accessories_8/backgrounds/bg04_arctic_premium.png",
+      "ewarstate_master_proba (1)/01_glava.png",
+      "uniforms_10_additional/uniforms/18_red_camo_tshirt.png",
+      "armor_extra_11_20/assets/11_basic_soft.png",
+      "facial_12/assets/hair_03_mohawk.png",
+      "facial_12/assets/moustache_03_silver.png",
+      "facial_12/assets/scar_02_brow.png"
+    ]
+  }
+]

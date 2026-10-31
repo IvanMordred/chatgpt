@@ -1,0 +1,39 @@
+# eWarState — materijali za dizajn
+
+Komandiri PMC jedinica: originalni slojevi, sastavljeni primeri, koncepti opreme i kamuflažne teksture.
+
+## Preuzimanje
+
+Otvorite link, pa **Download raw file**. Za ceo repozitorijum koristite **Code → Download ZIP**.
+
+- [216 kamuflažnih tekstura — ZIP](ewarstate/downloads/ewarstate_216_kamuflaza.zip)
+- [150 predloga opreme — ZIP](ewarstate/downloads/ewarstate_150_predloga.zip)
+- [12 komandira — ZIP](ewarstate/commanders/komandiri_12.zip)
+- [Originalni korisnički paketi](ewarstate/source-packs)
+
+## Pregledi
+
+- [12 sastavljenih komandira](ewarstate/commanders/komandiri_pregled.jpg)
+- [50 maski i fantomki](ewarstate/concepts/masks_50.png)
+- [50 dodataka za glavu](ewarstate/concepts/headgear_50.png)
+- [50 dodataka za torzo](ewarstate/concepts/torso_50.png)
+- [Prvih 16 dodataka za glavu](ewarstate/concepts/headgear_initial_16.png)
+- [Prvih 16 dodataka za torzo](ewarstate/concepts/torso_initial_16.png)
+- [Palete sa HEX bojama](ewarstate/camouflage/previews/palete_hex.png)
+- [Table svih kategorija kamuflaže](ewarstate/camouflage/previews)
+
+## Sadržaj i ograničenja
+
+Kamuflaža: 6 kategorija × 6 paleta × 6 dezena = **216 pojedinačnih RGB PNG tekstura, 1024 × 1024**, po pet preciznih boja. Kategorije: šumska, pustinjska, urbana, tropska, snežna i premium. Dezeni: pixel/digital, organic/woodland, stripes/tiger, speckled/dot, hex i fragment.
+
+Premium palete: Zlatni pepeo, Krvavi mesec, Kobalt, Ametist, Patina i Obsidijan.
+
+Šest osnova dezena ponavlja se kroz 36 paleta. Izvorni paneli su 512 × 512 i izvezeni su na 1024 × 1024 metodom nearest-neighbor. Teksture nisu seamless; spojeve treba doraditi za kontinuirane UV površine. CSV/JSON sadrže HEX palete; manifest sadrži putanje i SHA256 provere.
+
+Koncept table opreme namenjene su dizajnerima za izdvajanje i prilagođavanje likovima; nisu poravnati transparentni slojevi. Originalni ZIP paketi sadrže postojeće slojeve. Primeri 12 komandira sastavljeni su od tih postojećih slojeva.
+
+## Skripte
+
+`ewarstate/scripts/build.py` reprodukuje kamuflaže iz sačuvanog atlasa uz Python, Pillow i NumPy: `python ewarstate/scripts/build.py`.
+
+`ewarstate/scripts/compose.py` čuva prvobitni recept za komandire, sa putanjama iz sesije; za ponovno pokretanje treba raspakovati izvorne pakete i prilagoditi putanje.
