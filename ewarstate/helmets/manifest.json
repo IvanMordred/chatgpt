@@ -1,0 +1,4274 @@
+[
+  {
+    "id": "helmet_sumska_01_01",
+    "file": "assets/sumska/helmet_sumska_01_01.png",
+    "category": "sumska",
+    "label": "Duboka suma / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "02cdce8f996b0f11a04d5df84527a8c35277c2a4982febe98a60b6e90d8ce7f5",
+    "texture_file": "textures/sumska/sumska_01_pixel_digital.png",
+    "texture_id": "sumska-01-01",
+    "palette": "Duboka suma"
+  },
+  {
+    "id": "helmet_sumska_01_02",
+    "file": "assets/sumska/helmet_sumska_01_02.png",
+    "category": "sumska",
+    "label": "Duboka suma / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "87330af0ab5c5a16b73132af4be01f82d4bbef018118e9371c352de767e530a2",
+    "texture_file": "textures/sumska/sumska_01_organic_woodland.png",
+    "texture_id": "sumska-01-02",
+    "palette": "Duboka suma"
+  },
+  {
+    "id": "helmet_sumska_01_03",
+    "file": "assets/sumska/helmet_sumska_01_03.png",
+    "category": "sumska",
+    "label": "Duboka suma / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ae6c205e0e9a37d6e7e08a28dafe704c86a42de7142c3f0be0600c6c2450128b",
+    "texture_file": "textures/sumska/sumska_01_stripes_tiger.png",
+    "texture_id": "sumska-01-03",
+    "palette": "Duboka suma"
+  },
+  {
+    "id": "helmet_sumska_01_04",
+    "file": "assets/sumska/helmet_sumska_01_04.png",
+    "category": "sumska",
+    "label": "Duboka suma / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b12055ba2e660c9464c48152a2c402168381aef10984c814a51e2c0f140ef712",
+    "texture_file": "textures/sumska/sumska_01_speckled_dot.png",
+    "texture_id": "sumska-01-04",
+    "palette": "Duboka suma"
+  },
+  {
+    "id": "helmet_sumska_01_05",
+    "file": "assets/sumska/helmet_sumska_01_05.png",
+    "category": "sumska",
+    "label": "Duboka suma / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "68f5e0735b64d71161d1d80e367e72828a56d3b37f2fb7c0f7f1f96300f5808b",
+    "texture_file": "textures/sumska/sumska_01_hex.png",
+    "texture_id": "sumska-01-05",
+    "palette": "Duboka suma"
+  },
+  {
+    "id": "helmet_sumska_01_06",
+    "file": "assets/sumska/helmet_sumska_01_06.png",
+    "category": "sumska",
+    "label": "Duboka suma / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a15f8b9b205129dacae955dacba09ded95e835ee7e826294706bb7f500bea4b0",
+    "texture_file": "textures/sumska/sumska_01_fragment.png",
+    "texture_id": "sumska-01-06",
+    "palette": "Duboka suma"
+  },
+  {
+    "id": "helmet_sumska_02_01",
+    "file": "assets/sumska/helmet_sumska_02_01.png",
+    "category": "sumska",
+    "label": "Hrast / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d246adcc680ba753cc5d7c99902ba7f2a60c071faaa10beec0fd8a52a228b5e2",
+    "texture_file": "textures/sumska/sumska_02_pixel_digital.png",
+    "texture_id": "sumska-02-01",
+    "palette": "Hrast"
+  },
+  {
+    "id": "helmet_sumska_02_02",
+    "file": "assets/sumska/helmet_sumska_02_02.png",
+    "category": "sumska",
+    "label": "Hrast / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "827e3e2b697d615003e0efea48315b733b6441faacd58b37ed04beb364d72449",
+    "texture_file": "textures/sumska/sumska_02_organic_woodland.png",
+    "texture_id": "sumska-02-02",
+    "palette": "Hrast"
+  },
+  {
+    "id": "helmet_sumska_02_03",
+    "file": "assets/sumska/helmet_sumska_02_03.png",
+    "category": "sumska",
+    "label": "Hrast / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "df86fe718ff4433b56635cd268f41eb58fca70de9fea9a20b10a8716dd032deb",
+    "texture_file": "textures/sumska/sumska_02_stripes_tiger.png",
+    "texture_id": "sumska-02-03",
+    "palette": "Hrast"
+  },
+  {
+    "id": "helmet_sumska_02_04",
+    "file": "assets/sumska/helmet_sumska_02_04.png",
+    "category": "sumska",
+    "label": "Hrast / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6663a23903e2de01b5c368b8db6d2db16de006f586cebdf377511e0e95ff0bf5",
+    "texture_file": "textures/sumska/sumska_02_speckled_dot.png",
+    "texture_id": "sumska-02-04",
+    "palette": "Hrast"
+  },
+  {
+    "id": "helmet_sumska_02_05",
+    "file": "assets/sumska/helmet_sumska_02_05.png",
+    "category": "sumska",
+    "label": "Hrast / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e8c74160cfce92ffd65567a861e2469aefa09c582ba3c08f2958f2a2a9cb8026",
+    "texture_file": "textures/sumska/sumska_02_hex.png",
+    "texture_id": "sumska-02-05",
+    "palette": "Hrast"
+  },
+  {
+    "id": "helmet_sumska_02_06",
+    "file": "assets/sumska/helmet_sumska_02_06.png",
+    "category": "sumska",
+    "label": "Hrast / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d744e6297735c7eef371ae1dfe94fa0d468eae49653d8ece2796cdc90edd0960",
+    "texture_file": "textures/sumska/sumska_02_fragment.png",
+    "texture_id": "sumska-02-06",
+    "palette": "Hrast"
+  },
+  {
+    "id": "helmet_sumska_03_01",
+    "file": "assets/sumska/helmet_sumska_03_01.png",
+    "category": "sumska",
+    "label": "Bor / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b0d7937941c27e945e659b613b061058bc5da5c2202ba03cd7cc2ebce7e0b928",
+    "texture_file": "textures/sumska/sumska_03_pixel_digital.png",
+    "texture_id": "sumska-03-01",
+    "palette": "Bor"
+  },
+  {
+    "id": "helmet_sumska_03_02",
+    "file": "assets/sumska/helmet_sumska_03_02.png",
+    "category": "sumska",
+    "label": "Bor / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a91d7868db00d39aa85a458c9711cdcb0d58918da1e07858acaab403d843803a",
+    "texture_file": "textures/sumska/sumska_03_organic_woodland.png",
+    "texture_id": "sumska-03-02",
+    "palette": "Bor"
+  },
+  {
+    "id": "helmet_sumska_03_03",
+    "file": "assets/sumska/helmet_sumska_03_03.png",
+    "category": "sumska",
+    "label": "Bor / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "66a26a7fc56d2a4beceba20ebbedf7e0605a17f4d7b761babdbc5e3e7e04c4f5",
+    "texture_file": "textures/sumska/sumska_03_stripes_tiger.png",
+    "texture_id": "sumska-03-03",
+    "palette": "Bor"
+  },
+  {
+    "id": "helmet_sumska_03_04",
+    "file": "assets/sumska/helmet_sumska_03_04.png",
+    "category": "sumska",
+    "label": "Bor / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8c586dc8e404f182c3e07959b4f9ae6086c76e194d1d105de6926a54dfa5a5c9",
+    "texture_file": "textures/sumska/sumska_03_speckled_dot.png",
+    "texture_id": "sumska-03-04",
+    "palette": "Bor"
+  },
+  {
+    "id": "helmet_sumska_03_05",
+    "file": "assets/sumska/helmet_sumska_03_05.png",
+    "category": "sumska",
+    "label": "Bor / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "cf435778827852bbeed13d432840d55f8797ae0743929990153fae51bb0d2797",
+    "texture_file": "textures/sumska/sumska_03_hex.png",
+    "texture_id": "sumska-03-05",
+    "palette": "Bor"
+  },
+  {
+    "id": "helmet_sumska_03_06",
+    "file": "assets/sumska/helmet_sumska_03_06.png",
+    "category": "sumska",
+    "label": "Bor / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d59a7adb28c12ac58e81f2d68e15f0b7afcd740f6226be4b940f8a1c40de1ac8",
+    "texture_file": "textures/sumska/sumska_03_fragment.png",
+    "texture_id": "sumska-03-06",
+    "palette": "Bor"
+  },
+  {
+    "id": "helmet_sumska_04_01",
+    "file": "assets/sumska/helmet_sumska_04_01.png",
+    "category": "sumska",
+    "label": "Jesen / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5872555f388654ca01e1fcbb26b51c8d0c242712c5d63a70615d98d401c7c3ed",
+    "texture_file": "textures/sumska/sumska_04_pixel_digital.png",
+    "texture_id": "sumska-04-01",
+    "palette": "Jesen"
+  },
+  {
+    "id": "helmet_sumska_04_02",
+    "file": "assets/sumska/helmet_sumska_04_02.png",
+    "category": "sumska",
+    "label": "Jesen / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4fbbf135dacc14c10b0b31211d10a8d116d09486ff7cd303e4f3deb393ad46ca",
+    "texture_file": "textures/sumska/sumska_04_organic_woodland.png",
+    "texture_id": "sumska-04-02",
+    "palette": "Jesen"
+  },
+  {
+    "id": "helmet_sumska_04_03",
+    "file": "assets/sumska/helmet_sumska_04_03.png",
+    "category": "sumska",
+    "label": "Jesen / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f1b8284723ee56558d4f2cca9ced7d51b2d864a580317572bf5155f971c197b4",
+    "texture_file": "textures/sumska/sumska_04_stripes_tiger.png",
+    "texture_id": "sumska-04-03",
+    "palette": "Jesen"
+  },
+  {
+    "id": "helmet_sumska_04_04",
+    "file": "assets/sumska/helmet_sumska_04_04.png",
+    "category": "sumska",
+    "label": "Jesen / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a773f138071b0ba4eda31ba15eb9a2361ae708a904478b6e0253c7d41a5438dc",
+    "texture_file": "textures/sumska/sumska_04_speckled_dot.png",
+    "texture_id": "sumska-04-04",
+    "palette": "Jesen"
+  },
+  {
+    "id": "helmet_sumska_04_05",
+    "file": "assets/sumska/helmet_sumska_04_05.png",
+    "category": "sumska",
+    "label": "Jesen / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7b7b433131c5489fe616d6c9a6e9f832012f1a0856d801ab94e85f135ef02e63",
+    "texture_file": "textures/sumska/sumska_04_hex.png",
+    "texture_id": "sumska-04-05",
+    "palette": "Jesen"
+  },
+  {
+    "id": "helmet_sumska_04_06",
+    "file": "assets/sumska/helmet_sumska_04_06.png",
+    "category": "sumska",
+    "label": "Jesen / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "eed1c5ce2ed9ea221c09df03ee6bb31479dcfa5eeac26db3d6668849f8a5cf98",
+    "texture_file": "textures/sumska/sumska_04_fragment.png",
+    "texture_id": "sumska-04-06",
+    "palette": "Jesen"
+  },
+  {
+    "id": "helmet_sumska_05_01",
+    "file": "assets/sumska/helmet_sumska_05_01.png",
+    "category": "sumska",
+    "label": "Mahovina / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "08e3f167216b0a7b328f37f40444a997646b1939b7a9d7fee160edd507dad652",
+    "texture_file": "textures/sumska/sumska_05_pixel_digital.png",
+    "texture_id": "sumska-05-01",
+    "palette": "Mahovina"
+  },
+  {
+    "id": "helmet_sumska_05_02",
+    "file": "assets/sumska/helmet_sumska_05_02.png",
+    "category": "sumska",
+    "label": "Mahovina / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2b1666866245f40332f497d138e3fbd85286888fbfb2f0562f8fd4f48550daff",
+    "texture_file": "textures/sumska/sumska_05_organic_woodland.png",
+    "texture_id": "sumska-05-02",
+    "palette": "Mahovina"
+  },
+  {
+    "id": "helmet_sumska_05_03",
+    "file": "assets/sumska/helmet_sumska_05_03.png",
+    "category": "sumska",
+    "label": "Mahovina / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d9d1f89ce7c6253e88e52547146f7ef670d4cae05854dfdd4a58d847fd61c4e1",
+    "texture_file": "textures/sumska/sumska_05_stripes_tiger.png",
+    "texture_id": "sumska-05-03",
+    "palette": "Mahovina"
+  },
+  {
+    "id": "helmet_sumska_05_04",
+    "file": "assets/sumska/helmet_sumska_05_04.png",
+    "category": "sumska",
+    "label": "Mahovina / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bfe2f0d62fc1b13e10dbe00ddcfd88def465391cd8ac0d8f7c8b14191c2ef52c",
+    "texture_file": "textures/sumska/sumska_05_speckled_dot.png",
+    "texture_id": "sumska-05-04",
+    "palette": "Mahovina"
+  },
+  {
+    "id": "helmet_sumska_05_05",
+    "file": "assets/sumska/helmet_sumska_05_05.png",
+    "category": "sumska",
+    "label": "Mahovina / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "946c4f2b87d12e433ec5693697242cf113417c5fce47f884e880a09abfbd758a",
+    "texture_file": "textures/sumska/sumska_05_hex.png",
+    "texture_id": "sumska-05-05",
+    "palette": "Mahovina"
+  },
+  {
+    "id": "helmet_sumska_05_06",
+    "file": "assets/sumska/helmet_sumska_05_06.png",
+    "category": "sumska",
+    "label": "Mahovina / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5be34190068bd1a911106847c2b87557bc436265fbeae26fb21dd115fd62d485",
+    "texture_file": "textures/sumska/sumska_05_fragment.png",
+    "texture_id": "sumska-05-06",
+    "palette": "Mahovina"
+  },
+  {
+    "id": "helmet_sumska_06_01",
+    "file": "assets/sumska/helmet_sumska_06_01.png",
+    "category": "sumska",
+    "label": "Sumrak / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "33679fcc01f1324f29ac44bc65ac8701443eaeddc010d759b91bee41dfb243c0",
+    "texture_file": "textures/sumska/sumska_06_pixel_digital.png",
+    "texture_id": "sumska-06-01",
+    "palette": "Sumrak"
+  },
+  {
+    "id": "helmet_sumska_06_02",
+    "file": "assets/sumska/helmet_sumska_06_02.png",
+    "category": "sumska",
+    "label": "Sumrak / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "96a743a7844c1cfe3bdbfd6513197364b92aa522ed43dfa21b1ef03f4ccd8618",
+    "texture_file": "textures/sumska/sumska_06_organic_woodland.png",
+    "texture_id": "sumska-06-02",
+    "palette": "Sumrak"
+  },
+  {
+    "id": "helmet_sumska_06_03",
+    "file": "assets/sumska/helmet_sumska_06_03.png",
+    "category": "sumska",
+    "label": "Sumrak / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0c6b57006615d26c612ec6733ac6c1ec20d15cb1ac807b49a55fe89301db8ddd",
+    "texture_file": "textures/sumska/sumska_06_stripes_tiger.png",
+    "texture_id": "sumska-06-03",
+    "palette": "Sumrak"
+  },
+  {
+    "id": "helmet_sumska_06_04",
+    "file": "assets/sumska/helmet_sumska_06_04.png",
+    "category": "sumska",
+    "label": "Sumrak / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "010b1f3fb3d333a1e31ccb9fa14bbe83fd226379c475acf22a1ebd39305f83e2",
+    "texture_file": "textures/sumska/sumska_06_speckled_dot.png",
+    "texture_id": "sumska-06-04",
+    "palette": "Sumrak"
+  },
+  {
+    "id": "helmet_sumska_06_05",
+    "file": "assets/sumska/helmet_sumska_06_05.png",
+    "category": "sumska",
+    "label": "Sumrak / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "07d0929b198bf78e1956eb65d22286ec7ec533a2fd69a83804e698288e50f054",
+    "texture_file": "textures/sumska/sumska_06_hex.png",
+    "texture_id": "sumska-06-05",
+    "palette": "Sumrak"
+  },
+  {
+    "id": "helmet_sumska_06_06",
+    "file": "assets/sumska/helmet_sumska_06_06.png",
+    "category": "sumska",
+    "label": "Sumrak / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0515992faf4cb83f4a3bb661d1b01f4aa9042cd536b782befdac2451c3242e60",
+    "texture_file": "textures/sumska/sumska_06_fragment.png",
+    "texture_id": "sumska-06-06",
+    "palette": "Sumrak"
+  },
+  {
+    "id": "helmet_pustinjska_01_01",
+    "file": "assets/pustinjska/helmet_pustinjska_01_01.png",
+    "category": "pustinjska",
+    "label": "Pesak / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "892e1001879d426fcca61857a352639e3492a0f46cd38e5cbcfca7c896015bfa",
+    "texture_file": "textures/pustinjska/pustinjska_01_pixel_digital.png",
+    "texture_id": "pustinjska-01-01",
+    "palette": "Pesak"
+  },
+  {
+    "id": "helmet_pustinjska_01_02",
+    "file": "assets/pustinjska/helmet_pustinjska_01_02.png",
+    "category": "pustinjska",
+    "label": "Pesak / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1b111f604e7e70c74e63f2f90bd2662639a7e4217e95b77cb6368379ff15a6b3",
+    "texture_file": "textures/pustinjska/pustinjska_01_organic_woodland.png",
+    "texture_id": "pustinjska-01-02",
+    "palette": "Pesak"
+  },
+  {
+    "id": "helmet_pustinjska_01_03",
+    "file": "assets/pustinjska/helmet_pustinjska_01_03.png",
+    "category": "pustinjska",
+    "label": "Pesak / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5972d22f8095b857def85322ca798fdb823a9ed6d77296cec7c912e69e91e16f",
+    "texture_file": "textures/pustinjska/pustinjska_01_stripes_tiger.png",
+    "texture_id": "pustinjska-01-03",
+    "palette": "Pesak"
+  },
+  {
+    "id": "helmet_pustinjska_01_04",
+    "file": "assets/pustinjska/helmet_pustinjska_01_04.png",
+    "category": "pustinjska",
+    "label": "Pesak / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4689c31deb0d6249c5141ba72a3d7fa10684fa51e22aa8bd94374c0b4c944966",
+    "texture_file": "textures/pustinjska/pustinjska_01_speckled_dot.png",
+    "texture_id": "pustinjska-01-04",
+    "palette": "Pesak"
+  },
+  {
+    "id": "helmet_pustinjska_01_05",
+    "file": "assets/pustinjska/helmet_pustinjska_01_05.png",
+    "category": "pustinjska",
+    "label": "Pesak / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dafce44d73ff7d598171fcb0977d91957d0ed5c35f7273d39d93a6aa34a31a44",
+    "texture_file": "textures/pustinjska/pustinjska_01_hex.png",
+    "texture_id": "pustinjska-01-05",
+    "palette": "Pesak"
+  },
+  {
+    "id": "helmet_pustinjska_01_06",
+    "file": "assets/pustinjska/helmet_pustinjska_01_06.png",
+    "category": "pustinjska",
+    "label": "Pesak / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "490547e296e9c71daf2852e5a9bb73ac7c3bcaaa61638a684318fd128fdd4a5a",
+    "texture_file": "textures/pustinjska/pustinjska_01_fragment.png",
+    "texture_id": "pustinjska-01-06",
+    "palette": "Pesak"
+  },
+  {
+    "id": "helmet_pustinjska_02_01",
+    "file": "assets/pustinjska/helmet_pustinjska_02_01.png",
+    "category": "pustinjska",
+    "label": "Dine / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d2fea8d2c6799e7b1583f6b0e42c6c34d64e7e5ecb31839f0071a5a468c7b930",
+    "texture_file": "textures/pustinjska/pustinjska_02_pixel_digital.png",
+    "texture_id": "pustinjska-02-01",
+    "palette": "Dine"
+  },
+  {
+    "id": "helmet_pustinjska_02_02",
+    "file": "assets/pustinjska/helmet_pustinjska_02_02.png",
+    "category": "pustinjska",
+    "label": "Dine / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "779a96fe04d56468506dae7bbe2adadc09d405e2bc6ec36795c5f667b3cf45c0",
+    "texture_file": "textures/pustinjska/pustinjska_02_organic_woodland.png",
+    "texture_id": "pustinjska-02-02",
+    "palette": "Dine"
+  },
+  {
+    "id": "helmet_pustinjska_02_03",
+    "file": "assets/pustinjska/helmet_pustinjska_02_03.png",
+    "category": "pustinjska",
+    "label": "Dine / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a1e3c78755d0dfc8245fa7393f4318af47310d21e3d7d3283eaae20579d7f96b",
+    "texture_file": "textures/pustinjska/pustinjska_02_stripes_tiger.png",
+    "texture_id": "pustinjska-02-03",
+    "palette": "Dine"
+  },
+  {
+    "id": "helmet_pustinjska_02_04",
+    "file": "assets/pustinjska/helmet_pustinjska_02_04.png",
+    "category": "pustinjska",
+    "label": "Dine / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dc23c64fd346694f008bbfc919a9dc619973ca1af5da1e81d5a316c98670dd9d",
+    "texture_file": "textures/pustinjska/pustinjska_02_speckled_dot.png",
+    "texture_id": "pustinjska-02-04",
+    "palette": "Dine"
+  },
+  {
+    "id": "helmet_pustinjska_02_05",
+    "file": "assets/pustinjska/helmet_pustinjska_02_05.png",
+    "category": "pustinjska",
+    "label": "Dine / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5fc84c300810f331c616f3e2b346192dcb7ceb46662b63548a41c96b0db6142a",
+    "texture_file": "textures/pustinjska/pustinjska_02_hex.png",
+    "texture_id": "pustinjska-02-05",
+    "palette": "Dine"
+  },
+  {
+    "id": "helmet_pustinjska_02_06",
+    "file": "assets/pustinjska/helmet_pustinjska_02_06.png",
+    "category": "pustinjska",
+    "label": "Dine / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0befc943aaeb4ab01f16a5b92a26895c7946106c58fbd5e3e3250c1833b8d349",
+    "texture_file": "textures/pustinjska/pustinjska_02_fragment.png",
+    "texture_id": "pustinjska-02-06",
+    "palette": "Dine"
+  },
+  {
+    "id": "helmet_pustinjska_03_01",
+    "file": "assets/pustinjska/helmet_pustinjska_03_01.png",
+    "category": "pustinjska",
+    "label": "Kamenjar / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f0c781374a1bdccd22a5ca1278b9a75838f8ccc5c2e83827a455cf58b80d1d22",
+    "texture_file": "textures/pustinjska/pustinjska_03_pixel_digital.png",
+    "texture_id": "pustinjska-03-01",
+    "palette": "Kamenjar"
+  },
+  {
+    "id": "helmet_pustinjska_03_02",
+    "file": "assets/pustinjska/helmet_pustinjska_03_02.png",
+    "category": "pustinjska",
+    "label": "Kamenjar / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "19b3142ac3340027ef7a94ac26bcdede286b29d047c71739c68f8d4887ceaaee",
+    "texture_file": "textures/pustinjska/pustinjska_03_organic_woodland.png",
+    "texture_id": "pustinjska-03-02",
+    "palette": "Kamenjar"
+  },
+  {
+    "id": "helmet_pustinjska_03_03",
+    "file": "assets/pustinjska/helmet_pustinjska_03_03.png",
+    "category": "pustinjska",
+    "label": "Kamenjar / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dccae6b030bd8de5429b12dd9e2c0ee7bbd68055c98b2630e850ef145c2ee6cd",
+    "texture_file": "textures/pustinjska/pustinjska_03_stripes_tiger.png",
+    "texture_id": "pustinjska-03-03",
+    "palette": "Kamenjar"
+  },
+  {
+    "id": "helmet_pustinjska_03_04",
+    "file": "assets/pustinjska/helmet_pustinjska_03_04.png",
+    "category": "pustinjska",
+    "label": "Kamenjar / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4bb02d1181c3bbcdd50aa23880f21d8892ac65cb8b235626d05904938b6b264b",
+    "texture_file": "textures/pustinjska/pustinjska_03_speckled_dot.png",
+    "texture_id": "pustinjska-03-04",
+    "palette": "Kamenjar"
+  },
+  {
+    "id": "helmet_pustinjska_03_05",
+    "file": "assets/pustinjska/helmet_pustinjska_03_05.png",
+    "category": "pustinjska",
+    "label": "Kamenjar / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2d0d6938ebb1f15c933d5e762d5d91001187761a384621323fd95965b55ec762",
+    "texture_file": "textures/pustinjska/pustinjska_03_hex.png",
+    "texture_id": "pustinjska-03-05",
+    "palette": "Kamenjar"
+  },
+  {
+    "id": "helmet_pustinjska_03_06",
+    "file": "assets/pustinjska/helmet_pustinjska_03_06.png",
+    "category": "pustinjska",
+    "label": "Kamenjar / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8ffeaf3463b354f4a9c8da40ebc7c3c99aa9dc5e3d603e324c3d213a3b1a7055",
+    "texture_file": "textures/pustinjska/pustinjska_03_fragment.png",
+    "texture_id": "pustinjska-03-06",
+    "palette": "Kamenjar"
+  },
+  {
+    "id": "helmet_pustinjska_04_01",
+    "file": "assets/pustinjska/helmet_pustinjska_04_01.png",
+    "category": "pustinjska",
+    "label": "Slana pustinja / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0eb2e5da3a71132f62e1637b9eda1946a661cfa77c94e77fa4813b896f9d2f93",
+    "texture_file": "textures/pustinjska/pustinjska_04_pixel_digital.png",
+    "texture_id": "pustinjska-04-01",
+    "palette": "Slana pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_04_02",
+    "file": "assets/pustinjska/helmet_pustinjska_04_02.png",
+    "category": "pustinjska",
+    "label": "Slana pustinja / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "38a06b0218f635a1ea6d091e41d1c1b711eeb7315362dc7f69d5928cb3464b8f",
+    "texture_file": "textures/pustinjska/pustinjska_04_organic_woodland.png",
+    "texture_id": "pustinjska-04-02",
+    "palette": "Slana pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_04_03",
+    "file": "assets/pustinjska/helmet_pustinjska_04_03.png",
+    "category": "pustinjska",
+    "label": "Slana pustinja / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ddefdd0063d411189a264f9839b67c2aab4639fe684915fd556d41974705e98f",
+    "texture_file": "textures/pustinjska/pustinjska_04_stripes_tiger.png",
+    "texture_id": "pustinjska-04-03",
+    "palette": "Slana pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_04_04",
+    "file": "assets/pustinjska/helmet_pustinjska_04_04.png",
+    "category": "pustinjska",
+    "label": "Slana pustinja / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d0d98955701577cdc6db866d4bf4c87a53f6824686f8fe7fec0f3de6a93a4cec",
+    "texture_file": "textures/pustinjska/pustinjska_04_speckled_dot.png",
+    "texture_id": "pustinjska-04-04",
+    "palette": "Slana pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_04_05",
+    "file": "assets/pustinjska/helmet_pustinjska_04_05.png",
+    "category": "pustinjska",
+    "label": "Slana pustinja / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "965c01c4f6d1284fed86a09e989a20e6f5b55c444f958272b8512e0896d23e69",
+    "texture_file": "textures/pustinjska/pustinjska_04_hex.png",
+    "texture_id": "pustinjska-04-05",
+    "palette": "Slana pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_04_06",
+    "file": "assets/pustinjska/helmet_pustinjska_04_06.png",
+    "category": "pustinjska",
+    "label": "Slana pustinja / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3d07bf52ae6948cdbfe743d39ba42ffafc38c2868894147e329198b59c927441",
+    "texture_file": "textures/pustinjska/pustinjska_04_fragment.png",
+    "texture_id": "pustinjska-04-06",
+    "palette": "Slana pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_05_01",
+    "file": "assets/pustinjska/helmet_pustinjska_05_01.png",
+    "category": "pustinjska",
+    "label": "Crveni kanjon / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "88877a692d770f0c4592c14794228cba27409792cd57696f55bdefa78e73d665",
+    "texture_file": "textures/pustinjska/pustinjska_05_pixel_digital.png",
+    "texture_id": "pustinjska-05-01",
+    "palette": "Crveni kanjon"
+  },
+  {
+    "id": "helmet_pustinjska_05_02",
+    "file": "assets/pustinjska/helmet_pustinjska_05_02.png",
+    "category": "pustinjska",
+    "label": "Crveni kanjon / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "76acc29abc07c923276d3d11f23ee293dbc8986536a48bacf6116af291e9fccd",
+    "texture_file": "textures/pustinjska/pustinjska_05_organic_woodland.png",
+    "texture_id": "pustinjska-05-02",
+    "palette": "Crveni kanjon"
+  },
+  {
+    "id": "helmet_pustinjska_05_03",
+    "file": "assets/pustinjska/helmet_pustinjska_05_03.png",
+    "category": "pustinjska",
+    "label": "Crveni kanjon / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0102be90596297678e5ead956170e825fad6f578b23d4755610b37661e16d202",
+    "texture_file": "textures/pustinjska/pustinjska_05_stripes_tiger.png",
+    "texture_id": "pustinjska-05-03",
+    "palette": "Crveni kanjon"
+  },
+  {
+    "id": "helmet_pustinjska_05_04",
+    "file": "assets/pustinjska/helmet_pustinjska_05_04.png",
+    "category": "pustinjska",
+    "label": "Crveni kanjon / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "47ac0b56917f8d22ac953a43b38ec8ee7963800d9d5df037801f1a60a1ca3222",
+    "texture_file": "textures/pustinjska/pustinjska_05_speckled_dot.png",
+    "texture_id": "pustinjska-05-04",
+    "palette": "Crveni kanjon"
+  },
+  {
+    "id": "helmet_pustinjska_05_05",
+    "file": "assets/pustinjska/helmet_pustinjska_05_05.png",
+    "category": "pustinjska",
+    "label": "Crveni kanjon / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ae10def6f6d3e0099cc4c062b2ad9750689ec11eb6febe16d4060826564f76e6",
+    "texture_file": "textures/pustinjska/pustinjska_05_hex.png",
+    "texture_id": "pustinjska-05-05",
+    "palette": "Crveni kanjon"
+  },
+  {
+    "id": "helmet_pustinjska_05_06",
+    "file": "assets/pustinjska/helmet_pustinjska_05_06.png",
+    "category": "pustinjska",
+    "label": "Crveni kanjon / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fded31dedb9d43654e55d1fd9be77a24a1142940946ac74e18ec0d5d73d9d5af",
+    "texture_file": "textures/pustinjska/pustinjska_05_fragment.png",
+    "texture_id": "pustinjska-05-06",
+    "palette": "Crveni kanjon"
+  },
+  {
+    "id": "helmet_pustinjska_06_01",
+    "file": "assets/pustinjska/helmet_pustinjska_06_01.png",
+    "category": "pustinjska",
+    "label": "Nocna pustinja / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "204b8b08a048e96b166e9aecef4e8d89b17fe0bb2414c14fcaf7092254baabc6",
+    "texture_file": "textures/pustinjska/pustinjska_06_pixel_digital.png",
+    "texture_id": "pustinjska-06-01",
+    "palette": "Nocna pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_06_02",
+    "file": "assets/pustinjska/helmet_pustinjska_06_02.png",
+    "category": "pustinjska",
+    "label": "Nocna pustinja / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9c8d7d273fb0f5f4b4d455a41845274177aba2edf22a7a709f71398fe1d75b69",
+    "texture_file": "textures/pustinjska/pustinjska_06_organic_woodland.png",
+    "texture_id": "pustinjska-06-02",
+    "palette": "Nocna pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_06_03",
+    "file": "assets/pustinjska/helmet_pustinjska_06_03.png",
+    "category": "pustinjska",
+    "label": "Nocna pustinja / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8b31d7a6f2d1f348a69c4e167a5895e2ac3a87e15ac37ff19d2d806895c05e64",
+    "texture_file": "textures/pustinjska/pustinjska_06_stripes_tiger.png",
+    "texture_id": "pustinjska-06-03",
+    "palette": "Nocna pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_06_04",
+    "file": "assets/pustinjska/helmet_pustinjska_06_04.png",
+    "category": "pustinjska",
+    "label": "Nocna pustinja / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4219e361d64ad1374a27d23061bdb309f6da5a32ad6aa751d81602c4b8cc70b3",
+    "texture_file": "textures/pustinjska/pustinjska_06_speckled_dot.png",
+    "texture_id": "pustinjska-06-04",
+    "palette": "Nocna pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_06_05",
+    "file": "assets/pustinjska/helmet_pustinjska_06_05.png",
+    "category": "pustinjska",
+    "label": "Nocna pustinja / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d62df77f22695e13088a7ae3fbbf942732978d095f56bc732a16e1e2a6563334",
+    "texture_file": "textures/pustinjska/pustinjska_06_hex.png",
+    "texture_id": "pustinjska-06-05",
+    "palette": "Nocna pustinja"
+  },
+  {
+    "id": "helmet_pustinjska_06_06",
+    "file": "assets/pustinjska/helmet_pustinjska_06_06.png",
+    "category": "pustinjska",
+    "label": "Nocna pustinja / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f137e2dcab6f543a206c9361ba3229701fdab7cf841f5ef404e64bfbb90c761d",
+    "texture_file": "textures/pustinjska/pustinjska_06_fragment.png",
+    "texture_id": "pustinjska-06-06",
+    "palette": "Nocna pustinja"
+  },
+  {
+    "id": "helmet_urbana_01_01",
+    "file": "assets/urbana/helmet_urbana_01_01.png",
+    "category": "urbana",
+    "label": "Beton / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e1bf0f91ff2ed67501d7906d9954f0959741be7918936b567ed055932fd48aff",
+    "texture_file": "textures/urbana/urbana_01_pixel_digital.png",
+    "texture_id": "urbana-01-01",
+    "palette": "Beton"
+  },
+  {
+    "id": "helmet_urbana_01_02",
+    "file": "assets/urbana/helmet_urbana_01_02.png",
+    "category": "urbana",
+    "label": "Beton / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "183d6a82182cb951ea075b3386722e1beb58c4674f34265dc99fa1e604134d91",
+    "texture_file": "textures/urbana/urbana_01_organic_woodland.png",
+    "texture_id": "urbana-01-02",
+    "palette": "Beton"
+  },
+  {
+    "id": "helmet_urbana_01_03",
+    "file": "assets/urbana/helmet_urbana_01_03.png",
+    "category": "urbana",
+    "label": "Beton / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bc9e2a1e9988d6ee7a127beeb6d04f04189ca4a7cf020dfac39d026d5ebb39b3",
+    "texture_file": "textures/urbana/urbana_01_stripes_tiger.png",
+    "texture_id": "urbana-01-03",
+    "palette": "Beton"
+  },
+  {
+    "id": "helmet_urbana_01_04",
+    "file": "assets/urbana/helmet_urbana_01_04.png",
+    "category": "urbana",
+    "label": "Beton / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8831509a9fa64c87004dcbf795b47583a4ed5715c29726e85b99fdcfe312dceb",
+    "texture_file": "textures/urbana/urbana_01_speckled_dot.png",
+    "texture_id": "urbana-01-04",
+    "palette": "Beton"
+  },
+  {
+    "id": "helmet_urbana_01_05",
+    "file": "assets/urbana/helmet_urbana_01_05.png",
+    "category": "urbana",
+    "label": "Beton / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9b45b7acfa8b37e15d2d9b5250dde73fe7a1ce2663a843dd755d966e7d0b79fa",
+    "texture_file": "textures/urbana/urbana_01_hex.png",
+    "texture_id": "urbana-01-05",
+    "palette": "Beton"
+  },
+  {
+    "id": "helmet_urbana_01_06",
+    "file": "assets/urbana/helmet_urbana_01_06.png",
+    "category": "urbana",
+    "label": "Beton / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2ac3041adcc101478bce74a71f02c3d4a8acec71f7cc3c076eac17d71bacacb0",
+    "texture_file": "textures/urbana/urbana_01_fragment.png",
+    "texture_id": "urbana-01-06",
+    "palette": "Beton"
+  },
+  {
+    "id": "helmet_urbana_02_01",
+    "file": "assets/urbana/helmet_urbana_02_01.png",
+    "category": "urbana",
+    "label": "Asfalt / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "19c73729d11a885e72dc4ec8185a3128abcb02a18c1e3807e60481788b586ccd",
+    "texture_file": "textures/urbana/urbana_02_pixel_digital.png",
+    "texture_id": "urbana-02-01",
+    "palette": "Asfalt"
+  },
+  {
+    "id": "helmet_urbana_02_02",
+    "file": "assets/urbana/helmet_urbana_02_02.png",
+    "category": "urbana",
+    "label": "Asfalt / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f537ab672aaee62527784bffb6154e64c4c4a0c7f6ea943b6dbe9a237bfcb56f",
+    "texture_file": "textures/urbana/urbana_02_organic_woodland.png",
+    "texture_id": "urbana-02-02",
+    "palette": "Asfalt"
+  },
+  {
+    "id": "helmet_urbana_02_03",
+    "file": "assets/urbana/helmet_urbana_02_03.png",
+    "category": "urbana",
+    "label": "Asfalt / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "eceea43b806481512cfe101bfc1cba4afe2345dd475657437ddb74a71275c49b",
+    "texture_file": "textures/urbana/urbana_02_stripes_tiger.png",
+    "texture_id": "urbana-02-03",
+    "palette": "Asfalt"
+  },
+  {
+    "id": "helmet_urbana_02_04",
+    "file": "assets/urbana/helmet_urbana_02_04.png",
+    "category": "urbana",
+    "label": "Asfalt / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dd5cb3dcebd8b94ca7dfb30d7a91e909f67a22b3fa93d7590dffb2e888703c2d",
+    "texture_file": "textures/urbana/urbana_02_speckled_dot.png",
+    "texture_id": "urbana-02-04",
+    "palette": "Asfalt"
+  },
+  {
+    "id": "helmet_urbana_02_05",
+    "file": "assets/urbana/helmet_urbana_02_05.png",
+    "category": "urbana",
+    "label": "Asfalt / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4e93b8bf9a94dd30affeeff8263556c5df180c88bb719f8f40183a9bf311b762",
+    "texture_file": "textures/urbana/urbana_02_hex.png",
+    "texture_id": "urbana-02-05",
+    "palette": "Asfalt"
+  },
+  {
+    "id": "helmet_urbana_02_06",
+    "file": "assets/urbana/helmet_urbana_02_06.png",
+    "category": "urbana",
+    "label": "Asfalt / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e0e691fb4e4e97e7b9e7b19f6a374c495071bd85cde8c2602eba6892a57d6828",
+    "texture_file": "textures/urbana/urbana_02_fragment.png",
+    "texture_id": "urbana-02-06",
+    "palette": "Asfalt"
+  },
+  {
+    "id": "helmet_urbana_03_01",
+    "file": "assets/urbana/helmet_urbana_03_01.png",
+    "category": "urbana",
+    "label": "Rusevine / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c133d268d62674cd80c2f2f2768f041dac6298012cdada9581c6d940a695b955",
+    "texture_file": "textures/urbana/urbana_03_pixel_digital.png",
+    "texture_id": "urbana-03-01",
+    "palette": "Rusevine"
+  },
+  {
+    "id": "helmet_urbana_03_02",
+    "file": "assets/urbana/helmet_urbana_03_02.png",
+    "category": "urbana",
+    "label": "Rusevine / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "337f3a3e529bf90391ff00df2fc25504af2071ea9a60e26a5a99dc61d96c724e",
+    "texture_file": "textures/urbana/urbana_03_organic_woodland.png",
+    "texture_id": "urbana-03-02",
+    "palette": "Rusevine"
+  },
+  {
+    "id": "helmet_urbana_03_03",
+    "file": "assets/urbana/helmet_urbana_03_03.png",
+    "category": "urbana",
+    "label": "Rusevine / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c789360453154e9f8c85275b3ad16cf9f0880af4a55a36b0c300e0e3a23e297d",
+    "texture_file": "textures/urbana/urbana_03_stripes_tiger.png",
+    "texture_id": "urbana-03-03",
+    "palette": "Rusevine"
+  },
+  {
+    "id": "helmet_urbana_03_04",
+    "file": "assets/urbana/helmet_urbana_03_04.png",
+    "category": "urbana",
+    "label": "Rusevine / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f8561e02dd1dba83e5d6439cc71702ee77fadd3a787ef0c503ea74c517179946",
+    "texture_file": "textures/urbana/urbana_03_speckled_dot.png",
+    "texture_id": "urbana-03-04",
+    "palette": "Rusevine"
+  },
+  {
+    "id": "helmet_urbana_03_05",
+    "file": "assets/urbana/helmet_urbana_03_05.png",
+    "category": "urbana",
+    "label": "Rusevine / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "33db1f0d10c946a3a6a93a23ecdd43332cacfb92c3547fea3e8ab913d392fb79",
+    "texture_file": "textures/urbana/urbana_03_hex.png",
+    "texture_id": "urbana-03-05",
+    "palette": "Rusevine"
+  },
+  {
+    "id": "helmet_urbana_03_06",
+    "file": "assets/urbana/helmet_urbana_03_06.png",
+    "category": "urbana",
+    "label": "Rusevine / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "daf4f4f45505cfb23cd3e9078269d425f011ad8bc9b99a39e0a2422006cfc93b",
+    "texture_file": "textures/urbana/urbana_03_fragment.png",
+    "texture_id": "urbana-03-06",
+    "palette": "Rusevine"
+  },
+  {
+    "id": "helmet_urbana_04_01",
+    "file": "assets/urbana/helmet_urbana_04_01.png",
+    "category": "urbana",
+    "label": "Industrija / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1118e6afe9419ad1d03ba058f40d89e5432a13321b01bdce9aaa57c1b836ed41",
+    "texture_file": "textures/urbana/urbana_04_pixel_digital.png",
+    "texture_id": "urbana-04-01",
+    "palette": "Industrija"
+  },
+  {
+    "id": "helmet_urbana_04_02",
+    "file": "assets/urbana/helmet_urbana_04_02.png",
+    "category": "urbana",
+    "label": "Industrija / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "27cd9c520d73c1704e668aa30009e257391df70f203e6eab36d49dcf13c12337",
+    "texture_file": "textures/urbana/urbana_04_organic_woodland.png",
+    "texture_id": "urbana-04-02",
+    "palette": "Industrija"
+  },
+  {
+    "id": "helmet_urbana_04_03",
+    "file": "assets/urbana/helmet_urbana_04_03.png",
+    "category": "urbana",
+    "label": "Industrija / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "92d9cf75909bd38d61bd483dea04bc681b42fb7621348f9f5f7e02d9a0fa70c1",
+    "texture_file": "textures/urbana/urbana_04_stripes_tiger.png",
+    "texture_id": "urbana-04-03",
+    "palette": "Industrija"
+  },
+  {
+    "id": "helmet_urbana_04_04",
+    "file": "assets/urbana/helmet_urbana_04_04.png",
+    "category": "urbana",
+    "label": "Industrija / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dabfa6b8b95b2e9b145d2b4e866fe13d515d8747ada397868fc10a78c5441234",
+    "texture_file": "textures/urbana/urbana_04_speckled_dot.png",
+    "texture_id": "urbana-04-04",
+    "palette": "Industrija"
+  },
+  {
+    "id": "helmet_urbana_04_05",
+    "file": "assets/urbana/helmet_urbana_04_05.png",
+    "category": "urbana",
+    "label": "Industrija / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c576c5e9f9d1e4d967137c8fabd2bd11cd75b8fadbc3165a4fb354e4ae5b79ae",
+    "texture_file": "textures/urbana/urbana_04_hex.png",
+    "texture_id": "urbana-04-05",
+    "palette": "Industrija"
+  },
+  {
+    "id": "helmet_urbana_04_06",
+    "file": "assets/urbana/helmet_urbana_04_06.png",
+    "category": "urbana",
+    "label": "Industrija / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bb40b6661c4b9424eb85f8bafab19e477a082c14c27dd54a8cc7922143645629",
+    "texture_file": "textures/urbana/urbana_04_fragment.png",
+    "texture_id": "urbana-04-06",
+    "palette": "Industrija"
+  },
+  {
+    "id": "helmet_urbana_05_01",
+    "file": "assets/urbana/helmet_urbana_05_01.png",
+    "category": "urbana",
+    "label": "Prasina / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "21ec65694b5e109a2e7eca009046483a22bcf773779735b2816eb258830ae655",
+    "texture_file": "textures/urbana/urbana_05_pixel_digital.png",
+    "texture_id": "urbana-05-01",
+    "palette": "Prasina"
+  },
+  {
+    "id": "helmet_urbana_05_02",
+    "file": "assets/urbana/helmet_urbana_05_02.png",
+    "category": "urbana",
+    "label": "Prasina / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e43be750bf19ee03ca8aaba1575b4a3cdc45eabf63f80133429f5c3125cc9b20",
+    "texture_file": "textures/urbana/urbana_05_organic_woodland.png",
+    "texture_id": "urbana-05-02",
+    "palette": "Prasina"
+  },
+  {
+    "id": "helmet_urbana_05_03",
+    "file": "assets/urbana/helmet_urbana_05_03.png",
+    "category": "urbana",
+    "label": "Prasina / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f845fc51c978fb80a0f9679b699bd287ef9818d75d550bffc79cef0aefffc231",
+    "texture_file": "textures/urbana/urbana_05_stripes_tiger.png",
+    "texture_id": "urbana-05-03",
+    "palette": "Prasina"
+  },
+  {
+    "id": "helmet_urbana_05_04",
+    "file": "assets/urbana/helmet_urbana_05_04.png",
+    "category": "urbana",
+    "label": "Prasina / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8f5743268aef9ed07a75bb18653e7806064fec3f5e163394ad58c17463c3ef01",
+    "texture_file": "textures/urbana/urbana_05_speckled_dot.png",
+    "texture_id": "urbana-05-04",
+    "palette": "Prasina"
+  },
+  {
+    "id": "helmet_urbana_05_05",
+    "file": "assets/urbana/helmet_urbana_05_05.png",
+    "category": "urbana",
+    "label": "Prasina / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "590bde8e5eeed25215b5853e7620b3c003fe91dce4c376a6e361e40ba23511e9",
+    "texture_file": "textures/urbana/urbana_05_hex.png",
+    "texture_id": "urbana-05-05",
+    "palette": "Prasina"
+  },
+  {
+    "id": "helmet_urbana_05_06",
+    "file": "assets/urbana/helmet_urbana_05_06.png",
+    "category": "urbana",
+    "label": "Prasina / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d681befa024135e44ceb11947374825a6aaec45022a8fe0dea5f517f294c5b73",
+    "texture_file": "textures/urbana/urbana_05_fragment.png",
+    "texture_id": "urbana-05-06",
+    "palette": "Prasina"
+  },
+  {
+    "id": "helmet_urbana_06_01",
+    "file": "assets/urbana/helmet_urbana_06_01.png",
+    "category": "urbana",
+    "label": "Nocni grad / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "af2745f379b3f8c5e8d26b0a363d46f484248b298e628db89060d53fead071b0",
+    "texture_file": "textures/urbana/urbana_06_pixel_digital.png",
+    "texture_id": "urbana-06-01",
+    "palette": "Nocni grad"
+  },
+  {
+    "id": "helmet_urbana_06_02",
+    "file": "assets/urbana/helmet_urbana_06_02.png",
+    "category": "urbana",
+    "label": "Nocni grad / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0c505cb04c7ce7f331402def154c8d365ac16915b8b6156811aa572d1e4a9f71",
+    "texture_file": "textures/urbana/urbana_06_organic_woodland.png",
+    "texture_id": "urbana-06-02",
+    "palette": "Nocni grad"
+  },
+  {
+    "id": "helmet_urbana_06_03",
+    "file": "assets/urbana/helmet_urbana_06_03.png",
+    "category": "urbana",
+    "label": "Nocni grad / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "807d3ac9cfbb4badcbb5161224294e1f544ae68c40a91e05da66e867680e2257",
+    "texture_file": "textures/urbana/urbana_06_stripes_tiger.png",
+    "texture_id": "urbana-06-03",
+    "palette": "Nocni grad"
+  },
+  {
+    "id": "helmet_urbana_06_04",
+    "file": "assets/urbana/helmet_urbana_06_04.png",
+    "category": "urbana",
+    "label": "Nocni grad / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b780b1f7f079c05902b452db6e45373323e36707b7220b0f4049d0f4e89a75e5",
+    "texture_file": "textures/urbana/urbana_06_speckled_dot.png",
+    "texture_id": "urbana-06-04",
+    "palette": "Nocni grad"
+  },
+  {
+    "id": "helmet_urbana_06_05",
+    "file": "assets/urbana/helmet_urbana_06_05.png",
+    "category": "urbana",
+    "label": "Nocni grad / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7d06a08d9667d783df434ed2f1c8b934f2e021d4547c4e76229c4854d3ae1b73",
+    "texture_file": "textures/urbana/urbana_06_hex.png",
+    "texture_id": "urbana-06-05",
+    "palette": "Nocni grad"
+  },
+  {
+    "id": "helmet_urbana_06_06",
+    "file": "assets/urbana/helmet_urbana_06_06.png",
+    "category": "urbana",
+    "label": "Nocni grad / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ab116247f4fa070643c49fdb3474fd0d82c7b13a5894a4c1873d0e53ed3e22c6",
+    "texture_file": "textures/urbana/urbana_06_fragment.png",
+    "texture_id": "urbana-06-06",
+    "palette": "Nocni grad"
+  },
+  {
+    "id": "helmet_tropska_01_01",
+    "file": "assets/tropska/helmet_tropska_01_01.png",
+    "category": "tropska",
+    "label": "Dzungla / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d5fc2a996f33cf1377da7e83da5650f78b63334446c49931e944007db069d57a",
+    "texture_file": "textures/tropska/tropska_01_pixel_digital.png",
+    "texture_id": "tropska-01-01",
+    "palette": "Dzungla"
+  },
+  {
+    "id": "helmet_tropska_01_02",
+    "file": "assets/tropska/helmet_tropska_01_02.png",
+    "category": "tropska",
+    "label": "Dzungla / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5fb7cd88a29c626fd517d4f92b9da8583850e801e8fb4a94619a87b1bc3f47db",
+    "texture_file": "textures/tropska/tropska_01_organic_woodland.png",
+    "texture_id": "tropska-01-02",
+    "palette": "Dzungla"
+  },
+  {
+    "id": "helmet_tropska_01_03",
+    "file": "assets/tropska/helmet_tropska_01_03.png",
+    "category": "tropska",
+    "label": "Dzungla / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c9899cd1858ac7856d13acc6d7ad2bceab3752e9a007edd3a6db393aea2790f1",
+    "texture_file": "textures/tropska/tropska_01_stripes_tiger.png",
+    "texture_id": "tropska-01-03",
+    "palette": "Dzungla"
+  },
+  {
+    "id": "helmet_tropska_01_04",
+    "file": "assets/tropska/helmet_tropska_01_04.png",
+    "category": "tropska",
+    "label": "Dzungla / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bfd4921e684f67c6da10b77610b188f872507b45ddb0b3942e6665a61cbe54a9",
+    "texture_file": "textures/tropska/tropska_01_speckled_dot.png",
+    "texture_id": "tropska-01-04",
+    "palette": "Dzungla"
+  },
+  {
+    "id": "helmet_tropska_01_05",
+    "file": "assets/tropska/helmet_tropska_01_05.png",
+    "category": "tropska",
+    "label": "Dzungla / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c50cb4e16d165fc0b109f06f5419140fdffb8cc7c78855fb7ff9922ec615e168",
+    "texture_file": "textures/tropska/tropska_01_hex.png",
+    "texture_id": "tropska-01-05",
+    "palette": "Dzungla"
+  },
+  {
+    "id": "helmet_tropska_01_06",
+    "file": "assets/tropska/helmet_tropska_01_06.png",
+    "category": "tropska",
+    "label": "Dzungla / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7c6df70ea19ec9daafef228665b03a395b731f9fdf9f8ffd63cf8894df703d17",
+    "texture_file": "textures/tropska/tropska_01_fragment.png",
+    "texture_id": "tropska-01-06",
+    "palette": "Dzungla"
+  },
+  {
+    "id": "helmet_tropska_02_01",
+    "file": "assets/tropska/helmet_tropska_02_01.png",
+    "category": "tropska",
+    "label": "Mangrove / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "12f5d98cb9bb19a470ff38bb5ef28dfac946de9a737f2fe6e0486b741dea61d5",
+    "texture_file": "textures/tropska/tropska_02_pixel_digital.png",
+    "texture_id": "tropska-02-01",
+    "palette": "Mangrove"
+  },
+  {
+    "id": "helmet_tropska_02_02",
+    "file": "assets/tropska/helmet_tropska_02_02.png",
+    "category": "tropska",
+    "label": "Mangrove / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6377042d87082c3085932d77211bcf9f59bdd8a5d96ac3f6c82b26c8e97693ce",
+    "texture_file": "textures/tropska/tropska_02_organic_woodland.png",
+    "texture_id": "tropska-02-02",
+    "palette": "Mangrove"
+  },
+  {
+    "id": "helmet_tropska_02_03",
+    "file": "assets/tropska/helmet_tropska_02_03.png",
+    "category": "tropska",
+    "label": "Mangrove / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f5c850589fb0028da5bf0fcba1ee8cf1dda87f6766fe3d9d9f3f9ebb29925ba4",
+    "texture_file": "textures/tropska/tropska_02_stripes_tiger.png",
+    "texture_id": "tropska-02-03",
+    "palette": "Mangrove"
+  },
+  {
+    "id": "helmet_tropska_02_04",
+    "file": "assets/tropska/helmet_tropska_02_04.png",
+    "category": "tropska",
+    "label": "Mangrove / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bb6384cec5e9fcab3ce743245d4ce84d3a1e613a8c943b75d93ebcb5b6fbd25e",
+    "texture_file": "textures/tropska/tropska_02_speckled_dot.png",
+    "texture_id": "tropska-02-04",
+    "palette": "Mangrove"
+  },
+  {
+    "id": "helmet_tropska_02_05",
+    "file": "assets/tropska/helmet_tropska_02_05.png",
+    "category": "tropska",
+    "label": "Mangrove / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3e81aa9824942f6fd16fc46a71ceecfa4af8bd8aaac07b2dc25dc29e0cfffadf",
+    "texture_file": "textures/tropska/tropska_02_hex.png",
+    "texture_id": "tropska-02-05",
+    "palette": "Mangrove"
+  },
+  {
+    "id": "helmet_tropska_02_06",
+    "file": "assets/tropska/helmet_tropska_02_06.png",
+    "category": "tropska",
+    "label": "Mangrove / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "338df2a7f94d640522d073a580224f5e7f2bf1648345ca17fd364c945ed53656",
+    "texture_file": "textures/tropska/tropska_02_fragment.png",
+    "texture_id": "tropska-02-06",
+    "palette": "Mangrove"
+  },
+  {
+    "id": "helmet_tropska_03_01",
+    "file": "assets/tropska/helmet_tropska_03_01.png",
+    "category": "tropska",
+    "label": "Bambus / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e3fe7e855ba2000d78ffeb79fec07088f5e8406b33932e82cd428f8fdef2a6f5",
+    "texture_file": "textures/tropska/tropska_03_pixel_digital.png",
+    "texture_id": "tropska-03-01",
+    "palette": "Bambus"
+  },
+  {
+    "id": "helmet_tropska_03_02",
+    "file": "assets/tropska/helmet_tropska_03_02.png",
+    "category": "tropska",
+    "label": "Bambus / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "87744e9819de9e606e0a2d8d6b43cbd4569bcee4d175c70b0a8cdac4d78ff623",
+    "texture_file": "textures/tropska/tropska_03_organic_woodland.png",
+    "texture_id": "tropska-03-02",
+    "palette": "Bambus"
+  },
+  {
+    "id": "helmet_tropska_03_03",
+    "file": "assets/tropska/helmet_tropska_03_03.png",
+    "category": "tropska",
+    "label": "Bambus / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4b42ce0c51237e4987aed5228f966afa8a45e2c75875709f6f65f2c327161952",
+    "texture_file": "textures/tropska/tropska_03_stripes_tiger.png",
+    "texture_id": "tropska-03-03",
+    "palette": "Bambus"
+  },
+  {
+    "id": "helmet_tropska_03_04",
+    "file": "assets/tropska/helmet_tropska_03_04.png",
+    "category": "tropska",
+    "label": "Bambus / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "62463fe5230051883ad2868a74fe25e360aa9d4866569544d0bc115adb63fd8b",
+    "texture_file": "textures/tropska/tropska_03_speckled_dot.png",
+    "texture_id": "tropska-03-04",
+    "palette": "Bambus"
+  },
+  {
+    "id": "helmet_tropska_03_05",
+    "file": "assets/tropska/helmet_tropska_03_05.png",
+    "category": "tropska",
+    "label": "Bambus / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d839e939025e2e521e84ce0573701f4db646325e01c4900ad86522b9a1230c76",
+    "texture_file": "textures/tropska/tropska_03_hex.png",
+    "texture_id": "tropska-03-05",
+    "palette": "Bambus"
+  },
+  {
+    "id": "helmet_tropska_03_06",
+    "file": "assets/tropska/helmet_tropska_03_06.png",
+    "category": "tropska",
+    "label": "Bambus / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0abedbe925f65c616d55e26b7a2eb8a30ed88f99de06e007e32de4a7ecb3b221",
+    "texture_file": "textures/tropska/tropska_03_fragment.png",
+    "texture_id": "tropska-03-06",
+    "palette": "Bambus"
+  },
+  {
+    "id": "helmet_tropska_04_01",
+    "file": "assets/tropska/helmet_tropska_04_01.png",
+    "category": "tropska",
+    "label": "Vulkansko ostrvo / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c651967933b56ee62f364440feea0322acd4e17af4bae9de2bb61a6e698b80e5",
+    "texture_file": "textures/tropska/tropska_04_pixel_digital.png",
+    "texture_id": "tropska-04-01",
+    "palette": "Vulkansko ostrvo"
+  },
+  {
+    "id": "helmet_tropska_04_02",
+    "file": "assets/tropska/helmet_tropska_04_02.png",
+    "category": "tropska",
+    "label": "Vulkansko ostrvo / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b03cbaf509a1990cafffda088c39caeae3dfbb80cac08e9af53bb16c62de2d2f",
+    "texture_file": "textures/tropska/tropska_04_organic_woodland.png",
+    "texture_id": "tropska-04-02",
+    "palette": "Vulkansko ostrvo"
+  },
+  {
+    "id": "helmet_tropska_04_03",
+    "file": "assets/tropska/helmet_tropska_04_03.png",
+    "category": "tropska",
+    "label": "Vulkansko ostrvo / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "05d28c2d4398c15513481a20c49bea64b2058ea535b9714a2ce219afef3f0a66",
+    "texture_file": "textures/tropska/tropska_04_stripes_tiger.png",
+    "texture_id": "tropska-04-03",
+    "palette": "Vulkansko ostrvo"
+  },
+  {
+    "id": "helmet_tropska_04_04",
+    "file": "assets/tropska/helmet_tropska_04_04.png",
+    "category": "tropska",
+    "label": "Vulkansko ostrvo / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "eca6735dba20a3e22d431fee541ec99efdfe73c487f4416f92b4bf70af814ba5",
+    "texture_file": "textures/tropska/tropska_04_speckled_dot.png",
+    "texture_id": "tropska-04-04",
+    "palette": "Vulkansko ostrvo"
+  },
+  {
+    "id": "helmet_tropska_04_05",
+    "file": "assets/tropska/helmet_tropska_04_05.png",
+    "category": "tropska",
+    "label": "Vulkansko ostrvo / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5587cb4685878059cabfadf6376bb28f3f71e46820fb461861aa9be489ff4620",
+    "texture_file": "textures/tropska/tropska_04_hex.png",
+    "texture_id": "tropska-04-05",
+    "palette": "Vulkansko ostrvo"
+  },
+  {
+    "id": "helmet_tropska_04_06",
+    "file": "assets/tropska/helmet_tropska_04_06.png",
+    "category": "tropska",
+    "label": "Vulkansko ostrvo / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "eb1280eec5847772a02e468cd602e89c5f9b03daa108f0a35084cf03bae01b0c",
+    "texture_file": "textures/tropska/tropska_04_fragment.png",
+    "texture_id": "tropska-04-06",
+    "palette": "Vulkansko ostrvo"
+  },
+  {
+    "id": "helmet_tropska_05_01",
+    "file": "assets/tropska/helmet_tropska_05_01.png",
+    "category": "tropska",
+    "label": "Monsun / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "88f94bb63e7e27673bff1bd2a4dce1376b7e49996b734a578a90f9822064c0f6",
+    "texture_file": "textures/tropska/tropska_05_pixel_digital.png",
+    "texture_id": "tropska-05-01",
+    "palette": "Monsun"
+  },
+  {
+    "id": "helmet_tropska_05_02",
+    "file": "assets/tropska/helmet_tropska_05_02.png",
+    "category": "tropska",
+    "label": "Monsun / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "58c63c64161ffd603f9cc8aac9c3ff6d4e43c0b1b7392b5c2a72e52fc4f3267a",
+    "texture_file": "textures/tropska/tropska_05_organic_woodland.png",
+    "texture_id": "tropska-05-02",
+    "palette": "Monsun"
+  },
+  {
+    "id": "helmet_tropska_05_03",
+    "file": "assets/tropska/helmet_tropska_05_03.png",
+    "category": "tropska",
+    "label": "Monsun / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2ad46f04a6b8ee7e932aec083302c82d7bb7a31261d9c474a43f06f31b4ef57f",
+    "texture_file": "textures/tropska/tropska_05_stripes_tiger.png",
+    "texture_id": "tropska-05-03",
+    "palette": "Monsun"
+  },
+  {
+    "id": "helmet_tropska_05_04",
+    "file": "assets/tropska/helmet_tropska_05_04.png",
+    "category": "tropska",
+    "label": "Monsun / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0d38a91d3a67b9d748c0c94199eb9d7e9591f3ff334e5ba7f9e1915c79693818",
+    "texture_file": "textures/tropska/tropska_05_speckled_dot.png",
+    "texture_id": "tropska-05-04",
+    "palette": "Monsun"
+  },
+  {
+    "id": "helmet_tropska_05_05",
+    "file": "assets/tropska/helmet_tropska_05_05.png",
+    "category": "tropska",
+    "label": "Monsun / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "de43a8b05cf87466372369aff07fe46ddb989a31017b619e15415ddc80aa84f5",
+    "texture_file": "textures/tropska/tropska_05_hex.png",
+    "texture_id": "tropska-05-05",
+    "palette": "Monsun"
+  },
+  {
+    "id": "helmet_tropska_05_06",
+    "file": "assets/tropska/helmet_tropska_05_06.png",
+    "category": "tropska",
+    "label": "Monsun / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d86145c536563871649c4a157da7bb874d1b3e0b9575f3f41198c01b1ebb4348",
+    "texture_file": "textures/tropska/tropska_05_fragment.png",
+    "texture_id": "tropska-05-06",
+    "palette": "Monsun"
+  },
+  {
+    "id": "helmet_tropska_06_01",
+    "file": "assets/tropska/helmet_tropska_06_01.png",
+    "category": "tropska",
+    "label": "Palma / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "118b360bbd7b8932036fa82ca4a09765eacec2af5439afa9d0d041683db82e01",
+    "texture_file": "textures/tropska/tropska_06_pixel_digital.png",
+    "texture_id": "tropska-06-01",
+    "palette": "Palma"
+  },
+  {
+    "id": "helmet_tropska_06_02",
+    "file": "assets/tropska/helmet_tropska_06_02.png",
+    "category": "tropska",
+    "label": "Palma / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "237e930a4ea9f9a812a330c2cfeef638d7f7827d53ca3d8f27db7082992fb5f7",
+    "texture_file": "textures/tropska/tropska_06_organic_woodland.png",
+    "texture_id": "tropska-06-02",
+    "palette": "Palma"
+  },
+  {
+    "id": "helmet_tropska_06_03",
+    "file": "assets/tropska/helmet_tropska_06_03.png",
+    "category": "tropska",
+    "label": "Palma / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1f8b45c4b58e37b5be8d5bdd18652f561808ef933532e623e55f5c0ae1c664ab",
+    "texture_file": "textures/tropska/tropska_06_stripes_tiger.png",
+    "texture_id": "tropska-06-03",
+    "palette": "Palma"
+  },
+  {
+    "id": "helmet_tropska_06_04",
+    "file": "assets/tropska/helmet_tropska_06_04.png",
+    "category": "tropska",
+    "label": "Palma / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2ea5462024e8b39a217622238859b93800c373093f646a8263772955cb61d57b",
+    "texture_file": "textures/tropska/tropska_06_speckled_dot.png",
+    "texture_id": "tropska-06-04",
+    "palette": "Palma"
+  },
+  {
+    "id": "helmet_tropska_06_05",
+    "file": "assets/tropska/helmet_tropska_06_05.png",
+    "category": "tropska",
+    "label": "Palma / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "74752cbd3eb814593dc160cdbbbcaa200595b8cf2d88af05b8e2610539010c0a",
+    "texture_file": "textures/tropska/tropska_06_hex.png",
+    "texture_id": "tropska-06-05",
+    "palette": "Palma"
+  },
+  {
+    "id": "helmet_tropska_06_06",
+    "file": "assets/tropska/helmet_tropska_06_06.png",
+    "category": "tropska",
+    "label": "Palma / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "544a5482791381162630bc1cd54dcbcc9d2ceaa0ef0c47ec9fa5d70d39ef2588",
+    "texture_file": "textures/tropska/tropska_06_fragment.png",
+    "texture_id": "tropska-06-06",
+    "palette": "Palma"
+  },
+  {
+    "id": "helmet_snezna_01_01",
+    "file": "assets/snezna/helmet_snezna_01_01.png",
+    "category": "snezna",
+    "label": "Arktik / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "88cffa273c2e64af2843407cdb952cccd8e40f112a8f51ade366d51b14a2dc60",
+    "texture_file": "textures/snezna/snezna_01_pixel_digital.png",
+    "texture_id": "snezna-01-01",
+    "palette": "Arktik"
+  },
+  {
+    "id": "helmet_snezna_01_02",
+    "file": "assets/snezna/helmet_snezna_01_02.png",
+    "category": "snezna",
+    "label": "Arktik / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "267b841eb786f162f7ef2587e6a42cd76d01292e3d23ef86774a407f8c4c749d",
+    "texture_file": "textures/snezna/snezna_01_organic_woodland.png",
+    "texture_id": "snezna-01-02",
+    "palette": "Arktik"
+  },
+  {
+    "id": "helmet_snezna_01_03",
+    "file": "assets/snezna/helmet_snezna_01_03.png",
+    "category": "snezna",
+    "label": "Arktik / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "791943d572a9b78fa497217484e1e971ec7aca9d76f0c12f682e3f9ea81825b4",
+    "texture_file": "textures/snezna/snezna_01_stripes_tiger.png",
+    "texture_id": "snezna-01-03",
+    "palette": "Arktik"
+  },
+  {
+    "id": "helmet_snezna_01_04",
+    "file": "assets/snezna/helmet_snezna_01_04.png",
+    "category": "snezna",
+    "label": "Arktik / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "25f2319e0ad4f1ffa2c85710d40f6fe5607793c7b849832621f96b6b89262477",
+    "texture_file": "textures/snezna/snezna_01_speckled_dot.png",
+    "texture_id": "snezna-01-04",
+    "palette": "Arktik"
+  },
+  {
+    "id": "helmet_snezna_01_05",
+    "file": "assets/snezna/helmet_snezna_01_05.png",
+    "category": "snezna",
+    "label": "Arktik / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f4410ff475943832e3d674c0029b158c98b9a711b081ac18f6fff6d8d6e60521",
+    "texture_file": "textures/snezna/snezna_01_hex.png",
+    "texture_id": "snezna-01-05",
+    "palette": "Arktik"
+  },
+  {
+    "id": "helmet_snezna_01_06",
+    "file": "assets/snezna/helmet_snezna_01_06.png",
+    "category": "snezna",
+    "label": "Arktik / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "093b5b89b70a4bc9ab7870f034e4415abe6f6bcd733550cfcbe789f4b44c8bea",
+    "texture_file": "textures/snezna/snezna_01_fragment.png",
+    "texture_id": "snezna-01-06",
+    "palette": "Arktik"
+  },
+  {
+    "id": "helmet_snezna_02_01",
+    "file": "assets/snezna/helmet_snezna_02_01.png",
+    "category": "snezna",
+    "label": "Lednik / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6459af77fc4d97bfb858bea4c3893416cc0e66a432502d9799e6abb95156bdf1",
+    "texture_file": "textures/snezna/snezna_02_pixel_digital.png",
+    "texture_id": "snezna-02-01",
+    "palette": "Lednik"
+  },
+  {
+    "id": "helmet_snezna_02_02",
+    "file": "assets/snezna/helmet_snezna_02_02.png",
+    "category": "snezna",
+    "label": "Lednik / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8e69e4929451d9652ec6c490b35fde340a0d3ff3cae6b964aa3215ac72d1cd1d",
+    "texture_file": "textures/snezna/snezna_02_organic_woodland.png",
+    "texture_id": "snezna-02-02",
+    "palette": "Lednik"
+  },
+  {
+    "id": "helmet_snezna_02_03",
+    "file": "assets/snezna/helmet_snezna_02_03.png",
+    "category": "snezna",
+    "label": "Lednik / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c203273ab0b89968558ce5c4f7528359dfe8d24d32501b60ba210cf1997f701a",
+    "texture_file": "textures/snezna/snezna_02_stripes_tiger.png",
+    "texture_id": "snezna-02-03",
+    "palette": "Lednik"
+  },
+  {
+    "id": "helmet_snezna_02_04",
+    "file": "assets/snezna/helmet_snezna_02_04.png",
+    "category": "snezna",
+    "label": "Lednik / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f8ff542edb7d02e1f556ad6e6c4986275fd454464d7bf89871d096a88e21eb57",
+    "texture_file": "textures/snezna/snezna_02_speckled_dot.png",
+    "texture_id": "snezna-02-04",
+    "palette": "Lednik"
+  },
+  {
+    "id": "helmet_snezna_02_05",
+    "file": "assets/snezna/helmet_snezna_02_05.png",
+    "category": "snezna",
+    "label": "Lednik / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2e81681556a136c493f10281233d714240be9d4e9e53c8c104866098ea4c771f",
+    "texture_file": "textures/snezna/snezna_02_hex.png",
+    "texture_id": "snezna-02-05",
+    "palette": "Lednik"
+  },
+  {
+    "id": "helmet_snezna_02_06",
+    "file": "assets/snezna/helmet_snezna_02_06.png",
+    "category": "snezna",
+    "label": "Lednik / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "dd053780539061ca279597db071d306cbb089b14ae77053733b2819e41a2b61c",
+    "texture_file": "textures/snezna/snezna_02_fragment.png",
+    "texture_id": "snezna-02-06",
+    "palette": "Lednik"
+  },
+  {
+    "id": "helmet_snezna_03_01",
+    "file": "assets/snezna/helmet_snezna_03_01.png",
+    "category": "snezna",
+    "label": "Snezan bor / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6c1a4b9c54bb9fa7fa73638d1e55a4116f9a0136689c9552b6b1ee7962431211",
+    "texture_file": "textures/snezna/snezna_03_pixel_digital.png",
+    "texture_id": "snezna-03-01",
+    "palette": "Snezan bor"
+  },
+  {
+    "id": "helmet_snezna_03_02",
+    "file": "assets/snezna/helmet_snezna_03_02.png",
+    "category": "snezna",
+    "label": "Snezan bor / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0c801d91846edbd6158432d32148f5b5137e0616b73ef5b523b0da1729f03ff1",
+    "texture_file": "textures/snezna/snezna_03_organic_woodland.png",
+    "texture_id": "snezna-03-02",
+    "palette": "Snezan bor"
+  },
+  {
+    "id": "helmet_snezna_03_03",
+    "file": "assets/snezna/helmet_snezna_03_03.png",
+    "category": "snezna",
+    "label": "Snezan bor / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5fdefad201725f881a8b1ab35e96c643d589856f9e0a00f14b82594e8865ef40",
+    "texture_file": "textures/snezna/snezna_03_stripes_tiger.png",
+    "texture_id": "snezna-03-03",
+    "palette": "Snezan bor"
+  },
+  {
+    "id": "helmet_snezna_03_04",
+    "file": "assets/snezna/helmet_snezna_03_04.png",
+    "category": "snezna",
+    "label": "Snezan bor / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "93de17ea3a38dcf388c84052d40822c6bfd0356178b20dee0fcef3719f6dcf34",
+    "texture_file": "textures/snezna/snezna_03_speckled_dot.png",
+    "texture_id": "snezna-03-04",
+    "palette": "Snezan bor"
+  },
+  {
+    "id": "helmet_snezna_03_05",
+    "file": "assets/snezna/helmet_snezna_03_05.png",
+    "category": "snezna",
+    "label": "Snezan bor / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e506a09eae47cb4d1271c3a62e4eaa2d11a348a34ff1bd1797a0559768b87215",
+    "texture_file": "textures/snezna/snezna_03_hex.png",
+    "texture_id": "snezna-03-05",
+    "palette": "Snezan bor"
+  },
+  {
+    "id": "helmet_snezna_03_06",
+    "file": "assets/snezna/helmet_snezna_03_06.png",
+    "category": "snezna",
+    "label": "Snezan bor / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "262b7ba0dad23f83462a0614faa83b8d73aef7a74a5f433dd7823c70c40c1bdd",
+    "texture_file": "textures/snezna/snezna_03_fragment.png",
+    "texture_id": "snezna-03-06",
+    "palette": "Snezan bor"
+  },
+  {
+    "id": "helmet_snezna_04_01",
+    "file": "assets/snezna/helmet_snezna_04_01.png",
+    "category": "snezna",
+    "label": "Planinski kamen / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0c8ab89fda9a7b5266918940201561c2bb41f42de74905f90a012be08f7eda99",
+    "texture_file": "textures/snezna/snezna_04_pixel_digital.png",
+    "texture_id": "snezna-04-01",
+    "palette": "Planinski kamen"
+  },
+  {
+    "id": "helmet_snezna_04_02",
+    "file": "assets/snezna/helmet_snezna_04_02.png",
+    "category": "snezna",
+    "label": "Planinski kamen / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "48db2aaad244797f41131935fde994c1c22d1b2f85247871fd006f02bb85dd0f",
+    "texture_file": "textures/snezna/snezna_04_organic_woodland.png",
+    "texture_id": "snezna-04-02",
+    "palette": "Planinski kamen"
+  },
+  {
+    "id": "helmet_snezna_04_03",
+    "file": "assets/snezna/helmet_snezna_04_03.png",
+    "category": "snezna",
+    "label": "Planinski kamen / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "14db3523b981b5ec35adbc27d9adeb0c6985d2d623525ad9b4088ea463305085",
+    "texture_file": "textures/snezna/snezna_04_stripes_tiger.png",
+    "texture_id": "snezna-04-03",
+    "palette": "Planinski kamen"
+  },
+  {
+    "id": "helmet_snezna_04_04",
+    "file": "assets/snezna/helmet_snezna_04_04.png",
+    "category": "snezna",
+    "label": "Planinski kamen / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0ed6fded20d5978a87cae053cdef886f92473afaf8a78c887ad17c518951bf8f",
+    "texture_file": "textures/snezna/snezna_04_speckled_dot.png",
+    "texture_id": "snezna-04-04",
+    "palette": "Planinski kamen"
+  },
+  {
+    "id": "helmet_snezna_04_05",
+    "file": "assets/snezna/helmet_snezna_04_05.png",
+    "category": "snezna",
+    "label": "Planinski kamen / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "88e8154432c4be75943c1a56dcd3101668f36c9cf6ce5c028455d8e726ad96a5",
+    "texture_file": "textures/snezna/snezna_04_hex.png",
+    "texture_id": "snezna-04-05",
+    "palette": "Planinski kamen"
+  },
+  {
+    "id": "helmet_snezna_04_06",
+    "file": "assets/snezna/helmet_snezna_04_06.png",
+    "category": "snezna",
+    "label": "Planinski kamen / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "33ce725b28148fe80eb4f7273ba5b24e9dc591279f26fff99e95c0d195e3746f",
+    "texture_file": "textures/snezna/snezna_04_fragment.png",
+    "texture_id": "snezna-04-06",
+    "palette": "Planinski kamen"
+  },
+  {
+    "id": "helmet_snezna_05_01",
+    "file": "assets/snezna/helmet_snezna_05_01.png",
+    "category": "snezna",
+    "label": "Polarna noc / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d5864bbd281e27768698b4c7a72d715129b91fb20d406a82ea0f2e71b90e5204",
+    "texture_file": "textures/snezna/snezna_05_pixel_digital.png",
+    "texture_id": "snezna-05-01",
+    "palette": "Polarna noc"
+  },
+  {
+    "id": "helmet_snezna_05_02",
+    "file": "assets/snezna/helmet_snezna_05_02.png",
+    "category": "snezna",
+    "label": "Polarna noc / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "72b3d5d0cab5f826588530136e446600dea7ea051f969b2ee28de9c4ff4c6f8c",
+    "texture_file": "textures/snezna/snezna_05_organic_woodland.png",
+    "texture_id": "snezna-05-02",
+    "palette": "Polarna noc"
+  },
+  {
+    "id": "helmet_snezna_05_03",
+    "file": "assets/snezna/helmet_snezna_05_03.png",
+    "category": "snezna",
+    "label": "Polarna noc / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "60501e2a5717e7c196a2f9bf12fccc65c6ebe86b0b54fb1f071c8468f71dcc84",
+    "texture_file": "textures/snezna/snezna_05_stripes_tiger.png",
+    "texture_id": "snezna-05-03",
+    "palette": "Polarna noc"
+  },
+  {
+    "id": "helmet_snezna_05_04",
+    "file": "assets/snezna/helmet_snezna_05_04.png",
+    "category": "snezna",
+    "label": "Polarna noc / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d9074d1b4541d447bb4bc191f88cc61e6d3fbfc48b8974d7351498736bc15b38",
+    "texture_file": "textures/snezna/snezna_05_speckled_dot.png",
+    "texture_id": "snezna-05-04",
+    "palette": "Polarna noc"
+  },
+  {
+    "id": "helmet_snezna_05_05",
+    "file": "assets/snezna/helmet_snezna_05_05.png",
+    "category": "snezna",
+    "label": "Polarna noc / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bff6535d17a158572b2c084132983c9fda1c5f3925f04acbc56a2849dd563c8b",
+    "texture_file": "textures/snezna/snezna_05_hex.png",
+    "texture_id": "snezna-05-05",
+    "palette": "Polarna noc"
+  },
+  {
+    "id": "helmet_snezna_05_06",
+    "file": "assets/snezna/helmet_snezna_05_06.png",
+    "category": "snezna",
+    "label": "Polarna noc / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "53722c86f90701bc8744c74fd99db15f941096c2aabd9c7cb3b40adab8b3a367",
+    "texture_file": "textures/snezna/snezna_05_fragment.png",
+    "texture_id": "snezna-05-06",
+    "palette": "Polarna noc"
+  },
+  {
+    "id": "helmet_snezna_06_01",
+    "file": "assets/snezna/helmet_snezna_06_01.png",
+    "category": "snezna",
+    "label": "Prljavi sneg / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e8525c7d57da996b386581930f2d91b16e67d4887a9d073fbe2c5784aedc2d09",
+    "texture_file": "textures/snezna/snezna_06_pixel_digital.png",
+    "texture_id": "snezna-06-01",
+    "palette": "Prljavi sneg"
+  },
+  {
+    "id": "helmet_snezna_06_02",
+    "file": "assets/snezna/helmet_snezna_06_02.png",
+    "category": "snezna",
+    "label": "Prljavi sneg / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f558e0578a84d45c898719d9b518c02e2ddedc37e06ea9bd00316d26c217f760",
+    "texture_file": "textures/snezna/snezna_06_organic_woodland.png",
+    "texture_id": "snezna-06-02",
+    "palette": "Prljavi sneg"
+  },
+  {
+    "id": "helmet_snezna_06_03",
+    "file": "assets/snezna/helmet_snezna_06_03.png",
+    "category": "snezna",
+    "label": "Prljavi sneg / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4bfea96ad2ebe1740a85ff24fd95614d210393a016e0dedf6907f5f80f8b5612",
+    "texture_file": "textures/snezna/snezna_06_stripes_tiger.png",
+    "texture_id": "snezna-06-03",
+    "palette": "Prljavi sneg"
+  },
+  {
+    "id": "helmet_snezna_06_04",
+    "file": "assets/snezna/helmet_snezna_06_04.png",
+    "category": "snezna",
+    "label": "Prljavi sneg / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1a15fcd4f5cfa4fd01ea586cf2c8652ffb713c8d81b906d37aa7a2b8b45fbb38",
+    "texture_file": "textures/snezna/snezna_06_speckled_dot.png",
+    "texture_id": "snezna-06-04",
+    "palette": "Prljavi sneg"
+  },
+  {
+    "id": "helmet_snezna_06_05",
+    "file": "assets/snezna/helmet_snezna_06_05.png",
+    "category": "snezna",
+    "label": "Prljavi sneg / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "bada0e760ed3071ccf9d10367f8591f798df55d71dfb27f7ce3a09b41b9926ea",
+    "texture_file": "textures/snezna/snezna_06_hex.png",
+    "texture_id": "snezna-06-05",
+    "palette": "Prljavi sneg"
+  },
+  {
+    "id": "helmet_snezna_06_06",
+    "file": "assets/snezna/helmet_snezna_06_06.png",
+    "category": "snezna",
+    "label": "Prljavi sneg / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "62c2f6d4963e28e4e890790de9dfafd82cbacc20742093d9da9bdf9c6cbe2fc9",
+    "texture_file": "textures/snezna/snezna_06_fragment.png",
+    "texture_id": "snezna-06-06",
+    "palette": "Prljavi sneg"
+  },
+  {
+    "id": "helmet_premium_01_01",
+    "file": "assets/premium/helmet_premium_01_01.png",
+    "category": "premium",
+    "label": "Zlatni pepeo / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b83090d997360d962c841bd7aba485b5e6eefb8faedb9bbbb9a3fb6d8c4366cd",
+    "texture_file": "textures/premium/premium_01_pixel_digital.png",
+    "texture_id": "premium-01-01",
+    "palette": "Zlatni pepeo"
+  },
+  {
+    "id": "helmet_premium_01_02",
+    "file": "assets/premium/helmet_premium_01_02.png",
+    "category": "premium",
+    "label": "Zlatni pepeo / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fe7bad38f4a89d77ec1fea9899805f2c3260291319ccbc1ec1539af9d1b7accc",
+    "texture_file": "textures/premium/premium_01_organic_woodland.png",
+    "texture_id": "premium-01-02",
+    "palette": "Zlatni pepeo"
+  },
+  {
+    "id": "helmet_premium_01_03",
+    "file": "assets/premium/helmet_premium_01_03.png",
+    "category": "premium",
+    "label": "Zlatni pepeo / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1d59ee6e16a7717ae6401ec964113e00af02dc47f7edcf5893cffb1fd66c9c0f",
+    "texture_file": "textures/premium/premium_01_stripes_tiger.png",
+    "texture_id": "premium-01-03",
+    "palette": "Zlatni pepeo"
+  },
+  {
+    "id": "helmet_premium_01_04",
+    "file": "assets/premium/helmet_premium_01_04.png",
+    "category": "premium",
+    "label": "Zlatni pepeo / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "87f8ef2457e55c88892b544296fd2072d7bc8a390811a942d2977778ec0bae08",
+    "texture_file": "textures/premium/premium_01_speckled_dot.png",
+    "texture_id": "premium-01-04",
+    "palette": "Zlatni pepeo"
+  },
+  {
+    "id": "helmet_premium_01_05",
+    "file": "assets/premium/helmet_premium_01_05.png",
+    "category": "premium",
+    "label": "Zlatni pepeo / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "47f5d573a64c88adc657de99c312b58111932f68007e9f886aebdda79af31848",
+    "texture_file": "textures/premium/premium_01_hex.png",
+    "texture_id": "premium-01-05",
+    "palette": "Zlatni pepeo"
+  },
+  {
+    "id": "helmet_premium_01_06",
+    "file": "assets/premium/helmet_premium_01_06.png",
+    "category": "premium",
+    "label": "Zlatni pepeo / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "5cc53979274fec3700d24b3cab186b21c4ac432717ae778c54b90a930e33af29",
+    "texture_file": "textures/premium/premium_01_fragment.png",
+    "texture_id": "premium-01-06",
+    "palette": "Zlatni pepeo"
+  },
+  {
+    "id": "helmet_premium_02_01",
+    "file": "assets/premium/helmet_premium_02_01.png",
+    "category": "premium",
+    "label": "Krvavi mesec / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "280b7e200526259135483c1ee1f5250b6b29a6ec64ddb5046b534df1c7b6eac4",
+    "texture_file": "textures/premium/premium_02_pixel_digital.png",
+    "texture_id": "premium-02-01",
+    "palette": "Krvavi mesec"
+  },
+  {
+    "id": "helmet_premium_02_02",
+    "file": "assets/premium/helmet_premium_02_02.png",
+    "category": "premium",
+    "label": "Krvavi mesec / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "37c59f2b2202b20e5528b5863c081ad8175b2cbf437b4e8817d33ce7115b80dd",
+    "texture_file": "textures/premium/premium_02_organic_woodland.png",
+    "texture_id": "premium-02-02",
+    "palette": "Krvavi mesec"
+  },
+  {
+    "id": "helmet_premium_02_03",
+    "file": "assets/premium/helmet_premium_02_03.png",
+    "category": "premium",
+    "label": "Krvavi mesec / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "8fe2c0cd7812ab86feef2be3d30a00b40576d51b6ea82b7244964f1102403492",
+    "texture_file": "textures/premium/premium_02_stripes_tiger.png",
+    "texture_id": "premium-02-03",
+    "palette": "Krvavi mesec"
+  },
+  {
+    "id": "helmet_premium_02_04",
+    "file": "assets/premium/helmet_premium_02_04.png",
+    "category": "premium",
+    "label": "Krvavi mesec / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b54ffac2f1338e6f946493b26dbc4d407ec5ac9f971263b36271e3f83dbd6736",
+    "texture_file": "textures/premium/premium_02_speckled_dot.png",
+    "texture_id": "premium-02-04",
+    "palette": "Krvavi mesec"
+  },
+  {
+    "id": "helmet_premium_02_05",
+    "file": "assets/premium/helmet_premium_02_05.png",
+    "category": "premium",
+    "label": "Krvavi mesec / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "3cf43e40a123faece69783a4604f4a260d3132b33777081dbf34fb6e6cbdda6b",
+    "texture_file": "textures/premium/premium_02_hex.png",
+    "texture_id": "premium-02-05",
+    "palette": "Krvavi mesec"
+  },
+  {
+    "id": "helmet_premium_02_06",
+    "file": "assets/premium/helmet_premium_02_06.png",
+    "category": "premium",
+    "label": "Krvavi mesec / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "7d36ce3f3bcf7be56dd9878327412e54cad7ce1c36bc3a35a5f5640a1dba86dc",
+    "texture_file": "textures/premium/premium_02_fragment.png",
+    "texture_id": "premium-02-06",
+    "palette": "Krvavi mesec"
+  },
+  {
+    "id": "helmet_premium_03_01",
+    "file": "assets/premium/helmet_premium_03_01.png",
+    "category": "premium",
+    "label": "Kobalt / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "323e49efa38b20b579a019f46f4c1d1a820cbc04a1911a9247cdf8b3bc7963d0",
+    "texture_file": "textures/premium/premium_03_pixel_digital.png",
+    "texture_id": "premium-03-01",
+    "palette": "Kobalt"
+  },
+  {
+    "id": "helmet_premium_03_02",
+    "file": "assets/premium/helmet_premium_03_02.png",
+    "category": "premium",
+    "label": "Kobalt / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "56d4621dc9f1639871acc1af9f335149cced3778f7f8c832aaeb49d829e2424e",
+    "texture_file": "textures/premium/premium_03_organic_woodland.png",
+    "texture_id": "premium-03-02",
+    "palette": "Kobalt"
+  },
+  {
+    "id": "helmet_premium_03_03",
+    "file": "assets/premium/helmet_premium_03_03.png",
+    "category": "premium",
+    "label": "Kobalt / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "cd1f508cd44b589b9c09ac969d4c5813eeb8b333502b7bb3ffe8ec4796c44e33",
+    "texture_file": "textures/premium/premium_03_stripes_tiger.png",
+    "texture_id": "premium-03-03",
+    "palette": "Kobalt"
+  },
+  {
+    "id": "helmet_premium_03_04",
+    "file": "assets/premium/helmet_premium_03_04.png",
+    "category": "premium",
+    "label": "Kobalt / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "f2297e8591ed0be89c666516a25c46181d264859a2368f392d04bf3d6be28ceb",
+    "texture_file": "textures/premium/premium_03_speckled_dot.png",
+    "texture_id": "premium-03-04",
+    "palette": "Kobalt"
+  },
+  {
+    "id": "helmet_premium_03_05",
+    "file": "assets/premium/helmet_premium_03_05.png",
+    "category": "premium",
+    "label": "Kobalt / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "434fa8e6759caa55e7c7682f887bc72d0d9450e56d2c3f66596b28c1a0582e02",
+    "texture_file": "textures/premium/premium_03_hex.png",
+    "texture_id": "premium-03-05",
+    "palette": "Kobalt"
+  },
+  {
+    "id": "helmet_premium_03_06",
+    "file": "assets/premium/helmet_premium_03_06.png",
+    "category": "premium",
+    "label": "Kobalt / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "fde8875c2a13a512a9a5b7d11cac9997ab9d6368dbdc706dee281b2d047435a6",
+    "texture_file": "textures/premium/premium_03_fragment.png",
+    "texture_id": "premium-03-06",
+    "palette": "Kobalt"
+  },
+  {
+    "id": "helmet_premium_04_01",
+    "file": "assets/premium/helmet_premium_04_01.png",
+    "category": "premium",
+    "label": "Ametist / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c4649aea0498fd1013e7e6114ebaf7ba9f9f1869f9fc27b4d8129356cde7eab0",
+    "texture_file": "textures/premium/premium_04_pixel_digital.png",
+    "texture_id": "premium-04-01",
+    "palette": "Ametist"
+  },
+  {
+    "id": "helmet_premium_04_02",
+    "file": "assets/premium/helmet_premium_04_02.png",
+    "category": "premium",
+    "label": "Ametist / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d2c56a978c2461f25e7d0b56745b49fe71bc15dae76616832518e666d2e88aa7",
+    "texture_file": "textures/premium/premium_04_organic_woodland.png",
+    "texture_id": "premium-04-02",
+    "palette": "Ametist"
+  },
+  {
+    "id": "helmet_premium_04_03",
+    "file": "assets/premium/helmet_premium_04_03.png",
+    "category": "premium",
+    "label": "Ametist / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e7c3b3fe931411acf709565c27da64e71b26a12b09832a7326914dd6aef6124a",
+    "texture_file": "textures/premium/premium_04_stripes_tiger.png",
+    "texture_id": "premium-04-03",
+    "palette": "Ametist"
+  },
+  {
+    "id": "helmet_premium_04_04",
+    "file": "assets/premium/helmet_premium_04_04.png",
+    "category": "premium",
+    "label": "Ametist / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0d6859757c7f5430bd61289ef8c70a54ba4656a275135632130dec8435e204eb",
+    "texture_file": "textures/premium/premium_04_speckled_dot.png",
+    "texture_id": "premium-04-04",
+    "palette": "Ametist"
+  },
+  {
+    "id": "helmet_premium_04_05",
+    "file": "assets/premium/helmet_premium_04_05.png",
+    "category": "premium",
+    "label": "Ametist / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "4d3053ed2ff5c56f76e1bb42a88a3c326f209346e5cf7db17b48001bc7eeb1cd",
+    "texture_file": "textures/premium/premium_04_hex.png",
+    "texture_id": "premium-04-05",
+    "palette": "Ametist"
+  },
+  {
+    "id": "helmet_premium_04_06",
+    "file": "assets/premium/helmet_premium_04_06.png",
+    "category": "premium",
+    "label": "Ametist / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ab82493b13a06ef99265b952fdbbbb9c3de4db321ebe34ac6f703957f3dc87e3",
+    "texture_file": "textures/premium/premium_04_fragment.png",
+    "texture_id": "premium-04-06",
+    "palette": "Ametist"
+  },
+  {
+    "id": "helmet_premium_05_01",
+    "file": "assets/premium/helmet_premium_05_01.png",
+    "category": "premium",
+    "label": "Patina / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "16e4ba44ab829ea4495bbc8078a734832d39efaa1440c0678580f0b5843c6457",
+    "texture_file": "textures/premium/premium_05_pixel_digital.png",
+    "texture_id": "premium-05-01",
+    "palette": "Patina"
+  },
+  {
+    "id": "helmet_premium_05_02",
+    "file": "assets/premium/helmet_premium_05_02.png",
+    "category": "premium",
+    "label": "Patina / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "83fdc10f448adfa6dda51e69fcde711032931c5d2f3ec4f5f82b8b06167b1309",
+    "texture_file": "textures/premium/premium_05_organic_woodland.png",
+    "texture_id": "premium-05-02",
+    "palette": "Patina"
+  },
+  {
+    "id": "helmet_premium_05_03",
+    "file": "assets/premium/helmet_premium_05_03.png",
+    "category": "premium",
+    "label": "Patina / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0f9aa5de59de76a3076bab3f6aac7cf8f0b62802769d1598e9097d147bd0a17d",
+    "texture_file": "textures/premium/premium_05_stripes_tiger.png",
+    "texture_id": "premium-05-03",
+    "palette": "Patina"
+  },
+  {
+    "id": "helmet_premium_05_04",
+    "file": "assets/premium/helmet_premium_05_04.png",
+    "category": "premium",
+    "label": "Patina / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "908f2dbd73c48f1ce9190b8a622123c9112fd82cdd66833ea035087268248eca",
+    "texture_file": "textures/premium/premium_05_speckled_dot.png",
+    "texture_id": "premium-05-04",
+    "palette": "Patina"
+  },
+  {
+    "id": "helmet_premium_05_05",
+    "file": "assets/premium/helmet_premium_05_05.png",
+    "category": "premium",
+    "label": "Patina / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b4e0ed97ad5f7cf6de102053fb45d2caef427f68a3d0ee5e7fc192f9bfa57367",
+    "texture_file": "textures/premium/premium_05_hex.png",
+    "texture_id": "premium-05-05",
+    "palette": "Patina"
+  },
+  {
+    "id": "helmet_premium_05_06",
+    "file": "assets/premium/helmet_premium_05_06.png",
+    "category": "premium",
+    "label": "Patina / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2b88a6a82c404551bd6770d9cdb3a0d228169645cef0b023404f5c6e5861aba5",
+    "texture_file": "textures/premium/premium_05_fragment.png",
+    "texture_id": "premium-05-06",
+    "palette": "Patina"
+  },
+  {
+    "id": "helmet_premium_06_01",
+    "file": "assets/premium/helmet_premium_06_01.png",
+    "category": "premium",
+    "label": "Obsidijan / pixel_digital",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "15c2f229e72e949425aa5df26c7b7cec891e639b56ee8329ba6d52efba779f27",
+    "texture_file": "textures/premium/premium_06_pixel_digital.png",
+    "texture_id": "premium-06-01",
+    "palette": "Obsidijan"
+  },
+  {
+    "id": "helmet_premium_06_02",
+    "file": "assets/premium/helmet_premium_06_02.png",
+    "category": "premium",
+    "label": "Obsidijan / organic_woodland",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c67258bd2337abd0ab8ecb55f39d01eb4eca82170df314c6cbbbca69856f6e80",
+    "texture_file": "textures/premium/premium_06_organic_woodland.png",
+    "texture_id": "premium-06-02",
+    "palette": "Obsidijan"
+  },
+  {
+    "id": "helmet_premium_06_03",
+    "file": "assets/premium/helmet_premium_06_03.png",
+    "category": "premium",
+    "label": "Obsidijan / stripes_tiger",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b8f382d16e7c86f41e38138ef753ea7b410585828d1f83f630dea2513259b15a",
+    "texture_file": "textures/premium/premium_06_stripes_tiger.png",
+    "texture_id": "premium-06-03",
+    "palette": "Obsidijan"
+  },
+  {
+    "id": "helmet_premium_06_04",
+    "file": "assets/premium/helmet_premium_06_04.png",
+    "category": "premium",
+    "label": "Obsidijan / speckled_dot",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ea9324f7af06e36fff49c4e7de43fe27b5f734e67de57d1a9ea2cf8aa2c823cb",
+    "texture_file": "textures/premium/premium_06_speckled_dot.png",
+    "texture_id": "premium-06-04",
+    "palette": "Obsidijan"
+  },
+  {
+    "id": "helmet_premium_06_05",
+    "file": "assets/premium/helmet_premium_06_05.png",
+    "category": "premium",
+    "label": "Obsidijan / hex",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "d6a3c06da2f7f8b3967c1e23d21886b7e85b5a26ddcd11f7a3514fdc9651777d",
+    "texture_file": "textures/premium/premium_06_hex.png",
+    "texture_id": "premium-06-05",
+    "palette": "Obsidijan"
+  },
+  {
+    "id": "helmet_premium_06_06",
+    "file": "assets/premium/helmet_premium_06_06.png",
+    "category": "premium",
+    "label": "Obsidijan / fragment",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "6c91be32ca105a82a5774f8cacc61e2435143a7b164f0703be87fc4b1236425d",
+    "texture_file": "textures/premium/premium_06_fragment.png",
+    "texture_id": "premium-06-06",
+    "palette": "Obsidijan"
+  },
+  {
+    "id": "helmet_solid_01_black",
+    "file": "assets/solid/helmet_solid_01_black.png",
+    "category": "solid",
+    "label": "Crna",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "46083c27120cf10a47a77902009b7fa05368c57ac72934939ff8f89b6ace2365",
+    "solid_hex": "#171A1F"
+  },
+  {
+    "id": "helmet_solid_02_anthracite",
+    "file": "assets/solid/helmet_solid_02_anthracite.png",
+    "category": "solid",
+    "label": "Antracit",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "624aeda7b609a2fc028298b3ee4ab4ff7c5a4403d9cc02add5b3c4be7153c1e5",
+    "solid_hex": "#343B43"
+  },
+  {
+    "id": "helmet_solid_03_graphite",
+    "file": "assets/solid/helmet_solid_03_graphite.png",
+    "category": "solid",
+    "label": "Grafit",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b419ed8e8967275c468c0ed684046cc0cfd581439d797f1e23a6cff075d8bc66",
+    "solid_hex": "#565D63"
+  },
+  {
+    "id": "helmet_solid_04_steel",
+    "file": "assets/solid/helmet_solid_04_steel.png",
+    "category": "solid",
+    "label": "Celicna siva",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "c0751339f7d422ce707f5835a50079e92cabac7ba3303550c358d6fb8b12fce3",
+    "solid_hex": "#83909A"
+  },
+  {
+    "id": "helmet_solid_05_silver",
+    "file": "assets/solid/helmet_solid_05_silver.png",
+    "category": "solid",
+    "label": "Srebrna",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9e791e3f13c0eea67f259e52a633ac88b57fe87d7d81613cc97a82995d1ad088",
+    "solid_hex": "#BBC4CB"
+  },
+  {
+    "id": "helmet_solid_06_white",
+    "file": "assets/solid/helmet_solid_06_white.png",
+    "category": "solid",
+    "label": "Bela",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "72f6b657ce1244f30f727454aefa753a611dbf5401d66698cfbbc1c3e00efcf8",
+    "solid_hex": "#E4E8E7"
+  },
+  {
+    "id": "helmet_solid_07_ivory",
+    "file": "assets/solid/helmet_solid_07_ivory.png",
+    "category": "solid",
+    "label": "Slonovaca",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "91a55c2fbb32c60ec607eab04ac325a158373c79b06f578e3eea3eeaec7e0b55",
+    "solid_hex": "#DCD4BC"
+  },
+  {
+    "id": "helmet_solid_08_olive",
+    "file": "assets/solid/helmet_solid_08_olive.png",
+    "category": "solid",
+    "label": "Maslinasta",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "90cde2c7e38aa20ed87e820e3457feeb14362a9daa35e5e81609d7cf95b0e015",
+    "solid_hex": "#697247"
+  },
+  {
+    "id": "helmet_solid_09_od_green",
+    "file": "assets/solid/helmet_solid_09_od_green.png",
+    "category": "solid",
+    "label": "Vojnicka zelena",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b3e364e8f5f38619e487b40c414bfe99c889177765a2d4557f519cb7867a4ad8",
+    "solid_hex": "#495941"
+  },
+  {
+    "id": "helmet_solid_10_forest",
+    "file": "assets/solid/helmet_solid_10_forest.png",
+    "category": "solid",
+    "label": "Sumska zelena",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0856bd9603dbb988c3307ea2748534ceec2854ca567e1fc6cc4b4352825b3d6f",
+    "solid_hex": "#2D4736"
+  },
+  {
+    "id": "helmet_solid_11_sage",
+    "file": "assets/solid/helmet_solid_11_sage.png",
+    "category": "solid",
+    "label": "Zalfija",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "e75a2d77844196cf43e3865826d3d635eb0b1dc4980ff1efb83c0e07b8911b26",
+    "solid_hex": "#89947A"
+  },
+  {
+    "id": "helmet_solid_12_coyote",
+    "file": "assets/solid/helmet_solid_12_coyote.png",
+    "category": "solid",
+    "label": "Kojot braon",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0a9c5da682155f00585e3da111549b4889408722aa54c7e71b2bc6069b76a948",
+    "solid_hex": "#9D8056"
+  },
+  {
+    "id": "helmet_solid_13_sand",
+    "file": "assets/solid/helmet_solid_13_sand.png",
+    "category": "solid",
+    "label": "Pescana",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "872da3e2bcc6764476f636f167d6ad2b0db02d0629fffc2a165cda49a47b1e24",
+    "solid_hex": "#D5BD8B"
+  },
+  {
+    "id": "helmet_solid_14_khaki",
+    "file": "assets/solid/helmet_solid_14_khaki.png",
+    "category": "solid",
+    "label": "Kaki",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "a6bbf3e11dd48d4c26fe002c172b26a89c77fbb594e96032afff99ca596f306c",
+    "solid_hex": "#B2A175"
+  },
+  {
+    "id": "helmet_solid_15_brown",
+    "file": "assets/solid/helmet_solid_15_brown.png",
+    "category": "solid",
+    "label": "Braon",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "9fee384d98f9b8bfdecfe911858799de7021c6304c56084946eece151f59cb22",
+    "solid_hex": "#71503B"
+  },
+  {
+    "id": "helmet_solid_16_navy",
+    "file": "assets/solid/helmet_solid_16_navy.png",
+    "category": "solid",
+    "label": "Mornarska plava",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "2fd8f94075b6a3af63aa9dc01c180b95a3080857369f67da4af92285f558e496",
+    "solid_hex": "#20364F"
+  },
+  {
+    "id": "helmet_solid_17_cobalt",
+    "file": "assets/solid/helmet_solid_17_cobalt.png",
+    "category": "solid",
+    "label": "Kobalt",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "267c7ec4cf33d0e1a3043a918d5dfe9b9a549d425a78d8048347c37d9a119bc4",
+    "solid_hex": "#2863A4"
+  },
+  {
+    "id": "helmet_solid_18_slate",
+    "file": "assets/solid/helmet_solid_18_slate.png",
+    "category": "solid",
+    "label": "Plavosiva",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b6b342132019a94c2b87551d1b61fe0a6c37fad1664176da5bdb2372a050f06a",
+    "solid_hex": "#60788D"
+  },
+  {
+    "id": "helmet_solid_19_teal",
+    "file": "assets/solid/helmet_solid_19_teal.png",
+    "category": "solid",
+    "label": "Petrolej",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "b007f7891d801276dd8762a945f6964d704e3aeaf977153f3868bf3457bb2510",
+    "solid_hex": "#2D716C"
+  },
+  {
+    "id": "helmet_solid_20_burgundy",
+    "file": "assets/solid/helmet_solid_20_burgundy.png",
+    "category": "solid",
+    "label": "Bordo",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "ea4880e1e96642b88a84cbdf8a5b25b6c9cc7becf2e6fe9ab6d9e93d2a4d5a64",
+    "solid_hex": "#692A3D"
+  },
+  {
+    "id": "helmet_solid_21_crimson",
+    "file": "assets/solid/helmet_solid_21_crimson.png",
+    "category": "solid",
+    "label": "Grimizna",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "0a5cabd67c3c4486ecd9d9d030f31d5d1ef52e926b095f017f50d96a18dab8f8",
+    "solid_hex": "#A2373F"
+  },
+  {
+    "id": "helmet_solid_22_orange",
+    "file": "assets/solid/helmet_solid_22_orange.png",
+    "category": "solid",
+    "label": "Narandzasta",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "545be11ec063a44f3a90a64ad92ef0dbbfb031ec111f5b450dafae10569addd1",
+    "solid_hex": "#D47B32"
+  },
+  {
+    "id": "helmet_solid_23_gold",
+    "file": "assets/solid/helmet_solid_23_gold.png",
+    "category": "solid",
+    "label": "Zlatna",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "1c3b7417f6f365e80427984967b1aab44e60837d9552cbe12572550d685e8bbe",
+    "solid_hex": "#BCA15A"
+  },
+  {
+    "id": "helmet_solid_24_amethyst",
+    "file": "assets/solid/helmet_solid_24_amethyst.png",
+    "category": "solid",
+    "label": "Ametist",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "sha256": "90e2f159352eac44032d1491f405b9e0e6df9cb5cc6ddeb1befa61fcb38c75da",
+    "solid_hex": "#8056A3"
+  }
+]

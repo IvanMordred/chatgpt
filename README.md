@@ -2,6 +2,16 @@
 
 Komandiri PMC jedinica: originalni slojevi, sastavljeni primeri, koncepti opreme i kamuflažne teksture.
 
+## Šlemovi — 240 varijanti
+
+Jedan model, 216 kamuflaža i 24 obične boje. Transparentni PNG slojevi 1024 × 1024, poravnati na osnovnog komandira.
+
+- [Preuzmi 240 šlemova — ZIP](ewarstate/downloads/ewarstate_240_slemova.zip)
+- [Pregled 12 primera na komandiru](ewarstate/helmets/previews/selection_12.jpg)
+- [Sve pregledne table](ewarstate/helmets/previews)
+- [Pojedinačni PNG slojevi](ewarstate/helmets/assets)
+- [Detalji uklapanja i izvori](ewarstate/helmets/README.md)
+
 ## Preuzimanje
 
 Otvorite link, pa **Download raw file**. Za ceo repozitorijum koristite **Code → Download ZIP**.

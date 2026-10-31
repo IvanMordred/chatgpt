@@ -1,0 +1,122 @@
+[
+  {
+    "id": "black",
+    "name": "Crna",
+    "hex": "#171A1F"
+  },
+  {
+    "id": "anthracite",
+    "name": "Antracit",
+    "hex": "#343B43"
+  },
+  {
+    "id": "graphite",
+    "name": "Grafit",
+    "hex": "#565D63"
+  },
+  {
+    "id": "steel",
+    "name": "Celicna siva",
+    "hex": "#83909A"
+  },
+  {
+    "id": "silver",
+    "name": "Srebrna",
+    "hex": "#BBC4CB"
+  },
+  {
+    "id": "white",
+    "name": "Bela",
+    "hex": "#E4E8E7"
+  },
+  {
+    "id": "ivory",
+    "name": "Slonovaca",
+    "hex": "#DCD4BC"
+  },
+  {
+    "id": "olive",
+    "name": "Maslinasta",
+    "hex": "#697247"
+  },
+  {
+    "id": "od_green",
+    "name": "Vojnicka zelena",
+    "hex": "#495941"
+  },
+  {
+    "id": "forest",
+    "name": "Sumska zelena",
+    "hex": "#2D4736"
+  },
+  {
+    "id": "sage",
+    "name": "Zalfija",
+    "hex": "#89947A"
+  },
+  {
+    "id": "coyote",
+    "name": "Kojot braon",
+    "hex": "#9D8056"
+  },
+  {
+    "id": "sand",
+    "name": "Pescana",
+    "hex": "#D5BD8B"
+  },
+  {
+    "id": "khaki",
+    "name": "Kaki",
+    "hex": "#B2A175"
+  },
+  {
+    "id": "brown",
+    "name": "Braon",
+    "hex": "#71503B"
+  },
+  {
+    "id": "navy",
+    "name": "Mornarska plava",
+    "hex": "#20364F"
+  },
+  {
+    "id": "cobalt",
+    "name": "Kobalt",
+    "hex": "#2863A4"
+  },
+  {
+    "id": "slate",
+    "name": "Plavosiva",
+    "hex": "#60788D"
+  },
+  {
+    "id": "teal",
+    "name": "Petrolej",
+    "hex": "#2D716C"
+  },
+  {
+    "id": "burgundy",
+    "name": "Bordo",
+    "hex": "#692A3D"
+  },
+  {
+    "id": "crimson",
+    "name": "Grimizna",
+    "hex": "#A2373F"
+  },
+  {
+    "id": "orange",
+    "name": "Narandzasta",
+    "hex": "#D47B32"
+  },
+  {
+    "id": "gold",
+    "name": "Zlatna",
+    "hex": "#BCA15A"
+  },
+  {
+    "id": "amethyst",
+    "name": "Ametist",
+    "hex": "#8056A3"
+  }
+]
