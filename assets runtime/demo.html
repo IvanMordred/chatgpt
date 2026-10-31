@@ -1,0 +1,15 @@
+<!doctype html><html lang="sr"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>eWarState — materijali komandira</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#141b20;color:#e3e9e9;font:16px system-ui}main{max-width:1180px;margin:auto;padding:24px}h1{font-size:26px;margin:0 0 8px}p{color:#acb9bf;line-height:1.5}.layout{display:grid;grid-template-columns:minmax(300px,560px) 1fr;gap:24px}canvas{width:100%;height:auto;background:#2b363c;border-radius:12px}label{display:block;margin:12px 0 5px}select,button{width:100%;padding:10px;border:1px solid #4b5c67;border-radius:6px;background:#202d35;color:#fff;font:inherit}.row{display:grid;grid-template-columns:2fr 1fr;gap:8px}button{cursor:pointer;margin-top:15px;background:#426550}small{display:block;color:#b1c3ca;line-height:1.5}#status{min-height:24px}a{color:#b4d2bd}@media(max-width:780px){.layout{grid-template-columns:1fr}main{padding:16px}}
+</style><main><h1>eWarState · izbor materijala</h1><p>Isti model, druga kamuflaža. Izaberi ceo materijal ili samo označene delove odela.</p>
+<div class="layout"><div><canvas id="portrait" width="1024" height="1024"></canvas><p id="status" role="status">Učitavanje…</p><button id="download">Preuzmi trenutni prikaz</button></div><section>
+<label for="texture">Kamuflaža ili obična boja</label><select id="texture"></select>
+<label for="uniform">Odelo</label><div class="row"><select id="uniform"></select><select id="uniformPaint"><option value="selected">Izabrani dezen</option><option value="base">Osnova</option></select></div>
+<label for="uniformRegion">Deo odela</label><select id="uniformRegion"></select>
+<label for="vest">Pancir</label><div class="row"><select id="vest"></select><select id="vestPaint"><option value="selected">Izabrani dezen</option><option value="base">Osnova</option></select></div>
+<label for="headgear">Kapa / šlem</label><div class="row"><select id="headgear"></select><select id="headgearPaint"><option value="selected">Izabrani dezen</option><option value="base">Osnova</option></select></div>
+<label for="headgearRegion">Deo kape / šlema</label><select id="headgearRegion"></select>
+<label for="facewear">Maska / marama</label><div class="row"><select id="facewear"></select><select id="facewearPaint"><option value="selected">Izabrani dezen</option><option value="base">Osnova</option></select></div>
+<p><small>Svaki model koristi jednu osnovu i masku materijala. Senke i šavovi ostaju vidljivi. Sve kombinacije opreme još zahtevaju proveru uklapanja.</small></p><a href="README.md">Uputstvo za tim</a>
+</section></div></main><script type="module" src="demo.js"></script></html>

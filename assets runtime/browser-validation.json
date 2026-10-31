@@ -1,0 +1,14 @@
+{
+  "legacyIdsChecked": 918,
+  "browserCamouflagesRendered": 216,
+  "browserSolidColorsRendered": 24,
+  "partialCapAndMedicalMark": "passed",
+  "alphaPreserved": true,
+  "protectedPixels": 268227,
+  "paintedPixels": 35735,
+  "webglShader": "compiled and rendered",
+  "gpuComparedPixels": 33996,
+  "gpuMaxByteDelta": 3.4941176470588218,
+  "closedHelmetRule": "passed",
+  "browserErrors": 0
+}

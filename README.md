@@ -1,5 +1,15 @@
 # eWarState — oprema V2
 
+## Kompaktni paket za aplikaciju
+
+**Za JavaScript / Pixi / Phaser koristi [assets runtime](assets%20runtime/README.md):** 171 lossless osnova, maske materijala, šest zajedničkih mapa dezena i 36 paleta rekonstruišu svih 216 kamuflaža. Aplikacija bira boju i označene delove bez čuvanja posebnog PNG fajla za svaku kombinaciju. Približno **53 MiB umesto 274 MiB** za postojeće PNG varijante (oko 80% manje). Postojeći PNG fajlovi i Git istorija ostaju sačuvani za dizajn.
+
+- [Prikaz selektivne kamuflaže na rukavima](assets%20runtime/preview.jpg)
+- [Radni web primer — pokretanje i integracija](assets%20runtime/README.md)
+- [Merenja](assets%20runtime/validation.json) · [Browser i GPU provere](assets%20runtime/browser-validation.json)
+
+## PNG paket za dizajn
+
 Nova kolekcija: **171 ponovo izrađen osnovni model i 918 varijanti**, uključujući 216 kamuflaža i 24 obične boje za prvi šlem.
 
 - [Sva nova oprema: assets v2](assets%20v2)
