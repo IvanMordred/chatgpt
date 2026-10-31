@@ -1,5 +1,8 @@
 [
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 1,
     "id": "helmet_1_1",
     "file": "assets/sumska/helmet_1_1.png",
     "category": "sumska",
@@ -12,15 +15,15 @@
       0,
       0
     ],
-    "sha256": "02cdce8f996b0f11a04d5df84527a8c35277c2a4982febe98a60b6e90d8ce7f5",
+    "sha256": "4e88e0ae851b73d1998de6edce5341ca2384a589aa20b7990872e45ed64f4cad",
     "texture_file": "textures/sumska/sumska_01_pixel_digital.png",
     "texture_id": "sumska-01-01",
-    "palette": "Duboka suma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 1
+    "palette": "Duboka suma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 2,
     "id": "helmet_1_2",
     "file": "assets/sumska/helmet_1_2.png",
     "category": "sumska",
@@ -33,15 +36,15 @@
       0,
       0
     ],
-    "sha256": "87330af0ab5c5a16b73132af4be01f82d4bbef018118e9371c352de767e530a2",
+    "sha256": "3882faa5cf51ea6a641ead5d89ee9ce0eec73d795f0b2d9587748fecf374e404",
     "texture_file": "textures/sumska/sumska_01_organic_woodland.png",
     "texture_id": "sumska-01-02",
-    "palette": "Duboka suma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 2
+    "palette": "Duboka suma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 3,
     "id": "helmet_1_3",
     "file": "assets/sumska/helmet_1_3.png",
     "category": "sumska",
@@ -54,15 +57,15 @@
       0,
       0
     ],
-    "sha256": "ae6c205e0e9a37d6e7e08a28dafe704c86a42de7142c3f0be0600c6c2450128b",
+    "sha256": "7b7a28146250fb8b381df75b0f5e92278683e47be9e050896f833f8506c98b8c",
     "texture_file": "textures/sumska/sumska_01_stripes_tiger.png",
     "texture_id": "sumska-01-03",
-    "palette": "Duboka suma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 3
+    "palette": "Duboka suma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 4,
     "id": "helmet_1_4",
     "file": "assets/sumska/helmet_1_4.png",
     "category": "sumska",
@@ -75,15 +78,15 @@
       0,
       0
     ],
-    "sha256": "b12055ba2e660c9464c48152a2c402168381aef10984c814a51e2c0f140ef712",
+    "sha256": "651d164e9fa457f34921959c6782d230cb0fd612c492cbdecb0b559196ff2635",
     "texture_file": "textures/sumska/sumska_01_speckled_dot.png",
     "texture_id": "sumska-01-04",
-    "palette": "Duboka suma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 4
+    "palette": "Duboka suma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 5,
     "id": "helmet_1_5",
     "file": "assets/sumska/helmet_1_5.png",
     "category": "sumska",
@@ -96,15 +99,15 @@
       0,
       0
     ],
-    "sha256": "68f5e0735b64d71161d1d80e367e72828a56d3b37f2fb7c0f7f1f96300f5808b",
+    "sha256": "a2e7805d801e03ba556db8d4628f9d5be51ebe6b0e923dde871c4525ced0f1f0",
     "texture_file": "textures/sumska/sumska_01_hex.png",
     "texture_id": "sumska-01-05",
-    "palette": "Duboka suma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 5
+    "palette": "Duboka suma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 6,
     "id": "helmet_1_6",
     "file": "assets/sumska/helmet_1_6.png",
     "category": "sumska",
@@ -117,15 +120,15 @@
       0,
       0
     ],
-    "sha256": "a15f8b9b205129dacae955dacba09ded95e835ee7e826294706bb7f500bea4b0",
+    "sha256": "5bd02c18a78aacd25b5e1b72aafbf7b3cffcdb511a38838eb97792c470a39078",
     "texture_file": "textures/sumska/sumska_01_fragment.png",
     "texture_id": "sumska-01-06",
-    "palette": "Duboka suma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 6
+    "palette": "Duboka suma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 7,
     "id": "helmet_1_7",
     "file": "assets/sumska/helmet_1_7.png",
     "category": "sumska",
@@ -138,15 +141,15 @@
       0,
       0
     ],
-    "sha256": "d246adcc680ba753cc5d7c99902ba7f2a60c071faaa10beec0fd8a52a228b5e2",
+    "sha256": "af76ac7dd5630847388cfd1cb1e7321d72b54b88e2d696e5aca1d5b8259a44a8",
     "texture_file": "textures/sumska/sumska_02_pixel_digital.png",
     "texture_id": "sumska-02-01",
-    "palette": "Hrast",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 7
+    "palette": "Hrast"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 8,
     "id": "helmet_1_8",
     "file": "assets/sumska/helmet_1_8.png",
     "category": "sumska",
@@ -159,15 +162,15 @@
       0,
       0
     ],
-    "sha256": "827e3e2b697d615003e0efea48315b733b6441faacd58b37ed04beb364d72449",
+    "sha256": "bfa33535befe48f59ca143b22778425b15cbbd9524112f17a8c99cdc6d76d294",
     "texture_file": "textures/sumska/sumska_02_organic_woodland.png",
     "texture_id": "sumska-02-02",
-    "palette": "Hrast",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 8
+    "palette": "Hrast"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 9,
     "id": "helmet_1_9",
     "file": "assets/sumska/helmet_1_9.png",
     "category": "sumska",
@@ -180,15 +183,15 @@
       0,
       0
     ],
-    "sha256": "df86fe718ff4433b56635cd268f41eb58fca70de9fea9a20b10a8716dd032deb",
+    "sha256": "5521b85b91634265abf38330207046c544c3ada92f34ce5d7ba04eda792b7fc8",
     "texture_file": "textures/sumska/sumska_02_stripes_tiger.png",
     "texture_id": "sumska-02-03",
-    "palette": "Hrast",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 9
+    "palette": "Hrast"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 10,
     "id": "helmet_1_10",
     "file": "assets/sumska/helmet_1_10.png",
     "category": "sumska",
@@ -201,15 +204,15 @@
       0,
       0
     ],
-    "sha256": "6663a23903e2de01b5c368b8db6d2db16de006f586cebdf377511e0e95ff0bf5",
+    "sha256": "acf7dd42e4ad28444007ec4bdf8290c445eeb49642f28ff7eff236f5fa9d1523",
     "texture_file": "textures/sumska/sumska_02_speckled_dot.png",
     "texture_id": "sumska-02-04",
-    "palette": "Hrast",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 10
+    "palette": "Hrast"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 11,
     "id": "helmet_1_11",
     "file": "assets/sumska/helmet_1_11.png",
     "category": "sumska",
@@ -222,15 +225,15 @@
       0,
       0
     ],
-    "sha256": "e8c74160cfce92ffd65567a861e2469aefa09c582ba3c08f2958f2a2a9cb8026",
+    "sha256": "7411964f3f314053550ca2887e9f5c16d836cb96e670a95d82872874f9b8ac76",
     "texture_file": "textures/sumska/sumska_02_hex.png",
     "texture_id": "sumska-02-05",
-    "palette": "Hrast",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 11
+    "palette": "Hrast"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 12,
     "id": "helmet_1_12",
     "file": "assets/sumska/helmet_1_12.png",
     "category": "sumska",
@@ -243,15 +246,15 @@
       0,
       0
     ],
-    "sha256": "d744e6297735c7eef371ae1dfe94fa0d468eae49653d8ece2796cdc90edd0960",
+    "sha256": "ba5b5064fe955c8f068c46784e58e00d6817e101a9dd0a0d64a166ef81cc2439",
     "texture_file": "textures/sumska/sumska_02_fragment.png",
     "texture_id": "sumska-02-06",
-    "palette": "Hrast",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 12
+    "palette": "Hrast"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 13,
     "id": "helmet_1_13",
     "file": "assets/sumska/helmet_1_13.png",
     "category": "sumska",
@@ -264,15 +267,15 @@
       0,
       0
     ],
-    "sha256": "b0d7937941c27e945e659b613b061058bc5da5c2202ba03cd7cc2ebce7e0b928",
+    "sha256": "3ed27a1dbbb81d37aa4ba65f69a68723ce7c8dfb55922a515b97acfce545755e",
     "texture_file": "textures/sumska/sumska_03_pixel_digital.png",
     "texture_id": "sumska-03-01",
-    "palette": "Bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 13
+    "palette": "Bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 14,
     "id": "helmet_1_14",
     "file": "assets/sumska/helmet_1_14.png",
     "category": "sumska",
@@ -285,15 +288,15 @@
       0,
       0
     ],
-    "sha256": "a91d7868db00d39aa85a458c9711cdcb0d58918da1e07858acaab403d843803a",
+    "sha256": "f5dce46866bca8961672b3a1d6b13e516379dfb97dfed5a90ac257298ca77462",
     "texture_file": "textures/sumska/sumska_03_organic_woodland.png",
     "texture_id": "sumska-03-02",
-    "palette": "Bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 14
+    "palette": "Bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 15,
     "id": "helmet_1_15",
     "file": "assets/sumska/helmet_1_15.png",
     "category": "sumska",
@@ -306,15 +309,15 @@
       0,
       0
     ],
-    "sha256": "66a26a7fc56d2a4beceba20ebbedf7e0605a17f4d7b761babdbc5e3e7e04c4f5",
+    "sha256": "7f65a6ab584afb9129f94c751e69350da045f9fd40c5e1cc11c1091b4a8f3dd9",
     "texture_file": "textures/sumska/sumska_03_stripes_tiger.png",
     "texture_id": "sumska-03-03",
-    "palette": "Bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 15
+    "palette": "Bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 16,
     "id": "helmet_1_16",
     "file": "assets/sumska/helmet_1_16.png",
     "category": "sumska",
@@ -327,15 +330,15 @@
       0,
       0
     ],
-    "sha256": "8c586dc8e404f182c3e07959b4f9ae6086c76e194d1d105de6926a54dfa5a5c9",
+    "sha256": "912c21b8ebd1ba5617c789b9ed44f7e554d785b225313db20a0b51861099f850",
     "texture_file": "textures/sumska/sumska_03_speckled_dot.png",
     "texture_id": "sumska-03-04",
-    "palette": "Bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 16
+    "palette": "Bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 17,
     "id": "helmet_1_17",
     "file": "assets/sumska/helmet_1_17.png",
     "category": "sumska",
@@ -348,15 +351,15 @@
       0,
       0
     ],
-    "sha256": "cf435778827852bbeed13d432840d55f8797ae0743929990153fae51bb0d2797",
+    "sha256": "13ec589815ce9b270267b4efea1da379f1c2236ade59be9adb9d67a7c200fc01",
     "texture_file": "textures/sumska/sumska_03_hex.png",
     "texture_id": "sumska-03-05",
-    "palette": "Bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 17
+    "palette": "Bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 18,
     "id": "helmet_1_18",
     "file": "assets/sumska/helmet_1_18.png",
     "category": "sumska",
@@ -369,15 +372,15 @@
       0,
       0
     ],
-    "sha256": "d59a7adb28c12ac58e81f2d68e15f0b7afcd740f6226be4b940f8a1c40de1ac8",
+    "sha256": "3dbbfd784a39882b1b93ddd78ce048f76392e7005ee2d770a69b2f348e8bc29f",
     "texture_file": "textures/sumska/sumska_03_fragment.png",
     "texture_id": "sumska-03-06",
-    "palette": "Bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 18
+    "palette": "Bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 19,
     "id": "helmet_1_19",
     "file": "assets/sumska/helmet_1_19.png",
     "category": "sumska",
@@ -390,15 +393,15 @@
       0,
       0
     ],
-    "sha256": "5872555f388654ca01e1fcbb26b51c8d0c242712c5d63a70615d98d401c7c3ed",
+    "sha256": "14a41ad40e98afd245af23df8eab6ca582f027957aca12e79f37ae69273baa09",
     "texture_file": "textures/sumska/sumska_04_pixel_digital.png",
     "texture_id": "sumska-04-01",
-    "palette": "Jesen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 19
+    "palette": "Jesen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 20,
     "id": "helmet_1_20",
     "file": "assets/sumska/helmet_1_20.png",
     "category": "sumska",
@@ -411,15 +414,15 @@
       0,
       0
     ],
-    "sha256": "4fbbf135dacc14c10b0b31211d10a8d116d09486ff7cd303e4f3deb393ad46ca",
+    "sha256": "2b682bb6f8cd0febcb66487006541120d321691d406cf700f00ad7ea42dcedfc",
     "texture_file": "textures/sumska/sumska_04_organic_woodland.png",
     "texture_id": "sumska-04-02",
-    "palette": "Jesen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 20
+    "palette": "Jesen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 21,
     "id": "helmet_1_21",
     "file": "assets/sumska/helmet_1_21.png",
     "category": "sumska",
@@ -432,15 +435,15 @@
       0,
       0
     ],
-    "sha256": "f1b8284723ee56558d4f2cca9ced7d51b2d864a580317572bf5155f971c197b4",
+    "sha256": "bc02f9529e7c7ff859fec29e9423515d083f514760f493809c31186ab4bf2abb",
     "texture_file": "textures/sumska/sumska_04_stripes_tiger.png",
     "texture_id": "sumska-04-03",
-    "palette": "Jesen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 21
+    "palette": "Jesen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 22,
     "id": "helmet_1_22",
     "file": "assets/sumska/helmet_1_22.png",
     "category": "sumska",
@@ -453,15 +456,15 @@
       0,
       0
     ],
-    "sha256": "a773f138071b0ba4eda31ba15eb9a2361ae708a904478b6e0253c7d41a5438dc",
+    "sha256": "73c48882c6cc52733819217f758a636c7ab156531e398ec032e9dd11bd94a344",
     "texture_file": "textures/sumska/sumska_04_speckled_dot.png",
     "texture_id": "sumska-04-04",
-    "palette": "Jesen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 22
+    "palette": "Jesen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 23,
     "id": "helmet_1_23",
     "file": "assets/sumska/helmet_1_23.png",
     "category": "sumska",
@@ -474,15 +477,15 @@
       0,
       0
     ],
-    "sha256": "7b7b433131c5489fe616d6c9a6e9f832012f1a0856d801ab94e85f135ef02e63",
+    "sha256": "3a86e770acfc2165959366ed35e1a5b47433796bb711c05e7f80e98814079e9a",
     "texture_file": "textures/sumska/sumska_04_hex.png",
     "texture_id": "sumska-04-05",
-    "palette": "Jesen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 23
+    "palette": "Jesen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 24,
     "id": "helmet_1_24",
     "file": "assets/sumska/helmet_1_24.png",
     "category": "sumska",
@@ -495,15 +498,15 @@
       0,
       0
     ],
-    "sha256": "eed1c5ce2ed9ea221c09df03ee6bb31479dcfa5eeac26db3d6668849f8a5cf98",
+    "sha256": "744ac55a091b8f1b499e771a939045e18bba79765416644327bd08ee1265a399",
     "texture_file": "textures/sumska/sumska_04_fragment.png",
     "texture_id": "sumska-04-06",
-    "palette": "Jesen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 24
+    "palette": "Jesen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 25,
     "id": "helmet_1_25",
     "file": "assets/sumska/helmet_1_25.png",
     "category": "sumska",
@@ -516,15 +519,15 @@
       0,
       0
     ],
-    "sha256": "08e3f167216b0a7b328f37f40444a997646b1939b7a9d7fee160edd507dad652",
+    "sha256": "1ca4346f441ea092eb08b8306be6f30254aaac337c59186f29c4b34fb3026117",
     "texture_file": "textures/sumska/sumska_05_pixel_digital.png",
     "texture_id": "sumska-05-01",
-    "palette": "Mahovina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 25
+    "palette": "Mahovina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 26,
     "id": "helmet_1_26",
     "file": "assets/sumska/helmet_1_26.png",
     "category": "sumska",
@@ -537,15 +540,15 @@
       0,
       0
     ],
-    "sha256": "2b1666866245f40332f497d138e3fbd85286888fbfb2f0562f8fd4f48550daff",
+    "sha256": "83e25fefd9c145414b353a55d5d0e9d90423c1809a4633a0adf978d10f205f91",
     "texture_file": "textures/sumska/sumska_05_organic_woodland.png",
     "texture_id": "sumska-05-02",
-    "palette": "Mahovina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 26
+    "palette": "Mahovina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 27,
     "id": "helmet_1_27",
     "file": "assets/sumska/helmet_1_27.png",
     "category": "sumska",
@@ -558,15 +561,15 @@
       0,
       0
     ],
-    "sha256": "d9d1f89ce7c6253e88e52547146f7ef670d4cae05854dfdd4a58d847fd61c4e1",
+    "sha256": "4c3943b4b5989fa6dfda1bc1cbe03cdd1873661ec2fea2504686d497b938cc0d",
     "texture_file": "textures/sumska/sumska_05_stripes_tiger.png",
     "texture_id": "sumska-05-03",
-    "palette": "Mahovina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 27
+    "palette": "Mahovina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 28,
     "id": "helmet_1_28",
     "file": "assets/sumska/helmet_1_28.png",
     "category": "sumska",
@@ -579,15 +582,15 @@
       0,
       0
     ],
-    "sha256": "bfe2f0d62fc1b13e10dbe00ddcfd88def465391cd8ac0d8f7c8b14191c2ef52c",
+    "sha256": "cec2a44c73e285e5fa6190331036349af62a9ce24eb85cbbc4052f19584d07a3",
     "texture_file": "textures/sumska/sumska_05_speckled_dot.png",
     "texture_id": "sumska-05-04",
-    "palette": "Mahovina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 28
+    "palette": "Mahovina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 29,
     "id": "helmet_1_29",
     "file": "assets/sumska/helmet_1_29.png",
     "category": "sumska",
@@ -600,15 +603,15 @@
       0,
       0
     ],
-    "sha256": "946c4f2b87d12e433ec5693697242cf113417c5fce47f884e880a09abfbd758a",
+    "sha256": "0ee937dc8bce8f3370cb0b1c0e58db7b85b08194fd792903e3e56a4d5344da5b",
     "texture_file": "textures/sumska/sumska_05_hex.png",
     "texture_id": "sumska-05-05",
-    "palette": "Mahovina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 29
+    "palette": "Mahovina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 30,
     "id": "helmet_1_30",
     "file": "assets/sumska/helmet_1_30.png",
     "category": "sumska",
@@ -621,15 +624,15 @@
       0,
       0
     ],
-    "sha256": "5be34190068bd1a911106847c2b87557bc436265fbeae26fb21dd115fd62d485",
+    "sha256": "4dbb783c62df9c85bfe130fb303db2117f878bd4902ce2bc723cf11206a7e70f",
     "texture_file": "textures/sumska/sumska_05_fragment.png",
     "texture_id": "sumska-05-06",
-    "palette": "Mahovina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 30
+    "palette": "Mahovina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 31,
     "id": "helmet_1_31",
     "file": "assets/sumska/helmet_1_31.png",
     "category": "sumska",
@@ -642,15 +645,15 @@
       0,
       0
     ],
-    "sha256": "33679fcc01f1324f29ac44bc65ac8701443eaeddc010d759b91bee41dfb243c0",
+    "sha256": "cfc5479b54873baf0b79f72c850ba9e74d963d276c613ecfaa9daa3773ec4256",
     "texture_file": "textures/sumska/sumska_06_pixel_digital.png",
     "texture_id": "sumska-06-01",
-    "palette": "Sumrak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 31
+    "palette": "Sumrak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 32,
     "id": "helmet_1_32",
     "file": "assets/sumska/helmet_1_32.png",
     "category": "sumska",
@@ -663,15 +666,15 @@
       0,
       0
     ],
-    "sha256": "96a743a7844c1cfe3bdbfd6513197364b92aa522ed43dfa21b1ef03f4ccd8618",
+    "sha256": "b35e6cbff8b549a627a45ffb528ebf0c60f1d3da275498bab2c5d967034c8489",
     "texture_file": "textures/sumska/sumska_06_organic_woodland.png",
     "texture_id": "sumska-06-02",
-    "palette": "Sumrak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 32
+    "palette": "Sumrak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 33,
     "id": "helmet_1_33",
     "file": "assets/sumska/helmet_1_33.png",
     "category": "sumska",
@@ -684,15 +687,15 @@
       0,
       0
     ],
-    "sha256": "0c6b57006615d26c612ec6733ac6c1ec20d15cb1ac807b49a55fe89301db8ddd",
+    "sha256": "3f62773321c5d3923fc38870392d2539844e7e1bcd8ab231823445a1ebfd50c2",
     "texture_file": "textures/sumska/sumska_06_stripes_tiger.png",
     "texture_id": "sumska-06-03",
-    "palette": "Sumrak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 33
+    "palette": "Sumrak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 34,
     "id": "helmet_1_34",
     "file": "assets/sumska/helmet_1_34.png",
     "category": "sumska",
@@ -705,15 +708,15 @@
       0,
       0
     ],
-    "sha256": "010b1f3fb3d333a1e31ccb9fa14bbe83fd226379c475acf22a1ebd39305f83e2",
+    "sha256": "f7c7255e18a9099a111faeb07f80fb292210bd92c2af5f9b7cda8721d5023f54",
     "texture_file": "textures/sumska/sumska_06_speckled_dot.png",
     "texture_id": "sumska-06-04",
-    "palette": "Sumrak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 34
+    "palette": "Sumrak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 35,
     "id": "helmet_1_35",
     "file": "assets/sumska/helmet_1_35.png",
     "category": "sumska",
@@ -726,15 +729,15 @@
       0,
       0
     ],
-    "sha256": "07d0929b198bf78e1956eb65d22286ec7ec533a2fd69a83804e698288e50f054",
+    "sha256": "482af21028da7bf86b4e36befc7f83c82080a237c74d8843cd6c03b5382fbe44",
     "texture_file": "textures/sumska/sumska_06_hex.png",
     "texture_id": "sumska-06-05",
-    "palette": "Sumrak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 35
+    "palette": "Sumrak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 36,
     "id": "helmet_1_36",
     "file": "assets/sumska/helmet_1_36.png",
     "category": "sumska",
@@ -747,15 +750,15 @@
       0,
       0
     ],
-    "sha256": "0515992faf4cb83f4a3bb661d1b01f4aa9042cd536b782befdac2451c3242e60",
+    "sha256": "e6295a72704f6e92706428d93511cb233396471bc8a94422610fc5f117dd726f",
     "texture_file": "textures/sumska/sumska_06_fragment.png",
     "texture_id": "sumska-06-06",
-    "palette": "Sumrak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 36
+    "palette": "Sumrak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 37,
     "id": "helmet_1_37",
     "file": "assets/pustinjska/helmet_1_37.png",
     "category": "pustinjska",
@@ -768,15 +771,15 @@
       0,
       0
     ],
-    "sha256": "892e1001879d426fcca61857a352639e3492a0f46cd38e5cbcfca7c896015bfa",
+    "sha256": "c0f24b52b97ea9a700febd5240f7e949069f7d3e0832267eea5321afe8e59e4a",
     "texture_file": "textures/pustinjska/pustinjska_01_pixel_digital.png",
     "texture_id": "pustinjska-01-01",
-    "palette": "Pesak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 37
+    "palette": "Pesak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 38,
     "id": "helmet_1_38",
     "file": "assets/pustinjska/helmet_1_38.png",
     "category": "pustinjska",
@@ -789,15 +792,15 @@
       0,
       0
     ],
-    "sha256": "1b111f604e7e70c74e63f2f90bd2662639a7e4217e95b77cb6368379ff15a6b3",
+    "sha256": "73504bce50b3be25ea51266f2945d6846348fa5a388f97792e825915db6543b0",
     "texture_file": "textures/pustinjska/pustinjska_01_organic_woodland.png",
     "texture_id": "pustinjska-01-02",
-    "palette": "Pesak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 38
+    "palette": "Pesak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 39,
     "id": "helmet_1_39",
     "file": "assets/pustinjska/helmet_1_39.png",
     "category": "pustinjska",
@@ -810,15 +813,15 @@
       0,
       0
     ],
-    "sha256": "5972d22f8095b857def85322ca798fdb823a9ed6d77296cec7c912e69e91e16f",
+    "sha256": "7dcfcaecd6687959a56652457c3389e56598ba9151c3cf5d53b22b253107741c",
     "texture_file": "textures/pustinjska/pustinjska_01_stripes_tiger.png",
     "texture_id": "pustinjska-01-03",
-    "palette": "Pesak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 39
+    "palette": "Pesak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 40,
     "id": "helmet_1_40",
     "file": "assets/pustinjska/helmet_1_40.png",
     "category": "pustinjska",
@@ -831,15 +834,15 @@
       0,
       0
     ],
-    "sha256": "4689c31deb0d6249c5141ba72a3d7fa10684fa51e22aa8bd94374c0b4c944966",
+    "sha256": "fc1194f7c40c1eb6c6fd132664cac2bf2e33659d3984db42fc69b4a1f1603bd2",
     "texture_file": "textures/pustinjska/pustinjska_01_speckled_dot.png",
     "texture_id": "pustinjska-01-04",
-    "palette": "Pesak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 40
+    "palette": "Pesak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 41,
     "id": "helmet_1_41",
     "file": "assets/pustinjska/helmet_1_41.png",
     "category": "pustinjska",
@@ -852,15 +855,15 @@
       0,
       0
     ],
-    "sha256": "dafce44d73ff7d598171fcb0977d91957d0ed5c35f7273d39d93a6aa34a31a44",
+    "sha256": "d2738a28eb13546a98affcd9ef44c57ab291120edf5cbf4fd95a25d0339ceb9d",
     "texture_file": "textures/pustinjska/pustinjska_01_hex.png",
     "texture_id": "pustinjska-01-05",
-    "palette": "Pesak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 41
+    "palette": "Pesak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 42,
     "id": "helmet_1_42",
     "file": "assets/pustinjska/helmet_1_42.png",
     "category": "pustinjska",
@@ -873,15 +876,15 @@
       0,
       0
     ],
-    "sha256": "490547e296e9c71daf2852e5a9bb73ac7c3bcaaa61638a684318fd128fdd4a5a",
+    "sha256": "1572151650ce1119ea25b14c39a25d10d3b3a79093251f95316c81c24dd23784",
     "texture_file": "textures/pustinjska/pustinjska_01_fragment.png",
     "texture_id": "pustinjska-01-06",
-    "palette": "Pesak",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 42
+    "palette": "Pesak"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 43,
     "id": "helmet_1_43",
     "file": "assets/pustinjska/helmet_1_43.png",
     "category": "pustinjska",
@@ -894,15 +897,15 @@
       0,
       0
     ],
-    "sha256": "d2fea8d2c6799e7b1583f6b0e42c6c34d64e7e5ecb31839f0071a5a468c7b930",
+    "sha256": "32d04f47fc14aeb490b65de6a34749f71df5d9c51ebdde88fb0b60bc0873b1d5",
     "texture_file": "textures/pustinjska/pustinjska_02_pixel_digital.png",
     "texture_id": "pustinjska-02-01",
-    "palette": "Dine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 43
+    "palette": "Dine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 44,
     "id": "helmet_1_44",
     "file": "assets/pustinjska/helmet_1_44.png",
     "category": "pustinjska",
@@ -915,15 +918,15 @@
       0,
       0
     ],
-    "sha256": "779a96fe04d56468506dae7bbe2adadc09d405e2bc6ec36795c5f667b3cf45c0",
+    "sha256": "3e0d2377441f40007e255b4af1bfb8675156c915a50595fea8db0003ceca2adf",
     "texture_file": "textures/pustinjska/pustinjska_02_organic_woodland.png",
     "texture_id": "pustinjska-02-02",
-    "palette": "Dine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 44
+    "palette": "Dine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 45,
     "id": "helmet_1_45",
     "file": "assets/pustinjska/helmet_1_45.png",
     "category": "pustinjska",
@@ -936,15 +939,15 @@
       0,
       0
     ],
-    "sha256": "a1e3c78755d0dfc8245fa7393f4318af47310d21e3d7d3283eaae20579d7f96b",
+    "sha256": "82a6b144f891b33074b4385dd4e79c49a335e625356e0b6aa95b805beafa7c33",
     "texture_file": "textures/pustinjska/pustinjska_02_stripes_tiger.png",
     "texture_id": "pustinjska-02-03",
-    "palette": "Dine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 45
+    "palette": "Dine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 46,
     "id": "helmet_1_46",
     "file": "assets/pustinjska/helmet_1_46.png",
     "category": "pustinjska",
@@ -957,15 +960,15 @@
       0,
       0
     ],
-    "sha256": "dc23c64fd346694f008bbfc919a9dc619973ca1af5da1e81d5a316c98670dd9d",
+    "sha256": "cb339053ba02efba6697ee42d17ec882313235f7b7590a44c793e4c8b575f212",
     "texture_file": "textures/pustinjska/pustinjska_02_speckled_dot.png",
     "texture_id": "pustinjska-02-04",
-    "palette": "Dine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 46
+    "palette": "Dine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 47,
     "id": "helmet_1_47",
     "file": "assets/pustinjska/helmet_1_47.png",
     "category": "pustinjska",
@@ -978,15 +981,15 @@
       0,
       0
     ],
-    "sha256": "5fc84c300810f331c616f3e2b346192dcb7ceb46662b63548a41c96b0db6142a",
+    "sha256": "9336f4f3c94423d4f0f6889443a01c1bee09de211ac5d31906b5b2546f73406f",
     "texture_file": "textures/pustinjska/pustinjska_02_hex.png",
     "texture_id": "pustinjska-02-05",
-    "palette": "Dine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 47
+    "palette": "Dine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 48,
     "id": "helmet_1_48",
     "file": "assets/pustinjska/helmet_1_48.png",
     "category": "pustinjska",
@@ -999,15 +1002,15 @@
       0,
       0
     ],
-    "sha256": "0befc943aaeb4ab01f16a5b92a26895c7946106c58fbd5e3e3250c1833b8d349",
+    "sha256": "b7c8eabb9a8c4e636e52c184c3c74271c30d6e8cf21486f412c95aad5df208ca",
     "texture_file": "textures/pustinjska/pustinjska_02_fragment.png",
     "texture_id": "pustinjska-02-06",
-    "palette": "Dine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 48
+    "palette": "Dine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 49,
     "id": "helmet_1_49",
     "file": "assets/pustinjska/helmet_1_49.png",
     "category": "pustinjska",
@@ -1020,15 +1023,15 @@
       0,
       0
     ],
-    "sha256": "f0c781374a1bdccd22a5ca1278b9a75838f8ccc5c2e83827a455cf58b80d1d22",
+    "sha256": "29417329fdeb85aad076777a18e6a3acae7a5aca8bc90fe0d21fdb30d7cf6eca",
     "texture_file": "textures/pustinjska/pustinjska_03_pixel_digital.png",
     "texture_id": "pustinjska-03-01",
-    "palette": "Kamenjar",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 49
+    "palette": "Kamenjar"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 50,
     "id": "helmet_1_50",
     "file": "assets/pustinjska/helmet_1_50.png",
     "category": "pustinjska",
@@ -1041,15 +1044,15 @@
       0,
       0
     ],
-    "sha256": "19b3142ac3340027ef7a94ac26bcdede286b29d047c71739c68f8d4887ceaaee",
+    "sha256": "cfce0683dd85f52a310f35e88748cf3f4e986137ad49415b9ab5129f6c33be25",
     "texture_file": "textures/pustinjska/pustinjska_03_organic_woodland.png",
     "texture_id": "pustinjska-03-02",
-    "palette": "Kamenjar",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 50
+    "palette": "Kamenjar"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 51,
     "id": "helmet_1_51",
     "file": "assets/pustinjska/helmet_1_51.png",
     "category": "pustinjska",
@@ -1062,15 +1065,15 @@
       0,
       0
     ],
-    "sha256": "dccae6b030bd8de5429b12dd9e2c0ee7bbd68055c98b2630e850ef145c2ee6cd",
+    "sha256": "c0397a64566c1fed7ee5170479b9d8b7d60fa0af54a50c45b05eb64ed37c1c78",
     "texture_file": "textures/pustinjska/pustinjska_03_stripes_tiger.png",
     "texture_id": "pustinjska-03-03",
-    "palette": "Kamenjar",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 51
+    "palette": "Kamenjar"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 52,
     "id": "helmet_1_52",
     "file": "assets/pustinjska/helmet_1_52.png",
     "category": "pustinjska",
@@ -1083,15 +1086,15 @@
       0,
       0
     ],
-    "sha256": "4bb02d1181c3bbcdd50aa23880f21d8892ac65cb8b235626d05904938b6b264b",
+    "sha256": "244205e2f8c3486888a6beebac8d75c398b32c5e60fb6f5c780a68fe6745098b",
     "texture_file": "textures/pustinjska/pustinjska_03_speckled_dot.png",
     "texture_id": "pustinjska-03-04",
-    "palette": "Kamenjar",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 52
+    "palette": "Kamenjar"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 53,
     "id": "helmet_1_53",
     "file": "assets/pustinjska/helmet_1_53.png",
     "category": "pustinjska",
@@ -1104,15 +1107,15 @@
       0,
       0
     ],
-    "sha256": "2d0d6938ebb1f15c933d5e762d5d91001187761a384621323fd95965b55ec762",
+    "sha256": "8b0082492145dc07a3171f897be9a2014978648e13a2a4abacf7c7d5d34d21cf",
     "texture_file": "textures/pustinjska/pustinjska_03_hex.png",
     "texture_id": "pustinjska-03-05",
-    "palette": "Kamenjar",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 53
+    "palette": "Kamenjar"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 54,
     "id": "helmet_1_54",
     "file": "assets/pustinjska/helmet_1_54.png",
     "category": "pustinjska",
@@ -1125,15 +1128,15 @@
       0,
       0
     ],
-    "sha256": "8ffeaf3463b354f4a9c8da40ebc7c3c99aa9dc5e3d603e324c3d213a3b1a7055",
+    "sha256": "3e7f724a315750b9f42defbda8290e93cb8d864e473c4dcd6e38ddbae3ebf771",
     "texture_file": "textures/pustinjska/pustinjska_03_fragment.png",
     "texture_id": "pustinjska-03-06",
-    "palette": "Kamenjar",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 54
+    "palette": "Kamenjar"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 55,
     "id": "helmet_1_55",
     "file": "assets/pustinjska/helmet_1_55.png",
     "category": "pustinjska",
@@ -1146,15 +1149,15 @@
       0,
       0
     ],
-    "sha256": "0eb2e5da3a71132f62e1637b9eda1946a661cfa77c94e77fa4813b896f9d2f93",
+    "sha256": "fc4e9a77e9c9b29fb9260d2a9948b7856a7d708f7aa4d732c3836e81c7551170",
     "texture_file": "textures/pustinjska/pustinjska_04_pixel_digital.png",
     "texture_id": "pustinjska-04-01",
-    "palette": "Slana pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 55
+    "palette": "Slana pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 56,
     "id": "helmet_1_56",
     "file": "assets/pustinjska/helmet_1_56.png",
     "category": "pustinjska",
@@ -1167,15 +1170,15 @@
       0,
       0
     ],
-    "sha256": "38a06b0218f635a1ea6d091e41d1c1b711eeb7315362dc7f69d5928cb3464b8f",
+    "sha256": "5fe68948fed69e73d8258435c903e4a1ca78a9979cabe909b716edffa62dfee1",
     "texture_file": "textures/pustinjska/pustinjska_04_organic_woodland.png",
     "texture_id": "pustinjska-04-02",
-    "palette": "Slana pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 56
+    "palette": "Slana pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 57,
     "id": "helmet_1_57",
     "file": "assets/pustinjska/helmet_1_57.png",
     "category": "pustinjska",
@@ -1188,15 +1191,15 @@
       0,
       0
     ],
-    "sha256": "ddefdd0063d411189a264f9839b67c2aab4639fe684915fd556d41974705e98f",
+    "sha256": "3904f2b6c4f350469d519cafd40b7efde08b10c6787cda6dba7e7723f8abb6f7",
     "texture_file": "textures/pustinjska/pustinjska_04_stripes_tiger.png",
     "texture_id": "pustinjska-04-03",
-    "palette": "Slana pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 57
+    "palette": "Slana pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 58,
     "id": "helmet_1_58",
     "file": "assets/pustinjska/helmet_1_58.png",
     "category": "pustinjska",
@@ -1209,15 +1212,15 @@
       0,
       0
     ],
-    "sha256": "d0d98955701577cdc6db866d4bf4c87a53f6824686f8fe7fec0f3de6a93a4cec",
+    "sha256": "6fa6e20ce40c9f00b5bc7fc86a809ff95291b8c2733b8db1c1d382716f8a0d17",
     "texture_file": "textures/pustinjska/pustinjska_04_speckled_dot.png",
     "texture_id": "pustinjska-04-04",
-    "palette": "Slana pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 58
+    "palette": "Slana pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 59,
     "id": "helmet_1_59",
     "file": "assets/pustinjska/helmet_1_59.png",
     "category": "pustinjska",
@@ -1230,15 +1233,15 @@
       0,
       0
     ],
-    "sha256": "965c01c4f6d1284fed86a09e989a20e6f5b55c444f958272b8512e0896d23e69",
+    "sha256": "9f7736e90f8372e6c88910b933914c4a5828fec0b46c258ae24f39a00bb16dd4",
     "texture_file": "textures/pustinjska/pustinjska_04_hex.png",
     "texture_id": "pustinjska-04-05",
-    "palette": "Slana pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 59
+    "palette": "Slana pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 60,
     "id": "helmet_1_60",
     "file": "assets/pustinjska/helmet_1_60.png",
     "category": "pustinjska",
@@ -1251,15 +1254,15 @@
       0,
       0
     ],
-    "sha256": "3d07bf52ae6948cdbfe743d39ba42ffafc38c2868894147e329198b59c927441",
+    "sha256": "ddeaf903d663628f98eacca1375a5997974d23f8650692b860f40f268cfe2faf",
     "texture_file": "textures/pustinjska/pustinjska_04_fragment.png",
     "texture_id": "pustinjska-04-06",
-    "palette": "Slana pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 60
+    "palette": "Slana pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 61,
     "id": "helmet_1_61",
     "file": "assets/pustinjska/helmet_1_61.png",
     "category": "pustinjska",
@@ -1272,15 +1275,15 @@
       0,
       0
     ],
-    "sha256": "88877a692d770f0c4592c14794228cba27409792cd57696f55bdefa78e73d665",
+    "sha256": "b889d0e687f7b1321b3c447183ebe51ddd835d0502170751500526f482fe0d19",
     "texture_file": "textures/pustinjska/pustinjska_05_pixel_digital.png",
     "texture_id": "pustinjska-05-01",
-    "palette": "Crveni kanjon",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 61
+    "palette": "Crveni kanjon"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 62,
     "id": "helmet_1_62",
     "file": "assets/pustinjska/helmet_1_62.png",
     "category": "pustinjska",
@@ -1293,15 +1296,15 @@
       0,
       0
     ],
-    "sha256": "76acc29abc07c923276d3d11f23ee293dbc8986536a48bacf6116af291e9fccd",
+    "sha256": "c405818121f241942b02b6bfacebcc21124a05c3024bf5863313a1a450572157",
     "texture_file": "textures/pustinjska/pustinjska_05_organic_woodland.png",
     "texture_id": "pustinjska-05-02",
-    "palette": "Crveni kanjon",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 62
+    "palette": "Crveni kanjon"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 63,
     "id": "helmet_1_63",
     "file": "assets/pustinjska/helmet_1_63.png",
     "category": "pustinjska",
@@ -1314,15 +1317,15 @@
       0,
       0
     ],
-    "sha256": "0102be90596297678e5ead956170e825fad6f578b23d4755610b37661e16d202",
+    "sha256": "4f7462b054c9d3c680877a99472d787dfd25e0c982d7d3df1b11a84d15484879",
     "texture_file": "textures/pustinjska/pustinjska_05_stripes_tiger.png",
     "texture_id": "pustinjska-05-03",
-    "palette": "Crveni kanjon",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 63
+    "palette": "Crveni kanjon"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 64,
     "id": "helmet_1_64",
     "file": "assets/pustinjska/helmet_1_64.png",
     "category": "pustinjska",
@@ -1335,15 +1338,15 @@
       0,
       0
     ],
-    "sha256": "47ac0b56917f8d22ac953a43b38ec8ee7963800d9d5df037801f1a60a1ca3222",
+    "sha256": "6fa183e2c38df0de61f1908884e58376269e25feb6651b8ecb810b5241ef0ced",
     "texture_file": "textures/pustinjska/pustinjska_05_speckled_dot.png",
     "texture_id": "pustinjska-05-04",
-    "palette": "Crveni kanjon",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 64
+    "palette": "Crveni kanjon"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 65,
     "id": "helmet_1_65",
     "file": "assets/pustinjska/helmet_1_65.png",
     "category": "pustinjska",
@@ -1356,15 +1359,15 @@
       0,
       0
     ],
-    "sha256": "ae10def6f6d3e0099cc4c062b2ad9750689ec11eb6febe16d4060826564f76e6",
+    "sha256": "f99eb244c2f735ba192eae4f2baf3b5877a28e808dcbc09b08190e6b1f3c8c9b",
     "texture_file": "textures/pustinjska/pustinjska_05_hex.png",
     "texture_id": "pustinjska-05-05",
-    "palette": "Crveni kanjon",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 65
+    "palette": "Crveni kanjon"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 66,
     "id": "helmet_1_66",
     "file": "assets/pustinjska/helmet_1_66.png",
     "category": "pustinjska",
@@ -1377,15 +1380,15 @@
       0,
       0
     ],
-    "sha256": "fded31dedb9d43654e55d1fd9be77a24a1142940946ac74e18ec0d5d73d9d5af",
+    "sha256": "ba2d3ff3e3dab3822b25ed9a697bee00f1924168f26675b9ddbcd94b5969683c",
     "texture_file": "textures/pustinjska/pustinjska_05_fragment.png",
     "texture_id": "pustinjska-05-06",
-    "palette": "Crveni kanjon",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 66
+    "palette": "Crveni kanjon"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 67,
     "id": "helmet_1_67",
     "file": "assets/pustinjska/helmet_1_67.png",
     "category": "pustinjska",
@@ -1398,15 +1401,15 @@
       0,
       0
     ],
-    "sha256": "204b8b08a048e96b166e9aecef4e8d89b17fe0bb2414c14fcaf7092254baabc6",
+    "sha256": "b8d3f00cd508e36179d5af23bacbe7972f53782c4a8e032b0a42e29bd4569153",
     "texture_file": "textures/pustinjska/pustinjska_06_pixel_digital.png",
     "texture_id": "pustinjska-06-01",
-    "palette": "Nocna pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 67
+    "palette": "Nocna pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 68,
     "id": "helmet_1_68",
     "file": "assets/pustinjska/helmet_1_68.png",
     "category": "pustinjska",
@@ -1419,15 +1422,15 @@
       0,
       0
     ],
-    "sha256": "9c8d7d273fb0f5f4b4d455a41845274177aba2edf22a7a709f71398fe1d75b69",
+    "sha256": "6eae45e7c007f9aa565ca0cc9958ed26fb2281e49df77d880c57805d0dfee9d8",
     "texture_file": "textures/pustinjska/pustinjska_06_organic_woodland.png",
     "texture_id": "pustinjska-06-02",
-    "palette": "Nocna pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 68
+    "palette": "Nocna pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 69,
     "id": "helmet_1_69",
     "file": "assets/pustinjska/helmet_1_69.png",
     "category": "pustinjska",
@@ -1440,15 +1443,15 @@
       0,
       0
     ],
-    "sha256": "8b31d7a6f2d1f348a69c4e167a5895e2ac3a87e15ac37ff19d2d806895c05e64",
+    "sha256": "c5b6f0caa1ddad08e7a23024cd90bd304995ac0645723e71958810078b5a9f9d",
     "texture_file": "textures/pustinjska/pustinjska_06_stripes_tiger.png",
     "texture_id": "pustinjska-06-03",
-    "palette": "Nocna pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 69
+    "palette": "Nocna pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 70,
     "id": "helmet_1_70",
     "file": "assets/pustinjska/helmet_1_70.png",
     "category": "pustinjska",
@@ -1461,15 +1464,15 @@
       0,
       0
     ],
-    "sha256": "4219e361d64ad1374a27d23061bdb309f6da5a32ad6aa751d81602c4b8cc70b3",
+    "sha256": "c900484a2bb53a9bd10c542a521c56e5fb57226a400c73c46990ae52b6e0b581",
     "texture_file": "textures/pustinjska/pustinjska_06_speckled_dot.png",
     "texture_id": "pustinjska-06-04",
-    "palette": "Nocna pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 70
+    "palette": "Nocna pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 71,
     "id": "helmet_1_71",
     "file": "assets/pustinjska/helmet_1_71.png",
     "category": "pustinjska",
@@ -1482,15 +1485,15 @@
       0,
       0
     ],
-    "sha256": "d62df77f22695e13088a7ae3fbbf942732978d095f56bc732a16e1e2a6563334",
+    "sha256": "6221e962900533e099e30a0873c5db053b5e3efe2c87cd7db34bebece49259df",
     "texture_file": "textures/pustinjska/pustinjska_06_hex.png",
     "texture_id": "pustinjska-06-05",
-    "palette": "Nocna pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 71
+    "palette": "Nocna pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 72,
     "id": "helmet_1_72",
     "file": "assets/pustinjska/helmet_1_72.png",
     "category": "pustinjska",
@@ -1503,15 +1506,15 @@
       0,
       0
     ],
-    "sha256": "f137e2dcab6f543a206c9361ba3229701fdab7cf841f5ef404e64bfbb90c761d",
+    "sha256": "f4aa2a4baac83770fd7d2b6386353eddd50e9575e5d7665c0c2d4d767c5a5201",
     "texture_file": "textures/pustinjska/pustinjska_06_fragment.png",
     "texture_id": "pustinjska-06-06",
-    "palette": "Nocna pustinja",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 72
+    "palette": "Nocna pustinja"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 73,
     "id": "helmet_1_73",
     "file": "assets/urbana/helmet_1_73.png",
     "category": "urbana",
@@ -1524,15 +1527,15 @@
       0,
       0
     ],
-    "sha256": "e1bf0f91ff2ed67501d7906d9954f0959741be7918936b567ed055932fd48aff",
+    "sha256": "6163a4071b472e96361ec3da2ed6965971d9873bffc03ee86384da8fb897305c",
     "texture_file": "textures/urbana/urbana_01_pixel_digital.png",
     "texture_id": "urbana-01-01",
-    "palette": "Beton",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 73
+    "palette": "Beton"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 74,
     "id": "helmet_1_74",
     "file": "assets/urbana/helmet_1_74.png",
     "category": "urbana",
@@ -1545,15 +1548,15 @@
       0,
       0
     ],
-    "sha256": "183d6a82182cb951ea075b3386722e1beb58c4674f34265dc99fa1e604134d91",
+    "sha256": "80153be7a964f9e278f3d040711f1a3243a80b35009b350acd0cc94924c12849",
     "texture_file": "textures/urbana/urbana_01_organic_woodland.png",
     "texture_id": "urbana-01-02",
-    "palette": "Beton",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 74
+    "palette": "Beton"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 75,
     "id": "helmet_1_75",
     "file": "assets/urbana/helmet_1_75.png",
     "category": "urbana",
@@ -1566,15 +1569,15 @@
       0,
       0
     ],
-    "sha256": "bc9e2a1e9988d6ee7a127beeb6d04f04189ca4a7cf020dfac39d026d5ebb39b3",
+    "sha256": "bdcc6333513b8462ac4d15a6df2763dcb5e141a8b50c006b3ad7366e72e85204",
     "texture_file": "textures/urbana/urbana_01_stripes_tiger.png",
     "texture_id": "urbana-01-03",
-    "palette": "Beton",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 75
+    "palette": "Beton"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 76,
     "id": "helmet_1_76",
     "file": "assets/urbana/helmet_1_76.png",
     "category": "urbana",
@@ -1587,15 +1590,15 @@
       0,
       0
     ],
-    "sha256": "8831509a9fa64c87004dcbf795b47583a4ed5715c29726e85b99fdcfe312dceb",
+    "sha256": "c15e0282368ab2b312712d828c77b5c8f910dff7f9afd9578d19d87d1d95e57a",
     "texture_file": "textures/urbana/urbana_01_speckled_dot.png",
     "texture_id": "urbana-01-04",
-    "palette": "Beton",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 76
+    "palette": "Beton"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 77,
     "id": "helmet_1_77",
     "file": "assets/urbana/helmet_1_77.png",
     "category": "urbana",
@@ -1608,15 +1611,15 @@
       0,
       0
     ],
-    "sha256": "9b45b7acfa8b37e15d2d9b5250dde73fe7a1ce2663a843dd755d966e7d0b79fa",
+    "sha256": "b84d75215c372bb9610b3264c736f7b5cbb0f734c0e4f2af7d37f7e9b75a6ff9",
     "texture_file": "textures/urbana/urbana_01_hex.png",
     "texture_id": "urbana-01-05",
-    "palette": "Beton",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 77
+    "palette": "Beton"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 78,
     "id": "helmet_1_78",
     "file": "assets/urbana/helmet_1_78.png",
     "category": "urbana",
@@ -1629,15 +1632,15 @@
       0,
       0
     ],
-    "sha256": "2ac3041adcc101478bce74a71f02c3d4a8acec71f7cc3c076eac17d71bacacb0",
+    "sha256": "0aab6f12de9baedfe0b9dd2b44c73ce826acdc04f2bcb102b44a78a7864f6c0b",
     "texture_file": "textures/urbana/urbana_01_fragment.png",
     "texture_id": "urbana-01-06",
-    "palette": "Beton",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 78
+    "palette": "Beton"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 79,
     "id": "helmet_1_79",
     "file": "assets/urbana/helmet_1_79.png",
     "category": "urbana",
@@ -1650,15 +1653,15 @@
       0,
       0
     ],
-    "sha256": "19c73729d11a885e72dc4ec8185a3128abcb02a18c1e3807e60481788b586ccd",
+    "sha256": "eee2bd2d4e8bfe24a4dbb2458c4184ceb8bacd841a29050730703e3b60226cf4",
     "texture_file": "textures/urbana/urbana_02_pixel_digital.png",
     "texture_id": "urbana-02-01",
-    "palette": "Asfalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 79
+    "palette": "Asfalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 80,
     "id": "helmet_1_80",
     "file": "assets/urbana/helmet_1_80.png",
     "category": "urbana",
@@ -1671,15 +1674,15 @@
       0,
       0
     ],
-    "sha256": "f537ab672aaee62527784bffb6154e64c4c4a0c7f6ea943b6dbe9a237bfcb56f",
+    "sha256": "e6362a6f13d077639b7664c624ca810143d409bd6798ce43079758645eba0d6a",
     "texture_file": "textures/urbana/urbana_02_organic_woodland.png",
     "texture_id": "urbana-02-02",
-    "palette": "Asfalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 80
+    "palette": "Asfalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 81,
     "id": "helmet_1_81",
     "file": "assets/urbana/helmet_1_81.png",
     "category": "urbana",
@@ -1692,15 +1695,15 @@
       0,
       0
     ],
-    "sha256": "eceea43b806481512cfe101bfc1cba4afe2345dd475657437ddb74a71275c49b",
+    "sha256": "a263ccb02db20343c2652fa9baa6dfb95b7c9b0dbd44f015960f8843ae7e369d",
     "texture_file": "textures/urbana/urbana_02_stripes_tiger.png",
     "texture_id": "urbana-02-03",
-    "palette": "Asfalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 81
+    "palette": "Asfalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 82,
     "id": "helmet_1_82",
     "file": "assets/urbana/helmet_1_82.png",
     "category": "urbana",
@@ -1713,15 +1716,15 @@
       0,
       0
     ],
-    "sha256": "dd5cb3dcebd8b94ca7dfb30d7a91e909f67a22b3fa93d7590dffb2e888703c2d",
+    "sha256": "f63f3bb4bcb66cd5a13b4885f2e4e80825cb3653f2d4260d4b56d220eb146d96",
     "texture_file": "textures/urbana/urbana_02_speckled_dot.png",
     "texture_id": "urbana-02-04",
-    "palette": "Asfalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 82
+    "palette": "Asfalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 83,
     "id": "helmet_1_83",
     "file": "assets/urbana/helmet_1_83.png",
     "category": "urbana",
@@ -1734,15 +1737,15 @@
       0,
       0
     ],
-    "sha256": "4e93b8bf9a94dd30affeeff8263556c5df180c88bb719f8f40183a9bf311b762",
+    "sha256": "500c5b1c211645fa9f9129ca3c038857d2c25ff602dc9bfd0f08bd26bbe8da88",
     "texture_file": "textures/urbana/urbana_02_hex.png",
     "texture_id": "urbana-02-05",
-    "palette": "Asfalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 83
+    "palette": "Asfalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 84,
     "id": "helmet_1_84",
     "file": "assets/urbana/helmet_1_84.png",
     "category": "urbana",
@@ -1755,15 +1758,15 @@
       0,
       0
     ],
-    "sha256": "e0e691fb4e4e97e7b9e7b19f6a374c495071bd85cde8c2602eba6892a57d6828",
+    "sha256": "bea8e046f8fd0531d5cc999e672d972b9bea14418ddc434bd4eea8e16e449440",
     "texture_file": "textures/urbana/urbana_02_fragment.png",
     "texture_id": "urbana-02-06",
-    "palette": "Asfalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 84
+    "palette": "Asfalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 85,
     "id": "helmet_1_85",
     "file": "assets/urbana/helmet_1_85.png",
     "category": "urbana",
@@ -1776,15 +1779,15 @@
       0,
       0
     ],
-    "sha256": "c133d268d62674cd80c2f2f2768f041dac6298012cdada9581c6d940a695b955",
+    "sha256": "b621481c6f44eb50e4ee241621e9df231423d59827339a39738f3dd694092ff4",
     "texture_file": "textures/urbana/urbana_03_pixel_digital.png",
     "texture_id": "urbana-03-01",
-    "palette": "Rusevine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 85
+    "palette": "Rusevine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 86,
     "id": "helmet_1_86",
     "file": "assets/urbana/helmet_1_86.png",
     "category": "urbana",
@@ -1797,15 +1800,15 @@
       0,
       0
     ],
-    "sha256": "337f3a3e529bf90391ff00df2fc25504af2071ea9a60e26a5a99dc61d96c724e",
+    "sha256": "9cc825538a04156f0f7d09465d58d290456dc7c173681d2e6f09dbcd5bbbe2b3",
     "texture_file": "textures/urbana/urbana_03_organic_woodland.png",
     "texture_id": "urbana-03-02",
-    "palette": "Rusevine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 86
+    "palette": "Rusevine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 87,
     "id": "helmet_1_87",
     "file": "assets/urbana/helmet_1_87.png",
     "category": "urbana",
@@ -1818,15 +1821,15 @@
       0,
       0
     ],
-    "sha256": "c789360453154e9f8c85275b3ad16cf9f0880af4a55a36b0c300e0e3a23e297d",
+    "sha256": "3bb2f97fd1a7d984b5ef22171095a3082bf81ce9d5f3973aa7bf386e300c6265",
     "texture_file": "textures/urbana/urbana_03_stripes_tiger.png",
     "texture_id": "urbana-03-03",
-    "palette": "Rusevine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 87
+    "palette": "Rusevine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 88,
     "id": "helmet_1_88",
     "file": "assets/urbana/helmet_1_88.png",
     "category": "urbana",
@@ -1839,15 +1842,15 @@
       0,
       0
     ],
-    "sha256": "f8561e02dd1dba83e5d6439cc71702ee77fadd3a787ef0c503ea74c517179946",
+    "sha256": "add4cce860563eb736f7ad5f60ba0b9a670f156b857f4074accfc4815599d76a",
     "texture_file": "textures/urbana/urbana_03_speckled_dot.png",
     "texture_id": "urbana-03-04",
-    "palette": "Rusevine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 88
+    "palette": "Rusevine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 89,
     "id": "helmet_1_89",
     "file": "assets/urbana/helmet_1_89.png",
     "category": "urbana",
@@ -1860,15 +1863,15 @@
       0,
       0
     ],
-    "sha256": "33db1f0d10c946a3a6a93a23ecdd43332cacfb92c3547fea3e8ab913d392fb79",
+    "sha256": "0ad2f3b478a78cc52a07e366ac879b7cf99c0e7c78cb4ae8fd63317dfe509452",
     "texture_file": "textures/urbana/urbana_03_hex.png",
     "texture_id": "urbana-03-05",
-    "palette": "Rusevine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 89
+    "palette": "Rusevine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 90,
     "id": "helmet_1_90",
     "file": "assets/urbana/helmet_1_90.png",
     "category": "urbana",
@@ -1881,15 +1884,15 @@
       0,
       0
     ],
-    "sha256": "daf4f4f45505cfb23cd3e9078269d425f011ad8bc9b99a39e0a2422006cfc93b",
+    "sha256": "e74f224f52b4b566030951e6820873de4b2ff1b0139ac0d5e0ec89baaf9639c3",
     "texture_file": "textures/urbana/urbana_03_fragment.png",
     "texture_id": "urbana-03-06",
-    "palette": "Rusevine",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 90
+    "palette": "Rusevine"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 91,
     "id": "helmet_1_91",
     "file": "assets/urbana/helmet_1_91.png",
     "category": "urbana",
@@ -1902,15 +1905,15 @@
       0,
       0
     ],
-    "sha256": "1118e6afe9419ad1d03ba058f40d89e5432a13321b01bdce9aaa57c1b836ed41",
+    "sha256": "866db1e04c634727bf2f6d6caa21ca433c06f0500aab761855cac578d5000fd6",
     "texture_file": "textures/urbana/urbana_04_pixel_digital.png",
     "texture_id": "urbana-04-01",
-    "palette": "Industrija",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 91
+    "palette": "Industrija"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 92,
     "id": "helmet_1_92",
     "file": "assets/urbana/helmet_1_92.png",
     "category": "urbana",
@@ -1923,15 +1926,15 @@
       0,
       0
     ],
-    "sha256": "27cd9c520d73c1704e668aa30009e257391df70f203e6eab36d49dcf13c12337",
+    "sha256": "15db9e79c54ac5f5708e5e8f4b4dd383f699010efe009ac890111cbb49f3c85e",
     "texture_file": "textures/urbana/urbana_04_organic_woodland.png",
     "texture_id": "urbana-04-02",
-    "palette": "Industrija",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 92
+    "palette": "Industrija"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 93,
     "id": "helmet_1_93",
     "file": "assets/urbana/helmet_1_93.png",
     "category": "urbana",
@@ -1944,15 +1947,15 @@
       0,
       0
     ],
-    "sha256": "92d9cf75909bd38d61bd483dea04bc681b42fb7621348f9f5f7e02d9a0fa70c1",
+    "sha256": "2ca2d78fb22e29b43051db76dd263d62afc2348b90d59c2f944368acb6996797",
     "texture_file": "textures/urbana/urbana_04_stripes_tiger.png",
     "texture_id": "urbana-04-03",
-    "palette": "Industrija",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 93
+    "palette": "Industrija"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 94,
     "id": "helmet_1_94",
     "file": "assets/urbana/helmet_1_94.png",
     "category": "urbana",
@@ -1965,15 +1968,15 @@
       0,
       0
     ],
-    "sha256": "dabfa6b8b95b2e9b145d2b4e866fe13d515d8747ada397868fc10a78c5441234",
+    "sha256": "e88d81172e22fd96e6840fed013d36b792cb04ee7dfe84e392346ce7acfccb23",
     "texture_file": "textures/urbana/urbana_04_speckled_dot.png",
     "texture_id": "urbana-04-04",
-    "palette": "Industrija",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 94
+    "palette": "Industrija"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 95,
     "id": "helmet_1_95",
     "file": "assets/urbana/helmet_1_95.png",
     "category": "urbana",
@@ -1986,15 +1989,15 @@
       0,
       0
     ],
-    "sha256": "c576c5e9f9d1e4d967137c8fabd2bd11cd75b8fadbc3165a4fb354e4ae5b79ae",
+    "sha256": "bdad037dacff80035b83b74173f92adce021699fee2c110ed8d99b1443c5dadf",
     "texture_file": "textures/urbana/urbana_04_hex.png",
     "texture_id": "urbana-04-05",
-    "palette": "Industrija",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 95
+    "palette": "Industrija"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 96,
     "id": "helmet_1_96",
     "file": "assets/urbana/helmet_1_96.png",
     "category": "urbana",
@@ -2007,15 +2010,15 @@
       0,
       0
     ],
-    "sha256": "bb40b6661c4b9424eb85f8bafab19e477a082c14c27dd54a8cc7922143645629",
+    "sha256": "914a14475fc4daa0331077971e8abf814ca881b2ee0fccfccb5313ea9f4a66c8",
     "texture_file": "textures/urbana/urbana_04_fragment.png",
     "texture_id": "urbana-04-06",
-    "palette": "Industrija",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 96
+    "palette": "Industrija"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 97,
     "id": "helmet_1_97",
     "file": "assets/urbana/helmet_1_97.png",
     "category": "urbana",
@@ -2028,15 +2031,15 @@
       0,
       0
     ],
-    "sha256": "21ec65694b5e109a2e7eca009046483a22bcf773779735b2816eb258830ae655",
+    "sha256": "b640a0c14073fa865f9393f1f51147658200f44178cc0022a7d204aee6a5aa20",
     "texture_file": "textures/urbana/urbana_05_pixel_digital.png",
     "texture_id": "urbana-05-01",
-    "palette": "Prasina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 97
+    "palette": "Prasina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 98,
     "id": "helmet_1_98",
     "file": "assets/urbana/helmet_1_98.png",
     "category": "urbana",
@@ -2049,15 +2052,15 @@
       0,
       0
     ],
-    "sha256": "e43be750bf19ee03ca8aaba1575b4a3cdc45eabf63f80133429f5c3125cc9b20",
+    "sha256": "7e3d70a233317beeb884131abb6562b855e2eb82d3c6bac318f7ae705cd087cb",
     "texture_file": "textures/urbana/urbana_05_organic_woodland.png",
     "texture_id": "urbana-05-02",
-    "palette": "Prasina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 98
+    "palette": "Prasina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 99,
     "id": "helmet_1_99",
     "file": "assets/urbana/helmet_1_99.png",
     "category": "urbana",
@@ -2070,15 +2073,15 @@
       0,
       0
     ],
-    "sha256": "f845fc51c978fb80a0f9679b699bd287ef9818d75d550bffc79cef0aefffc231",
+    "sha256": "306b8072045fd0c2e89649301839fa8f1258d575199e25073a07594c79bb68eb",
     "texture_file": "textures/urbana/urbana_05_stripes_tiger.png",
     "texture_id": "urbana-05-03",
-    "palette": "Prasina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 99
+    "palette": "Prasina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 100,
     "id": "helmet_1_100",
     "file": "assets/urbana/helmet_1_100.png",
     "category": "urbana",
@@ -2091,15 +2094,15 @@
       0,
       0
     ],
-    "sha256": "8f5743268aef9ed07a75bb18653e7806064fec3f5e163394ad58c17463c3ef01",
+    "sha256": "3d729238ccc1ba7758ae91884e9413b9bbe33c92e48d33854e7557505640082e",
     "texture_file": "textures/urbana/urbana_05_speckled_dot.png",
     "texture_id": "urbana-05-04",
-    "palette": "Prasina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 100
+    "palette": "Prasina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 101,
     "id": "helmet_1_101",
     "file": "assets/urbana/helmet_1_101.png",
     "category": "urbana",
@@ -2112,15 +2115,15 @@
       0,
       0
     ],
-    "sha256": "590bde8e5eeed25215b5853e7620b3c003fe91dce4c376a6e361e40ba23511e9",
+    "sha256": "06926b1dad6a3d20220334e7f09ec394c8e2eaf51336e2652e4f474e37ef7528",
     "texture_file": "textures/urbana/urbana_05_hex.png",
     "texture_id": "urbana-05-05",
-    "palette": "Prasina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 101
+    "palette": "Prasina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 102,
     "id": "helmet_1_102",
     "file": "assets/urbana/helmet_1_102.png",
     "category": "urbana",
@@ -2133,15 +2136,15 @@
       0,
       0
     ],
-    "sha256": "d681befa024135e44ceb11947374825a6aaec45022a8fe0dea5f517f294c5b73",
+    "sha256": "02decd0b191422e2cccc60385cad7b2aed3141afa169a9ad28b11cdbead1682f",
     "texture_file": "textures/urbana/urbana_05_fragment.png",
     "texture_id": "urbana-05-06",
-    "palette": "Prasina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 102
+    "palette": "Prasina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 103,
     "id": "helmet_1_103",
     "file": "assets/urbana/helmet_1_103.png",
     "category": "urbana",
@@ -2154,15 +2157,15 @@
       0,
       0
     ],
-    "sha256": "af2745f379b3f8c5e8d26b0a363d46f484248b298e628db89060d53fead071b0",
+    "sha256": "09720e0287e29142caf5f406adce58a36b07c2e120a6d69c5d873ed69e67c0e8",
     "texture_file": "textures/urbana/urbana_06_pixel_digital.png",
     "texture_id": "urbana-06-01",
-    "palette": "Nocni grad",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 103
+    "palette": "Nocni grad"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 104,
     "id": "helmet_1_104",
     "file": "assets/urbana/helmet_1_104.png",
     "category": "urbana",
@@ -2175,15 +2178,15 @@
       0,
       0
     ],
-    "sha256": "0c505cb04c7ce7f331402def154c8d365ac16915b8b6156811aa572d1e4a9f71",
+    "sha256": "047dc41aceb561b0aa4aaa40d6c127313ca6780a47faba45fa3a7e62301f6301",
     "texture_file": "textures/urbana/urbana_06_organic_woodland.png",
     "texture_id": "urbana-06-02",
-    "palette": "Nocni grad",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 104
+    "palette": "Nocni grad"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 105,
     "id": "helmet_1_105",
     "file": "assets/urbana/helmet_1_105.png",
     "category": "urbana",
@@ -2196,15 +2199,15 @@
       0,
       0
     ],
-    "sha256": "807d3ac9cfbb4badcbb5161224294e1f544ae68c40a91e05da66e867680e2257",
+    "sha256": "1831ab6bc6149d398c58fa703acf1fefcea809f97ad18ab011c096a91b73088d",
     "texture_file": "textures/urbana/urbana_06_stripes_tiger.png",
     "texture_id": "urbana-06-03",
-    "palette": "Nocni grad",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 105
+    "palette": "Nocni grad"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 106,
     "id": "helmet_1_106",
     "file": "assets/urbana/helmet_1_106.png",
     "category": "urbana",
@@ -2217,15 +2220,15 @@
       0,
       0
     ],
-    "sha256": "b780b1f7f079c05902b452db6e45373323e36707b7220b0f4049d0f4e89a75e5",
+    "sha256": "89ae5b5513e7d76a003c9def7df6f34155fa25a36300a03992f08b79476dcc1f",
     "texture_file": "textures/urbana/urbana_06_speckled_dot.png",
     "texture_id": "urbana-06-04",
-    "palette": "Nocni grad",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 106
+    "palette": "Nocni grad"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 107,
     "id": "helmet_1_107",
     "file": "assets/urbana/helmet_1_107.png",
     "category": "urbana",
@@ -2238,15 +2241,15 @@
       0,
       0
     ],
-    "sha256": "7d06a08d9667d783df434ed2f1c8b934f2e021d4547c4e76229c4854d3ae1b73",
+    "sha256": "f28a4beb987f98ae5b19223c1493307d336ac5b5b09bc43ff714562dbdf9f9d0",
     "texture_file": "textures/urbana/urbana_06_hex.png",
     "texture_id": "urbana-06-05",
-    "palette": "Nocni grad",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 107
+    "palette": "Nocni grad"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 108,
     "id": "helmet_1_108",
     "file": "assets/urbana/helmet_1_108.png",
     "category": "urbana",
@@ -2259,15 +2262,15 @@
       0,
       0
     ],
-    "sha256": "ab116247f4fa070643c49fdb3474fd0d82c7b13a5894a4c1873d0e53ed3e22c6",
+    "sha256": "1a8a18549972f760f743a5f51753a0c2a0b0b7af66e7f6eef849c760ecdf4d30",
     "texture_file": "textures/urbana/urbana_06_fragment.png",
     "texture_id": "urbana-06-06",
-    "palette": "Nocni grad",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 108
+    "palette": "Nocni grad"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 109,
     "id": "helmet_1_109",
     "file": "assets/tropska/helmet_1_109.png",
     "category": "tropska",
@@ -2280,15 +2283,15 @@
       0,
       0
     ],
-    "sha256": "d5fc2a996f33cf1377da7e83da5650f78b63334446c49931e944007db069d57a",
+    "sha256": "f9a950d563b8e3abc0ebbb46122b9ce5ea31b8e8076c7a593e3d97cd4f515063",
     "texture_file": "textures/tropska/tropska_01_pixel_digital.png",
     "texture_id": "tropska-01-01",
-    "palette": "Dzungla",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 109
+    "palette": "Dzungla"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 110,
     "id": "helmet_1_110",
     "file": "assets/tropska/helmet_1_110.png",
     "category": "tropska",
@@ -2301,15 +2304,15 @@
       0,
       0
     ],
-    "sha256": "5fb7cd88a29c626fd517d4f92b9da8583850e801e8fb4a94619a87b1bc3f47db",
+    "sha256": "c97981e444f41da627a87845684c6bde359716ee10a8e5b36261cc0074b42103",
     "texture_file": "textures/tropska/tropska_01_organic_woodland.png",
     "texture_id": "tropska-01-02",
-    "palette": "Dzungla",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 110
+    "palette": "Dzungla"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 111,
     "id": "helmet_1_111",
     "file": "assets/tropska/helmet_1_111.png",
     "category": "tropska",
@@ -2322,15 +2325,15 @@
       0,
       0
     ],
-    "sha256": "c9899cd1858ac7856d13acc6d7ad2bceab3752e9a007edd3a6db393aea2790f1",
+    "sha256": "a030637c3d102b767d2d12fa17236af74340ba41cbc7b1558bd09fe14e2a19e6",
     "texture_file": "textures/tropska/tropska_01_stripes_tiger.png",
     "texture_id": "tropska-01-03",
-    "palette": "Dzungla",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 111
+    "palette": "Dzungla"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 112,
     "id": "helmet_1_112",
     "file": "assets/tropska/helmet_1_112.png",
     "category": "tropska",
@@ -2343,15 +2346,15 @@
       0,
       0
     ],
-    "sha256": "bfd4921e684f67c6da10b77610b188f872507b45ddb0b3942e6665a61cbe54a9",
+    "sha256": "ba536f8a22d6a7b64799291001baa7fc8818768b34ecb042583a711e73acf467",
     "texture_file": "textures/tropska/tropska_01_speckled_dot.png",
     "texture_id": "tropska-01-04",
-    "palette": "Dzungla",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 112
+    "palette": "Dzungla"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 113,
     "id": "helmet_1_113",
     "file": "assets/tropska/helmet_1_113.png",
     "category": "tropska",
@@ -2364,15 +2367,15 @@
       0,
       0
     ],
-    "sha256": "c50cb4e16d165fc0b109f06f5419140fdffb8cc7c78855fb7ff9922ec615e168",
+    "sha256": "17d4a993c056e3743dc3e1f087a0fe9efbef7ca37abf2de5ec02cd4a2a09cc20",
     "texture_file": "textures/tropska/tropska_01_hex.png",
     "texture_id": "tropska-01-05",
-    "palette": "Dzungla",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 113
+    "palette": "Dzungla"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 114,
     "id": "helmet_1_114",
     "file": "assets/tropska/helmet_1_114.png",
     "category": "tropska",
@@ -2385,15 +2388,15 @@
       0,
       0
     ],
-    "sha256": "7c6df70ea19ec9daafef228665b03a395b731f9fdf9f8ffd63cf8894df703d17",
+    "sha256": "11c3815c66708924c078a4730a5e64813193fc81de53dd04de895cc23fc6e753",
     "texture_file": "textures/tropska/tropska_01_fragment.png",
     "texture_id": "tropska-01-06",
-    "palette": "Dzungla",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 114
+    "palette": "Dzungla"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 115,
     "id": "helmet_1_115",
     "file": "assets/tropska/helmet_1_115.png",
     "category": "tropska",
@@ -2406,15 +2409,15 @@
       0,
       0
     ],
-    "sha256": "12f5d98cb9bb19a470ff38bb5ef28dfac946de9a737f2fe6e0486b741dea61d5",
+    "sha256": "803d2ac6cc4a3e77c436b3f2bc5698f5460cf172fbbe49deca96a2bfe1ce2b6a",
     "texture_file": "textures/tropska/tropska_02_pixel_digital.png",
     "texture_id": "tropska-02-01",
-    "palette": "Mangrove",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 115
+    "palette": "Mangrove"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 116,
     "id": "helmet_1_116",
     "file": "assets/tropska/helmet_1_116.png",
     "category": "tropska",
@@ -2427,15 +2430,15 @@
       0,
       0
     ],
-    "sha256": "6377042d87082c3085932d77211bcf9f59bdd8a5d96ac3f6c82b26c8e97693ce",
+    "sha256": "b6ba0dd20b6ec97824f78c449a71f95674b0ce02c85167055a3bb39d554a7d8e",
     "texture_file": "textures/tropska/tropska_02_organic_woodland.png",
     "texture_id": "tropska-02-02",
-    "palette": "Mangrove",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 116
+    "palette": "Mangrove"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 117,
     "id": "helmet_1_117",
     "file": "assets/tropska/helmet_1_117.png",
     "category": "tropska",
@@ -2448,15 +2451,15 @@
       0,
       0
     ],
-    "sha256": "f5c850589fb0028da5bf0fcba1ee8cf1dda87f6766fe3d9d9f3f9ebb29925ba4",
+    "sha256": "cf304cd83c0fbaf95f7722557601556b444a807a85bcbb82176074ff5da85ef0",
     "texture_file": "textures/tropska/tropska_02_stripes_tiger.png",
     "texture_id": "tropska-02-03",
-    "palette": "Mangrove",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 117
+    "palette": "Mangrove"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 118,
     "id": "helmet_1_118",
     "file": "assets/tropska/helmet_1_118.png",
     "category": "tropska",
@@ -2469,15 +2472,15 @@
       0,
       0
     ],
-    "sha256": "bb6384cec5e9fcab3ce743245d4ce84d3a1e613a8c943b75d93ebcb5b6fbd25e",
+    "sha256": "75806417ca39b6ce97ca8c3bd1758b92a1910b32106213592fc32d7719a2bcc4",
     "texture_file": "textures/tropska/tropska_02_speckled_dot.png",
     "texture_id": "tropska-02-04",
-    "palette": "Mangrove",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 118
+    "palette": "Mangrove"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 119,
     "id": "helmet_1_119",
     "file": "assets/tropska/helmet_1_119.png",
     "category": "tropska",
@@ -2490,15 +2493,15 @@
       0,
       0
     ],
-    "sha256": "3e81aa9824942f6fd16fc46a71ceecfa4af8bd8aaac07b2dc25dc29e0cfffadf",
+    "sha256": "a5f9c008d6c8a4b25d96faf5c8d8115c1ba30abaa2455ba4de59f53dd166537b",
     "texture_file": "textures/tropska/tropska_02_hex.png",
     "texture_id": "tropska-02-05",
-    "palette": "Mangrove",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 119
+    "palette": "Mangrove"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 120,
     "id": "helmet_1_120",
     "file": "assets/tropska/helmet_1_120.png",
     "category": "tropska",
@@ -2511,15 +2514,15 @@
       0,
       0
     ],
-    "sha256": "338df2a7f94d640522d073a580224f5e7f2bf1648345ca17fd364c945ed53656",
+    "sha256": "535a5b76855fef1ae832cf6408d1b46596c64bc0865a500ffe8c5dbd7b741c8b",
     "texture_file": "textures/tropska/tropska_02_fragment.png",
     "texture_id": "tropska-02-06",
-    "palette": "Mangrove",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 120
+    "palette": "Mangrove"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 121,
     "id": "helmet_1_121",
     "file": "assets/tropska/helmet_1_121.png",
     "category": "tropska",
@@ -2532,15 +2535,15 @@
       0,
       0
     ],
-    "sha256": "e3fe7e855ba2000d78ffeb79fec07088f5e8406b33932e82cd428f8fdef2a6f5",
+    "sha256": "32294e639075b817e63a68867f5cc19b89344ee6da89e7a1288d214c577b3701",
     "texture_file": "textures/tropska/tropska_03_pixel_digital.png",
     "texture_id": "tropska-03-01",
-    "palette": "Bambus",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 121
+    "palette": "Bambus"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 122,
     "id": "helmet_1_122",
     "file": "assets/tropska/helmet_1_122.png",
     "category": "tropska",
@@ -2553,15 +2556,15 @@
       0,
       0
     ],
-    "sha256": "87744e9819de9e606e0a2d8d6b43cbd4569bcee4d175c70b0a8cdac4d78ff623",
+    "sha256": "9c7f6ef73e71e0531f87cf6ba55c355519bb1088730de4143b797e74574133b6",
     "texture_file": "textures/tropska/tropska_03_organic_woodland.png",
     "texture_id": "tropska-03-02",
-    "palette": "Bambus",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 122
+    "palette": "Bambus"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 123,
     "id": "helmet_1_123",
     "file": "assets/tropska/helmet_1_123.png",
     "category": "tropska",
@@ -2574,15 +2577,15 @@
       0,
       0
     ],
-    "sha256": "4b42ce0c51237e4987aed5228f966afa8a45e2c75875709f6f65f2c327161952",
+    "sha256": "aecaf1c5e4e41f8c9ed4fe18e2675f6f8785994af876914ba2866caea9279847",
     "texture_file": "textures/tropska/tropska_03_stripes_tiger.png",
     "texture_id": "tropska-03-03",
-    "palette": "Bambus",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 123
+    "palette": "Bambus"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 124,
     "id": "helmet_1_124",
     "file": "assets/tropska/helmet_1_124.png",
     "category": "tropska",
@@ -2595,15 +2598,15 @@
       0,
       0
     ],
-    "sha256": "62463fe5230051883ad2868a74fe25e360aa9d4866569544d0bc115adb63fd8b",
+    "sha256": "7ea11728331e6adf78a490a9068a30e32b06416e257f585bc502cdf339c0f785",
     "texture_file": "textures/tropska/tropska_03_speckled_dot.png",
     "texture_id": "tropska-03-04",
-    "palette": "Bambus",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 124
+    "palette": "Bambus"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 125,
     "id": "helmet_1_125",
     "file": "assets/tropska/helmet_1_125.png",
     "category": "tropska",
@@ -2616,15 +2619,15 @@
       0,
       0
     ],
-    "sha256": "d839e939025e2e521e84ce0573701f4db646325e01c4900ad86522b9a1230c76",
+    "sha256": "131c5976e235e4d8d6cf6e18c57c867c0aeca3c049b35b55a19f008b6ef946d5",
     "texture_file": "textures/tropska/tropska_03_hex.png",
     "texture_id": "tropska-03-05",
-    "palette": "Bambus",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 125
+    "palette": "Bambus"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 126,
     "id": "helmet_1_126",
     "file": "assets/tropska/helmet_1_126.png",
     "category": "tropska",
@@ -2637,15 +2640,15 @@
       0,
       0
     ],
-    "sha256": "0abedbe925f65c616d55e26b7a2eb8a30ed88f99de06e007e32de4a7ecb3b221",
+    "sha256": "9f23e24c94bb85fbd86551e009cd5ef27d08f3c1d6cd2aaa47631e4d93c26ed8",
     "texture_file": "textures/tropska/tropska_03_fragment.png",
     "texture_id": "tropska-03-06",
-    "palette": "Bambus",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 126
+    "palette": "Bambus"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 127,
     "id": "helmet_1_127",
     "file": "assets/tropska/helmet_1_127.png",
     "category": "tropska",
@@ -2658,15 +2661,15 @@
       0,
       0
     ],
-    "sha256": "c651967933b56ee62f364440feea0322acd4e17af4bae9de2bb61a6e698b80e5",
+    "sha256": "63b6d0ce96e0647ba41c426ff9667334eed1d9f358179f9d4e14253386e4a226",
     "texture_file": "textures/tropska/tropska_04_pixel_digital.png",
     "texture_id": "tropska-04-01",
-    "palette": "Vulkansko ostrvo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 127
+    "palette": "Vulkansko ostrvo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 128,
     "id": "helmet_1_128",
     "file": "assets/tropska/helmet_1_128.png",
     "category": "tropska",
@@ -2679,15 +2682,15 @@
       0,
       0
     ],
-    "sha256": "b03cbaf509a1990cafffda088c39caeae3dfbb80cac08e9af53bb16c62de2d2f",
+    "sha256": "8a1cf71fa0cd0556d8190d8f65f9cda66f975b8959b7d2a0f03349b8d8b6340c",
     "texture_file": "textures/tropska/tropska_04_organic_woodland.png",
     "texture_id": "tropska-04-02",
-    "palette": "Vulkansko ostrvo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 128
+    "palette": "Vulkansko ostrvo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 129,
     "id": "helmet_1_129",
     "file": "assets/tropska/helmet_1_129.png",
     "category": "tropska",
@@ -2700,15 +2703,15 @@
       0,
       0
     ],
-    "sha256": "05d28c2d4398c15513481a20c49bea64b2058ea535b9714a2ce219afef3f0a66",
+    "sha256": "c99efc31f1d577dfa522e7c634b1fbba3363ddc084597e417156419794b03670",
     "texture_file": "textures/tropska/tropska_04_stripes_tiger.png",
     "texture_id": "tropska-04-03",
-    "palette": "Vulkansko ostrvo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 129
+    "palette": "Vulkansko ostrvo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 130,
     "id": "helmet_1_130",
     "file": "assets/tropska/helmet_1_130.png",
     "category": "tropska",
@@ -2721,15 +2724,15 @@
       0,
       0
     ],
-    "sha256": "eca6735dba20a3e22d431fee541ec99efdfe73c487f4416f92b4bf70af814ba5",
+    "sha256": "70864e88a398398c7a3fa8ed4417c7ad781236b9cd8c2715b4262db19ef85fb0",
     "texture_file": "textures/tropska/tropska_04_speckled_dot.png",
     "texture_id": "tropska-04-04",
-    "palette": "Vulkansko ostrvo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 130
+    "palette": "Vulkansko ostrvo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 131,
     "id": "helmet_1_131",
     "file": "assets/tropska/helmet_1_131.png",
     "category": "tropska",
@@ -2742,15 +2745,15 @@
       0,
       0
     ],
-    "sha256": "5587cb4685878059cabfadf6376bb28f3f71e46820fb461861aa9be489ff4620",
+    "sha256": "9552eb0aec95bc854279d6b83df684ed8e69b2a144914562edf5b8338fac0816",
     "texture_file": "textures/tropska/tropska_04_hex.png",
     "texture_id": "tropska-04-05",
-    "palette": "Vulkansko ostrvo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 131
+    "palette": "Vulkansko ostrvo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 132,
     "id": "helmet_1_132",
     "file": "assets/tropska/helmet_1_132.png",
     "category": "tropska",
@@ -2763,15 +2766,15 @@
       0,
       0
     ],
-    "sha256": "eb1280eec5847772a02e468cd602e89c5f9b03daa108f0a35084cf03bae01b0c",
+    "sha256": "5061970cc7bb39fafb996596f107753b36bbedb4e961c56061ee03c5307f8875",
     "texture_file": "textures/tropska/tropska_04_fragment.png",
     "texture_id": "tropska-04-06",
-    "palette": "Vulkansko ostrvo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 132
+    "palette": "Vulkansko ostrvo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 133,
     "id": "helmet_1_133",
     "file": "assets/tropska/helmet_1_133.png",
     "category": "tropska",
@@ -2784,15 +2787,15 @@
       0,
       0
     ],
-    "sha256": "88f94bb63e7e27673bff1bd2a4dce1376b7e49996b734a578a90f9822064c0f6",
+    "sha256": "a02fa96f832288702784ea08707e219d1bed2a68502799b904ce96574fca256d",
     "texture_file": "textures/tropska/tropska_05_pixel_digital.png",
     "texture_id": "tropska-05-01",
-    "palette": "Monsun",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 133
+    "palette": "Monsun"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 134,
     "id": "helmet_1_134",
     "file": "assets/tropska/helmet_1_134.png",
     "category": "tropska",
@@ -2805,15 +2808,15 @@
       0,
       0
     ],
-    "sha256": "58c63c64161ffd603f9cc8aac9c3ff6d4e43c0b1b7392b5c2a72e52fc4f3267a",
+    "sha256": "3587ee973e00dbaeebfb22e97411c17139150f2a6b34f43dd9b0fc60f0531efc",
     "texture_file": "textures/tropska/tropska_05_organic_woodland.png",
     "texture_id": "tropska-05-02",
-    "palette": "Monsun",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 134
+    "palette": "Monsun"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 135,
     "id": "helmet_1_135",
     "file": "assets/tropska/helmet_1_135.png",
     "category": "tropska",
@@ -2826,15 +2829,15 @@
       0,
       0
     ],
-    "sha256": "2ad46f04a6b8ee7e932aec083302c82d7bb7a31261d9c474a43f06f31b4ef57f",
+    "sha256": "36b2be0290949f098f7143ab8460f3163443452c73c63c11abc61e552bb91e51",
     "texture_file": "textures/tropska/tropska_05_stripes_tiger.png",
     "texture_id": "tropska-05-03",
-    "palette": "Monsun",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 135
+    "palette": "Monsun"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 136,
     "id": "helmet_1_136",
     "file": "assets/tropska/helmet_1_136.png",
     "category": "tropska",
@@ -2847,15 +2850,15 @@
       0,
       0
     ],
-    "sha256": "0d38a91d3a67b9d748c0c94199eb9d7e9591f3ff334e5ba7f9e1915c79693818",
+    "sha256": "24a7bccb5e639b30723af158ee2018f12cc8a2c6fff8d4bdc979a04852557956",
     "texture_file": "textures/tropska/tropska_05_speckled_dot.png",
     "texture_id": "tropska-05-04",
-    "palette": "Monsun",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 136
+    "palette": "Monsun"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 137,
     "id": "helmet_1_137",
     "file": "assets/tropska/helmet_1_137.png",
     "category": "tropska",
@@ -2868,15 +2871,15 @@
       0,
       0
     ],
-    "sha256": "de43a8b05cf87466372369aff07fe46ddb989a31017b619e15415ddc80aa84f5",
+    "sha256": "23fd06e0fc4ecd195e53659a22858e69430e6ab3a502b764e7ea9f87b1d71060",
     "texture_file": "textures/tropska/tropska_05_hex.png",
     "texture_id": "tropska-05-05",
-    "palette": "Monsun",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 137
+    "palette": "Monsun"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 138,
     "id": "helmet_1_138",
     "file": "assets/tropska/helmet_1_138.png",
     "category": "tropska",
@@ -2889,15 +2892,15 @@
       0,
       0
     ],
-    "sha256": "d86145c536563871649c4a157da7bb874d1b3e0b9575f3f41198c01b1ebb4348",
+    "sha256": "96314d8742a5b0cdbe2c642db01842079d73b89bb250dbb27988089dd9e1e8f5",
     "texture_file": "textures/tropska/tropska_05_fragment.png",
     "texture_id": "tropska-05-06",
-    "palette": "Monsun",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 138
+    "palette": "Monsun"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 139,
     "id": "helmet_1_139",
     "file": "assets/tropska/helmet_1_139.png",
     "category": "tropska",
@@ -2910,15 +2913,15 @@
       0,
       0
     ],
-    "sha256": "118b360bbd7b8932036fa82ca4a09765eacec2af5439afa9d0d041683db82e01",
+    "sha256": "af2bc505125a1ff8e23c0e10bbf8d00d7873756e0251feca860cce97a49a5e38",
     "texture_file": "textures/tropska/tropska_06_pixel_digital.png",
     "texture_id": "tropska-06-01",
-    "palette": "Palma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 139
+    "palette": "Palma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 140,
     "id": "helmet_1_140",
     "file": "assets/tropska/helmet_1_140.png",
     "category": "tropska",
@@ -2931,15 +2934,15 @@
       0,
       0
     ],
-    "sha256": "237e930a4ea9f9a812a330c2cfeef638d7f7827d53ca3d8f27db7082992fb5f7",
+    "sha256": "f9563fcba075f63fc38c80fac16b5677cec5dbc51c00cb45f6fea692b311d48d",
     "texture_file": "textures/tropska/tropska_06_organic_woodland.png",
     "texture_id": "tropska-06-02",
-    "palette": "Palma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 140
+    "palette": "Palma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 141,
     "id": "helmet_1_141",
     "file": "assets/tropska/helmet_1_141.png",
     "category": "tropska",
@@ -2952,15 +2955,15 @@
       0,
       0
     ],
-    "sha256": "1f8b45c4b58e37b5be8d5bdd18652f561808ef933532e623e55f5c0ae1c664ab",
+    "sha256": "14b19da80cd516293b7cc017b0659f4c3db327da624d073f54be9b803d65f8d8",
     "texture_file": "textures/tropska/tropska_06_stripes_tiger.png",
     "texture_id": "tropska-06-03",
-    "palette": "Palma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 141
+    "palette": "Palma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 142,
     "id": "helmet_1_142",
     "file": "assets/tropska/helmet_1_142.png",
     "category": "tropska",
@@ -2973,15 +2976,15 @@
       0,
       0
     ],
-    "sha256": "2ea5462024e8b39a217622238859b93800c373093f646a8263772955cb61d57b",
+    "sha256": "d5dc3463d8bc861195760e6a20cf9fa0d6abadd56c890a96bd4efa3caf2cc32d",
     "texture_file": "textures/tropska/tropska_06_speckled_dot.png",
     "texture_id": "tropska-06-04",
-    "palette": "Palma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 142
+    "palette": "Palma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 143,
     "id": "helmet_1_143",
     "file": "assets/tropska/helmet_1_143.png",
     "category": "tropska",
@@ -2994,15 +2997,15 @@
       0,
       0
     ],
-    "sha256": "74752cbd3eb814593dc160cdbbbcaa200595b8cf2d88af05b8e2610539010c0a",
+    "sha256": "42c7b50aa49c06444df2908951b589171aad974ebc2235655e546229223b4ce8",
     "texture_file": "textures/tropska/tropska_06_hex.png",
     "texture_id": "tropska-06-05",
-    "palette": "Palma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 143
+    "palette": "Palma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 144,
     "id": "helmet_1_144",
     "file": "assets/tropska/helmet_1_144.png",
     "category": "tropska",
@@ -3015,15 +3018,15 @@
       0,
       0
     ],
-    "sha256": "544a5482791381162630bc1cd54dcbcc9d2ceaa0ef0c47ec9fa5d70d39ef2588",
+    "sha256": "0ee3e88c57d1a5abe1339c1d4b98dd4b2e012594e9465f660b71ff10a3bbf87b",
     "texture_file": "textures/tropska/tropska_06_fragment.png",
     "texture_id": "tropska-06-06",
-    "palette": "Palma",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 144
+    "palette": "Palma"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 145,
     "id": "helmet_1_145",
     "file": "assets/snezna/helmet_1_145.png",
     "category": "snezna",
@@ -3036,15 +3039,15 @@
       0,
       0
     ],
-    "sha256": "88cffa273c2e64af2843407cdb952cccd8e40f112a8f51ade366d51b14a2dc60",
+    "sha256": "1c3fad0878fe6b31f8a80aa3b94827d760975514a2f3454cbe20310b5571cfae",
     "texture_file": "textures/snezna/snezna_01_pixel_digital.png",
     "texture_id": "snezna-01-01",
-    "palette": "Arktik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 145
+    "palette": "Arktik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 146,
     "id": "helmet_1_146",
     "file": "assets/snezna/helmet_1_146.png",
     "category": "snezna",
@@ -3057,15 +3060,15 @@
       0,
       0
     ],
-    "sha256": "267b841eb786f162f7ef2587e6a42cd76d01292e3d23ef86774a407f8c4c749d",
+    "sha256": "7d692d4356a24b8332992e448dcfd9d3207aa52cd59bb6b2ca745133afb6a289",
     "texture_file": "textures/snezna/snezna_01_organic_woodland.png",
     "texture_id": "snezna-01-02",
-    "palette": "Arktik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 146
+    "palette": "Arktik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 147,
     "id": "helmet_1_147",
     "file": "assets/snezna/helmet_1_147.png",
     "category": "snezna",
@@ -3078,15 +3081,15 @@
       0,
       0
     ],
-    "sha256": "791943d572a9b78fa497217484e1e971ec7aca9d76f0c12f682e3f9ea81825b4",
+    "sha256": "f330a3889313382c4e434c63aa157971e6b84da34d94f7b6e984cb7ad39d97e8",
     "texture_file": "textures/snezna/snezna_01_stripes_tiger.png",
     "texture_id": "snezna-01-03",
-    "palette": "Arktik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 147
+    "palette": "Arktik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 148,
     "id": "helmet_1_148",
     "file": "assets/snezna/helmet_1_148.png",
     "category": "snezna",
@@ -3099,15 +3102,15 @@
       0,
       0
     ],
-    "sha256": "25f2319e0ad4f1ffa2c85710d40f6fe5607793c7b849832621f96b6b89262477",
+    "sha256": "37689a2efc4a42b9ee04e15a3b97b7c342faf9be962c10811ecc4d0212f199b4",
     "texture_file": "textures/snezna/snezna_01_speckled_dot.png",
     "texture_id": "snezna-01-04",
-    "palette": "Arktik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 148
+    "palette": "Arktik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 149,
     "id": "helmet_1_149",
     "file": "assets/snezna/helmet_1_149.png",
     "category": "snezna",
@@ -3120,15 +3123,15 @@
       0,
       0
     ],
-    "sha256": "f4410ff475943832e3d674c0029b158c98b9a711b081ac18f6fff6d8d6e60521",
+    "sha256": "7f9b2f36ecd6100b2d157d130c9c0f9ddfd9defec399fcf171736c3ae20c7a3f",
     "texture_file": "textures/snezna/snezna_01_hex.png",
     "texture_id": "snezna-01-05",
-    "palette": "Arktik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 149
+    "palette": "Arktik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 150,
     "id": "helmet_1_150",
     "file": "assets/snezna/helmet_1_150.png",
     "category": "snezna",
@@ -3141,15 +3144,15 @@
       0,
       0
     ],
-    "sha256": "093b5b89b70a4bc9ab7870f034e4415abe6f6bcd733550cfcbe789f4b44c8bea",
+    "sha256": "a0fdd2d6113e2b5ab5889258ee14763985ba8dca0516c50729dc7f0b6ad1d2d9",
     "texture_file": "textures/snezna/snezna_01_fragment.png",
     "texture_id": "snezna-01-06",
-    "palette": "Arktik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 150
+    "palette": "Arktik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 151,
     "id": "helmet_1_151",
     "file": "assets/snezna/helmet_1_151.png",
     "category": "snezna",
@@ -3162,15 +3165,15 @@
       0,
       0
     ],
-    "sha256": "6459af77fc4d97bfb858bea4c3893416cc0e66a432502d9799e6abb95156bdf1",
+    "sha256": "f2f7f2d53df5036ca8caf6209becdb72b8e0328bd2d2c4e722ccd4dc75ec2202",
     "texture_file": "textures/snezna/snezna_02_pixel_digital.png",
     "texture_id": "snezna-02-01",
-    "palette": "Lednik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 151
+    "palette": "Lednik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 152,
     "id": "helmet_1_152",
     "file": "assets/snezna/helmet_1_152.png",
     "category": "snezna",
@@ -3183,15 +3186,15 @@
       0,
       0
     ],
-    "sha256": "8e69e4929451d9652ec6c490b35fde340a0d3ff3cae6b964aa3215ac72d1cd1d",
+    "sha256": "678481d54bbcde1db113591ea672890e56c8fd4796b79f1c4d61afb9ae5ded18",
     "texture_file": "textures/snezna/snezna_02_organic_woodland.png",
     "texture_id": "snezna-02-02",
-    "palette": "Lednik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 152
+    "palette": "Lednik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 153,
     "id": "helmet_1_153",
     "file": "assets/snezna/helmet_1_153.png",
     "category": "snezna",
@@ -3204,15 +3207,15 @@
       0,
       0
     ],
-    "sha256": "c203273ab0b89968558ce5c4f7528359dfe8d24d32501b60ba210cf1997f701a",
+    "sha256": "6832cbe06f6eeb3a63982d35bcef1a43779a9b5b2a41905bc0adba9c364729cc",
     "texture_file": "textures/snezna/snezna_02_stripes_tiger.png",
     "texture_id": "snezna-02-03",
-    "palette": "Lednik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 153
+    "palette": "Lednik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 154,
     "id": "helmet_1_154",
     "file": "assets/snezna/helmet_1_154.png",
     "category": "snezna",
@@ -3225,15 +3228,15 @@
       0,
       0
     ],
-    "sha256": "f8ff542edb7d02e1f556ad6e6c4986275fd454464d7bf89871d096a88e21eb57",
+    "sha256": "efc9bdbec0b003be53a09f217c6859c5e1d7faba105a40dc98187b81536eb760",
     "texture_file": "textures/snezna/snezna_02_speckled_dot.png",
     "texture_id": "snezna-02-04",
-    "palette": "Lednik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 154
+    "palette": "Lednik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 155,
     "id": "helmet_1_155",
     "file": "assets/snezna/helmet_1_155.png",
     "category": "snezna",
@@ -3246,15 +3249,15 @@
       0,
       0
     ],
-    "sha256": "2e81681556a136c493f10281233d714240be9d4e9e53c8c104866098ea4c771f",
+    "sha256": "7572f80330e0a1b099a9078ac9b1dff1d6110bf1f1ad98f5e790be7ce360555a",
     "texture_file": "textures/snezna/snezna_02_hex.png",
     "texture_id": "snezna-02-05",
-    "palette": "Lednik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 155
+    "palette": "Lednik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 156,
     "id": "helmet_1_156",
     "file": "assets/snezna/helmet_1_156.png",
     "category": "snezna",
@@ -3267,15 +3270,15 @@
       0,
       0
     ],
-    "sha256": "dd053780539061ca279597db071d306cbb089b14ae77053733b2819e41a2b61c",
+    "sha256": "624d3a4c0d42f325ca89ae62d5b5facc4aaa4af85887f46b5bdf11f892d65a2d",
     "texture_file": "textures/snezna/snezna_02_fragment.png",
     "texture_id": "snezna-02-06",
-    "palette": "Lednik",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 156
+    "palette": "Lednik"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 157,
     "id": "helmet_1_157",
     "file": "assets/snezna/helmet_1_157.png",
     "category": "snezna",
@@ -3288,15 +3291,15 @@
       0,
       0
     ],
-    "sha256": "6c1a4b9c54bb9fa7fa73638d1e55a4116f9a0136689c9552b6b1ee7962431211",
+    "sha256": "d1c8966747c80f2a2907299397f83ffd6924dbf8fa9e2323bb5058d3c4dafc1a",
     "texture_file": "textures/snezna/snezna_03_pixel_digital.png",
     "texture_id": "snezna-03-01",
-    "palette": "Snezan bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 157
+    "palette": "Snezan bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 158,
     "id": "helmet_1_158",
     "file": "assets/snezna/helmet_1_158.png",
     "category": "snezna",
@@ -3309,15 +3312,15 @@
       0,
       0
     ],
-    "sha256": "0c801d91846edbd6158432d32148f5b5137e0616b73ef5b523b0da1729f03ff1",
+    "sha256": "78ff37c6e80446e6f676f7fbaef43fa5f17468d62eceda951987e6f1fa1ac66c",
     "texture_file": "textures/snezna/snezna_03_organic_woodland.png",
     "texture_id": "snezna-03-02",
-    "palette": "Snezan bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 158
+    "palette": "Snezan bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 159,
     "id": "helmet_1_159",
     "file": "assets/snezna/helmet_1_159.png",
     "category": "snezna",
@@ -3330,15 +3333,15 @@
       0,
       0
     ],
-    "sha256": "5fdefad201725f881a8b1ab35e96c643d589856f9e0a00f14b82594e8865ef40",
+    "sha256": "eda9597109a677ce733b6a9a6ef3db41c8da3655a564ff5751105640f5ad5ef3",
     "texture_file": "textures/snezna/snezna_03_stripes_tiger.png",
     "texture_id": "snezna-03-03",
-    "palette": "Snezan bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 159
+    "palette": "Snezan bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 160,
     "id": "helmet_1_160",
     "file": "assets/snezna/helmet_1_160.png",
     "category": "snezna",
@@ -3351,15 +3354,15 @@
       0,
       0
     ],
-    "sha256": "93de17ea3a38dcf388c84052d40822c6bfd0356178b20dee0fcef3719f6dcf34",
+    "sha256": "718c41c9cc6177c554c6d7afc08b6236c2ecd908008be707598fc4a53ee813c8",
     "texture_file": "textures/snezna/snezna_03_speckled_dot.png",
     "texture_id": "snezna-03-04",
-    "palette": "Snezan bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 160
+    "palette": "Snezan bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 161,
     "id": "helmet_1_161",
     "file": "assets/snezna/helmet_1_161.png",
     "category": "snezna",
@@ -3372,15 +3375,15 @@
       0,
       0
     ],
-    "sha256": "e506a09eae47cb4d1271c3a62e4eaa2d11a348a34ff1bd1797a0559768b87215",
+    "sha256": "164d99c103ce395c1baa8210b23da388e2499f86d56dfec23741ec1036b48916",
     "texture_file": "textures/snezna/snezna_03_hex.png",
     "texture_id": "snezna-03-05",
-    "palette": "Snezan bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 161
+    "palette": "Snezan bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 162,
     "id": "helmet_1_162",
     "file": "assets/snezna/helmet_1_162.png",
     "category": "snezna",
@@ -3393,15 +3396,15 @@
       0,
       0
     ],
-    "sha256": "262b7ba0dad23f83462a0614faa83b8d73aef7a74a5f433dd7823c70c40c1bdd",
+    "sha256": "bc81c6a2796f92c752886576c9c869750b76c6db26e5c29d8d4a40cd0f350e03",
     "texture_file": "textures/snezna/snezna_03_fragment.png",
     "texture_id": "snezna-03-06",
-    "palette": "Snezan bor",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 162
+    "palette": "Snezan bor"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 163,
     "id": "helmet_1_163",
     "file": "assets/snezna/helmet_1_163.png",
     "category": "snezna",
@@ -3414,15 +3417,15 @@
       0,
       0
     ],
-    "sha256": "0c8ab89fda9a7b5266918940201561c2bb41f42de74905f90a012be08f7eda99",
+    "sha256": "69880ed0139209848d224fe48c3684cb1f74a33b92c31d9b4d20074460f5be28",
     "texture_file": "textures/snezna/snezna_04_pixel_digital.png",
     "texture_id": "snezna-04-01",
-    "palette": "Planinski kamen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 163
+    "palette": "Planinski kamen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 164,
     "id": "helmet_1_164",
     "file": "assets/snezna/helmet_1_164.png",
     "category": "snezna",
@@ -3435,15 +3438,15 @@
       0,
       0
     ],
-    "sha256": "48db2aaad244797f41131935fde994c1c22d1b2f85247871fd006f02bb85dd0f",
+    "sha256": "4a3bc767a3ad9f00c86b0fc276652d80e2bd5e7102d5d2c70f2dab7410f0a1d3",
     "texture_file": "textures/snezna/snezna_04_organic_woodland.png",
     "texture_id": "snezna-04-02",
-    "palette": "Planinski kamen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 164
+    "palette": "Planinski kamen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 165,
     "id": "helmet_1_165",
     "file": "assets/snezna/helmet_1_165.png",
     "category": "snezna",
@@ -3456,15 +3459,15 @@
       0,
       0
     ],
-    "sha256": "14db3523b981b5ec35adbc27d9adeb0c6985d2d623525ad9b4088ea463305085",
+    "sha256": "aabf49cca8bbdf0cdb8088f0fc430ad0236d621d45bbe402c7b37bcfa9281e13",
     "texture_file": "textures/snezna/snezna_04_stripes_tiger.png",
     "texture_id": "snezna-04-03",
-    "palette": "Planinski kamen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 165
+    "palette": "Planinski kamen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 166,
     "id": "helmet_1_166",
     "file": "assets/snezna/helmet_1_166.png",
     "category": "snezna",
@@ -3477,15 +3480,15 @@
       0,
       0
     ],
-    "sha256": "0ed6fded20d5978a87cae053cdef886f92473afaf8a78c887ad17c518951bf8f",
+    "sha256": "ab4640a0af41ee5dd022a48ad1106f7de5cc065908a6a943623ba738cd7f7a92",
     "texture_file": "textures/snezna/snezna_04_speckled_dot.png",
     "texture_id": "snezna-04-04",
-    "palette": "Planinski kamen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 166
+    "palette": "Planinski kamen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 167,
     "id": "helmet_1_167",
     "file": "assets/snezna/helmet_1_167.png",
     "category": "snezna",
@@ -3498,15 +3501,15 @@
       0,
       0
     ],
-    "sha256": "88e8154432c4be75943c1a56dcd3101668f36c9cf6ce5c028455d8e726ad96a5",
+    "sha256": "eae59a0921dcd803eb2b9fa1c1d94b9b3a52bf224de6c4ba6f8dd0e6dd9781fe",
     "texture_file": "textures/snezna/snezna_04_hex.png",
     "texture_id": "snezna-04-05",
-    "palette": "Planinski kamen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 167
+    "palette": "Planinski kamen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 168,
     "id": "helmet_1_168",
     "file": "assets/snezna/helmet_1_168.png",
     "category": "snezna",
@@ -3519,15 +3522,15 @@
       0,
       0
     ],
-    "sha256": "33ce725b28148fe80eb4f7273ba5b24e9dc591279f26fff99e95c0d195e3746f",
+    "sha256": "bdfa446bd48020d1e65747a027973cac2d4e38f5f4f79f5477bb1ca5edc39705",
     "texture_file": "textures/snezna/snezna_04_fragment.png",
     "texture_id": "snezna-04-06",
-    "palette": "Planinski kamen",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 168
+    "palette": "Planinski kamen"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 169,
     "id": "helmet_1_169",
     "file": "assets/snezna/helmet_1_169.png",
     "category": "snezna",
@@ -3540,15 +3543,15 @@
       0,
       0
     ],
-    "sha256": "d5864bbd281e27768698b4c7a72d715129b91fb20d406a82ea0f2e71b90e5204",
+    "sha256": "ef2c3704b0bb5284553d892b355cc3e89a4a8184e5dd664ed401a4845f9df6f3",
     "texture_file": "textures/snezna/snezna_05_pixel_digital.png",
     "texture_id": "snezna-05-01",
-    "palette": "Polarna noc",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 169
+    "palette": "Polarna noc"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 170,
     "id": "helmet_1_170",
     "file": "assets/snezna/helmet_1_170.png",
     "category": "snezna",
@@ -3561,15 +3564,15 @@
       0,
       0
     ],
-    "sha256": "72b3d5d0cab5f826588530136e446600dea7ea051f969b2ee28de9c4ff4c6f8c",
+    "sha256": "4dd1374a348cad3b3356340878da33dc3a8b8d019c5f82ddc4a746536de3bc60",
     "texture_file": "textures/snezna/snezna_05_organic_woodland.png",
     "texture_id": "snezna-05-02",
-    "palette": "Polarna noc",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 170
+    "palette": "Polarna noc"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 171,
     "id": "helmet_1_171",
     "file": "assets/snezna/helmet_1_171.png",
     "category": "snezna",
@@ -3582,15 +3585,15 @@
       0,
       0
     ],
-    "sha256": "60501e2a5717e7c196a2f9bf12fccc65c6ebe86b0b54fb1f071c8468f71dcc84",
+    "sha256": "6f86b0ac327df6cebc66038a99f470ca4930c057500169c0a9d4ddbfeaa945a4",
     "texture_file": "textures/snezna/snezna_05_stripes_tiger.png",
     "texture_id": "snezna-05-03",
-    "palette": "Polarna noc",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 171
+    "palette": "Polarna noc"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 172,
     "id": "helmet_1_172",
     "file": "assets/snezna/helmet_1_172.png",
     "category": "snezna",
@@ -3603,15 +3606,15 @@
       0,
       0
     ],
-    "sha256": "d9074d1b4541d447bb4bc191f88cc61e6d3fbfc48b8974d7351498736bc15b38",
+    "sha256": "eaf730e21911b7cdd98b15b2cbeff0e3eb560b821af52464d03e6689a8e063cc",
     "texture_file": "textures/snezna/snezna_05_speckled_dot.png",
     "texture_id": "snezna-05-04",
-    "palette": "Polarna noc",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 172
+    "palette": "Polarna noc"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 173,
     "id": "helmet_1_173",
     "file": "assets/snezna/helmet_1_173.png",
     "category": "snezna",
@@ -3624,15 +3627,15 @@
       0,
       0
     ],
-    "sha256": "bff6535d17a158572b2c084132983c9fda1c5f3925f04acbc56a2849dd563c8b",
+    "sha256": "c055c814560c7cc7df0813e82ce990def82cb19bbb8b0c9c9732025128feced0",
     "texture_file": "textures/snezna/snezna_05_hex.png",
     "texture_id": "snezna-05-05",
-    "palette": "Polarna noc",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 173
+    "palette": "Polarna noc"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 174,
     "id": "helmet_1_174",
     "file": "assets/snezna/helmet_1_174.png",
     "category": "snezna",
@@ -3645,15 +3648,15 @@
       0,
       0
     ],
-    "sha256": "53722c86f90701bc8744c74fd99db15f941096c2aabd9c7cb3b40adab8b3a367",
+    "sha256": "17df550bd140791394e5715c4c3eefbc1b01cded48707af2c19e1bc9609983ae",
     "texture_file": "textures/snezna/snezna_05_fragment.png",
     "texture_id": "snezna-05-06",
-    "palette": "Polarna noc",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 174
+    "palette": "Polarna noc"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 175,
     "id": "helmet_1_175",
     "file": "assets/snezna/helmet_1_175.png",
     "category": "snezna",
@@ -3666,15 +3669,15 @@
       0,
       0
     ],
-    "sha256": "e8525c7d57da996b386581930f2d91b16e67d4887a9d073fbe2c5784aedc2d09",
+    "sha256": "65cace5fd35ccdf10b89dafe6d07af75b02d05e0000922134bb7f14b3b63dd3b",
     "texture_file": "textures/snezna/snezna_06_pixel_digital.png",
     "texture_id": "snezna-06-01",
-    "palette": "Prljavi sneg",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 175
+    "palette": "Prljavi sneg"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 176,
     "id": "helmet_1_176",
     "file": "assets/snezna/helmet_1_176.png",
     "category": "snezna",
@@ -3687,15 +3690,15 @@
       0,
       0
     ],
-    "sha256": "f558e0578a84d45c898719d9b518c02e2ddedc37e06ea9bd00316d26c217f760",
+    "sha256": "afa5839fc20bb47fa2e77c62f85871dc85d515aacee195c8e719e789c9afedb8",
     "texture_file": "textures/snezna/snezna_06_organic_woodland.png",
     "texture_id": "snezna-06-02",
-    "palette": "Prljavi sneg",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 176
+    "palette": "Prljavi sneg"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 177,
     "id": "helmet_1_177",
     "file": "assets/snezna/helmet_1_177.png",
     "category": "snezna",
@@ -3708,15 +3711,15 @@
       0,
       0
     ],
-    "sha256": "4bfea96ad2ebe1740a85ff24fd95614d210393a016e0dedf6907f5f80f8b5612",
+    "sha256": "b5dfdfd32cbf74d1161f7876f85fecacaa64842c76924666346d8f5748ed51bb",
     "texture_file": "textures/snezna/snezna_06_stripes_tiger.png",
     "texture_id": "snezna-06-03",
-    "palette": "Prljavi sneg",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 177
+    "palette": "Prljavi sneg"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 178,
     "id": "helmet_1_178",
     "file": "assets/snezna/helmet_1_178.png",
     "category": "snezna",
@@ -3729,15 +3732,15 @@
       0,
       0
     ],
-    "sha256": "1a15fcd4f5cfa4fd01ea586cf2c8652ffb713c8d81b906d37aa7a2b8b45fbb38",
+    "sha256": "2a101b83380dbaab4e32016635902ecc2cb30f24ba6d9d98f3113a45bb59c437",
     "texture_file": "textures/snezna/snezna_06_speckled_dot.png",
     "texture_id": "snezna-06-04",
-    "palette": "Prljavi sneg",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 178
+    "palette": "Prljavi sneg"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 179,
     "id": "helmet_1_179",
     "file": "assets/snezna/helmet_1_179.png",
     "category": "snezna",
@@ -3750,15 +3753,15 @@
       0,
       0
     ],
-    "sha256": "bada0e760ed3071ccf9d10367f8591f798df55d71dfb27f7ce3a09b41b9926ea",
+    "sha256": "59e4d501891cf29c859df86d0656fb6a860021a979b085a97d28afc7f1123406",
     "texture_file": "textures/snezna/snezna_06_hex.png",
     "texture_id": "snezna-06-05",
-    "palette": "Prljavi sneg",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 179
+    "palette": "Prljavi sneg"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 180,
     "id": "helmet_1_180",
     "file": "assets/snezna/helmet_1_180.png",
     "category": "snezna",
@@ -3771,15 +3774,15 @@
       0,
       0
     ],
-    "sha256": "62c2f6d4963e28e4e890790de9dfafd82cbacc20742093d9da9bdf9c6cbe2fc9",
+    "sha256": "ab6a50a5a42b2e09b8e1fdfdff4f388e21343884d047681fee6f2793f115efef",
     "texture_file": "textures/snezna/snezna_06_fragment.png",
     "texture_id": "snezna-06-06",
-    "palette": "Prljavi sneg",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 180
+    "palette": "Prljavi sneg"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 181,
     "id": "helmet_1_181",
     "file": "assets/premium/helmet_1_181.png",
     "category": "premium",
@@ -3792,15 +3795,15 @@
       0,
       0
     ],
-    "sha256": "b83090d997360d962c841bd7aba485b5e6eefb8faedb9bbbb9a3fb6d8c4366cd",
+    "sha256": "99fc50a601fd16637814469255dbae2d7f49da54be02584446d6d98af88214a1",
     "texture_file": "textures/premium/premium_01_pixel_digital.png",
     "texture_id": "premium-01-01",
-    "palette": "Zlatni pepeo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 181
+    "palette": "Zlatni pepeo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 182,
     "id": "helmet_1_182",
     "file": "assets/premium/helmet_1_182.png",
     "category": "premium",
@@ -3813,15 +3816,15 @@
       0,
       0
     ],
-    "sha256": "fe7bad38f4a89d77ec1fea9899805f2c3260291319ccbc1ec1539af9d1b7accc",
+    "sha256": "5499473e3ced0d7548cf11c9b00dfb0992d020cbb1d004f9cba863bec79d4d5c",
     "texture_file": "textures/premium/premium_01_organic_woodland.png",
     "texture_id": "premium-01-02",
-    "palette": "Zlatni pepeo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 182
+    "palette": "Zlatni pepeo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 183,
     "id": "helmet_1_183",
     "file": "assets/premium/helmet_1_183.png",
     "category": "premium",
@@ -3834,15 +3837,15 @@
       0,
       0
     ],
-    "sha256": "1d59ee6e16a7717ae6401ec964113e00af02dc47f7edcf5893cffb1fd66c9c0f",
+    "sha256": "b95bf31bcbf22421885eb62ba1f2c8729dcbd25ebb83974a02cb6c8138fcea78",
     "texture_file": "textures/premium/premium_01_stripes_tiger.png",
     "texture_id": "premium-01-03",
-    "palette": "Zlatni pepeo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 183
+    "palette": "Zlatni pepeo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 184,
     "id": "helmet_1_184",
     "file": "assets/premium/helmet_1_184.png",
     "category": "premium",
@@ -3855,15 +3858,15 @@
       0,
       0
     ],
-    "sha256": "87f8ef2457e55c88892b544296fd2072d7bc8a390811a942d2977778ec0bae08",
+    "sha256": "a5b3a0b50d295f09fcbf75b15e15364889e53a1f43a98800d5f39f85cc19f5a2",
     "texture_file": "textures/premium/premium_01_speckled_dot.png",
     "texture_id": "premium-01-04",
-    "palette": "Zlatni pepeo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 184
+    "palette": "Zlatni pepeo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 185,
     "id": "helmet_1_185",
     "file": "assets/premium/helmet_1_185.png",
     "category": "premium",
@@ -3876,15 +3879,15 @@
       0,
       0
     ],
-    "sha256": "47f5d573a64c88adc657de99c312b58111932f68007e9f886aebdda79af31848",
+    "sha256": "5de7f38afc055606b215214f316270a709f09cdb4f509ae2a1fdb36353fa93f2",
     "texture_file": "textures/premium/premium_01_hex.png",
     "texture_id": "premium-01-05",
-    "palette": "Zlatni pepeo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 185
+    "palette": "Zlatni pepeo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 186,
     "id": "helmet_1_186",
     "file": "assets/premium/helmet_1_186.png",
     "category": "premium",
@@ -3897,15 +3900,15 @@
       0,
       0
     ],
-    "sha256": "5cc53979274fec3700d24b3cab186b21c4ac432717ae778c54b90a930e33af29",
+    "sha256": "ceb237f0f1c5465d115711058cc9b89375ca94ab5f49c7c873546dd8c76525a7",
     "texture_file": "textures/premium/premium_01_fragment.png",
     "texture_id": "premium-01-06",
-    "palette": "Zlatni pepeo",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 186
+    "palette": "Zlatni pepeo"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 187,
     "id": "helmet_1_187",
     "file": "assets/premium/helmet_1_187.png",
     "category": "premium",
@@ -3918,15 +3921,15 @@
       0,
       0
     ],
-    "sha256": "280b7e200526259135483c1ee1f5250b6b29a6ec64ddb5046b534df1c7b6eac4",
+    "sha256": "040541e955047e05bff4f18fcb1749925be15de497f68101f93c5eba37ca3fc3",
     "texture_file": "textures/premium/premium_02_pixel_digital.png",
     "texture_id": "premium-02-01",
-    "palette": "Krvavi mesec",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 187
+    "palette": "Krvavi mesec"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 188,
     "id": "helmet_1_188",
     "file": "assets/premium/helmet_1_188.png",
     "category": "premium",
@@ -3939,15 +3942,15 @@
       0,
       0
     ],
-    "sha256": "37c59f2b2202b20e5528b5863c081ad8175b2cbf437b4e8817d33ce7115b80dd",
+    "sha256": "faff01b3c6ecec8da83ed3658b7903ae8e45a51811a210482d81155ca2522f05",
     "texture_file": "textures/premium/premium_02_organic_woodland.png",
     "texture_id": "premium-02-02",
-    "palette": "Krvavi mesec",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 188
+    "palette": "Krvavi mesec"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 189,
     "id": "helmet_1_189",
     "file": "assets/premium/helmet_1_189.png",
     "category": "premium",
@@ -3960,15 +3963,15 @@
       0,
       0
     ],
-    "sha256": "8fe2c0cd7812ab86feef2be3d30a00b40576d51b6ea82b7244964f1102403492",
+    "sha256": "f766c108ccb43e8ed1bbea2dab36bf1142adfe955bed83c14cf93d216831750b",
     "texture_file": "textures/premium/premium_02_stripes_tiger.png",
     "texture_id": "premium-02-03",
-    "palette": "Krvavi mesec",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 189
+    "palette": "Krvavi mesec"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 190,
     "id": "helmet_1_190",
     "file": "assets/premium/helmet_1_190.png",
     "category": "premium",
@@ -3981,15 +3984,15 @@
       0,
       0
     ],
-    "sha256": "b54ffac2f1338e6f946493b26dbc4d407ec5ac9f971263b36271e3f83dbd6736",
+    "sha256": "4327441a75da0afda636b68d65dfd747ff0e66fb549184af403b133852881552",
     "texture_file": "textures/premium/premium_02_speckled_dot.png",
     "texture_id": "premium-02-04",
-    "palette": "Krvavi mesec",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 190
+    "palette": "Krvavi mesec"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 191,
     "id": "helmet_1_191",
     "file": "assets/premium/helmet_1_191.png",
     "category": "premium",
@@ -4002,15 +4005,15 @@
       0,
       0
     ],
-    "sha256": "3cf43e40a123faece69783a4604f4a260d3132b33777081dbf34fb6e6cbdda6b",
+    "sha256": "6158a9352f1149b287c4ffc8c555d6126473c220578bc34f9c1d5319daa3835d",
     "texture_file": "textures/premium/premium_02_hex.png",
     "texture_id": "premium-02-05",
-    "palette": "Krvavi mesec",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 191
+    "palette": "Krvavi mesec"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 192,
     "id": "helmet_1_192",
     "file": "assets/premium/helmet_1_192.png",
     "category": "premium",
@@ -4023,15 +4026,15 @@
       0,
       0
     ],
-    "sha256": "7d36ce3f3bcf7be56dd9878327412e54cad7ce1c36bc3a35a5f5640a1dba86dc",
+    "sha256": "c94e98b764b507236a5e5feaee1c02599121ebfa329b495b9953131f3512b036",
     "texture_file": "textures/premium/premium_02_fragment.png",
     "texture_id": "premium-02-06",
-    "palette": "Krvavi mesec",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 192
+    "palette": "Krvavi mesec"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 193,
     "id": "helmet_1_193",
     "file": "assets/premium/helmet_1_193.png",
     "category": "premium",
@@ -4044,15 +4047,15 @@
       0,
       0
     ],
-    "sha256": "323e49efa38b20b579a019f46f4c1d1a820cbc04a1911a9247cdf8b3bc7963d0",
+    "sha256": "3f6aefbf019a6657aef97389c5bdebf01032bd5d44695d2ec3e60545bf767802",
     "texture_file": "textures/premium/premium_03_pixel_digital.png",
     "texture_id": "premium-03-01",
-    "palette": "Kobalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 193
+    "palette": "Kobalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 194,
     "id": "helmet_1_194",
     "file": "assets/premium/helmet_1_194.png",
     "category": "premium",
@@ -4065,15 +4068,15 @@
       0,
       0
     ],
-    "sha256": "56d4621dc9f1639871acc1af9f335149cced3778f7f8c832aaeb49d829e2424e",
+    "sha256": "25a47f701d1200bc25b7717da68a3becdafa9ca1bc7acb43ac7a7dd33414f5e2",
     "texture_file": "textures/premium/premium_03_organic_woodland.png",
     "texture_id": "premium-03-02",
-    "palette": "Kobalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 194
+    "palette": "Kobalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 195,
     "id": "helmet_1_195",
     "file": "assets/premium/helmet_1_195.png",
     "category": "premium",
@@ -4086,15 +4089,15 @@
       0,
       0
     ],
-    "sha256": "cd1f508cd44b589b9c09ac969d4c5813eeb8b333502b7bb3ffe8ec4796c44e33",
+    "sha256": "2c990026644eae5d1dfb2803584b4d25d49504810409f1b6aad9669690929a8a",
     "texture_file": "textures/premium/premium_03_stripes_tiger.png",
     "texture_id": "premium-03-03",
-    "palette": "Kobalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 195
+    "palette": "Kobalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 196,
     "id": "helmet_1_196",
     "file": "assets/premium/helmet_1_196.png",
     "category": "premium",
@@ -4107,15 +4110,15 @@
       0,
       0
     ],
-    "sha256": "f2297e8591ed0be89c666516a25c46181d264859a2368f392d04bf3d6be28ceb",
+    "sha256": "4bfbb20279da549361ca5379cc92244e7baef609b0e03902a78a3dd6c0db3391",
     "texture_file": "textures/premium/premium_03_speckled_dot.png",
     "texture_id": "premium-03-04",
-    "palette": "Kobalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 196
+    "palette": "Kobalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 197,
     "id": "helmet_1_197",
     "file": "assets/premium/helmet_1_197.png",
     "category": "premium",
@@ -4128,15 +4131,15 @@
       0,
       0
     ],
-    "sha256": "434fa8e6759caa55e7c7682f887bc72d0d9450e56d2c3f66596b28c1a0582e02",
+    "sha256": "8eb243c5d2a15c627390f61e11894f117ab3e9b31fc050d5847873eb945026f9",
     "texture_file": "textures/premium/premium_03_hex.png",
     "texture_id": "premium-03-05",
-    "palette": "Kobalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 197
+    "palette": "Kobalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 198,
     "id": "helmet_1_198",
     "file": "assets/premium/helmet_1_198.png",
     "category": "premium",
@@ -4149,15 +4152,15 @@
       0,
       0
     ],
-    "sha256": "fde8875c2a13a512a9a5b7d11cac9997ab9d6368dbdc706dee281b2d047435a6",
+    "sha256": "75afee18c297f5cad8bea72a6b50275c78ded016f52d0700c275466a830c2214",
     "texture_file": "textures/premium/premium_03_fragment.png",
     "texture_id": "premium-03-06",
-    "palette": "Kobalt",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 198
+    "palette": "Kobalt"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 199,
     "id": "helmet_1_199",
     "file": "assets/premium/helmet_1_199.png",
     "category": "premium",
@@ -4170,15 +4173,15 @@
       0,
       0
     ],
-    "sha256": "c4649aea0498fd1013e7e6114ebaf7ba9f9f1869f9fc27b4d8129356cde7eab0",
+    "sha256": "44dd9fc36b346d1d9706c1213b7078f161c0e8db75df0ad4113be3ff4b604229",
     "texture_file": "textures/premium/premium_04_pixel_digital.png",
     "texture_id": "premium-04-01",
-    "palette": "Ametist",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 199
+    "palette": "Ametist"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 200,
     "id": "helmet_1_200",
     "file": "assets/premium/helmet_1_200.png",
     "category": "premium",
@@ -4191,15 +4194,15 @@
       0,
       0
     ],
-    "sha256": "d2c56a978c2461f25e7d0b56745b49fe71bc15dae76616832518e666d2e88aa7",
+    "sha256": "63e4bf8a34f6b4893861c4d0697c00808552b80d6e1aaaabd89cdb8de9bd432d",
     "texture_file": "textures/premium/premium_04_organic_woodland.png",
     "texture_id": "premium-04-02",
-    "palette": "Ametist",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 200
+    "palette": "Ametist"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 201,
     "id": "helmet_1_201",
     "file": "assets/premium/helmet_1_201.png",
     "category": "premium",
@@ -4212,15 +4215,15 @@
       0,
       0
     ],
-    "sha256": "e7c3b3fe931411acf709565c27da64e71b26a12b09832a7326914dd6aef6124a",
+    "sha256": "104ba8fdbd8ec734b89c73f192a3546168777ef6292ac524694c0942cd1ed2a7",
     "texture_file": "textures/premium/premium_04_stripes_tiger.png",
     "texture_id": "premium-04-03",
-    "palette": "Ametist",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 201
+    "palette": "Ametist"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 202,
     "id": "helmet_1_202",
     "file": "assets/premium/helmet_1_202.png",
     "category": "premium",
@@ -4233,15 +4236,15 @@
       0,
       0
     ],
-    "sha256": "0d6859757c7f5430bd61289ef8c70a54ba4656a275135632130dec8435e204eb",
+    "sha256": "fd0173409240be1d7e3a52305d2baa6a732d4ed1b63e172d3a38c1024dc45934",
     "texture_file": "textures/premium/premium_04_speckled_dot.png",
     "texture_id": "premium-04-04",
-    "palette": "Ametist",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 202
+    "palette": "Ametist"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 203,
     "id": "helmet_1_203",
     "file": "assets/premium/helmet_1_203.png",
     "category": "premium",
@@ -4254,15 +4257,15 @@
       0,
       0
     ],
-    "sha256": "4d3053ed2ff5c56f76e1bb42a88a3c326f209346e5cf7db17b48001bc7eeb1cd",
+    "sha256": "ddb5618847faf3cf6976e329ba7f96275a35caa575c21c4608d1da14a2a70039",
     "texture_file": "textures/premium/premium_04_hex.png",
     "texture_id": "premium-04-05",
-    "palette": "Ametist",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 203
+    "palette": "Ametist"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 204,
     "id": "helmet_1_204",
     "file": "assets/premium/helmet_1_204.png",
     "category": "premium",
@@ -4275,15 +4278,15 @@
       0,
       0
     ],
-    "sha256": "ab82493b13a06ef99265b952fdbbbb9c3de4db321ebe34ac6f703957f3dc87e3",
+    "sha256": "27edf794a42792913d75c1c7b4544a60efd16991550ead8f877558c9e4c314f1",
     "texture_file": "textures/premium/premium_04_fragment.png",
     "texture_id": "premium-04-06",
-    "palette": "Ametist",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 204
+    "palette": "Ametist"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 205,
     "id": "helmet_1_205",
     "file": "assets/premium/helmet_1_205.png",
     "category": "premium",
@@ -4296,15 +4299,15 @@
       0,
       0
     ],
-    "sha256": "16e4ba44ab829ea4495bbc8078a734832d39efaa1440c0678580f0b5843c6457",
+    "sha256": "601d10bbe5f51f5cf2e7eb2626b3fa07b0ca4c5885171aec58abe7d4848a53eb",
     "texture_file": "textures/premium/premium_05_pixel_digital.png",
     "texture_id": "premium-05-01",
-    "palette": "Patina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 205
+    "palette": "Patina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 206,
     "id": "helmet_1_206",
     "file": "assets/premium/helmet_1_206.png",
     "category": "premium",
@@ -4317,15 +4320,15 @@
       0,
       0
     ],
-    "sha256": "83fdc10f448adfa6dda51e69fcde711032931c5d2f3ec4f5f82b8b06167b1309",
+    "sha256": "3bd3a9a1ab91f49fd110b23fe48033f4d8058096ce85557cd765794548bc7810",
     "texture_file": "textures/premium/premium_05_organic_woodland.png",
     "texture_id": "premium-05-02",
-    "palette": "Patina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 206
+    "palette": "Patina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 207,
     "id": "helmet_1_207",
     "file": "assets/premium/helmet_1_207.png",
     "category": "premium",
@@ -4338,15 +4341,15 @@
       0,
       0
     ],
-    "sha256": "0f9aa5de59de76a3076bab3f6aac7cf8f0b62802769d1598e9097d147bd0a17d",
+    "sha256": "7d66f4673273fca359a65ca1a716443f4422d5559e49e8af1d9507f46ece0e6c",
     "texture_file": "textures/premium/premium_05_stripes_tiger.png",
     "texture_id": "premium-05-03",
-    "palette": "Patina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 207
+    "palette": "Patina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 208,
     "id": "helmet_1_208",
     "file": "assets/premium/helmet_1_208.png",
     "category": "premium",
@@ -4359,15 +4362,15 @@
       0,
       0
     ],
-    "sha256": "908f2dbd73c48f1ce9190b8a622123c9112fd82cdd66833ea035087268248eca",
+    "sha256": "ab6ee58bbb90b47eb57125d59f0db82e2d962fd7ba5f5bc0ae1017ddebc35acf",
     "texture_file": "textures/premium/premium_05_speckled_dot.png",
     "texture_id": "premium-05-04",
-    "palette": "Patina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 208
+    "palette": "Patina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 209,
     "id": "helmet_1_209",
     "file": "assets/premium/helmet_1_209.png",
     "category": "premium",
@@ -4380,15 +4383,15 @@
       0,
       0
     ],
-    "sha256": "b4e0ed97ad5f7cf6de102053fb45d2caef427f68a3d0ee5e7fc192f9bfa57367",
+    "sha256": "2635152164679998ea03f29d7e18cf7e099d52510bcd1628a8a7f7d4a1f829e0",
     "texture_file": "textures/premium/premium_05_hex.png",
     "texture_id": "premium-05-05",
-    "palette": "Patina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 209
+    "palette": "Patina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 210,
     "id": "helmet_1_210",
     "file": "assets/premium/helmet_1_210.png",
     "category": "premium",
@@ -4401,15 +4404,15 @@
       0,
       0
     ],
-    "sha256": "2b88a6a82c404551bd6770d9cdb3a0d228169645cef0b023404f5c6e5861aba5",
+    "sha256": "617f8813bfc2b8bfa9f8ea8b18b010ee502c84786c7002c334c7ee8b2abf9615",
     "texture_file": "textures/premium/premium_05_fragment.png",
     "texture_id": "premium-05-06",
-    "palette": "Patina",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 210
+    "palette": "Patina"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 211,
     "id": "helmet_1_211",
     "file": "assets/premium/helmet_1_211.png",
     "category": "premium",
@@ -4422,15 +4425,15 @@
       0,
       0
     ],
-    "sha256": "15c2f229e72e949425aa5df26c7b7cec891e639b56ee8329ba6d52efba779f27",
+    "sha256": "c87b0e87ab17c109f9f95a07e08d841b773538ef38c03f8f4f45f46b7a4e1f08",
     "texture_file": "textures/premium/premium_06_pixel_digital.png",
     "texture_id": "premium-06-01",
-    "palette": "Obsidijan",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 211
+    "palette": "Obsidijan"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 212,
     "id": "helmet_1_212",
     "file": "assets/premium/helmet_1_212.png",
     "category": "premium",
@@ -4443,15 +4446,15 @@
       0,
       0
     ],
-    "sha256": "c67258bd2337abd0ab8ecb55f39d01eb4eca82170df314c6cbbbca69856f6e80",
+    "sha256": "dae6745613c3e90a2f8b63f148c9ead10cfe1b0bf53176038b2274fb6cc9f97f",
     "texture_file": "textures/premium/premium_06_organic_woodland.png",
     "texture_id": "premium-06-02",
-    "palette": "Obsidijan",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 212
+    "palette": "Obsidijan"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 213,
     "id": "helmet_1_213",
     "file": "assets/premium/helmet_1_213.png",
     "category": "premium",
@@ -4464,15 +4467,15 @@
       0,
       0
     ],
-    "sha256": "b8f382d16e7c86f41e38138ef753ea7b410585828d1f83f630dea2513259b15a",
+    "sha256": "599538c2f6a8eb7872b09e204fea932fdfdaf63032caa4cf186d94711cfa10c9",
     "texture_file": "textures/premium/premium_06_stripes_tiger.png",
     "texture_id": "premium-06-03",
-    "palette": "Obsidijan",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 213
+    "palette": "Obsidijan"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 214,
     "id": "helmet_1_214",
     "file": "assets/premium/helmet_1_214.png",
     "category": "premium",
@@ -4485,15 +4488,15 @@
       0,
       0
     ],
-    "sha256": "ea9324f7af06e36fff49c4e7de43fe27b5f734e67de57d1a9ea2cf8aa2c823cb",
+    "sha256": "2a018d2ff10435c7b872defa84430dc9a1c47cd9fddf0520140a00b3ac2b3526",
     "texture_file": "textures/premium/premium_06_speckled_dot.png",
     "texture_id": "premium-06-04",
-    "palette": "Obsidijan",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 214
+    "palette": "Obsidijan"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 215,
     "id": "helmet_1_215",
     "file": "assets/premium/helmet_1_215.png",
     "category": "premium",
@@ -4506,15 +4509,15 @@
       0,
       0
     ],
-    "sha256": "d6a3c06da2f7f8b3967c1e23d21886b7e85b5a26ddcd11f7a3514fdc9651777d",
+    "sha256": "4bba72b12260d4be52d13803479f0ad73c1d4e0aa64ff730af2da18d1624af79",
     "texture_file": "textures/premium/premium_06_hex.png",
     "texture_id": "premium-06-05",
-    "palette": "Obsidijan",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 215
+    "palette": "Obsidijan"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 216,
     "id": "helmet_1_216",
     "file": "assets/premium/helmet_1_216.png",
     "category": "premium",
@@ -4527,15 +4530,15 @@
       0,
       0
     ],
-    "sha256": "6c91be32ca105a82a5774f8cacc61e2435143a7b164f0703be87fc4b1236425d",
+    "sha256": "f152d020c0fd8f994e81a7350c3f4dfe58919d247cf459454b34c240d24d1b35",
     "texture_file": "textures/premium/premium_06_fragment.png",
     "texture_id": "premium-06-06",
-    "palette": "Obsidijan",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 216
+    "palette": "Obsidijan"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 217,
     "id": "helmet_1_217",
     "file": "assets/solid/helmet_1_217.png",
     "category": "solid",
@@ -4548,13 +4551,13 @@
       0,
       0
     ],
-    "sha256": "46083c27120cf10a47a77902009b7fa05368c57ac72934939ff8f89b6ace2365",
-    "solid_hex": "#171A1F",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 217
+    "sha256": "a050ccd97f2d593454bd4a6992864a55229dd594b43c4b0ff779d9fb29104c19",
+    "solid_hex": "#171A1F"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 218,
     "id": "helmet_1_218",
     "file": "assets/solid/helmet_1_218.png",
     "category": "solid",
@@ -4567,13 +4570,13 @@
       0,
       0
     ],
-    "sha256": "624aeda7b609a2fc028298b3ee4ab4ff7c5a4403d9cc02add5b3c4be7153c1e5",
-    "solid_hex": "#343B43",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 218
+    "sha256": "96f53d0ec370140878f110831fc3ddf6c10abae48dd0ac4da71fd581e7902199",
+    "solid_hex": "#343B43"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 219,
     "id": "helmet_1_219",
     "file": "assets/solid/helmet_1_219.png",
     "category": "solid",
@@ -4586,13 +4589,13 @@
       0,
       0
     ],
-    "sha256": "b419ed8e8967275c468c0ed684046cc0cfd581439d797f1e23a6cff075d8bc66",
-    "solid_hex": "#565D63",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 219
+    "sha256": "740d3f15ddfcd443da88a99a74c3de3cd198528871447ef6625174b6fe9e2496",
+    "solid_hex": "#565D63"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 220,
     "id": "helmet_1_220",
     "file": "assets/solid/helmet_1_220.png",
     "category": "solid",
@@ -4605,13 +4608,13 @@
       0,
       0
     ],
-    "sha256": "c0751339f7d422ce707f5835a50079e92cabac7ba3303550c358d6fb8b12fce3",
-    "solid_hex": "#83909A",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 220
+    "sha256": "5de7d46e9e6b63712d7985a58eac777a623ba237b4870b7f9fdcaa67219ee2d4",
+    "solid_hex": "#83909A"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 221,
     "id": "helmet_1_221",
     "file": "assets/solid/helmet_1_221.png",
     "category": "solid",
@@ -4624,13 +4627,13 @@
       0,
       0
     ],
-    "sha256": "9e791e3f13c0eea67f259e52a633ac88b57fe87d7d81613cc97a82995d1ad088",
-    "solid_hex": "#BBC4CB",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 221
+    "sha256": "6fd6c5b580c71784082ab330cf1512e2eeafe5505a81a8a5550d9d10de5d5e8d",
+    "solid_hex": "#BBC4CB"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 222,
     "id": "helmet_1_222",
     "file": "assets/solid/helmet_1_222.png",
     "category": "solid",
@@ -4643,13 +4646,13 @@
       0,
       0
     ],
-    "sha256": "72f6b657ce1244f30f727454aefa753a611dbf5401d66698cfbbc1c3e00efcf8",
-    "solid_hex": "#E4E8E7",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 222
+    "sha256": "9956ebab5a06ef7d6967962ea3e667a94db3ce23a47a09189b699e2d5ffa84bc",
+    "solid_hex": "#E4E8E7"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 223,
     "id": "helmet_1_223",
     "file": "assets/solid/helmet_1_223.png",
     "category": "solid",
@@ -4662,13 +4665,13 @@
       0,
       0
     ],
-    "sha256": "91a55c2fbb32c60ec607eab04ac325a158373c79b06f578e3eea3eeaec7e0b55",
-    "solid_hex": "#DCD4BC",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 223
+    "sha256": "5033083392c985258b5ad66c5a29333def126791df0d8edacf9bea9c2a2c4009",
+    "solid_hex": "#DCD4BC"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 224,
     "id": "helmet_1_224",
     "file": "assets/solid/helmet_1_224.png",
     "category": "solid",
@@ -4681,13 +4684,13 @@
       0,
       0
     ],
-    "sha256": "90cde2c7e38aa20ed87e820e3457feeb14362a9daa35e5e81609d7cf95b0e015",
-    "solid_hex": "#697247",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 224
+    "sha256": "88b96e2052d7d0f301c3ba156fb329d48854fa846f5c2eaf271bc6bbbff32fe2",
+    "solid_hex": "#697247"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 225,
     "id": "helmet_1_225",
     "file": "assets/solid/helmet_1_225.png",
     "category": "solid",
@@ -4700,13 +4703,13 @@
       0,
       0
     ],
-    "sha256": "b3e364e8f5f38619e487b40c414bfe99c889177765a2d4557f519cb7867a4ad8",
-    "solid_hex": "#495941",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 225
+    "sha256": "65a6cef8b1db6dcaa1477c42fc99c60ba71a8f6bf7efe940e4fef0aa1acd69b5",
+    "solid_hex": "#495941"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 226,
     "id": "helmet_1_226",
     "file": "assets/solid/helmet_1_226.png",
     "category": "solid",
@@ -4719,13 +4722,13 @@
       0,
       0
     ],
-    "sha256": "0856bd9603dbb988c3307ea2748534ceec2854ca567e1fc6cc4b4352825b3d6f",
-    "solid_hex": "#2D4736",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 226
+    "sha256": "d987516503256d6695a309d7eb2e56b5c024c49828a141cc8cf6ae5f62f3ba94",
+    "solid_hex": "#2D4736"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 227,
     "id": "helmet_1_227",
     "file": "assets/solid/helmet_1_227.png",
     "category": "solid",
@@ -4738,13 +4741,13 @@
       0,
       0
     ],
-    "sha256": "e75a2d77844196cf43e3865826d3d635eb0b1dc4980ff1efb83c0e07b8911b26",
-    "solid_hex": "#89947A",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 227
+    "sha256": "328672ddf786eb82938d269b96846b5281bd910c3004d555f7c1fc480e2f402f",
+    "solid_hex": "#89947A"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 228,
     "id": "helmet_1_228",
     "file": "assets/solid/helmet_1_228.png",
     "category": "solid",
@@ -4757,13 +4760,13 @@
       0,
       0
     ],
-    "sha256": "0a9c5da682155f00585e3da111549b4889408722aa54c7e71b2bc6069b76a948",
-    "solid_hex": "#9D8056",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 228
+    "sha256": "3837989e0febe1aba61252a292b30905208291b78d90f45c371b78c9649e7eeb",
+    "solid_hex": "#9D8056"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 229,
     "id": "helmet_1_229",
     "file": "assets/solid/helmet_1_229.png",
     "category": "solid",
@@ -4776,13 +4779,13 @@
       0,
       0
     ],
-    "sha256": "872da3e2bcc6764476f636f167d6ad2b0db02d0629fffc2a165cda49a47b1e24",
-    "solid_hex": "#D5BD8B",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 229
+    "sha256": "538fc437b60b466124114ca7e049f0b77716c83bc607716a89ffa6803e809e43",
+    "solid_hex": "#D5BD8B"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 230,
     "id": "helmet_1_230",
     "file": "assets/solid/helmet_1_230.png",
     "category": "solid",
@@ -4795,13 +4798,13 @@
       0,
       0
     ],
-    "sha256": "a6bbf3e11dd48d4c26fe002c172b26a89c77fbb594e96032afff99ca596f306c",
-    "solid_hex": "#B2A175",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 230
+    "sha256": "7ef0ea666a80a7e4ee2e56ec9c434269a578deb6ed282122a0f9896fd2a1a37f",
+    "solid_hex": "#B2A175"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 231,
     "id": "helmet_1_231",
     "file": "assets/solid/helmet_1_231.png",
     "category": "solid",
@@ -4814,13 +4817,13 @@
       0,
       0
     ],
-    "sha256": "9fee384d98f9b8bfdecfe911858799de7021c6304c56084946eece151f59cb22",
-    "solid_hex": "#71503B",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 231
+    "sha256": "e52778f051956343be403a5d39d140a5f270ad028ebb33c1b2160289e1c60aca",
+    "solid_hex": "#71503B"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 232,
     "id": "helmet_1_232",
     "file": "assets/solid/helmet_1_232.png",
     "category": "solid",
@@ -4833,13 +4836,13 @@
       0,
       0
     ],
-    "sha256": "2fd8f94075b6a3af63aa9dc01c180b95a3080857369f67da4af92285f558e496",
-    "solid_hex": "#20364F",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 232
+    "sha256": "3bd490ad52938c2129d5441634142d5a19ea4329ab643493136f9348e9ace424",
+    "solid_hex": "#20364F"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 233,
     "id": "helmet_1_233",
     "file": "assets/solid/helmet_1_233.png",
     "category": "solid",
@@ -4852,13 +4855,13 @@
       0,
       0
     ],
-    "sha256": "267c7ec4cf33d0e1a3043a918d5dfe9b9a549d425a78d8048347c37d9a119bc4",
-    "solid_hex": "#2863A4",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 233
+    "sha256": "230883b1776155e2ec58666c1f8dcc4fa86c976ca87e2915944aa53a88932603",
+    "solid_hex": "#2863A4"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 234,
     "id": "helmet_1_234",
     "file": "assets/solid/helmet_1_234.png",
     "category": "solid",
@@ -4871,13 +4874,13 @@
       0,
       0
     ],
-    "sha256": "b6b342132019a94c2b87551d1b61fe0a6c37fad1664176da5bdb2372a050f06a",
-    "solid_hex": "#60788D",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 234
+    "sha256": "a5898e7faaddb1f9bc02861c60a7f7ae22b0b63de283ae8a36af7dd9b0015110",
+    "solid_hex": "#60788D"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 235,
     "id": "helmet_1_235",
     "file": "assets/solid/helmet_1_235.png",
     "category": "solid",
@@ -4890,13 +4893,13 @@
       0,
       0
     ],
-    "sha256": "b007f7891d801276dd8762a945f6964d704e3aeaf977153f3868bf3457bb2510",
-    "solid_hex": "#2D716C",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 235
+    "sha256": "6008f2a526baa66d1a1702b0b8cdf82785a5db272b17a3b76feb6c646ac946f8",
+    "solid_hex": "#2D716C"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 236,
     "id": "helmet_1_236",
     "file": "assets/solid/helmet_1_236.png",
     "category": "solid",
@@ -4909,13 +4912,13 @@
       0,
       0
     ],
-    "sha256": "ea4880e1e96642b88a84cbdf8a5b25b6c9cc7becf2e6fe9ab6d9e93d2a4d5a64",
-    "solid_hex": "#692A3D",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 236
+    "sha256": "cdf8872c5ef30949adbf5f27088f9c5065d70ae673330cd59617d1613b85f568",
+    "solid_hex": "#692A3D"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 237,
     "id": "helmet_1_237",
     "file": "assets/solid/helmet_1_237.png",
     "category": "solid",
@@ -4928,13 +4931,13 @@
       0,
       0
     ],
-    "sha256": "0a5cabd67c3c4486ecd9d9d030f31d5d1ef52e926b095f017f50d96a18dab8f8",
-    "solid_hex": "#A2373F",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 237
+    "sha256": "6682419452adb64c6048074fe27c4e0fdda7b97a6949fab4093b647431383eae",
+    "solid_hex": "#A2373F"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 238,
     "id": "helmet_1_238",
     "file": "assets/solid/helmet_1_238.png",
     "category": "solid",
@@ -4947,13 +4950,13 @@
       0,
       0
     ],
-    "sha256": "545be11ec063a44f3a90a64ad92ef0dbbfb031ec111f5b450dafae10569addd1",
-    "solid_hex": "#D47B32",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 238
+    "sha256": "4c314c73650e11ce3ad31503fbbbe67425f6f4fcfd8d60dc8b374b6b56a67cf8",
+    "solid_hex": "#D47B32"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 239,
     "id": "helmet_1_239",
     "file": "assets/solid/helmet_1_239.png",
     "category": "solid",
@@ -4966,13 +4969,13 @@
       0,
       0
     ],
-    "sha256": "1c3b7417f6f365e80427984967b1aab44e60837d9552cbe12572550d685e8bbe",
-    "solid_hex": "#BCA15A",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 239
+    "sha256": "041c975d3b4e9270405220d984c7a066ab889d0415ba452f74f0c551590b4515",
+    "solid_hex": "#BCA15A"
   },
   {
+    "item_type": "helmet",
+    "model_number": 1,
+    "color_number": 240,
     "id": "helmet_1_240",
     "file": "assets/solid/helmet_1_240.png",
     "category": "solid",
@@ -4985,10 +4988,7 @@
       0,
       0
     ],
-    "sha256": "90e2f159352eac44032d1491f405b9e0e6df9cb5cc6ddeb1befa61fcb38c75da",
-    "solid_hex": "#8056A3",
-    "item_type": "helmet",
-    "model_number": 1,
-    "color_number": 240
+    "sha256": "1384f9957a407c12a65ab66c93141e7dcae649a1b96cdafc478d104bd4310567",
+    "solid_hex": "#8056A3"
   }
 ]

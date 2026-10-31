@@ -3,14 +3,16 @@ from PIL import Image, ImageDraw, ImageFont,ImageFilter
 import numpy as np,json,zipfile,hashlib,csv
 R=Path(__file__).resolve().parents[1];O=R/'helmets'
 base=Image.open(O/'model/helmet_base.png').convert('RGBA');a=np.array(base);gray=np.mean(a[:,:,:3],axis=2)
-# Geometric exclusions keep the central mount, rails and lower rubber rim intact.
-m=Image.new('L',(1024,1024));d=ImageDraw.Draw(m)
-d.polygon([(327,214),(345,166),(385,120),(450,84),(510,71),(577,84),(644,123),(681,169),(700,213),(677,252),(666,319),(625,295),(574,281),(449,281),(393,296),(350,319),(346,252)],fill=255)
-d.polygon([(474,158),(548,158),(554,173),(579,195),(582,263),(555,288),(472,288),(443,266),(440,196),(462,176)],fill=0)
-d.polygon([(290,202),(326,202),(352,239),(362,279),(353,324),(291,330)],fill=0)
-d.polygon([(674,201),(738,201),(738,331),(670,324),(662,282),(671,240)],fill=0)
-mask=np.array(m.filter(ImageFilter.GaussianBlur(.7)),dtype='float32')/255
-mask*=np.clip((gray-90)/35,0,1)*(a[:,:,3]>0)
+# Flood-fill actual shell material so narrow temple panels and mount boundaries
+# are colored without using a coarse polygon that leaves pale strips behind.
+from scipy.ndimage import label, binary_dilation
+regions,_=label((gray>125)&(a[:,:,3]>100))
+seed_labels=[regions[y,x] for x,y in [(512,110),(329,350),(698,350)]]
+assert all(seed_labels), "Shell material seed missing"
+core=np.isin(regions,seed_labels)
+edge=binary_dilation(core,iterations=1)&(gray>85)&(a[:,:,3]>0)
+mask=core.astype('float32')
+mask[edge&~core]=.8
 Image.fromarray((mask*255).astype('uint8')).save(O/'model/shell_mask.png')
 shade=np.clip(gray/185,.35,1.35)[...,None]
 commander=Image.new('RGBA',(1024,1024),'#242c30')
@@ -70,7 +72,7 @@ Ista silueta i alfa kanal u svih 240 varijanti. Tekstura je primenjena na masku 
 
 model/helmet_base.png: generisani osnovni model registrovan na master glavu. model/shell_mask.png: maska povrsine koja se boji, pogodna i za dodatnu rucnu doradu. previews/: svih 240 varijanti na komandiru. manifest.json: veza svakog slema sa izvorom teksture. solid_colors.json: HEX baze za jednobojne varijante.
 
-Reprodukcija: Python + Pillow + NumPy, pokrenuti python ewarstate/scripts/build_helmets.py iz repozitorijuma. Osnovni model i korisnicki master paket su sacuvani u repozitorijumu.
+Reprodukcija: Python + Pillow + NumPy + SciPy, pokrenuti python ewarstate/scripts/build_helmets.py iz repozitorijuma. Osnovni model i korisnicki master paket su sacuvani u repozitorijumu.
 ''')
 files=list((O/'assets').rglob('*.png'));assert len(files)==240
 hashes=set()
