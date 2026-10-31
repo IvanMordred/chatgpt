@@ -1,0 +1,206 @@
+[
+  {
+    "file": "../downloads/ewarstate_uniforms_01.zip",
+    "models": [
+      "uniform_1",
+      "uniform_2",
+      "uniform_3",
+      "uniform_4",
+      "uniform_5",
+      "uniform_6",
+      "uniform_7",
+      "uniform_8",
+      "uniform_9",
+      "uniform_10"
+    ],
+    "variants": 50,
+    "bytes": 20421682
+  },
+  {
+    "file": "../downloads/ewarstate_uniforms_02.zip",
+    "models": [
+      "uniform_11",
+      "uniform_12",
+      "uniform_13",
+      "uniform_14",
+      "uniform_15",
+      "uniform_16",
+      "uniform_17",
+      "uniform_18",
+      "uniform_19",
+      "uniform_20"
+    ],
+    "variants": 48,
+    "bytes": 21219886
+  },
+  {
+    "file": "../downloads/ewarstate_uniforms_03.zip",
+    "models": [
+      "uniform_21",
+      "uniform_22",
+      "uniform_23",
+      "uniform_24",
+      "uniform_25",
+      "uniform_26",
+      "uniform_27",
+      "uniform_28",
+      "uniform_29",
+      "uniform_30"
+    ],
+    "variants": 48,
+    "bytes": 20040030
+  },
+  {
+    "file": "../downloads/ewarstate_vests_01.zip",
+    "models": [
+      "vest_1",
+      "vest_2",
+      "vest_3",
+      "vest_4",
+      "vest_5",
+      "vest_6",
+      "vest_7",
+      "vest_8",
+      "vest_9",
+      "vest_10"
+    ],
+    "variants": 40,
+    "bytes": 13925971
+  },
+  {
+    "file": "../downloads/ewarstate_vests_02.zip",
+    "models": [
+      "vest_11",
+      "vest_12",
+      "vest_13",
+      "vest_14",
+      "vest_15",
+      "vest_16",
+      "vest_17",
+      "vest_18",
+      "vest_19",
+      "vest_20"
+    ],
+    "variants": 40,
+    "bytes": 14471913
+  },
+  {
+    "file": "../downloads/ewarstate_vests_03.zip",
+    "models": [
+      "vest_21",
+      "vest_22",
+      "vest_23",
+      "vest_24",
+      "vest_25",
+      "vest_26",
+      "vest_27",
+      "vest_28",
+      "vest_29",
+      "vest_30"
+    ],
+    "variants": 40,
+    "bytes": 18455600
+  },
+  {
+    "file": "../downloads/ewarstate_facewear_01.zip",
+    "models": [
+      "mask_1",
+      "mask_2",
+      "mask_3",
+      "mask_4",
+      "mask_5",
+      "mask_6",
+      "scarf_1",
+      "scarf_2",
+      "scarf_3",
+      "scarf_4"
+    ],
+    "variants": 40,
+    "bytes": 8890018
+  },
+  {
+    "file": "../downloads/ewarstate_facewear_02.zip",
+    "models": [
+      "balaclava_1",
+      "balaclava_2",
+      "balaclava_3",
+      "balaclava_4",
+      "balaclava_5",
+      "balaclava_6",
+      "balaclava_7",
+      "balaclava_8",
+      "balaclava_9",
+      "balaclava_10"
+    ],
+    "variants": 40,
+    "bytes": 15748136
+  },
+  {
+    "file": "../downloads/ewarstate_facewear_03.zip",
+    "models": [
+      "gasmask_1",
+      "gasmask_2",
+      "gasmask_3",
+      "gasmask_4",
+      "gasmask_5",
+      "gasmask_6",
+      "gasmask_7",
+      "gasmask_8",
+      "gasmask_9",
+      "gasmask_10"
+    ],
+    "variants": 40,
+    "bytes": 10839821
+  },
+  {
+    "file": "../downloads/ewarstate_accessories_01.zip",
+    "models": [
+      "glasses_1",
+      "glasses_2",
+      "eyepatch_1",
+      "headset_1",
+      "headset_2",
+      "cigar_1",
+      "cigarette_1",
+      "rank_1",
+      "rank_2",
+      "rank_3"
+    ],
+    "variants": 10,
+    "bytes": 1041297
+  },
+  {
+    "file": "../downloads/ewarstate_face_details_01.zip",
+    "models": [
+      "facepaint_1",
+      "facepaint_2",
+      "facepaint_3",
+      "facepaint_4",
+      "facepaint_5",
+      "scar_1",
+      "scar_2",
+      "scar_3",
+      "scar_4",
+      "scar_5"
+    ],
+    "variants": 10,
+    "bytes": 847117
+  },
+  {
+    "file": "../downloads/ewarstate_backgrounds_01.zip",
+    "models": [
+      "background_1",
+      "background_2",
+      "background_3",
+      "background_4",
+      "background_5",
+      "background_6",
+      "background_7",
+      "background_8",
+      "background_9",
+      "background_10"
+    ],
+    "variants": 10,
+    "bytes": 10930520
+  }
+]

@@ -1,0 +1,2458 @@
+[
+  {
+    "id": "uniform_1",
+    "type": "uniform",
+    "number": 1,
+    "name": "Terenska kosulja",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:1"
+  },
+  {
+    "id": "uniform_2",
+    "type": "uniform",
+    "number": 2,
+    "name": "Borbena majica",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:2"
+  },
+  {
+    "id": "uniform_3",
+    "type": "uniform",
+    "number": 3,
+    "name": "Combat zip majica",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:3"
+  },
+  {
+    "id": "uniform_4",
+    "type": "uniform",
+    "number": 4,
+    "name": "Vojna polo majica",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:4"
+  },
+  {
+    "id": "uniform_5",
+    "type": "uniform",
+    "number": 5,
+    "name": "Dzungla kosulja",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:5"
+  },
+  {
+    "id": "uniform_6",
+    "type": "uniform",
+    "number": 6,
+    "name": "Pustinjska utility kosulja",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:6"
+  },
+  {
+    "id": "uniform_7",
+    "type": "uniform",
+    "number": 7,
+    "name": "Raglan borbena majica",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:7"
+  },
+  {
+    "id": "uniform_8",
+    "type": "uniform",
+    "number": 8,
+    "name": "Zimska combat majica",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:8"
+  },
+  {
+    "id": "uniform_9",
+    "type": "uniform",
+    "number": 9,
+    "name": "Mrezasta sportska majica",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:9"
+  },
+  {
+    "id": "uniform_10",
+    "type": "uniform",
+    "number": 10,
+    "name": "Placenička radna kosulja",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_a:10"
+  },
+  {
+    "id": "vest_1",
+    "type": "vest",
+    "number": 1,
+    "name": "Meki pancir",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:1"
+  },
+  {
+    "id": "vest_2",
+    "type": "vest",
+    "number": 2,
+    "name": "MOLLE plocasti nosac",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:2"
+  },
+  {
+    "id": "vest_3",
+    "type": "vest",
+    "number": 3,
+    "name": "Laki chest rig",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:3"
+  },
+  {
+    "id": "vest_4",
+    "type": "vest",
+    "number": 4,
+    "name": "Jurisni pancir",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:4"
+  },
+  {
+    "id": "vest_5",
+    "type": "vest",
+    "number": 5,
+    "name": "Mikro izvidjacki rig",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:5"
+  },
+  {
+    "id": "vest_6",
+    "type": "vest",
+    "number": 6,
+    "name": "Prikriveni prsluk",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:6"
+  },
+  {
+    "id": "vest_7",
+    "type": "vest",
+    "number": 7,
+    "name": "Fragmentacioni pancir",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:7"
+  },
+  {
+    "id": "vest_8",
+    "type": "vest",
+    "number": 8,
+    "name": "Crossdraw prsluk",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:8"
+  },
+  {
+    "id": "vest_9",
+    "type": "vest",
+    "number": 9,
+    "name": "Minimalni uprtac",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_a:9"
+  },
+  {
+    "id": "vest_10",
+    "type": "vest",
+    "number": 10,
+    "name": "Teski pesadijski oklop",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      -13,
+      665,
+      1050,
+      465
+    ],
+    "source": "vest_a:10"
+  },
+  {
+    "id": "uniform_11",
+    "type": "uniform",
+    "number": 11,
+    "name": "M65 jakna",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:1"
+  },
+  {
+    "id": "uniform_12",
+    "type": "uniform",
+    "number": 12,
+    "name": "Softshell jakna",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:2"
+  },
+  {
+    "id": "uniform_13",
+    "type": "uniform",
+    "number": 13,
+    "name": "Zimska parka",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:3"
+  },
+  {
+    "id": "uniform_14",
+    "type": "uniform",
+    "number": 14,
+    "name": "Kisna jakna",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:4"
+  },
+  {
+    "id": "uniform_15",
+    "type": "uniform",
+    "number": 15,
+    "name": "Kozna jakna",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "navy",
+      "brown"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:5"
+  },
+  {
+    "id": "uniform_16",
+    "type": "uniform",
+    "number": 16,
+    "name": "Ekspedicijska jakna",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:6"
+  },
+  {
+    "id": "uniform_17",
+    "type": "uniform",
+    "number": 17,
+    "name": "Komando dzemper",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:7"
+  },
+  {
+    "id": "uniform_18",
+    "type": "uniform",
+    "number": 18,
+    "name": "Prosivena jakna",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:8"
+  },
+  {
+    "id": "uniform_19",
+    "type": "uniform",
+    "number": 19,
+    "name": "Pilotska bomber jakna",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:9"
+  },
+  {
+    "id": "uniform_20",
+    "type": "uniform",
+    "number": 20,
+    "name": "Mornarski kaput",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "navy",
+      "brown"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_b:10"
+  },
+  {
+    "id": "vest_11",
+    "type": "vest",
+    "number": 11,
+    "name": "Medicinski prsluk",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:1"
+  },
+  {
+    "id": "vest_12",
+    "type": "vest",
+    "number": 12,
+    "name": "Plutajuci pomorski prsluk",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:2"
+  },
+  {
+    "id": "vest_13",
+    "type": "vest",
+    "number": 13,
+    "name": "Spasilacki uprtac",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:3"
+  },
+  {
+    "id": "vest_14",
+    "type": "vest",
+    "number": 14,
+    "name": "Inzenjerijski prsluk",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:4"
+  },
+  {
+    "id": "vest_15",
+    "type": "vest",
+    "number": 15,
+    "name": "Radio operater",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:5"
+  },
+  {
+    "id": "vest_16",
+    "type": "vest",
+    "number": 16,
+    "name": "Dron operater",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:6"
+  },
+  {
+    "id": "vest_17",
+    "type": "vest",
+    "number": 17,
+    "name": "Breacher prsluk",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:7"
+  },
+  {
+    "id": "vest_18",
+    "type": "vest",
+    "number": 18,
+    "name": "Kozni ekspedicijski uprtac",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:8"
+  },
+  {
+    "id": "vest_19",
+    "type": "vest",
+    "number": 19,
+    "name": "Planinarski uprtac",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_b:9"
+  },
+  {
+    "id": "vest_20",
+    "type": "vest",
+    "number": 20,
+    "name": "Interventni oklop",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      -13,
+      665,
+      1050,
+      465
+    ],
+    "source": "vest_b:10"
+  },
+  {
+    "id": "uniform_21",
+    "type": "uniform",
+    "number": 21,
+    "name": "Oficirska bluza",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "navy",
+      "brown"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:1"
+  },
+  {
+    "id": "uniform_22",
+    "type": "uniform",
+    "number": 22,
+    "name": "Oficirsko odelo sa kravatom",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "navy",
+      "brown"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:2"
+  },
+  {
+    "id": "uniform_23",
+    "type": "uniform",
+    "number": 23,
+    "name": "Arkticki flis",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:3"
+  },
+  {
+    "id": "uniform_24",
+    "type": "uniform",
+    "number": 24,
+    "name": "Tehnicki zimski sloj",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:4"
+  },
+  {
+    "id": "uniform_25",
+    "type": "uniform",
+    "number": 25,
+    "name": "Tropska kosulja",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:5"
+  },
+  {
+    "id": "uniform_26",
+    "type": "uniform",
+    "number": 26,
+    "name": "Pustinjska lanena kosulja",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:6"
+  },
+  {
+    "id": "uniform_27",
+    "type": "uniform",
+    "number": 27,
+    "name": "Spasilacka radna kosulja",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:7"
+  },
+  {
+    "id": "uniform_28",
+    "type": "uniform",
+    "number": 28,
+    "name": "Mehanicarski kombinezon",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:8"
+  },
+  {
+    "id": "uniform_29",
+    "type": "uniform",
+    "number": 29,
+    "name": "Duks sa spustenom kapuljacom",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:9"
+  },
+  {
+    "id": "uniform_30",
+    "type": "uniform",
+    "number": 30,
+    "name": "Henley dzemper",
+    "group": "uniforms",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand",
+      "woodland"
+    ],
+    "slot": "uniform",
+    "registration": [
+      -42,
+      620,
+      1108,
+      485
+    ],
+    "source": "uniform_c:10"
+  },
+  {
+    "id": "vest_21",
+    "type": "vest",
+    "number": 21,
+    "name": "Keramicki laki oklop",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_c:1"
+  },
+  {
+    "id": "vest_22",
+    "type": "vest",
+    "number": 22,
+    "name": "Izvidjacki segmentirani oklop",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_c:2"
+  },
+  {
+    "id": "vest_23",
+    "type": "vest",
+    "number": 23,
+    "name": "Teski breacher oklop",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      -13,
+      665,
+      1050,
+      465
+    ],
+    "source": "vest_c:3"
+  },
+  {
+    "id": "vest_24",
+    "type": "vest",
+    "number": 24,
+    "name": "EOD oklop",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      -13,
+      665,
+      1050,
+      465
+    ],
+    "source": "vest_c:4"
+  },
+  {
+    "id": "vest_25",
+    "type": "vest",
+    "number": 25,
+    "name": "Karbonski nosac",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_c:5"
+  },
+  {
+    "id": "vest_26",
+    "type": "vest",
+    "number": 26,
+    "name": "Keramicki egzoskelet",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      -13,
+      665,
+      1050,
+      465
+    ],
+    "source": "vest_c:6"
+  },
+  {
+    "id": "vest_27",
+    "type": "vest",
+    "number": 27,
+    "name": "Oficirski premium oklop",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      -13,
+      665,
+      1050,
+      465
+    ],
+    "source": "vest_c:7"
+  },
+  {
+    "id": "vest_28",
+    "type": "vest",
+    "number": 28,
+    "name": "Raider oklop",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_c:8"
+  },
+  {
+    "id": "vest_29",
+    "type": "vest",
+    "number": 29,
+    "name": "Arkticki pancir",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      -13,
+      665,
+      1050,
+      465
+    ],
+    "source": "vest_c:9"
+  },
+  {
+    "id": "vest_30",
+    "type": "vest",
+    "number": 30,
+    "name": "Modularni oklopljeni uprtac",
+    "group": "vests",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "vest",
+    "registration": [
+      97,
+      665,
+      830,
+      465
+    ],
+    "source": "vest_c:10"
+  },
+  {
+    "id": "mask_1",
+    "type": "mask",
+    "number": 1,
+    "name": "Platnena polumaska",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      302,
+      455,
+      420,
+      205
+    ],
+    "source": "mask_a:1"
+  },
+  {
+    "id": "mask_2",
+    "type": "mask",
+    "number": 2,
+    "name": "Mrezasta polumaska",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      302,
+      455,
+      420,
+      205
+    ],
+    "source": "mask_a:2"
+  },
+  {
+    "id": "mask_3",
+    "type": "mask",
+    "number": 3,
+    "name": "Plisirana maska",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      302,
+      455,
+      420,
+      205
+    ],
+    "source": "mask_a:3"
+  },
+  {
+    "id": "mask_4",
+    "type": "mask",
+    "number": 4,
+    "name": "Segmentirani stitnik vilice",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      302,
+      455,
+      420,
+      205
+    ],
+    "source": "mask_a:4"
+  },
+  {
+    "id": "mask_5",
+    "type": "mask",
+    "number": 5,
+    "name": "Kozna polumaska",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      302,
+      455,
+      420,
+      205
+    ],
+    "source": "mask_a:5"
+  },
+  {
+    "id": "mask_6",
+    "type": "mask",
+    "number": 6,
+    "name": "Lobanja oklopna polumaska",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      302,
+      455,
+      420,
+      205
+    ],
+    "source": "mask_a:6"
+  },
+  {
+    "id": "scarf_1",
+    "type": "scarf",
+    "number": 1,
+    "name": "Semaga",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      257,
+      455,
+      510,
+      350
+    ],
+    "source": "mask_a:7"
+  },
+  {
+    "id": "scarf_2",
+    "type": "scarf",
+    "number": 2,
+    "name": "Podignuti grejac vrata",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      257,
+      455,
+      510,
+      350
+    ],
+    "source": "mask_a:8"
+  },
+  {
+    "id": "scarf_3",
+    "type": "scarf",
+    "number": 3,
+    "name": "Vezana marama",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      257,
+      455,
+      510,
+      350
+    ],
+    "source": "mask_a:9"
+  },
+  {
+    "id": "scarf_4",
+    "type": "scarf",
+    "number": 4,
+    "name": "Zimski sal",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      257,
+      455,
+      510,
+      350
+    ],
+    "source": "mask_a:10"
+  },
+  {
+    "id": "balaclava_1",
+    "type": "balaclava",
+    "number": 1,
+    "name": "Tropola fantomka",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      287,
+      96,
+      450,
+      615
+    ],
+    "source": "balaclava_a:1"
+  },
+  {
+    "id": "balaclava_2",
+    "type": "balaclava",
+    "number": 2,
+    "name": "Jedan ocni prorez",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      287,
+      99,
+      450,
+      617
+    ],
+    "source": "balaclava_a:2"
+  },
+  {
+    "id": "balaclava_3",
+    "type": "balaclava",
+    "number": 3,
+    "name": "Dva ocna otvora",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      287,
+      124,
+      450,
+      609
+    ],
+    "source": "balaclava_a:3"
+  },
+  {
+    "id": "balaclava_4",
+    "type": "balaclava",
+    "number": 4,
+    "name": "Flis fantomka",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      287,
+      110,
+      450,
+      615
+    ],
+    "source": "balaclava_a:4"
+  },
+  {
+    "id": "balaclava_5",
+    "type": "balaclava",
+    "number": 5,
+    "name": "Mrezasta balaklava",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      287,
+      124,
+      450,
+      620
+    ],
+    "source": "balaclava_a:5"
+  },
+  {
+    "id": "balaclava_6",
+    "type": "balaclava",
+    "number": 6,
+    "name": "Ojacana balaklava",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      287,
+      92,
+      450,
+      622
+    ],
+    "source": "balaclava_a:6"
+  },
+  {
+    "id": "balaclava_7",
+    "type": "balaclava",
+    "number": 7,
+    "name": "Otvoreno lice",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      287,
+      85,
+      450,
+      700
+    ],
+    "source": "balaclava_a:7"
+  },
+  {
+    "id": "balaclava_8",
+    "type": "balaclava",
+    "number": 8,
+    "name": "Pustinjski omot",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      268,
+      93,
+      550,
+      611
+    ],
+    "source": "balaclava_a:8"
+  },
+  {
+    "id": "balaclava_9",
+    "type": "balaclava",
+    "number": 9,
+    "name": "Neopren balaklava",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      287,
+      126,
+      450,
+      640
+    ],
+    "source": "balaclava_a:9"
+  },
+  {
+    "id": "balaclava_10",
+    "type": "balaclava",
+    "number": 10,
+    "name": "Teska zimska balaklava",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      252,
+      52,
+      520,
+      811
+    ],
+    "source": "balaclava_a:10"
+  },
+  {
+    "id": "gasmask_1",
+    "type": "gasmask",
+    "number": 1,
+    "name": "Centralni filter",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      277,
+      435,
+      470,
+      225
+    ],
+    "source": "gasmask_a:1"
+  },
+  {
+    "id": "gasmask_2",
+    "type": "gasmask",
+    "number": 2,
+    "name": "Dva bocna filtera",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      277,
+      435,
+      470,
+      225
+    ],
+    "source": "gasmask_a:2"
+  },
+  {
+    "id": "gasmask_3",
+    "type": "gasmask",
+    "number": 3,
+    "name": "Industrijski respirator",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      277,
+      435,
+      470,
+      225
+    ],
+    "source": "gasmask_a:3"
+  },
+  {
+    "id": "gasmask_4",
+    "type": "gasmask",
+    "number": 4,
+    "name": "Zimski respirator",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "lower_face",
+    "registration": [
+      277,
+      435,
+      470,
+      225
+    ],
+    "source": "gasmask_a:4"
+  },
+  {
+    "id": "gasmask_5",
+    "type": "gasmask",
+    "number": 5,
+    "name": "Okrugla stakla",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      277,
+      190,
+      470,
+      475
+    ],
+    "source": "gasmask_a:5"
+  },
+  {
+    "id": "gasmask_6",
+    "type": "gasmask",
+    "number": 6,
+    "name": "Panoramski gas maska",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      277,
+      190,
+      470,
+      475
+    ],
+    "source": "gasmask_a:6"
+  },
+  {
+    "id": "gasmask_7",
+    "type": "gasmask",
+    "number": 7,
+    "name": "Ugaoni vojni respirator",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      277,
+      190,
+      470,
+      475
+    ],
+    "source": "gasmask_a:7"
+  },
+  {
+    "id": "gasmask_8",
+    "type": "gasmask",
+    "number": 8,
+    "name": "Asimetricni respirator",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      277,
+      190,
+      470,
+      475
+    ],
+    "source": "gasmask_a:8"
+  },
+  {
+    "id": "gasmask_9",
+    "type": "gasmask",
+    "number": 9,
+    "name": "Vatrogasni respirator",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      277,
+      190,
+      470,
+      475
+    ],
+    "source": "gasmask_a:9"
+  },
+  {
+    "id": "gasmask_10",
+    "type": "gasmask",
+    "number": 10,
+    "name": "Oklopljeni respirator",
+    "group": "facewear",
+    "choices": [
+      "base",
+      "black",
+      "olive",
+      "sand"
+    ],
+    "slot": "full_face",
+    "registration": [
+      277,
+      190,
+      470,
+      475
+    ],
+    "source": "gasmask_a:10"
+  },
+  {
+    "id": "glasses_1",
+    "type": "glasses",
+    "number": 1,
+    "name": "Zlatne avijatorske naocare",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "eyes",
+    "registration": [
+      332,
+      309,
+      360,
+      125
+    ],
+    "source": "accessories_a:1"
+  },
+  {
+    "id": "glasses_2",
+    "type": "glasses",
+    "number": 2,
+    "name": "Balisticke naocare",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "eyes",
+    "registration": [
+      327,
+      314,
+      370,
+      115
+    ],
+    "source": "accessories_a:2"
+  },
+  {
+    "id": "eyepatch_1",
+    "type": "eyepatch",
+    "number": 1,
+    "name": "Povez za oko",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "eyes",
+    "registration": [
+      302,
+      245,
+      420,
+      160
+    ],
+    "source": "accessories_a:3"
+  },
+  {
+    "id": "headset_1",
+    "type": "headset",
+    "number": 1,
+    "name": "Dvousne slusalice sa mikrofonom",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "ears",
+    "registration": [
+      252,
+      95,
+      520,
+      465
+    ],
+    "source": "accessories_a:4"
+  },
+  {
+    "id": "headset_2",
+    "type": "headset",
+    "number": 2,
+    "name": "Jednousna radio-veza",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "ears",
+    "registration": [
+      277,
+      90,
+      470,
+      470
+    ],
+    "source": "accessories_a:5"
+  },
+  {
+    "id": "cigar_1",
+    "type": "cigar",
+    "number": 1,
+    "name": "Cigara",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "mouth",
+    "registration": [
+      568,
+      525,
+      112,
+      64
+    ],
+    "source": "accessories_a:6"
+  },
+  {
+    "id": "cigarette_1",
+    "type": "cigarette",
+    "number": 1,
+    "name": "Cigareta",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "mouth",
+    "registration": [
+      570,
+      528,
+      102,
+      53
+    ],
+    "source": "accessories_a:7"
+  },
+  {
+    "id": "rank_1",
+    "type": "rank",
+    "number": 1,
+    "name": "Dva sevrona",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "chest_badge",
+    "registration": [
+      724,
+      805,
+      88,
+      72
+    ],
+    "source": "accessories_a:8"
+  },
+  {
+    "id": "rank_2",
+    "type": "rank",
+    "number": 2,
+    "name": "Dvostruka srebrna oznaka",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "chest_badge",
+    "registration": [
+      744,
+      805,
+      64,
+      70
+    ],
+    "source": "accessories_a:9"
+  },
+  {
+    "id": "rank_3",
+    "type": "rank",
+    "number": 3,
+    "name": "Tri komandirske zvezde",
+    "group": "accessories",
+    "choices": [
+      "base"
+    ],
+    "slot": "chest_badge",
+    "registration": [
+      710,
+      808,
+      112,
+      52
+    ],
+    "source": "accessories_a:10"
+  },
+  {
+    "id": "facepaint_1",
+    "type": "facepaint",
+    "number": 1,
+    "name": "Boja za lice 1",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      365,
+      414,
+      294,
+      66
+    ],
+    "source": "face_a:1"
+  },
+  {
+    "id": "facepaint_2",
+    "type": "facepaint",
+    "number": 2,
+    "name": "Boja za lice 2",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      366,
+      330,
+      292,
+      205
+    ],
+    "source": "face_a:2"
+  },
+  {
+    "id": "facepaint_3",
+    "type": "facepaint",
+    "number": 3,
+    "name": "Boja za lice 3",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      368,
+      385,
+      290,
+      175
+    ],
+    "source": "face_a:3"
+  },
+  {
+    "id": "facepaint_4",
+    "type": "facepaint",
+    "number": 4,
+    "name": "Boja za lice 4",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      355,
+      405,
+      314,
+      150
+    ],
+    "source": "face_a:4"
+  },
+  {
+    "id": "facepaint_5",
+    "type": "facepaint",
+    "number": 5,
+    "name": "Boja za lice 5",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      347,
+      338,
+      330,
+      238
+    ],
+    "source": "face_a:5"
+  },
+  {
+    "id": "scar_1",
+    "type": "scar",
+    "number": 1,
+    "name": "Zarastao oziljak 1",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      592,
+      315,
+      30,
+      105
+    ],
+    "source": "face_a:6"
+  },
+  {
+    "id": "scar_2",
+    "type": "scar",
+    "number": 2,
+    "name": "Zarastao oziljak 2",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      597,
+      415,
+      70,
+      95
+    ],
+    "source": "face_a:7"
+  },
+  {
+    "id": "scar_3",
+    "type": "scar",
+    "number": 3,
+    "name": "Zarastao oziljak 3",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      585,
+      415,
+      90,
+      105
+    ],
+    "source": "face_a:8"
+  },
+  {
+    "id": "scar_4",
+    "type": "scar",
+    "number": 4,
+    "name": "Zarastao oziljak 4",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      395,
+      327,
+      65,
+      35
+    ],
+    "source": "face_a:9"
+  },
+  {
+    "id": "scar_5",
+    "type": "scar",
+    "number": 5,
+    "name": "Zarastao oziljak 5",
+    "group": "face_details",
+    "choices": [
+      "base"
+    ],
+    "slot": "skin",
+    "registration": [
+      592,
+      446,
+      78,
+      45
+    ],
+    "source": "face_a:10"
+  },
+  {
+    "id": "background_1",
+    "type": "background",
+    "number": 1,
+    "name": "Vojno platno",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:1"
+  },
+  {
+    "id": "background_2",
+    "type": "background",
+    "number": 2,
+    "name": "Bunker",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:2"
+  },
+  {
+    "id": "background_3",
+    "type": "background",
+    "number": 3,
+    "name": "Cetinarska suma",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:3"
+  },
+  {
+    "id": "background_4",
+    "type": "background",
+    "number": 4,
+    "name": "Pustinja",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:4"
+  },
+  {
+    "id": "background_5",
+    "type": "background",
+    "number": 5,
+    "name": "Kisni industrijski grad",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:5"
+  },
+  {
+    "id": "background_6",
+    "type": "background",
+    "number": 6,
+    "name": "Tropska dzungla",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:6"
+  },
+  {
+    "id": "background_7",
+    "type": "background",
+    "number": 7,
+    "name": "Arktik",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:7"
+  },
+  {
+    "id": "background_8",
+    "type": "background",
+    "number": 8,
+    "name": "Pomorski hangar",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:8"
+  },
+  {
+    "id": "background_9",
+    "type": "background",
+    "number": 9,
+    "name": "Zlatna geometrija",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:9"
+  },
+  {
+    "id": "background_10",
+    "type": "background",
+    "number": 10,
+    "name": "Krvavi mesec",
+    "group": "backgrounds",
+    "choices": [
+      "base"
+    ],
+    "slot": "background",
+    "registration": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "source": "backgrounds_a:10"
+  }
+]

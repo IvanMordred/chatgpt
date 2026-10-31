@@ -2,6 +2,16 @@
 
 Komandiri PMC jedinica: originalni slojevi, sastavljeni primeri, koncepti opreme i kamuflažne teksture.
 
+## Novi paket: odela, panciri, maske i detalji
+
+**120 modela i 416 varijanti**, sa odvojenim odelima i pancirima, provereno na master komandiru.
+
+- [ZIP paketi za preuzimanje](ewarstate/expansion/DOWNLOADS.md)
+- [Pregledi svih kategorija na komandiru](ewarstate/expansion/qa)
+- [Svaki model i njegove boje](ewarstate/expansion/previews)
+- [Uputstvo, slojevi i ogranicenja](ewarstate/expansion/README.md)
+- [Ispravka bojenja prvog slema: pre/posle](ewarstate/helmets/previews/color_mask_fix.jpg)
+
 ## 50 novih kapa, slemova i kaciga
 
 **50 novih osnovnih modela, 262 varijante boja i kamuflaza.** Svi su prikazani na osnovnom komandiru. Za 6 kapuljaca i pustinjski slem prednji i zadnji delovi su razdvojeni: pozadina → zadnji deo → komandir → prednji deo. U manifestu su `file` i opcioni `rear_file`.

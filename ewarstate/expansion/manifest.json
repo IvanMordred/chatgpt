@@ -1,0 +1,8322 @@
+[
+  {
+    "id": "uniform_1_1",
+    "type": "uniform",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b78b19c70be51cac9846ed4152fb191cad1775076768f75e0ca27eb400f7dec0"
+  },
+  {
+    "id": "uniform_1_2",
+    "type": "uniform",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_1_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a08e5d4e8f5b728056df7aa5150d81ae67aa9c64699747e41210da27da1284c9"
+  },
+  {
+    "id": "uniform_1_3",
+    "type": "uniform",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_1_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d79a98be68740529999871f39211062957d1d380d4a86048d5cf10db9c5d617c"
+  },
+  {
+    "id": "uniform_1_4",
+    "type": "uniform",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_1_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0dff0f02eda34ee9f72341ac57cf48a0e64de6441b0dd4a80ff81cc9c1e13663"
+  },
+  {
+    "id": "uniform_1_5",
+    "type": "uniform",
+    "model_number": 1,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_1_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4397324830b4b3d357ca0c12f66edae9aad63e3ae70ce4865d544315738dad91"
+  },
+  {
+    "id": "uniform_2_1",
+    "type": "uniform",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f0872d5ab1bf99554d47f4a7529930c94646e6c612b10ae720edbe994809c291"
+  },
+  {
+    "id": "uniform_2_2",
+    "type": "uniform",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_2_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e757054e299f2d88d34a51aa1faa1897dc65e289d3b5232bcdf237bbbaaccb7f"
+  },
+  {
+    "id": "uniform_2_3",
+    "type": "uniform",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_2_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5e24ed1f6c2dbb6f38e94eaa158caa08a6644faef3aea0091db61cbefca39114"
+  },
+  {
+    "id": "uniform_2_4",
+    "type": "uniform",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_2_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ff2069227ff108e40af7c0a8e4de2203696bd079ef0660328a261f44e66ff282"
+  },
+  {
+    "id": "uniform_2_5",
+    "type": "uniform",
+    "model_number": 2,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_2_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "62e5f5cc74beb54647f703ab58476260fae4ac2101c5fd90caabb9e1e96e2956"
+  },
+  {
+    "id": "uniform_3_1",
+    "type": "uniform",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "eb832876ab38766de3563175dcdec496701f0c756156e1baa0567d33631e1737"
+  },
+  {
+    "id": "uniform_3_2",
+    "type": "uniform",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_3_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "172a7467acd098979bafed2a17f1ac35d6dffdbf9c9c436a821f1f6d50089aec"
+  },
+  {
+    "id": "uniform_3_3",
+    "type": "uniform",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_3_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3285460c5406e11dd3493f276eef2beed09e29c97d75f3a24170d747ebf61529"
+  },
+  {
+    "id": "uniform_3_4",
+    "type": "uniform",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_3_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ffa4959256e9724c06a891d525ba9f8e7b69df4b0ce455f8b3d055a7f2e5123b"
+  },
+  {
+    "id": "uniform_3_5",
+    "type": "uniform",
+    "model_number": 3,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_3_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "847ff92a80edec9725f1a2213cf02dcc9429d89dbf7013cd04a5ea564bca1493"
+  },
+  {
+    "id": "uniform_4_1",
+    "type": "uniform",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "22f942b05daa2f8827faeff52a0fefb0e81eb8fd425566f840a8d3bbae2dcc0f"
+  },
+  {
+    "id": "uniform_4_2",
+    "type": "uniform",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_4_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7f6d71c8a67ab9be05ab5c8319b87a21716d161f568c556c54774a238f970542"
+  },
+  {
+    "id": "uniform_4_3",
+    "type": "uniform",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_4_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4b79215aacb8e4e7e2d0170ca14517f6ce06d930c73c06cd3aa6ec8c29238399"
+  },
+  {
+    "id": "uniform_4_4",
+    "type": "uniform",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_4_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1de78f68cd7dd39a2ae3a8f8f4d05728ebad219bb198e6559d525130316d6969"
+  },
+  {
+    "id": "uniform_4_5",
+    "type": "uniform",
+    "model_number": 4,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_4_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d8b76d0f580c9553e5007f03ce46c580e923f13188824346f26515d84e755807"
+  },
+  {
+    "id": "uniform_5_1",
+    "type": "uniform",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_5_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7c8bb2a83f171c09449dca7333f6eeb3ceb7e3b306769eec1aa05497e7917a05"
+  },
+  {
+    "id": "uniform_5_2",
+    "type": "uniform",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_5_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5e0826b23e1f596ea3df41de40bdab8a73617fd7e806cd8909121a296cab2c24"
+  },
+  {
+    "id": "uniform_5_3",
+    "type": "uniform",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_5_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2bcb921848425bec3cfcd930bd4075d92583469c0e01e131a032d5b0aa0e8155"
+  },
+  {
+    "id": "uniform_5_4",
+    "type": "uniform",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_5_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ba0164ff2ea5f6d332ef2290266be1040267fc4eb64a65aa9f7351b7ab63076b"
+  },
+  {
+    "id": "uniform_5_5",
+    "type": "uniform",
+    "model_number": 5,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_5_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f249f5f523c554b6e9c8010979bb9aa18d29f9e71262fe7760a2f4e99cef9c9d"
+  },
+  {
+    "id": "uniform_6_1",
+    "type": "uniform",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_6_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1a67c38a28bbf2aa31d14dce9b6183e144084aaee45017a688868b0ed35948ab"
+  },
+  {
+    "id": "uniform_6_2",
+    "type": "uniform",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_6_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "019794f32754694de8567d932e2da0e904bf5b3fc207f37c95e5c71686de5b68"
+  },
+  {
+    "id": "uniform_6_3",
+    "type": "uniform",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_6_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "040aec83f308bff2ec87e4608eeca23badd6b8fd21c883007d2767482172cd38"
+  },
+  {
+    "id": "uniform_6_4",
+    "type": "uniform",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_6_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5c383c7362fbdc3fe1b3aaa0cd7622a91f338fdf44671bb9e8aa85c1e5c65c89"
+  },
+  {
+    "id": "uniform_6_5",
+    "type": "uniform",
+    "model_number": 6,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_6_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "620614a701a8970f1663343079ef777d41d420606a09b684be4e90121ba1efa3"
+  },
+  {
+    "id": "uniform_7_1",
+    "type": "uniform",
+    "model_number": 7,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_7_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "eb9a91285f5227d333473c98a1499f583d0725b02fa3673ef578bd9267c3e1bd"
+  },
+  {
+    "id": "uniform_7_2",
+    "type": "uniform",
+    "model_number": 7,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_7_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "edbd6a451827f072aed2c3ad9907a67bfd994c76bfd7e6a96f7ca31e7ad8b07b"
+  },
+  {
+    "id": "uniform_7_3",
+    "type": "uniform",
+    "model_number": 7,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_7_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f54d91d7118aae207a6b508078eb84b5b32c4470e9427d119f0a21f59ad24437"
+  },
+  {
+    "id": "uniform_7_4",
+    "type": "uniform",
+    "model_number": 7,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_7_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "007161204654b89acb9bc378316a1ef0628860a87af05e18659356ee6ad6d97a"
+  },
+  {
+    "id": "uniform_7_5",
+    "type": "uniform",
+    "model_number": 7,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_7_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "21d9613ff4b8df4b6cd095a8832b17948387e1dc0af3e9dbcc26b31443e07dfb"
+  },
+  {
+    "id": "uniform_8_1",
+    "type": "uniform",
+    "model_number": 8,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_8_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a0e62527050af79207b0f35917377a5a6db8925af8e94875e06028e1264f8039"
+  },
+  {
+    "id": "uniform_8_2",
+    "type": "uniform",
+    "model_number": 8,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_8_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "82d7236a79836b4e3f4dc6564e6b17d7a11d2df4ac0ca6db95a40e7f2f4bb6a7"
+  },
+  {
+    "id": "uniform_8_3",
+    "type": "uniform",
+    "model_number": 8,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_8_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8008981cbb54e67a9055e77315a0e68f133b9b4e57b643d13adb2f74ad1c1603"
+  },
+  {
+    "id": "uniform_8_4",
+    "type": "uniform",
+    "model_number": 8,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_8_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ccf6e53221fd89a2f0eb4e073eaf2ef573c3cad1526c013ae6db6ff12ee5d8b1"
+  },
+  {
+    "id": "uniform_8_5",
+    "type": "uniform",
+    "model_number": 8,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_8_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "268869318a94d2f6b0398ed96a349240111c3e93301d8eb602303a651155d01f"
+  },
+  {
+    "id": "uniform_9_1",
+    "type": "uniform",
+    "model_number": 9,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_9_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "98832e4cf8a916c1d5c81f7daecf53881092be88c59e4bb8c55cfeadaba737eb"
+  },
+  {
+    "id": "uniform_9_2",
+    "type": "uniform",
+    "model_number": 9,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_9_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e7fcad9b93dc53bcae5a220aeb648518abbf1c6e50f7b43dc03c5b147b1beb8e"
+  },
+  {
+    "id": "uniform_9_3",
+    "type": "uniform",
+    "model_number": 9,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_9_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "23486caebef97335e585b3520390eef271b5e01edc219bebaf7b1014ded00c6b"
+  },
+  {
+    "id": "uniform_9_4",
+    "type": "uniform",
+    "model_number": 9,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_9_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7c8a6af095feb870d9bb0815a1ff5a629974a51dd5228ac2f5a57d816080953b"
+  },
+  {
+    "id": "uniform_9_5",
+    "type": "uniform",
+    "model_number": 9,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_9_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8238ecd318e7ac4758a475013bf7267ce04ad3e2cfb2560a54e0fac16d92152b"
+  },
+  {
+    "id": "uniform_10_1",
+    "type": "uniform",
+    "model_number": 10,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_10_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b2f017e18b1285dda9054981813761812d9b2ab74dee59b50003ab9c9bc1ca30"
+  },
+  {
+    "id": "uniform_10_2",
+    "type": "uniform",
+    "model_number": 10,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_10_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "cef4c00e540a456b165582d4964547bbb8740941d766d5bfa5e62251df3e7c70"
+  },
+  {
+    "id": "uniform_10_3",
+    "type": "uniform",
+    "model_number": 10,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_10_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3e9fc28c36460de2a805f38044f9e3c88eb673ba66bb0fd8ce52234e2e1edb8c"
+  },
+  {
+    "id": "uniform_10_4",
+    "type": "uniform",
+    "model_number": 10,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_10_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2f12a28f283d76b0b5c7343d3f0fc096bd42f0257f79925f218c8cd7416bea42"
+  },
+  {
+    "id": "uniform_10_5",
+    "type": "uniform",
+    "model_number": 10,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_10_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "936bcb3d9443d64a130e3a5f933b03c0b967467e0c6c2dd8d03f020b528a8778"
+  },
+  {
+    "id": "vest_1_1",
+    "type": "vest",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c44b306934cc4ff242dc5ca48399c76676eb4ef262381c585e82a21ea5b79635"
+  },
+  {
+    "id": "vest_1_2",
+    "type": "vest",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_1_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8ec8ca1d899ba1e2976855a1404ba634e78f9adcceabdc05163fa9fd0611c6ff"
+  },
+  {
+    "id": "vest_1_3",
+    "type": "vest",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_1_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b29e8004a43846cb25ae97cd0e8dbbab30d240444b1639e2c22ec38a30fc4edd"
+  },
+  {
+    "id": "vest_1_4",
+    "type": "vest",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_1_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0862a51eb921cc422cdae00296ab62af277b05f76f71d52008f5a00ac52d9832"
+  },
+  {
+    "id": "vest_2_1",
+    "type": "vest",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "dedad63e3bfe2498f7596c9adb17e99211e30bbfab880547e30d55ef86e4954a"
+  },
+  {
+    "id": "vest_2_2",
+    "type": "vest",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_2_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3122cd27a329fd1bbd927da3e3f7105610fc8e8c5f16dcdc5a94fed73719424e"
+  },
+  {
+    "id": "vest_2_3",
+    "type": "vest",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_2_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "445fb2e2b2fd8369a9a0a7306587e8a922ffc0361df304866b237dbba7273c92"
+  },
+  {
+    "id": "vest_2_4",
+    "type": "vest",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_2_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c20fecf975d3f17f553bb23e0a9aa1874d9ca74123145f9201a301ca3ec5034a"
+  },
+  {
+    "id": "vest_3_1",
+    "type": "vest",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4e53dde7fbd587b4686281543a50c4921c95b6c4f3da55cbd628fbc1a8780188"
+  },
+  {
+    "id": "vest_3_2",
+    "type": "vest",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_3_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ead2cb7131b609614592f86221c4243913f13a407b60f9b8395580ac7e3d11f4"
+  },
+  {
+    "id": "vest_3_3",
+    "type": "vest",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_3_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "589689bcfa1e912044511ef057f08f21e9ee258f587ded00c27a16415d989ea0"
+  },
+  {
+    "id": "vest_3_4",
+    "type": "vest",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_3_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "18ff724f6e5b819cd479ef4c4d9120524199a3e050f67b1d46b46731aa367131"
+  },
+  {
+    "id": "vest_4_1",
+    "type": "vest",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "bb60e26f9c52d909102daf8b5db55dd1fe3a6f6f0b3e841b1578bccf5d307df4"
+  },
+  {
+    "id": "vest_4_2",
+    "type": "vest",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_4_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "55cf5744704a8f1891a6931886341536d8b7881aaf1879bf840dcd6067ae81d7"
+  },
+  {
+    "id": "vest_4_3",
+    "type": "vest",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_4_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d98ef2c51380531dccce187abcab7475f24fbaed066c66142df2bb323666e030"
+  },
+  {
+    "id": "vest_4_4",
+    "type": "vest",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_4_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b391f7e387fdae9d6f6bec8e65d6e77fd9776fec9c883cff4ee6b908012f5a29"
+  },
+  {
+    "id": "vest_5_1",
+    "type": "vest",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_5_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e97edf270e3c017ea132a39e68cb81345d74d9508fd9358fec978ec05656c0ef"
+  },
+  {
+    "id": "vest_5_2",
+    "type": "vest",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_5_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5caf537e31aa7ded60dc39dfa6230b16355199fe908a1109494e97b6c0d2fc8a"
+  },
+  {
+    "id": "vest_5_3",
+    "type": "vest",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_5_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5a1c001746fba2133f9cff1227f22fb18ede6cec3357aeca5116c7220101fdac"
+  },
+  {
+    "id": "vest_5_4",
+    "type": "vest",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_5_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "caa750dccf30b3fc5289607be2037d7f3447f5ace73b4e9c99334132f2df605f"
+  },
+  {
+    "id": "vest_6_1",
+    "type": "vest",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_6_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "479b14f76d7a07b67bb2a80822b9b6d4b9dde6d896b37a1ee9cc25f63e2261b1"
+  },
+  {
+    "id": "vest_6_2",
+    "type": "vest",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_6_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "76fa4137c566c0d587417e634e19b1de1e2c9f8411c4e5ae7618ef456e7f36b6"
+  },
+  {
+    "id": "vest_6_3",
+    "type": "vest",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_6_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7446e879eb4fd2adeb6cf3f92301a917089c4bb9035a2e2f165a184451e548bf"
+  },
+  {
+    "id": "vest_6_4",
+    "type": "vest",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_6_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4e0bb1ba6048e1e23f0bfc5578e2f81d245c09795b45a1c8a45de5c45cec4a57"
+  },
+  {
+    "id": "vest_7_1",
+    "type": "vest",
+    "model_number": 7,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_7_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8863459bc5dc44d547435fc6bdd71d7ccdcd26f79e7b21d66e76f6ec191ac7aa"
+  },
+  {
+    "id": "vest_7_2",
+    "type": "vest",
+    "model_number": 7,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_7_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3847033dcb0605a5455ea7f5db426d557ec3c5c7a63d968f3a357c7b60d60f5c"
+  },
+  {
+    "id": "vest_7_3",
+    "type": "vest",
+    "model_number": 7,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_7_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6b88c0ca20f3ff0ed1b4233002e3699077114c23fe2432f12c7966ce83617c03"
+  },
+  {
+    "id": "vest_7_4",
+    "type": "vest",
+    "model_number": 7,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_7_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "89ef6e58b7f5413f3c2effc916d3bba7fe6031f0c290d3db8acd6254ae0ce0ec"
+  },
+  {
+    "id": "vest_8_1",
+    "type": "vest",
+    "model_number": 8,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_8_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "54d4e453d5ffb2a004dc6a88566958b409642969759b2606760967669a04db76"
+  },
+  {
+    "id": "vest_8_2",
+    "type": "vest",
+    "model_number": 8,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_8_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "db1653f024ffac2f3828136b8732ebb1d64d6e48cd994ed519e91888ab3d6ed4"
+  },
+  {
+    "id": "vest_8_3",
+    "type": "vest",
+    "model_number": 8,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_8_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3b586a0833d84d6d40282a6724d5c3a3d372d4b327ec59480f6b5c320de04795"
+  },
+  {
+    "id": "vest_8_4",
+    "type": "vest",
+    "model_number": 8,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_8_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f08a38f39a990a01eafde1c8e2878736fb8121218076ffc266c202badc0f5319"
+  },
+  {
+    "id": "vest_9_1",
+    "type": "vest",
+    "model_number": 9,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_9_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "02efacea09d5d4581ce867c05868c78b51c4a268a4abd3f54c65e61937dd65aa"
+  },
+  {
+    "id": "vest_9_2",
+    "type": "vest",
+    "model_number": 9,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_9_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "75ef991482cc4c12c02d5f8c133dc6e51d5706a3135a45a6ac0ebe55d9cb1991"
+  },
+  {
+    "id": "vest_9_3",
+    "type": "vest",
+    "model_number": 9,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_9_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "beb5581262423d3a9473fa98f7d31a43d94e6436514506e4369ecad8d3703eb9"
+  },
+  {
+    "id": "vest_9_4",
+    "type": "vest",
+    "model_number": 9,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_9_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "fb15e942d2f41442e5616505b3363f63f892ce5da69eb86a294bc9185f146811"
+  },
+  {
+    "id": "vest_10_1",
+    "type": "vest",
+    "model_number": 10,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_10_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0e8c474f7af1ae1055cab864ac090b403f05b46b92dda5973571891db89931f9"
+  },
+  {
+    "id": "vest_10_2",
+    "type": "vest",
+    "model_number": 10,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_10_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e624f1353d6242daa3fce71c7b48342b72f076ff3eadf45d71259c80fb1a2f16"
+  },
+  {
+    "id": "vest_10_3",
+    "type": "vest",
+    "model_number": 10,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_10_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "289e7b4385a1fe51cd4a080fe7795a18ae0140f20a6daddab8db3ef69eb44b75"
+  },
+  {
+    "id": "vest_10_4",
+    "type": "vest",
+    "model_number": 10,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_10_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3436d9ddcd444d9f532aea05f60c58c27c4709f90984363c88c35a4402f91851"
+  },
+  {
+    "id": "uniform_11_1",
+    "type": "uniform",
+    "model_number": 11,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_11_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2727ea3dc9e2372788409c67f8c94868599a9597438f3f7e4b0becd292ccba21"
+  },
+  {
+    "id": "uniform_11_2",
+    "type": "uniform",
+    "model_number": 11,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_11_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ea6fe431b18172999f9f8cf470e2c0a317b01b6ebe9733b9b474e430419b6784"
+  },
+  {
+    "id": "uniform_11_3",
+    "type": "uniform",
+    "model_number": 11,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_11_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9e98954170b0b11ae82c0bfe6ae345e6190324848f91a5885a4ec310be5995c2"
+  },
+  {
+    "id": "uniform_11_4",
+    "type": "uniform",
+    "model_number": 11,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_11_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5f3ff48e377f7de86e9b8df974de10eeab31dc5888213b4479952af67b0f1c9f"
+  },
+  {
+    "id": "uniform_11_5",
+    "type": "uniform",
+    "model_number": 11,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_11_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e0f96045e9ed2dc84e6cd20cfeb6e4be0888c11d39b043c7a617b43c5da7c3c0"
+  },
+  {
+    "id": "uniform_12_1",
+    "type": "uniform",
+    "model_number": 12,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_12_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6fc725c9dd4ec89f96b65061b6824d7db7e7699ea371cb598a23f7ab7d438afe"
+  },
+  {
+    "id": "uniform_12_2",
+    "type": "uniform",
+    "model_number": 12,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_12_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6e36adf3db25aad679a3958e0bef7ffba1a3f7d451648ed3b1cb742098483ff3"
+  },
+  {
+    "id": "uniform_12_3",
+    "type": "uniform",
+    "model_number": 12,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_12_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2342c76c8cb21ca48d207422d46056b810a7a32d9999a93b4eab27a440b8216f"
+  },
+  {
+    "id": "uniform_12_4",
+    "type": "uniform",
+    "model_number": 12,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_12_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ba374163f593ea31eadf40a374bd00ee8dcd61b3b34e93a944414921467b97f4"
+  },
+  {
+    "id": "uniform_12_5",
+    "type": "uniform",
+    "model_number": 12,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_12_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5f4320fb6af35b67fde433b886b7efbd43f76cbe6ba23d809e7400c133536357"
+  },
+  {
+    "id": "uniform_13_1",
+    "type": "uniform",
+    "model_number": 13,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_13_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "52f90bf68b0963d539e86d801b61343d757a712a0897e8ce284dc276cdaa0d0a"
+  },
+  {
+    "id": "uniform_13_2",
+    "type": "uniform",
+    "model_number": 13,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_13_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "721ae0fe6ed7c1e861b426fc1780f4bcda7cf4bb195e0ddd3fb058afd80f0715"
+  },
+  {
+    "id": "uniform_13_3",
+    "type": "uniform",
+    "model_number": 13,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_13_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f00972c9adefccd9c56b935c262b0bed8c618eeef092b38db0333055d9249854"
+  },
+  {
+    "id": "uniform_13_4",
+    "type": "uniform",
+    "model_number": 13,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_13_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e6830592f8d9d4a68d7ae487a578fc2d455b8735ac62ddcd6f505ac7767d74a7"
+  },
+  {
+    "id": "uniform_13_5",
+    "type": "uniform",
+    "model_number": 13,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_13_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "25b055515db294a2a724bf0971b1ec9dccbf97d07003f17db46fd74726ce6136"
+  },
+  {
+    "id": "uniform_14_1",
+    "type": "uniform",
+    "model_number": 14,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_14_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e5127b310116e790cf0a9f57c7b734c5a94ccff04b6556c861ecaa73dda8de05"
+  },
+  {
+    "id": "uniform_14_2",
+    "type": "uniform",
+    "model_number": 14,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_14_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1c8fb57971462c8c1f931d89180357bdf479bed5506b4b9e48357b82994ca32c"
+  },
+  {
+    "id": "uniform_14_3",
+    "type": "uniform",
+    "model_number": 14,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_14_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "fa0470c39c41b847cb851c21fe60a76fa8c5348ceaefd3446962c3e83633e37a"
+  },
+  {
+    "id": "uniform_14_4",
+    "type": "uniform",
+    "model_number": 14,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_14_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "970da3337e3b230ca81965a93baf1d04a4731860f81720d71ffc2391bb89f251"
+  },
+  {
+    "id": "uniform_14_5",
+    "type": "uniform",
+    "model_number": 14,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_14_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9d051e17431e309bcf84161b07f1d5cdc799854ed0f2335d326bd692c2b07512"
+  },
+  {
+    "id": "uniform_15_1",
+    "type": "uniform",
+    "model_number": 15,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_15_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f7ad9ef4a473a456eff6f9274d8ee0034f47d4ddb440ead0579f96e92d60c56b"
+  },
+  {
+    "id": "uniform_15_2",
+    "type": "uniform",
+    "model_number": 15,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_15_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "15632a614e3c4b0e0271134191a2005d5d996af93856b4c69f754a920ae08b2d"
+  },
+  {
+    "id": "uniform_15_3",
+    "type": "uniform",
+    "model_number": 15,
+    "color_number": 3,
+    "color": "navy",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_15_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "26e50333b8f62444fb1f4abe0b99d1ffb5560df26a4dfd003adb4c085ae81c80"
+  },
+  {
+    "id": "uniform_15_4",
+    "type": "uniform",
+    "model_number": 15,
+    "color_number": 4,
+    "color": "brown",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_15_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "675d29ace7aefaf3826ea2ab515708eeb846844a05cb7ed7380a598bf58de175"
+  },
+  {
+    "id": "uniform_16_1",
+    "type": "uniform",
+    "model_number": 16,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_16_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "cb731761bb365218434de3e6a7f0fbbcf2b10175358b3dc02be598e703623354"
+  },
+  {
+    "id": "uniform_16_2",
+    "type": "uniform",
+    "model_number": 16,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_16_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "879bade287947e7e24f31c9813995b2910e7939d04008a0b13fb8c8b1bb3dc6c"
+  },
+  {
+    "id": "uniform_16_3",
+    "type": "uniform",
+    "model_number": 16,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_16_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "50829871f863192cd073f88113a72e2ecc6455e8a977f2a86e785eb7c1a4006d"
+  },
+  {
+    "id": "uniform_16_4",
+    "type": "uniform",
+    "model_number": 16,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_16_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1d73c5752d52a38cbd054687471722230c11b6ca871e2a9ce7bb36867d4ca0e0"
+  },
+  {
+    "id": "uniform_16_5",
+    "type": "uniform",
+    "model_number": 16,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_16_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a58354bf76b1e36f9d26bba4d86aa7a36de0e5a8ca0bf0eee1a64d8be7caa21c"
+  },
+  {
+    "id": "uniform_17_1",
+    "type": "uniform",
+    "model_number": 17,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_17_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4b0853f720eecd66c44a6c4bd9bb6f72b5944ff97effa3e5124e170f8bfd9133"
+  },
+  {
+    "id": "uniform_17_2",
+    "type": "uniform",
+    "model_number": 17,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_17_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1d550142ddb398005f268c84f61711afb845ec3f8afccd737d099a2ab6c13e18"
+  },
+  {
+    "id": "uniform_17_3",
+    "type": "uniform",
+    "model_number": 17,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_17_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1697d659f58fb987e9a4e266d99554d59ed3046f19f5dd999b99109b3c1cb560"
+  },
+  {
+    "id": "uniform_17_4",
+    "type": "uniform",
+    "model_number": 17,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_17_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1b6b826d3db9c81b4dff3e94db3f25211be1227b59bfb29af56ee5790aced50a"
+  },
+  {
+    "id": "uniform_17_5",
+    "type": "uniform",
+    "model_number": 17,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_17_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3ed1e7afa6f0898094e8b667ea56310592b861dcc279c54a5842bf3085598d45"
+  },
+  {
+    "id": "uniform_18_1",
+    "type": "uniform",
+    "model_number": 18,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_18_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a3dbccf48581f9c997a2bfa460e5454e1d3eac324313a48ef818979b2d1eab60"
+  },
+  {
+    "id": "uniform_18_2",
+    "type": "uniform",
+    "model_number": 18,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_18_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4f5bcda9053a065c1ce54e22cdb4168915bd58b4333e43375f600cfb96bc44be"
+  },
+  {
+    "id": "uniform_18_3",
+    "type": "uniform",
+    "model_number": 18,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_18_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "663822ad1a14e19203024de09e6f3067447c717ea73fc02f9217b5668af51294"
+  },
+  {
+    "id": "uniform_18_4",
+    "type": "uniform",
+    "model_number": 18,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_18_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "20a8e1d8a55a91859236af9689b4172219038c5de34ec0e03994d2eee912c67a"
+  },
+  {
+    "id": "uniform_18_5",
+    "type": "uniform",
+    "model_number": 18,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_18_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5b7e4162fbdc8a96f6ec45eb665ec6f15f8e4cbdbe2b56162e38f6cc4a6b4f14"
+  },
+  {
+    "id": "uniform_19_1",
+    "type": "uniform",
+    "model_number": 19,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_19_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2ec652ac39ae4a082bcbc300cc70abe97614b03a3ecdd1da6d662f78d6a4c010"
+  },
+  {
+    "id": "uniform_19_2",
+    "type": "uniform",
+    "model_number": 19,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_19_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "91c2430b3dbb33dc8787c2e2f1980cdf3a6f216a03f5ed218ef2b6f94231dada"
+  },
+  {
+    "id": "uniform_19_3",
+    "type": "uniform",
+    "model_number": 19,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_19_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7b0cdf5e1fab3dfe766a8412cc427000232929573c5fa82236e3a357c796e53b"
+  },
+  {
+    "id": "uniform_19_4",
+    "type": "uniform",
+    "model_number": 19,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_19_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ed61ed1491ebc66cda83465e83625fa24fafa04da0f9b158de730b0922001627"
+  },
+  {
+    "id": "uniform_19_5",
+    "type": "uniform",
+    "model_number": 19,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_19_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "010ddbc7ec61135c2334f59d4579a4292d23294dc71d1069bed23b80dcdffcad"
+  },
+  {
+    "id": "uniform_20_1",
+    "type": "uniform",
+    "model_number": 20,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_20_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ce8eb3efc04b14a1cd6d81f711a3dfe6cc3760451e8a8f677f6e382e04f550f0"
+  },
+  {
+    "id": "uniform_20_2",
+    "type": "uniform",
+    "model_number": 20,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_20_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "29b18791d16a9dbdae5805edb847002c500f330cbe82289e5c444805bf586475"
+  },
+  {
+    "id": "uniform_20_3",
+    "type": "uniform",
+    "model_number": 20,
+    "color_number": 3,
+    "color": "navy",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_20_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "44d40fffaccdedaee839f22de260d99b592705c277b77ceb31b6d76dacc98849"
+  },
+  {
+    "id": "uniform_20_4",
+    "type": "uniform",
+    "model_number": 20,
+    "color_number": 4,
+    "color": "brown",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_20_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "757b96828d0c4e3614439cce4301ee81e6c4ec2cdfde92d61f3a6cf1da3a47a2"
+  },
+  {
+    "id": "vest_11_1",
+    "type": "vest",
+    "model_number": 11,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_11_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8a930477f5b87c408e9b545c7ea186955e183ea0e52b30321bd7b88ad0ecbf87"
+  },
+  {
+    "id": "vest_11_2",
+    "type": "vest",
+    "model_number": 11,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_11_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3e984a51fdf26ba836131866c76971dda1e0e4b7472d510e4b744885d8388aad"
+  },
+  {
+    "id": "vest_11_3",
+    "type": "vest",
+    "model_number": 11,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_11_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "48a32eaeda6ca728e287a99b03d0e2d6bd0bc31b28009701d626d4f0ea47f1b6"
+  },
+  {
+    "id": "vest_11_4",
+    "type": "vest",
+    "model_number": 11,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_11_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9e52cfe341d4cfd8061024fcdc8b50b4690d68cefcc6bd6b566f6bbb1a6810a9"
+  },
+  {
+    "id": "vest_12_1",
+    "type": "vest",
+    "model_number": 12,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_12_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "30a86da67b252412bc10fb889b33b548f207d3a358016cef1929ace61e8e1608"
+  },
+  {
+    "id": "vest_12_2",
+    "type": "vest",
+    "model_number": 12,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_12_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6ea0ab9c35144c6b6bdb68166c4d6813c2cb4be0491bd7bbc2344026e910bb85"
+  },
+  {
+    "id": "vest_12_3",
+    "type": "vest",
+    "model_number": 12,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_12_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "db7b261e185b622e7bf62118d339b990f5947c2d086c9d6e3de04f1fcdf6a74e"
+  },
+  {
+    "id": "vest_12_4",
+    "type": "vest",
+    "model_number": 12,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_12_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c6991f2c8b96c6eb7cac004941f6abb6f60378ddcb07bb17f6ff74c09c7d15dc"
+  },
+  {
+    "id": "vest_13_1",
+    "type": "vest",
+    "model_number": 13,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_13_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "75872bc8af35af285c08da202c76c489c5c0e50c137007878cd9bc118fea2ebe"
+  },
+  {
+    "id": "vest_13_2",
+    "type": "vest",
+    "model_number": 13,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_13_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b307d3283f078952d5fe52992cc47f5cb1154c406d8f7e1b47a1d07cd352b2d4"
+  },
+  {
+    "id": "vest_13_3",
+    "type": "vest",
+    "model_number": 13,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_13_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "866bfb9bb77ab05c424ae98916c13be23a248507e427e7fbb1a879d31770fbfc"
+  },
+  {
+    "id": "vest_13_4",
+    "type": "vest",
+    "model_number": 13,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_13_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4174917b838d7b4087998e3c1a7b522046dbfd9f31a2f1ed7bfb564e6ab34684"
+  },
+  {
+    "id": "vest_14_1",
+    "type": "vest",
+    "model_number": 14,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_14_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "12891768d63a1dc66287f529705bbd582d77ab72897f3db369e5873d8052de09"
+  },
+  {
+    "id": "vest_14_2",
+    "type": "vest",
+    "model_number": 14,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_14_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d0d4fcb3eddc7275f474718170c1057391e27ef9765afbdd3ec332aa1dcdb24b"
+  },
+  {
+    "id": "vest_14_3",
+    "type": "vest",
+    "model_number": 14,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_14_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "73e5fc447383ad0bbbcaf5f86925c0b5369b107bae6a20fc126b008dab26157e"
+  },
+  {
+    "id": "vest_14_4",
+    "type": "vest",
+    "model_number": 14,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_14_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c3313883489692b6826fbb698a7465f9cb6900f6ce7614dbeb7e85c163037c9f"
+  },
+  {
+    "id": "vest_15_1",
+    "type": "vest",
+    "model_number": 15,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_15_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f097fc76bfd5537db3565898ce50efdcb0adaebe4e71a0df8b67cb0e6a1298a3"
+  },
+  {
+    "id": "vest_15_2",
+    "type": "vest",
+    "model_number": 15,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_15_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b78dc28df6fe36277f61a5815a9f10da465805087cb836c1d799fdf2656f58b4"
+  },
+  {
+    "id": "vest_15_3",
+    "type": "vest",
+    "model_number": 15,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_15_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ecabb1f5a40b2443d1849ac250dadf1b75d08cb9fccbdffebdadd5a953083926"
+  },
+  {
+    "id": "vest_15_4",
+    "type": "vest",
+    "model_number": 15,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_15_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0e27667aafc4ec63ba18dd63f1ad94cbf184f5edbdaea9218b39625cc8f5547e"
+  },
+  {
+    "id": "vest_16_1",
+    "type": "vest",
+    "model_number": 16,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_16_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7fb29c8d65c14d74151fc697420e72b010929e00b34ae0e839172faef82f27ec"
+  },
+  {
+    "id": "vest_16_2",
+    "type": "vest",
+    "model_number": 16,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_16_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "be269f84b2daf51d7c6f7b14584a8b820366498b7fe898e10e2d59339f7c7c19"
+  },
+  {
+    "id": "vest_16_3",
+    "type": "vest",
+    "model_number": 16,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_16_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2282a169c1ef79439de74fd477884b1c1ed3b5290e6bf7083de3f0f0fe2f108d"
+  },
+  {
+    "id": "vest_16_4",
+    "type": "vest",
+    "model_number": 16,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_16_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0ec2463567b251ca0cf43f3e05619c11fb4737c96bd750f54c993e2fc3eb5301"
+  },
+  {
+    "id": "vest_17_1",
+    "type": "vest",
+    "model_number": 17,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_17_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1248fe87c883d678c8af7406860ccfc4243f1170838bb8b84e46e144939fd6e4"
+  },
+  {
+    "id": "vest_17_2",
+    "type": "vest",
+    "model_number": 17,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_17_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d538ca4fa57e8d45190e7578174f4f15d42eee94d0da284fc93ae9c2b800e814"
+  },
+  {
+    "id": "vest_17_3",
+    "type": "vest",
+    "model_number": 17,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_17_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ae6e0b5f5d4c75f1131576e8b2f3be22b803aee48c07b5a406346410d671e5ad"
+  },
+  {
+    "id": "vest_17_4",
+    "type": "vest",
+    "model_number": 17,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_17_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4d5a57c8a24042911ac1e2b28ea69473974509fb6654121aa494f9ba5f65f65d"
+  },
+  {
+    "id": "vest_18_1",
+    "type": "vest",
+    "model_number": 18,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_18_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "34999c5ae290b0b19ef16d20005f2bd798eeb2f2f9197c45429b5b2226b158ae"
+  },
+  {
+    "id": "vest_18_2",
+    "type": "vest",
+    "model_number": 18,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_18_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8b8abb5320854eb297ad132a541c475e37600f0ad3f35b0790c98b34239f283a"
+  },
+  {
+    "id": "vest_18_3",
+    "type": "vest",
+    "model_number": 18,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_18_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5c1b8b687caad6e6977f7c55112475ef5ba2097c53e85d291e95d32e0c5b8c3d"
+  },
+  {
+    "id": "vest_18_4",
+    "type": "vest",
+    "model_number": 18,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_18_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a5d23931c0d7e79b0fb8c23e5fa598472d9e2bf317c0a4737d9e3a561efed597"
+  },
+  {
+    "id": "vest_19_1",
+    "type": "vest",
+    "model_number": 19,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_19_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "bdc0b5ee5caa92f484fd20a0dcb90fb855f047ed8e0ebf24dc4932cfbee610be"
+  },
+  {
+    "id": "vest_19_2",
+    "type": "vest",
+    "model_number": 19,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_19_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "bc179cbcee70bcaaa79baefb076375351d18e21f1acac1e1f2eab333bde62902"
+  },
+  {
+    "id": "vest_19_3",
+    "type": "vest",
+    "model_number": 19,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_19_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "966f0112319ad379622531e2b7b3a2d26d647f7c37fcf3c51dd5c7fa47e07a3d"
+  },
+  {
+    "id": "vest_19_4",
+    "type": "vest",
+    "model_number": 19,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_19_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e30fa6b06e55c8f885960e5898b2e21d198bf5dc57c90f172a6cc737a6d724cb"
+  },
+  {
+    "id": "vest_20_1",
+    "type": "vest",
+    "model_number": 20,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_20_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "cc2cbf305b053fcc89b99818d147457591356c785eb2bc46759bd0a1a4a40bbe"
+  },
+  {
+    "id": "vest_20_2",
+    "type": "vest",
+    "model_number": 20,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_20_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2b239e7928a13fe19a8283e3a24cf1c5fd5b6ca3205af69ddcc49b531128441b"
+  },
+  {
+    "id": "vest_20_3",
+    "type": "vest",
+    "model_number": 20,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_20_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "dadcf4cff1e02654bc4a32ea0944dfae5fad8d425ca4505a94f752bce2869676"
+  },
+  {
+    "id": "vest_20_4",
+    "type": "vest",
+    "model_number": 20,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_20_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2389f0c4cfec3420f4543b833c11b7d51f47a004d3cea17fb5cdf0c0e2ef84f1"
+  },
+  {
+    "id": "uniform_21_1",
+    "type": "uniform",
+    "model_number": 21,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_21_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ba0cf32fb70234a43cefa9413c968eed562efd9641c3b2bc36578d4df6a66052"
+  },
+  {
+    "id": "uniform_21_2",
+    "type": "uniform",
+    "model_number": 21,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_21_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "93815392fc6c5879c5243777002a4f4bec5129f6467eadacd135766eee79b645"
+  },
+  {
+    "id": "uniform_21_3",
+    "type": "uniform",
+    "model_number": 21,
+    "color_number": 3,
+    "color": "navy",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_21_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1b64bdd9b7611ebebf4b7fd96ed3603500a8595701974e5b5c207f443762beff"
+  },
+  {
+    "id": "uniform_21_4",
+    "type": "uniform",
+    "model_number": 21,
+    "color_number": 4,
+    "color": "brown",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_21_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d1aa84cd8ca9dd9425534bd1f53bfab0a282f03d7d48d55b481b53e307bd9956"
+  },
+  {
+    "id": "uniform_22_1",
+    "type": "uniform",
+    "model_number": 22,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_22_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "aefbbe65d9651c4e3cc40fd1bff844b70a2864348f0958453051a3d4dc49da15"
+  },
+  {
+    "id": "uniform_22_2",
+    "type": "uniform",
+    "model_number": 22,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_22_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "81b2242163c9f8ab4e0fc963604ca4c53631fee547059945b1e48ab62d5ea40c"
+  },
+  {
+    "id": "uniform_22_3",
+    "type": "uniform",
+    "model_number": 22,
+    "color_number": 3,
+    "color": "navy",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_22_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "081658b96dde0a42958ac72c8725197bb97050e2f699a200a10582d81d7049e5"
+  },
+  {
+    "id": "uniform_22_4",
+    "type": "uniform",
+    "model_number": 22,
+    "color_number": 4,
+    "color": "brown",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_22_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8f3a70a257a0cb95b3f5716360667c35a104a6c2c3a1cc0721fb1ec2a0262d3f"
+  },
+  {
+    "id": "uniform_23_1",
+    "type": "uniform",
+    "model_number": 23,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_23_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "01833e52bc8583d0984508f51e12124a8552e9206df1a734973aa50ca4761bbf"
+  },
+  {
+    "id": "uniform_23_2",
+    "type": "uniform",
+    "model_number": 23,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_23_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3f817ae8b3b4c1c02f1b97e42ac65eb87165d795b74a9cf47fcc3f6263e1f873"
+  },
+  {
+    "id": "uniform_23_3",
+    "type": "uniform",
+    "model_number": 23,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_23_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2e82a09fe3c42c4b49c5e43dc23ebebb8e3a1e782f8d83ee6bb14b0b063a3b80"
+  },
+  {
+    "id": "uniform_23_4",
+    "type": "uniform",
+    "model_number": 23,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_23_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a5cf8d8652b0ef8e0c2a691e34aa68ff185e6e71e6dcae1360075760dc71802f"
+  },
+  {
+    "id": "uniform_23_5",
+    "type": "uniform",
+    "model_number": 23,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_23_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9f98b998d220be28a4269e24ae200b812fe53545e52e5d5cc93baf6d0722b2d3"
+  },
+  {
+    "id": "uniform_24_1",
+    "type": "uniform",
+    "model_number": 24,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_24_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3184d91903add7f24a46caece3456f057ba5694505a7ca4adf914f0fe0cd92eb"
+  },
+  {
+    "id": "uniform_24_2",
+    "type": "uniform",
+    "model_number": 24,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_24_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b8a77ac5599beb5644a9b3840a5cade46f642f70fe5cd39bb6292f811d719685"
+  },
+  {
+    "id": "uniform_24_3",
+    "type": "uniform",
+    "model_number": 24,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_24_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4612b21ac2bc4a97a7c779d3c13ddbfde7f6eb7303ba4a70efcd9bbb634fa762"
+  },
+  {
+    "id": "uniform_24_4",
+    "type": "uniform",
+    "model_number": 24,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_24_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7085aaeb584d58749148fdd7df954a545151a89bbcf19c7c1913747c88802ff3"
+  },
+  {
+    "id": "uniform_24_5",
+    "type": "uniform",
+    "model_number": 24,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_24_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2a748034e34d557641f0ed1a95580fc5e28c7adb59e2ed62b70b46b7d5ff9c70"
+  },
+  {
+    "id": "uniform_25_1",
+    "type": "uniform",
+    "model_number": 25,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_25_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d75025a9583fc66d6533ac4fa17d0067d24e3bb1f55d49b2351c12ca07b0821b"
+  },
+  {
+    "id": "uniform_25_2",
+    "type": "uniform",
+    "model_number": 25,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_25_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b76e02822fdbf0f14ede0eaa190fa14b161e460eaf092b5b4f1c8a3fc46e29db"
+  },
+  {
+    "id": "uniform_25_3",
+    "type": "uniform",
+    "model_number": 25,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_25_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "fbecfaef7715ea0a034d0d4e7c12d20dff07a874063359e5b0e21d529b2e98b4"
+  },
+  {
+    "id": "uniform_25_4",
+    "type": "uniform",
+    "model_number": 25,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_25_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "abd4ece72750720d73a9f9af0eb2f66c7cc5a61fc2a1176193dd5177b813323c"
+  },
+  {
+    "id": "uniform_25_5",
+    "type": "uniform",
+    "model_number": 25,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_25_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1af466bbf9841aa568a8bf1867837d3a14b12487d8d95cd112af08f84503a313"
+  },
+  {
+    "id": "uniform_26_1",
+    "type": "uniform",
+    "model_number": 26,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_26_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8648a87498d692ba65adfb06e3788d21724041eb5bceb283e4e325af3f15ae70"
+  },
+  {
+    "id": "uniform_26_2",
+    "type": "uniform",
+    "model_number": 26,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_26_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2056c932dd5a1206e221a4f065027b8c2d7d9d3e3d912639365a5773cbb6277c"
+  },
+  {
+    "id": "uniform_26_3",
+    "type": "uniform",
+    "model_number": 26,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_26_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "75ecc578517b3148a3c5647c30a888c829068678aee3c3e1a6f960b61229cbbc"
+  },
+  {
+    "id": "uniform_26_4",
+    "type": "uniform",
+    "model_number": 26,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_26_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6f3edc99f4109e5f9b568d72306d495b3e683279e8511a04286edadcb1920c25"
+  },
+  {
+    "id": "uniform_26_5",
+    "type": "uniform",
+    "model_number": 26,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_26_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1b832e2b5a4ab3d8b41d2d8582099e849030f83b1d18765308224edee51185d3"
+  },
+  {
+    "id": "uniform_27_1",
+    "type": "uniform",
+    "model_number": 27,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_27_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9462e6bedf556ad4e3597868f22915f90caf8fc6057b9290905696b446315fab"
+  },
+  {
+    "id": "uniform_27_2",
+    "type": "uniform",
+    "model_number": 27,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_27_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "eb5f43c5887e9615a3e9f34a4caf8c0a1ebfb1af17e75b8d293776bbbe59ca51"
+  },
+  {
+    "id": "uniform_27_3",
+    "type": "uniform",
+    "model_number": 27,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_27_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9b762d69e9f42ccc492a43c7085dd9722624aa43306d53c92d87855ff7b57c99"
+  },
+  {
+    "id": "uniform_27_4",
+    "type": "uniform",
+    "model_number": 27,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_27_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6be4dd96da721ef5b33780f6d433f4046641a0121240898d4f215632f49ed452"
+  },
+  {
+    "id": "uniform_27_5",
+    "type": "uniform",
+    "model_number": 27,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_27_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "82299ca0d734fdfb50ec7b9b1072745dc262085d5ee1e7ef23163a7e27266b00"
+  },
+  {
+    "id": "uniform_28_1",
+    "type": "uniform",
+    "model_number": 28,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_28_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9cadf51995e887cf55ef07c0912fcd6b5a41712cb4b76e5f86d5d0f4865b1274"
+  },
+  {
+    "id": "uniform_28_2",
+    "type": "uniform",
+    "model_number": 28,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_28_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e095c74eb0a707935483599cff155cfb1a24bd4e9ebb7a8c8eea9d267baff071"
+  },
+  {
+    "id": "uniform_28_3",
+    "type": "uniform",
+    "model_number": 28,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_28_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "581994a136bb1ec3a6eec26afca7326576badce97302bc95328468d960ba018a"
+  },
+  {
+    "id": "uniform_28_4",
+    "type": "uniform",
+    "model_number": 28,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_28_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e620827d9af2a456863e53aeb65b20ac7df8422390dcf0d34d62c59652fba025"
+  },
+  {
+    "id": "uniform_28_5",
+    "type": "uniform",
+    "model_number": 28,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_28_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3999b5171d6861b5d0b4952bbc603e7663559ba2a87b6ed38359fb23d4c65bf7"
+  },
+  {
+    "id": "uniform_29_1",
+    "type": "uniform",
+    "model_number": 29,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_29_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8d9d085c6fa12014d584a517da5666b93f1dfca1e709b309dfc6752eab028ca8"
+  },
+  {
+    "id": "uniform_29_2",
+    "type": "uniform",
+    "model_number": 29,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_29_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1bb841d71cb555088f18aa2c4d48cd2f50411fc0d20bd601a9650bb7e78e3daf"
+  },
+  {
+    "id": "uniform_29_3",
+    "type": "uniform",
+    "model_number": 29,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_29_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b757a35a0ee0ea043e983662017993b12e5b33f17e98c0e13d6ef1ea56a95930"
+  },
+  {
+    "id": "uniform_29_4",
+    "type": "uniform",
+    "model_number": 29,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_29_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e9438e1da0c1633e381d1728d2cf46ee64bb6f953ed87b86f4aed150cf17c1ed"
+  },
+  {
+    "id": "uniform_29_5",
+    "type": "uniform",
+    "model_number": 29,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_29_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "33748e6fd14962d6876702bcf051d28fa15a88b83c97789e75418d6fb2d17679"
+  },
+  {
+    "id": "uniform_30_1",
+    "type": "uniform",
+    "model_number": 30,
+    "color_number": 1,
+    "color": "base",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_30_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ac06e329fb55a280519872fc17f961401eaf9ed038e5b897c9fb225156fa8258"
+  },
+  {
+    "id": "uniform_30_2",
+    "type": "uniform",
+    "model_number": 30,
+    "color_number": 2,
+    "color": "black",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_30_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7c92e80b71f08895d571010f7ef957812c8e7a71ad74fb259b445a6b02f75ebf"
+  },
+  {
+    "id": "uniform_30_3",
+    "type": "uniform",
+    "model_number": 30,
+    "color_number": 3,
+    "color": "olive",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_30_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c1f249461f0f3f436adbb2f823f9342ef9396bcaa3a71b553b548ca2f527faf7"
+  },
+  {
+    "id": "uniform_30_4",
+    "type": "uniform",
+    "model_number": 30,
+    "color_number": 4,
+    "color": "sand",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_30_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8233fb5791643e430a67b411e8a8a47df4dbfb69fd394260d612f80e4b1af7c7"
+  },
+  {
+    "id": "uniform_30_5",
+    "type": "uniform",
+    "model_number": 30,
+    "color_number": 5,
+    "color": "woodland",
+    "group": "uniforms",
+    "slot": "uniform",
+    "file": "assets/uniform/uniform_30_5.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "39d1e327df830b73db728d0b10ad52527feb8cc430ba1379a0c310d69e0ac36a"
+  },
+  {
+    "id": "vest_21_1",
+    "type": "vest",
+    "model_number": 21,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_21_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "71db009c601ad5cd83b3ddaf0297d982fb9ef01ff6177db6ea68561692cf3879"
+  },
+  {
+    "id": "vest_21_2",
+    "type": "vest",
+    "model_number": 21,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_21_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "15d94058995ce71e108def1ea5f39ad00a34c5b76bc1c2c16196b77dbdaa1c7e"
+  },
+  {
+    "id": "vest_21_3",
+    "type": "vest",
+    "model_number": 21,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_21_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d393dccd14a6ea943482191eeca1d86b69bc3bad4b360c205725b882f2f68d8c"
+  },
+  {
+    "id": "vest_21_4",
+    "type": "vest",
+    "model_number": 21,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_21_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "89ce110605fa4701dd2eaab11a738ea18a8c06e3ef2f0c6e67ce551a2208a0c7"
+  },
+  {
+    "id": "vest_22_1",
+    "type": "vest",
+    "model_number": 22,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_22_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c76cf02839b9f44527ed2a07b822a5b627ce3820d47a91ff287c845468c9076d"
+  },
+  {
+    "id": "vest_22_2",
+    "type": "vest",
+    "model_number": 22,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_22_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1bfa8231accd23d6d6e00ed0b3389d9730a281123091c65fd3180eaac82158f3"
+  },
+  {
+    "id": "vest_22_3",
+    "type": "vest",
+    "model_number": 22,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_22_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "82030aebec595231eb0d2e9b0452e51effddeebd46e7441b2f3c925338b95505"
+  },
+  {
+    "id": "vest_22_4",
+    "type": "vest",
+    "model_number": 22,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_22_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "20a07731e1982091e9613d480cb805b9da04005e38a66df73cb6cf967ebef269"
+  },
+  {
+    "id": "vest_23_1",
+    "type": "vest",
+    "model_number": 23,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_23_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "00e09e676f8c79d1caddf102e87111b6ba0de0c485cc4056feb85462b3fc9cee"
+  },
+  {
+    "id": "vest_23_2",
+    "type": "vest",
+    "model_number": 23,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_23_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "08853cc1b612e92a3fb1ea62a4e50b3c12b86eb0d0cf3399a4f7f76d78d65871"
+  },
+  {
+    "id": "vest_23_3",
+    "type": "vest",
+    "model_number": 23,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_23_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8f51158ac48f7896c4873d389adf1660113ba57db601516ffcbf066c0ff6146d"
+  },
+  {
+    "id": "vest_23_4",
+    "type": "vest",
+    "model_number": 23,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_23_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5bdf6745fb0be34183d2df7b2bf5379f6c1e0b29bce86d53fc5ccc460dc1806e"
+  },
+  {
+    "id": "vest_24_1",
+    "type": "vest",
+    "model_number": 24,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_24_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "dd4f5bc711d11ccc469c7fb83765c3e6f26b1d1c733313af73323a200e8f6de0"
+  },
+  {
+    "id": "vest_24_2",
+    "type": "vest",
+    "model_number": 24,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_24_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "abee23ba73dd9c78a4c8044ceb4dfdba6ffa7ab2e5bdd765a85aff863ed91703"
+  },
+  {
+    "id": "vest_24_3",
+    "type": "vest",
+    "model_number": 24,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_24_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d822e36a5a1886cdd6033f89432e07035094d42091f36a5a43016376bd3a6e80"
+  },
+  {
+    "id": "vest_24_4",
+    "type": "vest",
+    "model_number": 24,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_24_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3ed58cc11c13a019f792031318c83419c9a13af5c71181ff19d0d5c9035a9dbb"
+  },
+  {
+    "id": "vest_25_1",
+    "type": "vest",
+    "model_number": 25,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_25_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f30d71bda354340b0d6e3f852eacd449ee692b00da818bd21b8e9b7c6bd4ca3e"
+  },
+  {
+    "id": "vest_25_2",
+    "type": "vest",
+    "model_number": 25,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_25_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7efb34a07b09b98249d467387516f90fecda6490c2c662a90d66676f7db2ce5a"
+  },
+  {
+    "id": "vest_25_3",
+    "type": "vest",
+    "model_number": 25,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_25_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7e7569895924948827a2392fc6c797d3fdee73164f9d3dcb45ab9b3da7a19e3b"
+  },
+  {
+    "id": "vest_25_4",
+    "type": "vest",
+    "model_number": 25,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_25_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4960748186937bf84bfae65bb91dc6d2f47f764fb31789707b6b54a6fc60ab42"
+  },
+  {
+    "id": "vest_26_1",
+    "type": "vest",
+    "model_number": 26,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_26_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "bcf1fd99df46ec075b89a079d1f099f59008bc4c7a23dda3b04b196ad7b0573b"
+  },
+  {
+    "id": "vest_26_2",
+    "type": "vest",
+    "model_number": 26,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_26_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "faab3455e57be2f589a89d1e58c9888c0f909ed9b1d11bb8735ed36adf321c45"
+  },
+  {
+    "id": "vest_26_3",
+    "type": "vest",
+    "model_number": 26,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_26_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8771c8c398ec8531122ffe5a7ac4a8bc13299f401659abdf9abd6fd41cbae096"
+  },
+  {
+    "id": "vest_26_4",
+    "type": "vest",
+    "model_number": 26,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_26_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "085fe02cdd7f2dd8d3263d1f66fb6ba2cac707aefdcad78dd779d8c505206215"
+  },
+  {
+    "id": "vest_27_1",
+    "type": "vest",
+    "model_number": 27,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_27_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "27633f49119232b7209be7626870aee77764396a4e18e5eecd08536858b04263"
+  },
+  {
+    "id": "vest_27_2",
+    "type": "vest",
+    "model_number": 27,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_27_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "69d633e6d05694190dc976a2a8843b934360f10394112e9f67edd1929a2ade51"
+  },
+  {
+    "id": "vest_27_3",
+    "type": "vest",
+    "model_number": 27,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_27_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "61f1bc8e7594726afd30fb3993884de90d82c2f88bf6b101c4000fe3d43e51de"
+  },
+  {
+    "id": "vest_27_4",
+    "type": "vest",
+    "model_number": 27,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_27_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b4c12f3216c74a04699c9b68d65f4ddaa9e79f83297d5c5a0b60e79194ac2751"
+  },
+  {
+    "id": "vest_28_1",
+    "type": "vest",
+    "model_number": 28,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_28_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3aa4523aed41dad7f59f4423902c6f000106ea83629ec549a460ed89b4659912"
+  },
+  {
+    "id": "vest_28_2",
+    "type": "vest",
+    "model_number": 28,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_28_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "fde0f143feecf907d8d897b03f3747fba508fe92fe6d6ee9615f254bd197c577"
+  },
+  {
+    "id": "vest_28_3",
+    "type": "vest",
+    "model_number": 28,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_28_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "330b1eed1cb14852329be1f55269bb34ee1aedde500ff9695449fa005f8c8d19"
+  },
+  {
+    "id": "vest_28_4",
+    "type": "vest",
+    "model_number": 28,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_28_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6434511c087d45bd9f1a156e1c0334971e58da8c371a9a783b78ed50ba933c66"
+  },
+  {
+    "id": "vest_29_1",
+    "type": "vest",
+    "model_number": 29,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_29_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "79cd8c12ee0149a29bbb5b0488ef1adbc0883e31d3f941a4eefe604dd6a30e53"
+  },
+  {
+    "id": "vest_29_2",
+    "type": "vest",
+    "model_number": 29,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_29_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1f842266e84884d694196ca661275af472f979fcfad03b16592dbb933972f80b"
+  },
+  {
+    "id": "vest_29_3",
+    "type": "vest",
+    "model_number": 29,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_29_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b307823b218bf65970b49302608fd07e14af879c482ee4c4129bce19cdfd10d0"
+  },
+  {
+    "id": "vest_29_4",
+    "type": "vest",
+    "model_number": 29,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_29_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "bb5fd43d7ae1af12a165c3bc190182e245da9a6281987fdf8be1a971b40bad8b"
+  },
+  {
+    "id": "vest_30_1",
+    "type": "vest",
+    "model_number": 30,
+    "color_number": 1,
+    "color": "base",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_30_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4991eb614b4ddf04639286ec4a0460e071b36cc0bcdb45025e4fff440a653b78"
+  },
+  {
+    "id": "vest_30_2",
+    "type": "vest",
+    "model_number": 30,
+    "color_number": 2,
+    "color": "black",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_30_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8c2afcf204b32d14b5e0a854da2cb180c9f5b14afd315ce609ee597469433a7a"
+  },
+  {
+    "id": "vest_30_3",
+    "type": "vest",
+    "model_number": 30,
+    "color_number": 3,
+    "color": "olive",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_30_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a9d3e465fd652642430fb00fe3ee7f6f8325a144ad0f086238d9aa16ac6084a3"
+  },
+  {
+    "id": "vest_30_4",
+    "type": "vest",
+    "model_number": 30,
+    "color_number": 4,
+    "color": "sand",
+    "group": "vests",
+    "slot": "vest",
+    "file": "assets/vest/vest_30_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0765a61146a6e194d3670dccf08d22ef1fae768d7dee58ebe390513cbbe8e85d"
+  },
+  {
+    "id": "mask_1_1",
+    "type": "mask",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c3f8bbd3ee46e4332fdde7b5df886c1c2d72b74e87094c297ff33c48fed18630"
+  },
+  {
+    "id": "mask_1_2",
+    "type": "mask",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_1_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a57896ff94ef14d4147f88633ec3abd7c6d58b2496ecfa1b2ac607cde7ff8bf4"
+  },
+  {
+    "id": "mask_1_3",
+    "type": "mask",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_1_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "89e72fdc859702cee10fb9f607dd2044374b6ed5cd684654ad9ab4f58d21acd1"
+  },
+  {
+    "id": "mask_1_4",
+    "type": "mask",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_1_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "253813c35639c37dfe3dcef120ffbcf333efe12b211deff57bccfb2a1b616c38"
+  },
+  {
+    "id": "mask_2_1",
+    "type": "mask",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "aece6bbae6da20286f472f7dc354beda1f7bedecf3f88e17e55fdba9837858f2"
+  },
+  {
+    "id": "mask_2_2",
+    "type": "mask",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_2_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ae78488c2e8df6c89ad2ddb72da9753c813e5d57b900d3222fd6f2c42b9780e5"
+  },
+  {
+    "id": "mask_2_3",
+    "type": "mask",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_2_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "53c4f94059ea17d5fffae6ae3642cc304383b380f56ed24ade3bed7c9ae9511e"
+  },
+  {
+    "id": "mask_2_4",
+    "type": "mask",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_2_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "01503aa32851d347bd69f7e5866049cebfdb7468dffbdd6b7fbbaf04f0937777"
+  },
+  {
+    "id": "mask_3_1",
+    "type": "mask",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "74a92ca282c479cef812c9944347fa0dd9a99de0c81b87c342608be66214ced9"
+  },
+  {
+    "id": "mask_3_2",
+    "type": "mask",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_3_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "dd3fb75d12893be40198aa42686b68721cdd8404516f0c54bfa210e6ac344cca"
+  },
+  {
+    "id": "mask_3_3",
+    "type": "mask",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_3_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "372cad7e7bded4af02fe40deb1f4bf7524f3a83f72f54419ae146e33a351f27a"
+  },
+  {
+    "id": "mask_3_4",
+    "type": "mask",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_3_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6cb043742fb04c597a126af066463833e9f4a64fd792dc488f2ff06788bf8533"
+  },
+  {
+    "id": "mask_4_1",
+    "type": "mask",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "fe36c9b4fd2b06832399de47a8ebeb7816719921942c6794e96c1d260cf04667"
+  },
+  {
+    "id": "mask_4_2",
+    "type": "mask",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_4_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "02f81e1a0a1039712120a11e8686dfc7da1ad8e60a721046d646316248569a02"
+  },
+  {
+    "id": "mask_4_3",
+    "type": "mask",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_4_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "95954e3c2ae660c499f1804b2fe295f7e3709f3a9eb2aa4a5c9fb25a4cc01faf"
+  },
+  {
+    "id": "mask_4_4",
+    "type": "mask",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_4_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b9cc78f7dcab1e28bd4cde7fceaa1f9a8cd4f64401f88fe4f31324395b6c3acd"
+  },
+  {
+    "id": "mask_5_1",
+    "type": "mask",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_5_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0602d8e5fd7359ca3fd7c42802646dda9b4ab27d1ea45300c45be552869623b4"
+  },
+  {
+    "id": "mask_5_2",
+    "type": "mask",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_5_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "aa9b840705ff25bd4bccc0f3fa5726aeededa9b1339986a2a7321abc44bd67d8"
+  },
+  {
+    "id": "mask_5_3",
+    "type": "mask",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_5_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2b2d898bacc44ef26c4cae97ac946ac068159285d0ccade0e67d71b139c347a1"
+  },
+  {
+    "id": "mask_5_4",
+    "type": "mask",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_5_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "339c844bf1d10c1233df80f9bc682c08ae27be9708c6dfd07c63cdc5c0ed4444"
+  },
+  {
+    "id": "mask_6_1",
+    "type": "mask",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_6_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "801f63151d5b158584906742a8595d919ca2fec1fbca82387fb08a8dc9d1f1d0"
+  },
+  {
+    "id": "mask_6_2",
+    "type": "mask",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_6_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d4373fc8760e83e5c0cb43cd9273e13c12eed701512b018ed40e6316fb96843c"
+  },
+  {
+    "id": "mask_6_3",
+    "type": "mask",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_6_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a22a7ddb1bfd31d3b22f98781c60ea7edb3c08d299b456538dccfb692193e2dc"
+  },
+  {
+    "id": "mask_6_4",
+    "type": "mask",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/mask/mask_6_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "66804e8da369ac3517fcf191d2c04fd9708909551e6457677799455cdc15b0c9"
+  },
+  {
+    "id": "scarf_1_1",
+    "type": "scarf",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "735ff1a04aefbdc3b4fa24d7a7fec0700f40fffb44012fd80cb6f40523498c50"
+  },
+  {
+    "id": "scarf_1_2",
+    "type": "scarf",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_1_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "133332ba7e00dcfe9c4358a617e9b3091e28c67c466dedb146bf1c4435495422"
+  },
+  {
+    "id": "scarf_1_3",
+    "type": "scarf",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_1_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "cf149e33bc8c97233a7209c69d947ed3dcfc9a11dc439bbc20404d9048e5981c"
+  },
+  {
+    "id": "scarf_1_4",
+    "type": "scarf",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_1_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d3c5d1879399e1a66ae72f01cf9d47a94f9fe6b0cdce99c267d68d690684744f"
+  },
+  {
+    "id": "scarf_2_1",
+    "type": "scarf",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c049b9bf1bada6f155e6e1c96ae7a66ff951836eadb5caa8a31cf398071f7b1c"
+  },
+  {
+    "id": "scarf_2_2",
+    "type": "scarf",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_2_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5fddcbbccd432e66496af84d9e1b49b7386207cba9f590801a0199f186d51982"
+  },
+  {
+    "id": "scarf_2_3",
+    "type": "scarf",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_2_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "903a9f4a877f7feacb2c8cc0ac0d00d24b6224d4a663c225401cce96b12d00bf"
+  },
+  {
+    "id": "scarf_2_4",
+    "type": "scarf",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_2_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "09aef8623d31302440ff0cbb33a285591293700b8e9b8c23ea4b96fa5513473d"
+  },
+  {
+    "id": "scarf_3_1",
+    "type": "scarf",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a56ccc58f2028495084cf15c0329dfda357b0a84c933fa8bde78d9a8fd72a439"
+  },
+  {
+    "id": "scarf_3_2",
+    "type": "scarf",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_3_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1f2cf2a4bbad23c55285534c5c0e09823322deec29951877af128cc84891ff03"
+  },
+  {
+    "id": "scarf_3_3",
+    "type": "scarf",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_3_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "847ec68ab936a93157aa5532b4bdec3bb74e1848b6985e24ac70a7181069045f"
+  },
+  {
+    "id": "scarf_3_4",
+    "type": "scarf",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_3_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7b52f614f08124d53f40ac2d8557312928c731e5d9212f43bfa08e772c4de8f9"
+  },
+  {
+    "id": "scarf_4_1",
+    "type": "scarf",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "53001f1cf377abc78234312c01c21feb1a178efc487f87da9106d5c8ee9d4371"
+  },
+  {
+    "id": "scarf_4_2",
+    "type": "scarf",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_4_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ef4c1b21c85ad0a7ddd10e127b78118b96eb7d561b051b2dbc8f1ca8678875a6"
+  },
+  {
+    "id": "scarf_4_3",
+    "type": "scarf",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_4_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "00c9941bb30b83f56da8a346d1aad68d187a3260900c7c8c08d7bf90a2a5b483"
+  },
+  {
+    "id": "scarf_4_4",
+    "type": "scarf",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/scarf/scarf_4_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5a3d6f9641a9ccdec894f8270cc7b7195215d3189e7b8193a98299a488fdcfe4"
+  },
+  {
+    "id": "balaclava_1_1",
+    "type": "balaclava",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6e799a172f94dd95f53a0fc6d7405758e835af890577be9bb4bcb596357bd73d"
+  },
+  {
+    "id": "balaclava_1_2",
+    "type": "balaclava",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_1_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "dfb6eb2352815dae7da2f5b9da0c32ac13e45d610862276904714c9f83196ea0"
+  },
+  {
+    "id": "balaclava_1_3",
+    "type": "balaclava",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_1_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f0a73d368cb6d0d79eec8a6bcf09aea719e05df9c3256857d6a36b69bb355a8e"
+  },
+  {
+    "id": "balaclava_1_4",
+    "type": "balaclava",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_1_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "108a72fceb187cf1e156b51ba3f29f0480f46ec867221cbfd6b29b4861cbc688"
+  },
+  {
+    "id": "balaclava_2_1",
+    "type": "balaclava",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "958254d4e69b2fb06ccaca80af09c466294c9c7959ffff9277de3d8dc663acdc"
+  },
+  {
+    "id": "balaclava_2_2",
+    "type": "balaclava",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_2_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e3f6b46a1c88a60f4785813718f066635699601198ad150fdda28d725011f1e8"
+  },
+  {
+    "id": "balaclava_2_3",
+    "type": "balaclava",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_2_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4e5801f4fa3d11c17be35022b58da93ef11197ac9da4979d83a7d66024fde53c"
+  },
+  {
+    "id": "balaclava_2_4",
+    "type": "balaclava",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_2_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5d2e83de914ed1a25905a7f8f298d6d1cd90ab3bfbb7c9ef1fc54fdf980fbbcb"
+  },
+  {
+    "id": "balaclava_3_1",
+    "type": "balaclava",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5ac85a94e45ba67f01b6bae2870d4f7e468f9e39adae7d46dcd4da2c2fe52df3"
+  },
+  {
+    "id": "balaclava_3_2",
+    "type": "balaclava",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_3_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8e561a6bc82c3b9eb44bf6064c01f3706d735c17d98630760f1397a5fc01f81e"
+  },
+  {
+    "id": "balaclava_3_3",
+    "type": "balaclava",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_3_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "5260ac6b77220af0aee1c9c8a0b7d7e91eed4a7384c749707cff563fbc87ffa0"
+  },
+  {
+    "id": "balaclava_3_4",
+    "type": "balaclava",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_3_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f8079e70ba4ba85deeee651485571396fbd5d3c98d39824fa38f01d98209091e"
+  },
+  {
+    "id": "balaclava_4_1",
+    "type": "balaclava",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c1357c5bb5799c17e5e541d7f649ad392f101364cdb34883f9f13822182fe184"
+  },
+  {
+    "id": "balaclava_4_2",
+    "type": "balaclava",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_4_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7dc90cb5282959edb39457e9292752eca8019b576e15f17b749f738a77f0af01"
+  },
+  {
+    "id": "balaclava_4_3",
+    "type": "balaclava",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_4_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c58fccfdebab2f8db4301835f1bc3c07e1a22a03789417155689867cac31a61b"
+  },
+  {
+    "id": "balaclava_4_4",
+    "type": "balaclava",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_4_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3f19cae8be1e98231be323544ce3a45fd6601572e315c5a5ec65b450bc95b158"
+  },
+  {
+    "id": "balaclava_5_1",
+    "type": "balaclava",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_5_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d5fb4f564394def7669ff7fb6d46f27739b0ee89296cd68723e608da1147253f"
+  },
+  {
+    "id": "balaclava_5_2",
+    "type": "balaclava",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_5_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0a1615f45c49f8fb99f5ff54a2c33ddc2971f4add2c506be72822d8d666c2938"
+  },
+  {
+    "id": "balaclava_5_3",
+    "type": "balaclava",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_5_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d0138a9170c55b5dccfe3aa3c99260f53005bf39f37cb1cbdbd41804e3e0b33a"
+  },
+  {
+    "id": "balaclava_5_4",
+    "type": "balaclava",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_5_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9b04ebddbb45fe6b5535d4d86c0de33b20c6331aff831a467b6e7cdc88ef50b4"
+  },
+  {
+    "id": "balaclava_6_1",
+    "type": "balaclava",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_6_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e39a891d4eb6e4817e9aad8b0a2eec0c687618bfb074126323dcb5b66987a69c"
+  },
+  {
+    "id": "balaclava_6_2",
+    "type": "balaclava",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_6_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7de1dedd1e7c58e4418c3efbd0a61727e7d97c885b58279e9bf5ddde7acad5b8"
+  },
+  {
+    "id": "balaclava_6_3",
+    "type": "balaclava",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_6_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e957fcd5c8d43755b5278d709322369ee873aafedc8e17e6683961c18f86cd10"
+  },
+  {
+    "id": "balaclava_6_4",
+    "type": "balaclava",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_6_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "950656171a39a5741d9ca54d6f8c628d4353ce89822717f05f208df2f8a7685b"
+  },
+  {
+    "id": "balaclava_7_1",
+    "type": "balaclava",
+    "model_number": 7,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_7_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "192186b15b2eab8291d93f9501af36ccc9f6bc645f6efda37c11f2f1db0d8663"
+  },
+  {
+    "id": "balaclava_7_2",
+    "type": "balaclava",
+    "model_number": 7,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_7_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "490798d04afd9e065ebed6bb2eb3411b5ec1771ddaf29a8c252d59a1945af5d8"
+  },
+  {
+    "id": "balaclava_7_3",
+    "type": "balaclava",
+    "model_number": 7,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_7_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "195e75a08b34d73b2365b0e1126d6da8b807d8a5fe0a2bb5a1deb20c4ddc5b15"
+  },
+  {
+    "id": "balaclava_7_4",
+    "type": "balaclava",
+    "model_number": 7,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_7_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "80ed5f35a18d18eca1c67a562277a5c12bb8dd0d636ab15e4bc1a1428db56607"
+  },
+  {
+    "id": "balaclava_8_1",
+    "type": "balaclava",
+    "model_number": 8,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_8_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3af051b3ea79ab99e83f15e43be507b33eddf423e942313bd0933f0769cb8192"
+  },
+  {
+    "id": "balaclava_8_2",
+    "type": "balaclava",
+    "model_number": 8,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_8_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "90a76a052d1f66c47c21dd16e4313509f15d861faafa541f9cf3bd7af564f7ee"
+  },
+  {
+    "id": "balaclava_8_3",
+    "type": "balaclava",
+    "model_number": 8,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_8_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c669f4448ddf57a3def1f775e28f0c605b174f1f3f7632727d07b84709a15b24"
+  },
+  {
+    "id": "balaclava_8_4",
+    "type": "balaclava",
+    "model_number": 8,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_8_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a1a89e9d2ae8a5e71243c942578aa6cb51e524fa84c48b62f0e915bcb8028aab"
+  },
+  {
+    "id": "balaclava_9_1",
+    "type": "balaclava",
+    "model_number": 9,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_9_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d952b55d8e04b94922eabe40435e02a6ae3233efa10630984f4c86f559aa261e"
+  },
+  {
+    "id": "balaclava_9_2",
+    "type": "balaclava",
+    "model_number": 9,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_9_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "9e60c7a03940441581db97a296630911e71c5c51be70bba7edc876ae3455c223"
+  },
+  {
+    "id": "balaclava_9_3",
+    "type": "balaclava",
+    "model_number": 9,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_9_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "2bdc54f76166c646c530ebd5dc809fdfd3a28ca60c56ddfd0b198a1436560d33"
+  },
+  {
+    "id": "balaclava_9_4",
+    "type": "balaclava",
+    "model_number": 9,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_9_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b6b2a4dfc588702a596a7a9c0cc984075ed2fbe367af1b3a5bd5f3218a6c0672"
+  },
+  {
+    "id": "balaclava_10_1",
+    "type": "balaclava",
+    "model_number": 10,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_10_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d86a683413a58945194a44343596ec641ec660fa7b3f5be52450c52ac5e088e5"
+  },
+  {
+    "id": "balaclava_10_2",
+    "type": "balaclava",
+    "model_number": 10,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_10_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "130b6ffc2045fa2152e1e0f30a7c4808a035065bd5f9f1968854cfd25cd66c08"
+  },
+  {
+    "id": "balaclava_10_3",
+    "type": "balaclava",
+    "model_number": 10,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_10_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "538f3ff0dd21de09430ea49ff6e13b578d1b090e9d3eb82340333cc9e23ec1cf"
+  },
+  {
+    "id": "balaclava_10_4",
+    "type": "balaclava",
+    "model_number": 10,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/balaclava/balaclava_10_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a6769d5f7a52ed12201b8e3322bac62edb59f47010dd1e66161223a65ea4f5f5"
+  },
+  {
+    "id": "gasmask_1_1",
+    "type": "gasmask",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b4c700816b313b0c9115efba38093b3eb8dfad6f9fd5f762faa59dc740f6513a"
+  },
+  {
+    "id": "gasmask_1_2",
+    "type": "gasmask",
+    "model_number": 1,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_1_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0aff9ca1f1e22f221bb65190152162b7ab716f531785745c0767fd90902ecfa9"
+  },
+  {
+    "id": "gasmask_1_3",
+    "type": "gasmask",
+    "model_number": 1,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_1_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "4888321acf80fbb3c1e10ef7924e8974b0fbffb2c8efd7075bc1ee2dcadd7b00"
+  },
+  {
+    "id": "gasmask_1_4",
+    "type": "gasmask",
+    "model_number": 1,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_1_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "529aa1a1cb3d4f7f5d1e15b4ec369276e62cda9e379b003ba013b48494dbf926"
+  },
+  {
+    "id": "gasmask_2_1",
+    "type": "gasmask",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "814347f50d0d12d6b41aa1b3c4f53c63a443da2790e05e84ad05cf203a902f06"
+  },
+  {
+    "id": "gasmask_2_2",
+    "type": "gasmask",
+    "model_number": 2,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_2_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ada1b05c134b163994a842c0637490350804caff18afaed7e132179b5be9c82e"
+  },
+  {
+    "id": "gasmask_2_3",
+    "type": "gasmask",
+    "model_number": 2,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_2_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e44e2e6afb841b0c9bab338a68e19b2fbb48e5388d2f6962e09c2b86139d9203"
+  },
+  {
+    "id": "gasmask_2_4",
+    "type": "gasmask",
+    "model_number": 2,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_2_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "05f8ee5baeda542db75de1ed2bf8bed85d32f25ec623337992d66582b187fe94"
+  },
+  {
+    "id": "gasmask_3_1",
+    "type": "gasmask",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0976b305079b92c9344b3f5713db9f7c9301da6edf47c7a4d60a0a78f3113ba4"
+  },
+  {
+    "id": "gasmask_3_2",
+    "type": "gasmask",
+    "model_number": 3,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_3_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "94c05e39d922da81b9b0a06214627fb2165f60eaba7fc25e1bed8626f540581f"
+  },
+  {
+    "id": "gasmask_3_3",
+    "type": "gasmask",
+    "model_number": 3,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_3_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f9c4d149ee0977805305e1defe8ddf05c6afc1ad43b886333c7718190c563680"
+  },
+  {
+    "id": "gasmask_3_4",
+    "type": "gasmask",
+    "model_number": 3,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_3_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "599223509324790faf4ca0c655622cada8377216595d76f8d5202421728a6f1e"
+  },
+  {
+    "id": "gasmask_4_1",
+    "type": "gasmask",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "f8b97f79020502c5129f680ef6fd941cde08f805a5f18e29a6e3db471a61e230"
+  },
+  {
+    "id": "gasmask_4_2",
+    "type": "gasmask",
+    "model_number": 4,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_4_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a9562e2d2aeec0a75154e3dc9df02f310e5ce854d8e3ef9f6512f4d47481fdd5"
+  },
+  {
+    "id": "gasmask_4_3",
+    "type": "gasmask",
+    "model_number": 4,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_4_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b7a10c680a932b6642d45b1e2d231eb2c5d58a1c4cdcfb33e150b96fbe97c30d"
+  },
+  {
+    "id": "gasmask_4_4",
+    "type": "gasmask",
+    "model_number": 4,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "lower_face",
+    "file": "assets/gasmask/gasmask_4_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0f5ea2af84770fca9bae0d90fb8d0a2413d4127109d9ed851f68a67edbf114f8"
+  },
+  {
+    "id": "gasmask_5_1",
+    "type": "gasmask",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_5_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "46cc4c801843fc1005774deb78ce763eb0ed08ca79ca92a8c9c83cdc593983c6"
+  },
+  {
+    "id": "gasmask_5_2",
+    "type": "gasmask",
+    "model_number": 5,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_5_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6be4b9efe8cc96b89e0dd6b540a1ac2b29df2935566a3112ccf072c00c26b712"
+  },
+  {
+    "id": "gasmask_5_3",
+    "type": "gasmask",
+    "model_number": 5,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_5_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c2c8738fee50abf70d4ac75156ff05ee32e52f3d5dd539fd0d30e7ff94b1eefa"
+  },
+  {
+    "id": "gasmask_5_4",
+    "type": "gasmask",
+    "model_number": 5,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_5_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "711a4fe60df5c5a8d38721186ffc9d6857b42a85c5edfe8a988a45b82923822d"
+  },
+  {
+    "id": "gasmask_6_1",
+    "type": "gasmask",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_6_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e61d3e29925ca6668d039ff2c55a7d31a581f78d8dc4a69a94a133c0b70e0640"
+  },
+  {
+    "id": "gasmask_6_2",
+    "type": "gasmask",
+    "model_number": 6,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_6_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "998fe5c8e5c5399f4e5ab46db251eb767d1adeff0deac5f22de6f0156c536763"
+  },
+  {
+    "id": "gasmask_6_3",
+    "type": "gasmask",
+    "model_number": 6,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_6_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "645361cc1c54d16b035c134953c799bcd318632748f55954d98dc2f8d6bfced3"
+  },
+  {
+    "id": "gasmask_6_4",
+    "type": "gasmask",
+    "model_number": 6,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_6_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "d3a14fce86181aa51a9b1aa9ac8f9c59545682195577c310b9bc4a3a4bd638ca"
+  },
+  {
+    "id": "gasmask_7_1",
+    "type": "gasmask",
+    "model_number": 7,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_7_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "cba6caf3a0e77f1921376636c11b29a5275794c7c414e3ae08fe3b3b904a4eb4"
+  },
+  {
+    "id": "gasmask_7_2",
+    "type": "gasmask",
+    "model_number": 7,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_7_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e04d636781f7069352eea07dde76c1aa6fd53b4202d356a0fd758e7af6a9738d"
+  },
+  {
+    "id": "gasmask_7_3",
+    "type": "gasmask",
+    "model_number": 7,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_7_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "cf363dcfaef1f457d9d16c503b34ef7b25bfd3c8a3219b2c11fbab7daf843a1d"
+  },
+  {
+    "id": "gasmask_7_4",
+    "type": "gasmask",
+    "model_number": 7,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_7_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "bb72bf3cd32d15b67f5f93cf559a4406f4257cff8c58140b516c6d0280f0ae3f"
+  },
+  {
+    "id": "gasmask_8_1",
+    "type": "gasmask",
+    "model_number": 8,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_8_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "486480c1d097568dadd8624aad7ade40f2365cb6c6d953edfae152e2f2879f98"
+  },
+  {
+    "id": "gasmask_8_2",
+    "type": "gasmask",
+    "model_number": 8,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_8_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e58c55f796d2617756d1f6ca409022d0589a7c0d6a77a0d81d54510c24860bed"
+  },
+  {
+    "id": "gasmask_8_3",
+    "type": "gasmask",
+    "model_number": 8,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_8_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7c44b3564700e922d33bd1bec35cb1a436fa235eaa1542469e0af86fe30316f8"
+  },
+  {
+    "id": "gasmask_8_4",
+    "type": "gasmask",
+    "model_number": 8,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_8_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "cc94bcf84045e4e3411e4936ae0c71a80ef8f29a30a39eca9a1624392a96cd27"
+  },
+  {
+    "id": "gasmask_9_1",
+    "type": "gasmask",
+    "model_number": 9,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_9_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b0326f3448356decfedc207896e46905898904274b10df41728a8ea9b83388a7"
+  },
+  {
+    "id": "gasmask_9_2",
+    "type": "gasmask",
+    "model_number": 9,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_9_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "3d5b793f8f6da953307bf90ec5c0897afa3d6cc53d051e498a52f03472d898db"
+  },
+  {
+    "id": "gasmask_9_3",
+    "type": "gasmask",
+    "model_number": 9,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_9_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "ec45edfde12ecaf29c754cc781174a0de7c7e7c57b7378a3239bbcf91b6213c9"
+  },
+  {
+    "id": "gasmask_9_4",
+    "type": "gasmask",
+    "model_number": 9,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_9_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "16cb8a58ea455aaf022cfb14eb1a0e26e5a979e7d2ec866a8b6489c78daa296f"
+  },
+  {
+    "id": "gasmask_10_1",
+    "type": "gasmask",
+    "model_number": 10,
+    "color_number": 1,
+    "color": "base",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_10_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "0b38d3784055afd6e3b0379da8e54325320cf1673d9307001c788754fe641029"
+  },
+  {
+    "id": "gasmask_10_2",
+    "type": "gasmask",
+    "model_number": 10,
+    "color_number": 2,
+    "color": "black",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_10_2.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "a0ee807f787548e012350b4c59979a5b347689df4da482659995306e09908839"
+  },
+  {
+    "id": "gasmask_10_3",
+    "type": "gasmask",
+    "model_number": 10,
+    "color_number": 3,
+    "color": "olive",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_10_3.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "171c4d82a86484e016049841b4f4604f129f57bfd7928af7e4f9bb3aac6113f5"
+  },
+  {
+    "id": "gasmask_10_4",
+    "type": "gasmask",
+    "model_number": 10,
+    "color_number": 4,
+    "color": "sand",
+    "group": "facewear",
+    "slot": "full_face",
+    "file": "assets/gasmask/gasmask_10_4.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c175505a6d79fc4c98bdb9cb0fc0aa2e698415bf67c0fac9b46b2614660e3674"
+  },
+  {
+    "id": "glasses_1_1",
+    "type": "glasses",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "eyes",
+    "file": "assets/glasses/glasses_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "7f4b5236e55c1089a972991a54de91cf1bbd615399b0744a0bebe298bf337bbe"
+  },
+  {
+    "id": "glasses_2_1",
+    "type": "glasses",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "eyes",
+    "file": "assets/glasses/glasses_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "df17e47e7960781bdd6c2131d96de296dbb5b75bf3245481b880b0b1625d42d7"
+  },
+  {
+    "id": "eyepatch_1_1",
+    "type": "eyepatch",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "eyes",
+    "file": "assets/eyepatch/eyepatch_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "6e200e39afc2918303f3da1b1471dbda147c8dcd904e836becf1264fd6867cf8"
+  },
+  {
+    "id": "headset_1_1",
+    "type": "headset",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "ears",
+    "file": "assets/headset/headset_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "98af4b6747b08a9f89b00ee5a681bab3254bc54a1475a50407f409d7dd10ee10"
+  },
+  {
+    "id": "headset_2_1",
+    "type": "headset",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "ears",
+    "file": "assets/headset/headset_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "de952befa8466a821b3b3341f49e7884863e546cb336ae65f55b30c31e3088ff"
+  },
+  {
+    "id": "cigar_1_1",
+    "type": "cigar",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "mouth",
+    "file": "assets/cigar/cigar_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "1e35f204d5a055ee427e0063e7df8314321cf3ba0f016772922972d9d40f4c71"
+  },
+  {
+    "id": "cigarette_1_1",
+    "type": "cigarette",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "mouth",
+    "file": "assets/cigarette/cigarette_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "29bf3e7f81941d4705e97d3a6cee2ec4148be1ba326ed2363dbe034885a86e8a"
+  },
+  {
+    "id": "rank_1_1",
+    "type": "rank",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "chest_badge",
+    "file": "assets/rank/rank_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "c1e501ba16767c8c8c572eab742258e150406612d6e20d56fc649167dffb53f6"
+  },
+  {
+    "id": "rank_2_1",
+    "type": "rank",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "chest_badge",
+    "file": "assets/rank/rank_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "bb99495c27b9f5b6d741afa26771b2a73e0f897211a5000a86fc28cf61e9a203"
+  },
+  {
+    "id": "rank_3_1",
+    "type": "rank",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "accessories",
+    "slot": "chest_badge",
+    "file": "assets/rank/rank_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "11026bf9e65a06c7eae7eb38adf397e8e149540bc8d083868ec7f1e77033a7d3"
+  },
+  {
+    "id": "facepaint_1_1",
+    "type": "facepaint",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/facepaint/facepaint_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8ff9ac6456ba2c6ccac3634beff66d80157a158e03b4c68b5db1732f9601fde4"
+  },
+  {
+    "id": "facepaint_2_1",
+    "type": "facepaint",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/facepaint/facepaint_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "706881476bff01298952ddd84444104f42674a80abaee8d44c664bfa5d44a0f3"
+  },
+  {
+    "id": "facepaint_3_1",
+    "type": "facepaint",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/facepaint/facepaint_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "376b688e301317262261040930b34f2124f64efbec9fb8ad71ceed2d558341fb"
+  },
+  {
+    "id": "facepaint_4_1",
+    "type": "facepaint",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/facepaint/facepaint_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "e1d04a29dd832535d1b8b54b12862db01b047718ef2eec765ced2a272ec073d3"
+  },
+  {
+    "id": "facepaint_5_1",
+    "type": "facepaint",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/facepaint/facepaint_5_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "12241b570726f655ec1a0299b1cb707bf08d6f826c6eb99e0ec22c3dec932518"
+  },
+  {
+    "id": "scar_1_1",
+    "type": "scar",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/scar/scar_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "8c9c668cee420f9dfa4da91c926fb28b174963671205eb90ad3f0f272cde810b"
+  },
+  {
+    "id": "scar_2_1",
+    "type": "scar",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/scar/scar_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "b9943b6865f9f01d24a5982af79df408d00e997114c75b5e1c468a9112f569d4"
+  },
+  {
+    "id": "scar_3_1",
+    "type": "scar",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/scar/scar_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "052109a5cd8ccd7dbf3df3638788f831349be65766e112a9b02b09905cc18188"
+  },
+  {
+    "id": "scar_4_1",
+    "type": "scar",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/scar/scar_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "fdead389399c7c578f5079f0d2857cc3ef4164862021b0e8cece4331f3e41c34"
+  },
+  {
+    "id": "scar_5_1",
+    "type": "scar",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "base",
+    "group": "face_details",
+    "slot": "skin",
+    "file": "assets/scar/scar_5_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "front",
+    "sha256": "47bc7592b7a2eef4e5438d9881eb4576805a89f4de815e5eb3e5fa56584bb1a8"
+  },
+  {
+    "id": "background_1_1",
+    "type": "background",
+    "model_number": 1,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_1_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "b8ebdcf8b20c9b888ceddc24db7765f961fd701205195354b4aee24185986828"
+  },
+  {
+    "id": "background_2_1",
+    "type": "background",
+    "model_number": 2,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_2_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "151d6866d5d77c2848ad8bf64d70d9fbe6bb94e0236fdc75766c05b3e54ad0ef"
+  },
+  {
+    "id": "background_3_1",
+    "type": "background",
+    "model_number": 3,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_3_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "4618d8de84c59122cdbaf53d6cf5a0fbb28947e34eacd5315b437f302258ff69"
+  },
+  {
+    "id": "background_4_1",
+    "type": "background",
+    "model_number": 4,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_4_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "03a0280d2165696aa8d895a15b05b350d6f82cfff6885c4d84d90fa43a066a09"
+  },
+  {
+    "id": "background_5_1",
+    "type": "background",
+    "model_number": 5,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_5_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "d33e71a25911c298f48a4871904d1705651b355bc546110cf0a3acc83633bbb8"
+  },
+  {
+    "id": "background_6_1",
+    "type": "background",
+    "model_number": 6,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_6_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "4c64d7bee51d4b53b4ad9f35d92075a2aa1889806ed5da76802ff942e93e3ca4"
+  },
+  {
+    "id": "background_7_1",
+    "type": "background",
+    "model_number": 7,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_7_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "0b31cb7f7ffabb16eeb7f11d7b74159a99c1946af5a1a57d13fed43b2e8a519b"
+  },
+  {
+    "id": "background_8_1",
+    "type": "background",
+    "model_number": 8,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_8_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "1f553afbf16ad2c366dd8cd2dd16955ca22f00d032ad442abd120db7c048edd6"
+  },
+  {
+    "id": "background_9_1",
+    "type": "background",
+    "model_number": 9,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_9_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "95a73a9ae14852842cc1942e3d6dc5dbfe04df48c8993523c34ea892465685df"
+  },
+  {
+    "id": "background_10_1",
+    "type": "background",
+    "model_number": 10,
+    "color_number": 1,
+    "color": "base",
+    "group": "backgrounds",
+    "slot": "background",
+    "file": "assets/background/background_10_1.png",
+    "canvas": [
+      1024,
+      1024
+    ],
+    "position": [
+      0,
+      0
+    ],
+    "layer": "background",
+    "sha256": "1a42c1141fd4325188d2bcdf29d66eabb86ebfaa3c2aabe733e8ef4022b2d898"
+  }
+]
