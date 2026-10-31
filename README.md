@@ -47,3 +47,7 @@ Koncept table opreme namenjene su dizajnerima za izdvajanje i prilagođavanje li
 `ewarstate/scripts/build.py` reprodukuje kamuflaže iz sačuvanog atlasa uz Python, Pillow i NumPy: `python ewarstate/scripts/build.py`.
 
 `ewarstate/scripts/compose.py` čuva prvobitni recept za komandire, sa putanjama iz sesije; za ponovno pokretanje treba raspakovati izvorne pakete i prilagoditi putanje.
+
+## Oznake predmeta
+
+Koristi se `vrsta_model_boja`, na primer `helmet_1_3.png`. [Pravila imenovanja](ASSET_NAMING.md). Postojeci slemovi: `helmet_1_1`–`helmet_1_240`.

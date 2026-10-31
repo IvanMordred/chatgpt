@@ -29,8 +29,8 @@ for cat in ['sumska','pustinjska','urbana','tropska','snezna','premium','solid']
  rows=4 if cat=='solid' else 6
  sh=Image.new('RGB',(1440,64+rows*264),'#151C23');ImageDraw.Draw(sh).text((14,15),f'eWarState / SLEM / {cat.upper()}',font=ft,fill='#E8DBB9');sheets[cat]=sh
 variants=[]
-for rec in records:variants.append((rec['category'],f"helmet_{rec['id'].replace('-','_')}",rec['palette']+' / '+rec['pattern'],rec,None))
-for i,(code,name,hx) in enumerate(solids):variants.append(('solid',f'helmet_solid_{i+1:02d}_{code}',name,None,hx))
+for i,rec in enumerate(records,1):variants.append((rec['category'],f"helmet_1_{i}",rec['palette']+' / '+rec['pattern'],rec,None))
+for i,(code,name,hx) in enumerate(solids):variants.append(('solid',f'helmet_1_{len(records)+i+1}',name,None,hx))
 counts={k:0 for k in sheets}
 for cat,stem,label,rec,hx in variants:
  if rec:
@@ -43,8 +43,8 @@ for cat,stem,label,rec,hx in variants:
  preview=commander.copy();preview.alpha_composite(im)
  n=counts[cat];counts[cat]+=1;x=(n%6)*240;y=64+(n//6)*264
  sheets[cat].paste(preview.convert('RGB').resize((236,236),Image.Resampling.LANCZOS),(x+2,y))
- ImageDraw.Draw(sheets[cat]).text((x+4,y+239),f'{n+1:02d} {label[:31]}',font=font,fill='#E8DBB9')
- mrec={'id':stem,'file':str(p.relative_to(O)),'category':cat,'label':label,'canvas':[1024,1024],'position':[0,0],'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
+ ImageDraw.Draw(sheets[cat]).text((x+4,y+239),f'{stem} / {label[:17]}',font=font,fill='#E8DBB9')
+ mrec={'item_type':'helmet','model_number':1,'color_number':int(stem.rsplit('_',1)[1]),'id':stem,'file':str(p.relative_to(O)),'category':cat,'label':label,'canvas':[1024,1024],'position':[0,0],'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
  if rec:mrec.update(texture_file=rec['file'],texture_id=rec['id'],palette=rec['palette'])
  else:mrec['solid_hex']=hx
  manifest.append(mrec)
@@ -58,6 +58,9 @@ sample_sheet.save(O/'previews/selection_12.jpg',quality=95)
 (O/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
 (O/'solid_colors.json').write_text(json.dumps([{'id':x,'name':y,'hex':z} for x,y,z in solids],ensure_ascii=False,indent=2))
 (O/'README.md').write_text('''# eWarState: jedan model, 240 slemova
+
+Nazivi predmeta: vrsta_model_boја (ASCII u samom nazivu). helmet_1_1 do helmet_1_216 su kamuflaze, helmet_1_217 do helmet_1_240 su obicne boje. Sledeci razlicit model slema je helmet_2_1 itd. Kategorije i opis boje su metapodaci, ne dodatni delovi naziva.
+
 
 216 kamuflaznih varijanti (svih 216 tekstura iz camouflage/manifest.json) + 24 jednobojne varijante.
 
